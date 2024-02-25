@@ -1,0 +1,93 @@
+'''
+Conversion between raw sentence strings and empty CoNLL-U representations.
+Author: Michael Gasser
+June 27, 2023
+'''
+
+import ntpath
+import os
+
+def corpus2conllu(path, lemma_is_token=True, write=False, write_dir=''):
+    '''
+    Convert the sentences in file at path, one sentence per line, to empty CoNLL-U strings.
+    If write is True, write the CoNNL-U strings to a file, creating a filename from the
+    source filename.
+    If write_dir is not empty, create the file in that directory.
+    If write is False, return the list of CoNLL-U strings.
+    If lemma_is_token is True, copy each token's form string in the CoNLL-U lemma field.
+    '''
+    rfilename = ntpath.basename(path).split(".")[0]
+    conllu = []
+    with open(path, encoding='utf8') as infile:
+        conllu = sentences2conllu(infile.readlines(), rfilename, lemma_is_token=lemma_is_token)
+    if write:
+        wfilename = rfilename + ".conllu"
+        wpath = os.path.join(write_dir, wfilename) if write_dir else wfilename
+        with open(wpath, 'w', encoding='utf8') as outfile:
+            for sentence in conllu:
+                print(sentence, file=outfile)
+    else:
+        return conllu
+
+def sentences2conllu(sentences, corpus, lemma_is_token=True):
+    '''
+    Convert a list of sentences to a list of CoNLL-U strings.
+    '''
+    output = []
+    for sindex, sentence in enumerate(sentences):
+        # Strip off newline char if there is one.
+        sentence = sentence.strip()
+        output.append(sentence2conllu(sentence, corpus, sindex+1, lemma_is_token=lemma_is_token))
+    return output
+
+def sentence2conllu(sentence, corpus, sindex, lemma_is_token=True):
+    '''
+    Convert a sentence in the form of a string with spaces separating tokens
+    to an empty CoNLL-U string.
+    '''
+    output = "# text = {}\n# sent_id = {}_{}\n".format(sentence, corpus, sindex)
+    tokens = sentence.split()
+    for index, token in enumerate(tokens):
+        lemma = token if lemma_is_token else '_'
+        output += "{}\t{}\t{}\t_\t_\t_\t_\t_\t_\t_\n".format(index+1, token, lemma)
+    return output
+
+def conllu_corpus2sentences(path, name='', write=False, write_dir=''):
+    '''
+    Convert the ConLLU representations in file at path to a list of raw sentences.
+    If write is True, write the sentences to a file, creating a filename from the
+    source filename.
+    If write_dir is not empty, create the file in that directory.
+    '''
+    filename = ntpath.basename(path).split(".")[0]
+    name = name or filename
+    with open(path, encoding='utf8') as infile:
+        conllus = infile.read().split('\n\n')
+    sentences = conllus2sentences(conllus)
+    if write:
+        wfilename = name + ".txt"
+        wpath = os.path.join(write_dir, wfilename) if write_dir else wfilename
+        with open(wpath, 'w', encoding='utf8') as outfile:
+            for sentence in sentences:
+                print(sentence, file=outfile)
+    else:
+        return sentences
+
+def conllus2sentences(conllus):
+    '''
+    conllus is a list of CoNLL-U string representations.
+    Returns a list of sentence strings.
+    '''
+    return [conllu2sentence(conllu) for conllu in conllus if conllu]
+
+def conllu2sentence(conllu):
+    '''
+    conllu is a CoNLL-U string representation of a single sentence.
+    Returns the sentence, assuming it follows # text = in the first line of the string.
+    '''
+    conllu = conllu.split("\n")
+    for line in conllu:
+        if "# text =" in line:
+            return line.split("text = ")[-1].strip()
+    print("CoNLL-U  representation {} doesn't start contain a text string!".format(conllu))
+

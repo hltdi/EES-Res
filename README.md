@@ -1,2 +1,2 @@
-# EES-Data
- Corpora and other data for Ethio-Eritrean Semitic languages
+# EES-Res
+Resources for Semitic languages of Ethiopia and Eritrea.
