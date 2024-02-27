@@ -1,14 +1,23 @@
 '''
 Conversion between raw sentence strings and empty CoNLL-U representations.
+Other simple file processing utils.
 Author: Michael Gasser
-2023
+2023, 2024
 '''
 
 import ntpath
 import os
 
+def number_sentences(pathin, pathout, prefix):
+    with open(pathout, 'w', encoding='utf8') as outfile:
+        with open(pathin, encoding='utf8') as infile:
+            for index, line in enumerate(infile):
+                id = "{}_{}".format(prefix, index+1)
+                print("# {}".format(id), file=outfile)
+                print(line, file=outfile)
+
 def corpus2conllu(path, lemma_is_token=True, write=False, write_dir='',
-                                     comment_lines=True, debug=False):
+                  comment_lines=True, debug=False):
     '''
     Convert the sentences in file at path, one sentence per line, to empty CoNLL-U strings.
     If write is True, write the CoNNL-U strings to a file, creating a filename from the
