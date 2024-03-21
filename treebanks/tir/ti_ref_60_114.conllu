@@ -1,0 +1,79 @@
+# text = እቲ ዝሓሸ ነገር ፡ ርግእ ኢልካ ምጽባይ እዩ ።
+# sent_id = ti_ref_97
+1	እቲ	እቲ	ADJ	ADJ	Number=Sing	1	_	_	_
+2-4	ዝሓሸ	_	_	_	_	_	_	_	_
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ሐሽ	ሓሸ	VERB	VERB	Aspect=Perf|ClauseType=ACl	3	_	_	_
+4	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+5	ነገር	ነገር	NOUN	NOUN	Number=Sing	5	_	_	_
+6	፡	፡	PUNCT	PUNCT	_	6	_	_	_
+7-8	ርግእ ኢልካ	_	_	_	_	_	_	_	_
+7	ኢል	ርግእ በለ	VERB	VERB	Aspect=Perf	7	_	_	_
+8	ካ	ካ	PRON	PRON	Gender=Masc|Number=Sing|Person=2	7	nsubj	_	_
+9	ምጽባይ	ምጽባይ	NOUN	NOUN	Number=Sing	9	_	_	_
+10	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	10	_	_	_
+11	።	።	PUNCT	PUNCT	_	11	_	_	_
+
+# text = እቲ ዝሓሸ ነገር ምርግጋእ ጥራሕ እዩ ።
+# sent_id = ti_ref_98
+1	እቲ	እቲ	ADJ	ADJ	Number=Sing	1	_	_	_
+2-4	ዝሓሸ	_	_	_	_	_	_	_	_
+2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
+3	ሐሽ	ሓሸ	VERB	VERB	Aspect=Perf|ClauseType=ACl	3	_	_	_
+4	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+5	ነገር	ነገር	NOUN	NOUN	Number=Sing	5	_	_	_
+6	ምርግጋእ	ምርግጋእ	NOUN	NOUN	Number=Sing	6	_	_	_
+7	ጥራሕ	ጥራሕ	ADV	ADV	_	7	_	_	_
+8	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	8	_	_	_
+9	።	።	PUNCT	PUNCT	_	9	_	_	_
+
+# text = ናይ 'ቲ መጽሓፍ ኣርእስቲ ፡ " ጽሃይ ምምሃር ትፈቱ " እዩ ።
+# sent_id = ti_ref_99
+1	ናይ	ናይ	ADP	ADP	_	1	_	_	_
+2	'ቲ	እቲ	ADJ	ADJ	Number=Sing	2	_	_	_
+3	መጽሓፍ	መጽሓፍ	NOUN	NOUN	Number=Sing	3	_	_	_
+4	ኣርእስቲ	ኣርእስቲ	NOUN	NOUN	Number=Sing	4	_	_	_
+5	፡	፡	PUNCT	PUNCT	_	5	_	_	_
+6	"	"	PUNCT	PUNCT	_	6	_	_	_
+7	ጽሃይ	ጽሃይ	PROPN	PROPN	Number=Sing	7	_	_	_
+8	ምምሃር	ምምሃር	NOUN	NOUN	Number=Sing	8	_	_	_
+9-10	ትፈቱ	_	_	_	_	_	_	_	_
+9	ት	ት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	10	nsubj	_	_
+10	ፈትው	ፈተወ	VERB	VERB	Aspect=Imp	10	_	_	_
+11	"	"	PUNCT	PUNCT	_	11	_	_	_
+12	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	12	_	_	_
+13	።	።	PUNCT	PUNCT	_	13	_	_	_
+
+# text = ናይ 'ቲ መጽሓፍ ኣርእስቲ ፡ " ዝተሰብሩ ልብታት " እዩ ።
+# sent_id = ti_ref_100
+1	ናይ	ናይ	ADP	ADP	_	1	_	_	_
+2	'ቲ	እቲ	ADJ	ADJ	Number=Sing	2	_	_	_
+3	መጽሓፍ	መጽሓፍ	NOUN	NOUN	Number=Sing	3	_	_	_
+4	ኣርእስቲ	ኣርእስቲ	NOUN	NOUN	Number=Sing	4	_	_	_
+5	፡	፡	PUNCT	PUNCT	_	5	_	_	_
+6	"	"	PUNCT	PUNCT	_	6	_	_	_
+7-9	ዝተሰብሩ	_	_	_	_	_	_	_	_
+7	ዝ	ዝ	SCONJ	SCONJ	_	8	mark	_	_
+8	ተሰብር	ተሰብረ	VERB	VERB	Aspect=Perf|ClauseType=ACl|Voice=Pass	8	_	_	_
+9	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Plur|Person=3	8	nsubj	_	_
+10	ልብታት	ልቢ	NOUN	NOUN	Number=Plur	10	_	_	_
+11	"	"	PUNCT	PUNCT	_	11	_	_	_
+12	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	12	_	_	_
+13	።	።	PUNCT	PUNCT	_	13	_	_	_
+
+# text = ኣብ ዱር ምዝውዋር ፡ ናይ ተፈጥሮ ጽባቐ ብጋህዲ ምርኣይ እዩ ።
+# sent_id = ti_ref_101a
+1	ኣብ	ኣብ	ADP	ADP	_	1	_	_	_
+2	ዱር	ዱር	NOUN	NOUN	Number=Sing	2	_	_	_
+3	ምዝውዋር	ምዝውዋር	NOUN	NOUN	Number=Sing	3	_	_	_
+4	፡	፡	PUNCT	PUNCT	_	4	_	_	_
+5	ናይ	ናይ	ADP	ADP	_	5	_	_	_
+6	ተፈጥሮ	ተፈጥሮ	NOUN	NOUN	Number=Sing	6	_	_	_
+7	ጽባቐ	ጽባቐ	NOUN	NOUN	Number=Sing	7	_	_	_
+8-9	ብጋህዲ	_	_	_	_	_	_	_	_
+8	ብ	ብ	ADP	ADP	_	9	case	_	_
+9	ጋህዲ	ጋህዲ	NOUN	NOUN	Number=Sing	9	_	_	_
+10	ምርኣይ	ምርኣይ	NOUN	NOUN	Number=Sing	10	_	_	_
+11	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	11	_	_	_
+12	።	።	PUNCT	PUNCT	_	12	_	_	_
+
