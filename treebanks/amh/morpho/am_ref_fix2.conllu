@@ -1,0 +1,88 @@
+# text = ማንም ሰው ጉዳዬ ብሎ ለነገሩ አትኩሮት አለመስጠቱ አሳዝኗታል ።
+# sent_id = am_ref_68
+1	ማንም	ማንም	PRON	PRON	Number=Sing	1	_	_	_
+2	ሰው	ሰው	NOUN	NOUN	Gender=Masc|Number=Sing	2	_	_	_
+3-4	ጉዳዬ	_	_	_	_	_	_	_	_
+3	ጉዳይ	ጉዳይ	NOUN	NOUN	_	3	_	_	_
+4	ኤ	ኤ	DET	DET	Number[psor]=Sing|Person[psor]=1	3	det	_	_
+5-6	ብሎ	_	_	_	_	_	_	_	_
+5	ብል	አለ	VERB	VERB	VerbForm=Conv	5	_	_	_
+6	ኦ	ኦ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+7-9	ለነገሩ	_	_	_	_	_	_	_	_
+7	ለ	ለ	ADP	ADP	Case=Dat	8	case	_	_
+8	ነገር	ነገር	NOUN	NOUN	_	8	_	_	_
+9	ኡ	ኡ	DET	DET	&Poss3Def=Masc	8	det	_	_
+10	አትኩሮት	አትኩሮት	NOUN	NOUN	Number=Sing	10	_	_	_
+11-12	አለመስጠቱ	_	_	_	_	_	_	_	_
+11	ኣለመስጠት	መስጠት	NOUN	NOUN	_	11	_	_	_
+12	ኡ	ኡ	DET	DET	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	11	det	_	_
+13-16	አሳዝኗታል	_	_	_	_	_	_	_	_
+13	ኣሳዝን	አሳዘነ	VERB	VERB	Voice=Cau	13	_	_	_
+14	ኦ	ኦ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	13	nsubj	_	_
+15	ኣት	ኣት	PRON	PRON	AccGen=Fem|AccNum=Sing|AccPers=3	13	obj	_	_
+16	ኣል	ኣል	AUX	AUX	_	13	aux	_	_
+17	።	።	PUNCT	PUNCT	_	17	_	_	_
+
+# text = አባቱን በመንከባከብ ጊዜውን ያሳልፋል ።
+# sent_id = am_ref_87
+1-3	አባቱን	_	_	_	_	_	_	_	_
+1	አባት	አባት	NOUN	NOUN	_	1	_	_	_
+2	ኡ	ኡ	DET	DET	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	1	det	_	_
+3	ን	ን	ADP	ADP	Case=Acc	1	case	_	_
+4-5	በመንከባከብ	_	_	_	_	_	_	_	_
+4	በ	በ	ADP	ADP	Case=Ins	5	case	_	_
+5	መንከባከብ	መንከባከብ	NOUN	NOUN	_	5	_	_	_
+6-8	ጊዜውን	_	_	_	_	_	_	_	_
+6	ጊዜ	ጊዜ	NOUN	NOUN	_	6	_	_	_
+7	ኡ	ኡ	DET	DET	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	6	det	_	_
+8	ን	ን	ADP	ADP	Case=Acc	6	case	_	_
+9-11	ያሳልፋል	_	_	_	_	_	_	_	_
+9	ይ	ይ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+10	ኣሳልፍ	አሳለፈ	VERB	VERB	Aspect=Imp|Voice=Cau	10	_	_	_
+11	ኣል	ኣል	AUX	AUX	_	10	aux	_	_
+12	።	።	PUNCT	PUNCT	_	12	_	_	_
+
+# text = ዝም ማለት የተሻለ ነው ።
+# sent_id = am_ref_94
+1-2	ዝም ማለት	_	_	_	_	_	_	_	_
+1	ዝም	ዝም	NOUN	NOUN	_	2	compound	_	_
+2	ማለት	ማለት	NOUN	NOUN	_	2	_	_	_
+3-5	የተሻለ	_	_	_	_	_	_	_	_
+3	የ	የ	SCONJ	SCONJ	_	4	mark	_	_
+4	ተሻል	ተሻለ	VERB	VERB	Aspect=Perf|ClauseType=ACl|Voice=Pass	4	_	_	_
+5	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+6-7	ነው	_	_	_	_	_	_	_	_
+6	ነ	_	VERB	VERB	_	6	_	_	_
+7	ው	ው	PRON	PRON	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+8	።	።	PUNCT	PUNCT	_	8	_	_	_
+
+# text = ካሌብ ፣ የድርጅቱ አስተዳዳሪ እንደተናገረው ከሆነ ምርቱ በፍጥነት ይሰራጫል ።
+# sent_id = am_ref_109
+1	ካሌብ	ካሌብ	PROPN	PROPN	Number=Sing	1	_	_	_
+2	፣	፣	PUNCT	PUNCT	_	2	_	_	_
+3-5	የድርጅቱ	_	_	_	_	_	_	_	_
+3	የ	የ	ADP	ADP	Case=Gen	4	case	_	_
+4	ድርጅት	ድርጅት	NOUN	NOUN	_	4	_	_	_
+5	ኡ	ኡ	DET	DET	Definite=Def	4	det	_	_
+6	አስተዳዳሪ	አስተዳዳሪ	ADJ	ADJ	Number=Sing	6	_	_	_
+7-10	እንደተናገረው	_	_	_	_	_	_	_	_
+7	እንደ	እንደ	SCONJ	SCONJ	_	8	mark	_	_
+8	ተናገር	ተናገረ	VERB	VERB	Aspect=Perf|ClauseType=CComp|Voice=Rcp1	8	_	_	_
+9	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
+10	ው	ው	DET	DET	Definite=Def	8	det	_	_
+11-13	ከሆነ	_	_	_	_	_	_	_	_
+11	ከ	ከ	SCONJ	SCONJ	_	12	mark	_	_
+12	ሆን	ሆነ	VERB	VERB	Aspect=Perf|ClauseType=AdvCl	12	_	_	_
+13	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
+14-15	ምርቱ	_	_	_	_	_	_	_	_
+14	ምርት	ምርት	NOUN	NOUN	_	14	_	_	_
+15	ኡ	ኡ	DET	DET	Definite=Def	14	det	_	_
+16-17	በፍጥነት	_	_	_	_	_	_	_	_
+16	በ	በ	ADP	ADP	Case=Ins	17	case	_	_
+17	ፍጥነት	ፍጥነት	NOUN	NOUN	_	17	_	_	_
+18-20	ይሰራጫል	_	_	_	_	_	_	_	_
+18	ይ	ይ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	19	nsubj	_	_
+19	ሰራጨ	ተሰራጨ	VERB	VERB	Aspect=Imp|Voice=Pass	19	_	_	_
+20	ኣል	ኣል	AUX	AUX	_	19	aux	_	_
+21	።	።	PUNCT	PUNCT	_	21	_	_	_
+
