@@ -1,5 +1,6 @@
 # sent_id = a0
 # text = ከወንድሙ ጋር መጣ ።
+# Empty except for token and lemma fields.
 1-3	ከወንድሙ 	_	_	_	_	_	_	_	_
 1	ከ	ከ	_	_	_	_	_	_	_
 2	ወንድም	ወንድም	_	_	_	_	_	_	_
