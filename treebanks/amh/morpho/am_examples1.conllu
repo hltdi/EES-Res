@@ -1,7 +1,7 @@
 # sent_id = a1
 # text = ከ ወንድሙ ጋር መጣ
+1-3    ከወንድሙ 	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	_	_	2	case:pre	_	_
-2-3	ወንድሙ	_	_	_	_	_	_	_	_
 2	ወንድም	ወንድም	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	ኡ	ኡ	DET	_	Gender=Masc|Number=Sing|Person=3	2	det:suf	_	_
 4	ጋር	ጋር	ADP	_	_	2	case	_	_
