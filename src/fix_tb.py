@@ -195,7 +195,7 @@ def fix_sentence_rels(sentence):
                         word['xpos'] = word['upos'] + ':suf'
                 elif word['upos'] == 'VERB':
                     # the head of the word
-                    word['xpos'] = 'VERB:stem'
+                    word['xpos'] = 'VSTEM'
         position += 1
 
 def write(data, path):

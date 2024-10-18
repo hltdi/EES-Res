@@ -7,6 +7,54 @@ Author: Michael Gasser
 
 import ntpath
 import os
+import re
+
+MWE_RE = re.compile(r"(\w+)\s*[=:]\s*\(([\w\s]+)\)")
+
+def tokenize(string):
+    '''
+    string is a tokenized sentence, which may contain segmented words or MWEs, indicated like this:
+    ከዘመዶቻችን: (ከ ዘመድ ኦች ኣችን)
+    '''
+    tokens = []
+    while string:
+        if match := MWE_RE.match(string):
+            groups = match.groups()
+            end = match.end()
+            tokens.append((groups[0], groups[1].split()))
+            string = string[end:].strip()
+        else:
+            partition = string.partition(' ')
+            token = partition[0]
+            tokens.append(token)
+            string = partition[-1]
+    return tokens
+
+def tokens2conllu(tokens):
+    '''
+    tokens is a list of strings and tuples consisting of a string and a list of segments.
+    '''
+    index = 1
+    
+
+def conllu2corpus(conllu, fileout):
+    lines = []
+    with open(conllu, encoding='utf8') as infile:
+        for line in infile:
+            line = line.strip()
+            if line and line[0] == '#':
+                if "sent_id" in line:
+                    line = line.split("sent_id = ")[-1]
+                    lines.append("# {}".format(line))
+                elif "text =" in line:
+                    line = line.split("text = ")[-1]
+                    lines.append(line)
+    if fileout:
+        with open(fileout, 'w', encoding='utf8') as outfile:
+            for line in lines:
+                print(line, file=outfile)
+    else:
+        return lines
 
 def number_sentences(pathin, pathout, prefix):
     with open(pathout, 'w', encoding='utf8') as outfile:

@@ -1,0 +1,20 @@
+# sent_id = x12-s11
+ምን ይሆን የሚል ሐሳብ አሸበራት ።
+# sent_id = third_apple_2-x28-s9
+አጋዘኖች በኢትዮጵያ ሜዳዎች ላይ ይዘዋወራሉ ።
+# sent_id = x07-s14
+ራሴን አመመኝ ።
+# sent_id = x15-s2
+ማን ከማን ጋር ምሳ በላ ?
+# sent_id = third_apple_2-x13-s7
+አንበሳው ተንጠራራ ።
+# sent_id = third_apple_2-x16-s17
+ገንዘቡን ማን እንደሰጣት ንገረን ?
+# sent_id = x18-s18
+መስኮቱን ዝጋ !
+# sent_id = Sleepwalking-x04-s13
+ካሳ ልጅ ወለደ ።
+# sent_id = third_apple_2-x20-s18
+ባስፈራራውም ትእዛዜን መጣሱን ቀጠለ ።
+# sent_id = x18-s11
+ምን ይደረግ መቼስ ?

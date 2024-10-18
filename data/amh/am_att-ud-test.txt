@@ -1,0 +1,2148 @@
+# data_UD-Sleepwalking-26-s1
+መጽሐፉን አስያዛት ።
+# data_UD-Sleepwalking-26-s2
+ልጁን ሥራውን አስጨርሰዋለሁ ።
+# data_UD-Sleepwalking-26-s3
+ከበደን እንጀራ አስበላሁት ።
+# data_UD-Sleepwalking-26-s4
+ልጁቹን ጠርተህ እህሉን እጎተራ አስገባ ።
+# data_UD-Sleepwalking-26-s5
+ገመዱን አስረዘመው ።
+# data_UD-Sleepwalking-26-s6
+እህሉን አስሸከመ ።
+# data_UD-Sleepwalking-26-s7
+ውድድሩን ማሸነፉ አስደሰተው ።
+# data_UD-Sleepwalking-26-s8
+ልጁን ኮሶ አስጠጣሁት ።
+# data_UD-Sleepwalking-26-s9
+ከቤት አስወጣኋት ።
+# data_UD-Sleepwalking-26-s10
+ጠጅ አስቀመስኩት ።
+# data_UD-Sleepwalking-26-s11
+ልብስ አሳጠብኳት ።
+# data_UD-Sleepwalking-26-s12
+ተማሪ ቤት አስኬድኩት ።
+# data_UD-Sleepwalking-26-s13
+ከሱቅ ሱቅ ሲዞር አስመሸኝ ።
+# data_UD-Sleepwalking-26-s14
+ሸክሙን አሳርፉኝ ።
+# data_UD-Sleepwalking-26-s15
+ይህ መንገድ ወደ ግቢ ያስኬዳል ።
+# data_UD-Sleepwalking-26-s16
+ሰው አያስወጣም ።
+# data_UD-Sleepwalking-26-s17
+ጥርሴ ቆሎ አያስበላኝም ።
+# data_UD-Sleepwalking-26-s18
+ሥራዬን ለምን አታሰራኝም ?
+# data_UD-Sleepwalking-26-s19
+ጩኸቱ አያስተኛኝም ።
+# data_UD-Sleepwalking-26-s20
+የደከሙት አይኖቹ ብዙ አያስነብቡትም ።
+# data_UD-Sleepwalking-Am_aux-s1
+ካሳ አስተማሪ ነው ።
+# data_UD-Sleepwalking-Am_aux-s2
+አስተማሪ ናት ።
+# data_UD-Sleepwalking-Am_aux-s3
+አስተማሪ ነው ።
+# data_UD-Sleepwalking-Am_aux-s4
+አለቀሰ ።
+# data_UD-Sleepwalking-Am_aux-s5
+እሱ አለቀሰ ።
+# data_UD-Sleepwalking-Am_aux-s6
+በሩን ከፍቶ እቤት ገብቶ እቃውን አዘጋጅቶ ቤቱን ጠርጎ ሄደ ።
+# data_UD-Sleepwalking-Am_aux-s7
+ቆሞ ተናገረ ።
+# data_UD-Sleepwalking-Am_aux-s8
+ተመልሶ ሄደ ።
+# data_UD-x00-s1
+ከኔ ጋር ባትሄድ ይሻለኛል ።
+# data_UD-x00-s2
+ልቡ ሊፈነዳ ትንሽ ቀረው ።
+# data_UD-x00-s3
+ከመጣ አይቀር ጓዙን ይዞ ይምጣ ።
+# data_UD-x00-s4
+ከዚህ ችግር ብገላገል እወድ ነበር ።
+# data_UD-x00-s5
+መቼም ይምጣ መች እራቱን ሳይበላ አይተኛ ።
+# data_UD-x00-s6
+በሩን ከመክፈቴ እሷን አየኋት ።
+# data_UD-x00-s7
+ልጆቹ ስራ የሚሰሩ ይመስላል ።
+# data_UD-x00-s8
+ሰርቼ እንኳን ቢሆን ኑሮ ብድሬን እከፍል ነበር ።
+# data_UD-x00-s9
+ብሠራው እወዳዋለሁ ነገር ግን ጊዜ የለኝም ።
+# data_UD-x00-s10
+የበለጠ ችሮታ ለማድረግ የሚችልበትን ዘዴ ባገኝ ብሎ ተመኘ ።
+# data_UD-x00-s11
+ለሰርጉ ባለመምጣቴ ተቀየመኝ ።
+# data_UD-x00-s12
+በዝናቡ ምክንያት ጨዋታው ተላለፈ ።
+# data_UD-x00-s13
+ሥራውን ሊጨርስ ሲል ስሕተት መሥራቱን ተገነዘበ ።
+# data_UD-x00-s14
+ወደቤተ መጻሕፍት የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+# data_UD-x00-s15
+አባትና እናቱን እየጠየቀ ይመላሳል ።
+# data_UD-x00-s16
+ሚስቱን በመግደሉ ተከሰሰ ።
+# data_UD-x00-s17
+መንገዱ ስለሚያዳልጥ በጥንቃቄ ብትራመድ ይሻላል ።
+# data_UD-x00-s18
+የማላነብ ብሆን ኖሮ መጽሐፍ አልጠይቅህም ።
+# data_UD-x00-s19
+በሕይወት እስካለሁ አልረሳም ።
+# data_UD-x00-s20
+በመናገር ላይ እያለሁ መልስ ሰጠችኝ ።
+# data_UD-x01-s1
+እስኪመጣ ድረስ ጠበቅሁት ።
+# data_UD-x01-s2
+ኩባንያው እስካላባረረው ድረስ ይቆያል ።
+# data_UD-x01-s3
+እውነቱን ቢናገርስ ።
+# data_UD-x01-s4
+በየሄደበት ሁሉ እቃ ይገዛል ።
+# data_UD-x01-s5
+በእግራችን ብንሸራሸርስ ?
+# data_UD-x01-s6
+እንደምንም ብዬ ከዚያ ብደርስ ።
+# data_UD-x01-s7
+ቤት ብትቆይ ይሻላል ወይስ ወደ ጨዋታው ብትሄድ ?
+# data_UD-x01-s8
+ነገ ብትመጣ እወዳለሁ ።
+# data_UD-x01-s9
+ሱቅ መሄድህ እነደሆነ አንድ ኪሎ ስኳር አምጣልኝ ?
+# data_UD-x01-s10
+ነገ ይዘንባል ? ባልዘነበ ።
+# data_UD-x01-s11
+ካሳ አስቴርን ቡና እንድታፈላ አደረገ ።
+# data_UD-x01-s12
+ካሳ ወደ ጎንደር ለመሄድ ይፈልጋል ።
+# data_UD-x01-s13
+ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
+# data_UD-x01-s14
+ይህ ሕመም ምነው በለቀቀኝ ።
+# data_UD-x01-s15
+ካሳ አስቴር ወደ ጎንደር እንደሄደች አውቆአል ።
+# data_UD-x01-s16
+ካሳ አስቴር ወደ ትምህርት ቤት እንደ ሄደች ምሳውን በላ ።
+# data_UD-x01-s17
+ልክ ሆስፒታል ስንደርስ ተገላገለች ።
+# data_UD-x01-s18
+መኪና ሲመጣ ስታይ አትደንግጥ ።
+# data_UD-x01-s19
+እዚህ ካለህ እራት አብረኧን ብላ ።
+# data_UD-x01-s20
+ወጣት ብሆንም ብዙ አይቻለሁ ።
+# data_UD-x02-s1
+እዚያ ብቻህን ባትሄድ እወዳለሁ ።
+# data_UD-x02-s2
+ምነው እውነቱን ቢናገር ኖሮ ።
+# data_UD-x02-s3
+ምነው ብርቱካኖቹ በስለው ቢሆን ኖሮ ።
+# data_UD-x02-s4
+ይህን ያህል ባይሰራ ይሻለው ነበር ።
+# data_UD-x02-s5
+ምነው ይህን ያህል ባይበላስ ።
+# data_UD-x02-s6
+አማርኛ ቢችል በተሻለ ነበር ።
+# data_UD-x02-s8
+ገንዘብ ስላልነበረኝ መሄድ አልቻልኩም ።
+# data_UD-x02-s9
+አስቴር ወደ ትምህርት ቤት የሄደች ይመስላል ።
+# data_UD-x02-s10
+ትምህርት ቤት በሄድኩ ቁጥር ኳስ እጫወታለሁ ።
+# data_UD-x02-s11
+አለቀሰ ።
+# data_UD-x02-s12
+መጣች ።
+# data_UD-x02-s13
+ካሳ ተናደደ ።
+# data_UD-x02-s14
+ልጁ ተኛ ።
+# data_UD-x02-s15
+ውሃው ቀዘቀዘ ።
+# data_UD-x02-s16
+ፈጣን ሆነ ።
+# data_UD-x02-s17
+ስንደው በቀለ ።
+# data_UD-x02-s18
+ቃዠ ።
+# data_UD-x02-s19
+ሁላችንም አልመጣንም ።
+# data_UD-x02-s20
+ካሳ ወደ ጎንደር ሄደ ።
+# data_UD-x03-s1
+ካሳ ትናትና ወደ ጎንደር ሄደ ።
+# data_UD-x03-s2
+በርግጥ ካሳ ትናንት ወደ ጎንደር ሄዷል ።
+# data_UD-x03-s3
+ሞተ ።
+# data_UD-x03-s4
+የእኔ ውሻ ሞተ ።
+# data_UD-x03-s5
+የምትደንሺው ?
+# data_UD-x03-s6
+አልማዝ በወንድሟ ሞት ደነገጠች ።
+# data_UD-x03-s7
+አንደኛ ሆነች ።
+# data_UD-x03-s8
+በወንዙ አጠገብ ሄዱ ።
+# data_UD-x03-s9
+ዘነበ ።
+# data_UD-x03-s10
+ጀመረ ።
+# data_UD-x03-s11
+መፅሐፍ አነበበች ።
+# data_UD-x03-s12
+አልማዝ እንቅልፍ ወሰዳት ።
+# data_UD-x03-s13
+አሳው ከባህር ወጣ ።
+# data_UD-x03-s14
+ካሳ ወደ ቤቱ ገባ ።
+# data_UD-x03-s15
+ካሳ ክፉኛ ተቆጣ ።
+# data_UD-x03-s16
+ምናልባት ካሳ በድንገት ወደ ጎንደር ሄዶ ይሆናል ።
+# data_UD-x03-s17
+ካሳ በፍፁም በመኪና ወደ ትምህርት ቤት አይሄድም ።
+# data_UD-x03-s18
+አልማዝ ካሳን ገደለች ።
+# data_UD-x03-s19
+ምሳ በላሁ ።
+# data_UD-x03-s20
+መፅሐፍ አነበበች ።
+# data_UD-Sleepwalking-x04-s1
+አልማዝ እንቅልፍ ወሰዳት ።
+# data_UD-Sleepwalking-x04-s2
+ካሳ ልብስ ተኮሰ ።
+# data_UD-Sleepwalking-x04-s3
+መንገድሽን ተከተለ ።
+# data_UD-Sleepwalking-x04-s4
+ካሳ ምሳውን በላ ።
+# data_UD-Sleepwalking-x04-s5
+መንገዱ ጎንደር ይደርሳል ።
+# data_UD-Sleepwalking-x04-s6
+አልማዝ ክብደት ቀነሰች ።
+# data_UD-Sleepwalking-x04-s7
+ስጋው ሁለት ኪሎ ይመዝናል ።
+# data_UD-Sleepwalking-x04-s8
+ወንድሜን ያቀዋል ።
+# data_UD-Sleepwalking-x04-s9
+አልማዝ ገንፎ አገነፋች ።
+# data_UD-Sleepwalking-x04-s10
+ጡት አጠባሁዋት ።
+# data_UD-Sleepwalking-x04-s11
+ካሳ ትናንት መኪና ገዛ ።
+# data_UD-Sleepwalking-x04-s12
+ካሳ ልጁን ገረፈው ።
+# data_UD-Sleepwalking-x04-s13
+ካሳ ልጅ ወለደ ።
+# data_UD-Sleepwalking-x04-s14
+ካሳ አባቱን ይመስላል ።
+# data_UD-Sleepwalking-x04-s15
+ወደ ከተማ ተጓዘ ።
+# data_UD-Sleepwalking-x04-s16
+ልጁ ብርጭቆውን ወረወረው ።
+# data_UD-Sleepwalking-x04-s17
+ልጇን ተንከባከበች ።
+# data_UD-Sleepwalking-x04-s18
+ፖሊሱ ጥይት ተኮሰ ።
+# data_UD-Sleepwalking-x04-s19
+ካሳ ከአባቱ ተሻለ ።
+# data_UD-Sleepwalking-x04-s20
+ልጁ ኳሱን አነሳ ።
+# data_UD-x05-s1
+ገበሬው እርሻውን ያለሰልሳል ።
+# data_UD-x05-s2
+ካሳ ክፉኛ ታሟል ።
+# data_UD-x05-s3
+መምጣቷን አልወደውም ።
+# data_UD-x05-s4
+የሚመጣውን ታውቃለች ።
+# data_UD-x05-s5
+የካሳ በፈተና መውደቅ አልማዝን ገረማት ።
+# data_UD-x05-s6
+ድመቱ ነብር መሰለኝ ።
+# data_UD-x05-s7
+አልማዝ ልብስ እያጠበች መሰለኝ ።
+# data_UD-x05-s8
+አልማዝ አርፍዳ እንደምትመጣ ነግራኛለች ።
+# data_UD-x05-s9
+ጀርባዋ ላይ መታኋት ።
+# data_UD-x05-s10
+እናቴን ሰለ ወንድሟ መምጣት ጠየኳት ።
+# data_UD-x05-s11
+ካሳ ጥይቱን ወደእኔ አነጣተረ ።
+# data_UD-x05-s12
+ካሳ በጦር አንበሳ ገደለ ።
+# data_UD-x05-s13
+ልጁ ትናንትና ሁለት እንቁላል ሸጠ ።
+# data_UD-x05-s14
+የመኪናው አለመምጣት አልማዝን አስጨነቃት ።
+# data_UD-x05-s15
+መታመሙን እንደነገረኝ መጣሁ ።
+# data_UD-x05-s16
+ለከበደ ገንዘብ ሰጠሁት ።
+# data_UD-x05-s17
+ህመሙ ፋታ ሰጣት ።
+# data_UD-x05-s18
+ካሳ እነደሚመጣ ለአልማዝ ነገራት ።
+# data_UD-x05-s19
+ማን እንደሚመጣ ነገርኩዋት ።
+# data_UD-x05-s20
+ዝም አለች ።
+# data_UD-x06-s1
+ከፊቴ ጥፍት አለች ።
+# data_UD-x06-s2
+አጎነበሰች ።
+# data_UD-x06-s3
+ካሳ ምክሬን አልቀበል አለ ።
+# data_UD-x06-s4
+ሁሉን አዘጋጅተናል ።
+# data_UD-x06-s5
+የቤቴን ጣሪያ አነሳሁት ።
+# data_UD-x06-s6
+ወተት ነጭ ነው ።
+# data_UD-x06-s7
+ሩጫ ጥሩ ነው ።
+# data_UD-x06-s8
+ቆንጆ ልጅ ነበረች ።
+# data_UD-x06-s9
+ማን እንደሚመጣ ሚስጥር ነው ።
+# data_UD-x06-s10
+በሽጉጥ ነው አንበሳ የገደልኩት ።
+# data_UD-x06-s11
+የሄድነው በወንዙ አጠገብ ነው ።
+# data_UD-x06-s12
+አልማዝ እንደ እናት ነች ።
+# data_UD-x06-s13
+ጉዞ በጠዋት መሆን አለበት ።
+# data_UD-x06-s14
+የገዛሁት ቤት ነው ።
+# data_UD-x06-s15
+መንገዱ የመጣንበት ነው ።
+# data_UD-x06-s16
+የገዛሁት ያንን ቤት ነው ።
+# data_UD-x06-s17
+የመጣሁት በዚያ መንገድ ነው ።
+# data_UD-x06-s18
+የምበላ ከሆነ የምበላው ስጋ ነው ።
+# data_UD-x06-s19
+ወደጎጃም የሄደችው በአውቶቢስ ነው ።
+# data_UD-x06-s20
+የምወደው ሥራ መሥራትን ነው ።
+# data_UD-x07-s1
+የምጠላው ጠላ መጠጣቷን ነው ።
+# data_UD-x07-s2
+እስካሁን ማወቅ ያልቻልኩት መምጣት አለመምጣቷን ነው ።
+# data_UD-x07-s3
+ካሳ አስተማሪ ሆነ ።
+# data_UD-x07-s4
+አስተማሪ ነው ።
+# data_UD-x07-s5
+ካሳ አባቱን ይመስላል ።
+# data_UD-x07-s6
+ካሳ ቤት ውስጥ አለ ።
+# data_UD-x07-s7
+አምና ጎበዝ ነበር ።
+# data_UD-x07-s8
+አስቴር ቤት እየሰራች ነው ።
+# data_UD-x07-s9
+ተጠማች ።
+# data_UD-x07-s10
+አስቴርን ጨነቃት ።
+# data_UD-x07-s11
+አልማዝን አመማት ።
+# data_UD-x07-s12
+አንበሳውን ገደሉት ።
+# data_UD-x07-s13
+አመጡዋት ።
+# data_UD-x07-s14
+ራሴን አመመኝ ።
+# data_UD-x07-s15
+ብርድ ይሰማኛል ።
+# data_UD-x07-s16
+ገንዘቡ ለአልማዝ ተሸለመ ።
+# data_UD-x07-s17
+ልብሱ ለአልማዝ ተገዛላት ።
+# data_UD-x07-s18
+መጽሐፉን መለሰ ።
+# data_UD-x07-s19
+ልብሱን ለወጠ ።
+# data_UD-x07-s20
+ልጁ ልብሱን ደበቀ ።
+# data_UD-x08-s1
+ሰዎቹ ዕንጨት ሰበሰቡ ።
+# data_UD-x08-s2
+እጇን ታጠበች ።
+# data_UD-x08-s3
+አንዳንድ ዓሳዎች የሚበሉ ናቸው ።
+# data_UD-x08-s4
+ወረቀቱ በቀላሉ ተቀዳጅ ነው ።
+# data_UD-x08-s5
+ሻንጣዬን ተሰረቅሁ ።
+# data_UD-x08-s6
+ውሃ ተጎነጨ ።
+# data_UD-x08-s7
+ካአገር እሰኪወጣ ታገሰ ።
+# data_UD-x08-s8
+የአባቱን ፈለግ ተከተለ ።
+# data_UD-x08-s9
+መጽሐፉን ተዋሰ ።
+# data_UD-x08-s10
+በሁኔታው ተሸበረ ።
+# data_UD-x08-s11
+ሰልፉ ተቃለለ ።
+# data_UD-x08-s12
+የመሄጃው ቀን ተቃረበ ።
+# data_UD-x08-s13
+ካሳ ለአስቴር መዝሙር ዘመረላት ።
+# data_UD-x08-s14
+ዳኛው ለአስቴር ፈረዱላት ።
+# data_UD-x08-s15
+ዮሐንስ መጵሐፉን ለአስቴር መለሰላት ።
+# data_UD-x08-s16
+አስቴር በመጥረጊያው ቤቱን ጠረገችበት ።
+# data_UD-x08-s17
+መኖሪያ~ቤቱ ታሸገበት ።
+# data_UD-x08-s18
+ሽማግሌ ተላከበት ።
+# data_UD-x08-s19
+ገንዘቡ ጠፋበት ።
+# data_UD-x08-s20
+እቃው ተሰረቀበት ።
+# data_UD-x09-s1
+ውሃውን አፈላችው ።
+# data_UD-x09-s2
+አልማዝን ዳቦ አጎረስኩዋት ።
+# data_UD-x09-s3
+ቅቤውን አቀለጡት ።
+# data_UD-x09-s4
+ካሳ ለልጆቹ መንገዱን አሳያቸው ።
+# data_UD-x09-s5
+አልማዝ መዘመሯ መፅሐፍ አስሸለማት ።
+# data_UD-x09-s6
+ካሳ አልማዝን አስገደላት ።
+# data_UD-x09-s7
+ፀሐዩ ቅቤውን በአልማዝ ላይ አስቀለጠው ።
+# data_UD-x09-s8
+አልማዝ ላይ ድንጋይ አስወረወሩባት ።
+# data_UD-x09-s9
+ልጁን አስተኙት ።
+# data_UD-x09-s10
+መኪናውን አስወሰደ ።
+# data_UD-x09-s11
+ገንዘቡን አስመለሰ ።
+# data_UD-x09-s12
+ውሃ አስሞቀ ።
+# data_UD-x09-s13
+ልጁን እያስፈራሩ አስጠፉት ።
+# data_UD-x09-s14
+በሽተኛውን ልጅ ወደ ሆስፒታል አስወሰደው ።
+# data_UD-x09-s15
+ጠላቱን አስገደለ ።
+# data_UD-x09-s16
+ልጁን ሥራውን አስጨርሰዋለሁ ።
+# data_UD-x09-s17
+ልጁቹን ጠርተህ እህሉን እጎተራ አስገባ ።
+# data_UD-x09-s18
+እህሉን አስሸከመ ።
+# data_UD-x09-s19
+ልጁን ኮሶ አስጠጣሁት ።
+# data_UD-x09-s20
+ጠጅ አስቀመስኩት ።
+# data_UD-x10-s1
+ተማሪ ቤት አስኬድኩት ።
+# data_UD-x10-s2
+ሸክሙን አሳርፉኝ ።
+# data_UD-x10-s3
+ሰው አያስወጣም ።
+# data_UD-x10-s4
+ሥራዬን ለምን አታሰራኝም ?
+# data_UD-x10-s5
+የደከሙት አይኖቹ ብዙ አያስነብቡትም ።
+# data_UD-x10-s6
+እህትና ወንድም ተደባደቡ ።
+# data_UD-x10-s7
+ወታደሮቹ ለገራቸው ተጋደሉ ።
+# data_UD-x10-s8
+የህግ አለመኖር ህዝቡን በጅምላ አጫረሰ ።
+# data_UD-x10-s9
+ከበደ ሁለቱን ጓደኞች አጋደላቸው ።
+# data_UD-x10-s10
+ካሳ እራሱን ሰቀለ ።
+# data_UD-x10-s11
+አልማዝ ምሳዋን በልታ ተኛች ።
+# data_UD-x10-s12
+አልማዝ ስጋ ገዝታ ፣ ቀቅላ በላች ።
+# data_UD-x10-s13
+ጎጃም ሄደው ፣ ሰርግ ላይ ተገኝተው ፣ ወደቤታቸው ተመለሱ ።
+# data_UD-x10-s14
+ከተያዘ በኋላ ታስሮ ፣ ተለቀቀ ።
+# data_UD-x10-s15
+ካሳ በሬ ከገዛላት በኋላ አልማዝ አረደችው ።
+# data_UD-x10-s16
+መሶብ ከፍቶ ዳቦ ይወስዳል ።
+# data_UD-x10-s17
+ስራ አጥቶ ተቸግሯል ።
+# data_UD-x10-s18
+በሩን ከፍቼ ስገባ ስልክ ተደወለ ።
+# data_UD-x10-s19
+መጥቶ የሚሰራ ደሞዝ ይቀበላል ።
+# data_UD-x10-s20
+ልብሴን ሸጬ እዳዬን መክፈል ነበረብኝ ።
+# data_UD-x11-s1
+ዘንቦ ቀረን ።
+# data_UD-x11-s2
+ልብሱን እኔ አጥቤ እሱ ተኮሰ ።
+# data_UD-x11-s3
+ከሆስፒታል ወስደው ሥላሴ ቤተክርስቲያን ቀበሩት ።
+# data_UD-x11-s4
+አንስታው ሄደች ።
+# data_UD-x11-s5
+አስተናጋጁ ሻይ አመጣላቸውና ጠጡ ።
+# data_UD-x11-s6
+ሩጦ ሄደ ።
+# data_UD-x11-s7
+ዘሎ ገባ ።
+# data_UD-x11-s8
+ከሰዓት በኋላ አግዝሻለሁ በላት ።
+# data_UD-x11-s9
+እነሳለሁ ሲል አደናቀፈው ።
+# data_UD-x11-s10
+ከባዱን ሳጥን አነሣለሁ ብዬ እጄን ወለም አለኝ ።
+# data_UD-x11-s11
+ወንድሜ ከኔ ጋር አልበላም አለ ።
+# data_UD-x11-s12
+ሰውዬው ሰዓቴ ተሰበረብኝ ይላል ።
+# data_UD-x11-s13
+ተከሳሹ ጥፋተኛ አይደለሁም አለ ።
+# data_UD-x11-s14
+አልረዳህም አለችኝ ።
+# data_UD-x11-s15
+ከጐኗ ተጣብቆ አልሄድም አለ ።
+# data_UD-x11-s16
+ምክራችንን አልሰማ በማለቷ ባሏ ሌላ ሚስት አገባላት ።
+# data_UD-x11-s17
+ፖሊሱ አላሳልፍም አለን ።
+# data_UD-x11-s18
+አልታዘዝ አለኝ ።
+# data_UD-x11-s19
+መስኮቱ አልከፈትልኝ አለ ።
+# data_UD-x11-s20
+ወንድምህ የት ነው ብዬ ብጠይቀው አላውቅም ብሎ መለሰልኝ ።
+# data_UD-x12-s1
+ምን አምጣ እንዳለኝ አልሰማሁም ።
+# data_UD-x12-s2
+ውሰድ ያለኝን ብድር እምቢ አልኩ ።
+# data_UD-x12-s3
+ዘንድሮ እህል ውድ ነው ይላሉ ።
+# data_UD-x12-s4
+ፓስታ አመላላሹ በሰዓቱ ይደርሳል ብላ አስባ ነበር ።
+# data_UD-x12-s5
+በሩ ላይ ቆሞ ልግባ አልግባ ሲል አቅማማ ።
+# data_UD-x12-s6
+ከሀብታም አጎቴ ገንዘብ አገኛለሁ ብሎ ተስፋ ያደርጋል ።
+# data_UD-x12-s7
+ሰነፍ ነህ ብለህ ልትወቅሰኝ አትችልም ።
+# data_UD-x12-s8
+አትግደለኝ ብሎ ቢለምነው ማረው ።
+# data_UD-x12-s9
+ድህነት ወንጀልን ያስከትላል ብዬ አምናለሁ ።
+# data_UD-x12-s10
+እኔን ይሰርቃል ብሎ መጠርጠር ቀልድ ነው ።
+# data_UD-x12-s11
+ምን ይሆን የሚል ሐሳብ አሸበራት ።
+# data_UD-x12-s12
+ሌባ ነህ ተብሎ የቀረበበትን ክስ ካደ ።
+# data_UD-x12-s13
+አንቀው ገደሉት ።
+# data_UD-x12-s14
+ዳቦ በልተን ወተት ጠጥተን ጠግበን ተጓዝን ።
+# data_UD-x12-s15
+ቤቱን ጠርገሽ ልብሱን አጥበሽ ወጥ ሥሪ ።
+# data_UD-x12-s16
+ወይዘሮ አስቴር ለአውዳ~ዓመት አንድ ጋን ጠላ ጠመቀች ።
+# data_UD-x12-s17
+ልጆቹ ባለጉ ።
+# data_UD-x12-s18
+ልጆቹ ባለጌ ሆኑ ።
+# data_UD-x12-s19
+ገንዘቡን ማን እነደሰጣት ንገረን ?
+# data_UD-x12-s20
+ይህንን ወንዝ እንዴት እንደምሻገር አላውቅም ።
+# data_UD-x13-s1
+አስቴር ወፈረች ።
+# data_UD-x13-s2
+አስቴር ወፍራም ሆነች ።
+# data_UD-x13-s3
+አስቴር ተጨነቀች ።
+# data_UD-x13-s4
+ካሳ ወደ ገበያ ሄደ ።
+# data_UD-x13-s5
+ልጆቹ ዛፍ ላይ ወጡ ።
+# data_UD-x13-s6
+አስቴር አልጋው ላይ ወደቀች ።
+# data_UD-x13-s7
+ካሳ ከመቀመጫው ተነሳ ።
+# data_UD-x13-s8
+አስቴር አልጋ ላይ ተኛች ።
+# data_UD-x13-s9
+አስቴር ሽልማት ተቀበለች ።
+# data_UD-x13-s10
+ልጁ መኪና ተሰጠው ።
+# data_UD-x13-s11
+ገበሬው ማሳውን አጥሮታል ።
+# data_UD-x13-s12
+አስተማሪው ለተማሪዎች መፅሀፍ ሰጣቸው ።
+# data_UD-x13-s13
+ካሳ ለወታደሮች ገንዘቡን ሰጠቻው ።
+# data_UD-x13-s14
+ልጆቹ ስህተታቸውን አውቀዋል ።
+# data_UD-x13-s15
+ልጆቹ ወተት ይወዳሉ ።
+# data_UD-x13-s16
+ካሳ ሰው ያከብራል ።
+# data_UD-x13-s17
+እግዜርን ይፈሩአል ።
+# data_UD-x13-s18
+ምክርን ያደምጣሉ ።
+# data_UD-x13-s19
+ጫካው ተመንጥሮአል ።
+# data_UD-x13-s20
+አገሩ ተወሮአል ።
+# data_UD-x13-s21
+ስንቅ ይነጠቁአል ።
+# data_UD-x14-s1
+ካሳ በግ አልገዛም ።
+# data_UD-x14-s2
+በግ አትግዛ !
+# data_UD-x14-s3
+ካሳ ቤት ውስጥ የለም ።
+# data_UD-x14-s4
+አቶ ካሳ ምንም ችግኝ አልተከለም ።
+# data_UD-x14-s5
+አስቴር ምንም ገንዘብ የላትም ።
+# data_UD-x14-s6
+አስቴር ካሳ ከእናቱ ጋር ምሳ እንዳልበላ ታውቃለች ።
+# data_UD-x14-s7
+ካሳ ምሳ የበላው ከእናቱ ጋር አይደለም ።
+# data_UD-x14-s8
+ካሳ ከእናቱ ጋር ጋር ምሳ አልበላም ።
+# data_UD-x14-s9
+ብዙ ሰዎች ያለትዳር ይኖራሉ ።
+# data_UD-x14-s10
+ካሳ ያለገብስ ጠላ አይጠጣም ።
+# data_UD-x14-s11
+ልጆቹ መጥተው ቀሩ ።
+# data_UD-x14-s12
+ልጆቹ ወጥተው አልቀሩም ።
+# data_UD-x14-s13
+ደብዳቤው ሳይጠፋ አልቀረም ።
+# data_UD-x14-s14
+ይህ መርዝ ገድሎት ይሆናል ።
+# data_UD-x14-s15
+ወደድክም ጠላህም እሷ እንደሆን መምጣቷ አይቅርም ።
+# data_UD-x14-s16
+ልጁ ይምጣ አይምጣ አላውቅም ።
+# data_UD-x14-s17
+ማን ጫማ ገዛልህ ?
+# data_UD-x14-s18
+መቼ ትመጣለህ ?
+# data_UD-x14-s19
+ደሞዝ አልወሰድክም እንዴ ?
+# data_UD-x14-s20
+በግ ገዛህ ወይ ?
+# data_UD-x15-s1
+ደሞዝ ወሰድክ ወይ ?
+# data_UD-x15-s2
+ማን ከማን ጋር ምሳ በላ ?
+# data_UD-x15-s3
+ማን ከማን ጋር ምን አደረገ ?
+# data_UD-x15-s4
+ስንት መፅሐፍ ትፈልጋለህ ?
+# data_UD-x15-s5
+ነገሩ የሆነው ከስንት ጊዜ በፊት ነበር ?
+# data_UD-x15-s6
+ኸረ ለመሆኑ ነጻነት ምን እንደሆነ ታውቃላችሁ ?
+# data_UD-x15-s7
+ወጥ አውጪ !
+# data_UD-x15-s8
+አስቴር ትምህርት ቤት ትሂድ !
+# data_UD-x15-s9
+እነሱ ሳሩን ይጨዱ !
+# data_UD-x15-s10
+ልብሱን እጠብ !
+# data_UD-x15-s11
+ብላ !
+# data_UD-x15-s12
+በል ብላት !
+# data_UD-x15-s13
+እንጨት ትስበር !
+# data_UD-x15-s14
+በሩን ብትዘጋው !
+# data_UD-x15-s15
+የምግቡን ዝርዝር ብትሰጠኝ ?
+# data_UD-x15-s16
+እስኪ መታወቂያ ወረቀትህን አሳየኝ ?
+# data_UD-x15-s17
+ወደ ታች ውረዱ !
+# data_UD-x15-s18
+ከጨረስክ በኋላ እኔ ጋር እንድትመጣ !
+# data_UD-x15-s19
+ተቀመጥ እንጂ !
+# data_UD-x15-s20
+ካሳ የሽጠው የብራና መፅሀፍ ትልቅ ነው ።
+# data_UD-x16-s1
+ልጆቹ የሄዱበት ሀገር አልታወቀም ።
+# data_UD-x16-s2
+አስቴር ፀጉርዋን የሰራቻት ልጅ ጥሩ ናት ።
+# data_UD-x16-s3
+ልጁ የሸጠው መጽሐፍ ትልቅ ነው ።
+# data_UD-x16-s4
+ተማሪው ለአስቴር የሰጣት መጽሐፍ ጠፋ ።
+# data_UD-x16-s5
+ካሳ የገዛው የሱፍ ኮት ውድ ነው ።
+# data_UD-x16-s6
+ካሳ በግ ያረደበት ቢላዋ ትልቅ ነው ።
+# data_UD-x16-s7
+ልጁ የገደለው እባብ ትልቅ ነው ።
+# data_UD-x16-s8
+አንበሳ የገደልው ልጅ ተሸለመ ።
+# data_UD-x16-s9
+እርኩስ መንፈስ የያዘው ሰው አስቸገረን ።
+# data_UD-x16-s10
+በፊታችሁ ወዳለችው መንደር ሂዱ ።
+# data_UD-x16-s11
+ደብረዘይት ወደምትባል የእስራኤል ከተማ መጣ ።
+# data_UD-x16-s12
+ልቡ ሊፈነዳ ትንሽ ቀረው ።
+# data_UD-x16-s13
+በመናገር ላይ እያለሁ መልስ ሰጠችኝ ።
+# data_UD-x16-s14
+እስኪመጣ ድረስ ጠበቅሁት ።
+# data_UD-x16-s15
+መኪና ሲመጣ ስታይ አትደንግጥ ።
+# data_UD-x16-s16
+የተበደርኩትን ገንዘብ መቼ ሳልከፍል ቀርቻለሁ ?
+# data_UD-x16-s17
+የበለጠ ብትጥር እንዲያውም የተሻለ ልታነብ ትችላለህ ።
+# data_UD-x16-s18
+በይበልጥ እያወቃት ሲሄድ ጠላት ።
+# data_UD-x16-s19
+ጠንክሮ ይማር እንደሆነ ወደ አሜሪካ እልከዋለሁ ።
+# data_UD-x16-s20
+ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
+# data_UD-x17-s1
+የሚያምህ እንደሆነ ወደ ሐኪም ሂድ ።
+# data_UD-x17-s2
+የምትሰጋ ከሆነ ልጅህን ወደዚያ ቦታ አትላክ ።
+# data_UD-x17-s3
+የበለጠ ችሮታ ለማድረግ የሚችልበትን ዘዴ ባገኝ ብሎ ተመኘ ።
+# data_UD-x17-s4
+ተቀጥረህ ነዋ የምትሠራው ።
+# data_UD-x17-s5
+ይህ መርዝ ይገድለው ይሆን ?
+# data_UD-x17-s6
+ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።
+# data_UD-x17-s7
+አልሰማም ይሆን ?
+# data_UD-x17-s8
+ከካሳ የባሰ አጭር ነው ።
+# data_UD-x17-s9
+ከበደ የናቱን ሞት ተረዳ ።
+# data_UD-x17-s10
+መጽሐፉን ጻፊያ ።
+# data_UD-x17-s11
+ከጋዜጣ በስተቀር ብዙም አያነብም ።
+# data_UD-x17-s12
+ይበላልም ይጠጣልም ።
+# data_UD-x17-s13
+ልጁ ርቦታልም ጠምቶታልም ።
+# data_UD-x17-s14
+ገንዘብም ምክርም ሰጠኝ ።
+# data_UD-x17-s15
+እሱም የክበባችን አባል ነው ።
+# data_UD-x17-s16
+እኔ ልሠራው ከቻልኩ አንተም ትችላለህ ።
+# data_UD-x17-s17
+ልጅቷም ቆንጆ ናት ።
+# data_UD-x17-s18
+መቶዎቹም በጎች ተሸጡ ።
+# data_UD-x17-s19
+ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።
+# data_UD-x17-s20
+ሦስት ሰዎች መጡ እነሱም ታደሰ ፣ ኃይሉና ተፈራ ናቸው ።
+# data_UD-x18-s1
+ብርም ሆነ ወርቅ ሊገዛው አይችልም ።
+# data_UD-x18-s2
+እሱም እኔም ልንሠራው አንችልም ።
+# data_UD-x18-s3
+ዓለሙ ካልሄደ ተስፋዬም አይሄድም ።
+# data_UD-x18-s4
+አይዘፍንምም አይደንስምም ።
+# data_UD-x18-s5
+ምሳዬን አልበላሁም ቁርሴንም ቢሆን እንዲሁ ።
+# data_UD-x18-s6
+በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደልም ይደረሳል ።
+# data_UD-x18-s7
+ባይደርቅም ልብሱን አግቢው ።
+# data_UD-x18-s8
+እኔማ ሥራ በዝቶብኛል ።
+# data_UD-x18-s9
+እንግዲያውማ ሁሉም ነገር ተፈርሟል ።
+# data_UD-x18-s10
+በምግብስ በኩል ምግቡ መጥፎ አይደለም ።
+# data_UD-x18-s11
+ምን ይደረግ መቼስ ?
+# data_UD-x18-s12
+እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?
+# data_UD-x18-s13
+ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?
+# data_UD-x18-s14
+እስከ ነገ ብትቆይስ ?
+# data_UD-x18-s15
+ቢያዳምጣትስ ኖሮ ።
+# data_UD-x18-s16
+ዛሬሳ ምንም ምግብ አትቀምስም ?
+# data_UD-x18-s17
+ዛሬ ወደ ተማሪ ቤት ለመሄድ አልተሰናዳህምሳ ?
+# data_UD-x18-s18
+መስኮቱን ዝጋ !
+# data_UD-x18-s19
+እሳቱን ከሰል ጨምርበት !
+# data_UD-x18-s20
+ጤናዎንስ እንደምን ነዎት ?
+# data_UD-x19-s1
+ወተቱን ምን ያደርጉታል ?
+# data_UD-x19-s2
+እኔን ይሰረቃል ብሎ መጠርጠር ዘበት ነው ።
+# data_UD-x19-s3
+ሻንጣዬን ተሰረቅሁ ።
+# data_UD-x19-s4
+ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።
+# data_UD-x19-s5
+ለልጁ ቤቱን አሳየው ።
+# data_UD-x19-s6
+መሬት ፀሐይን ትዞራለች ።
+# data_UD-x19-s7
+ሀምሌትን ሆኖ የሚጫወተው ማነው ?
+# data_UD-x19-s8
+ረኃብ ካዋቂ ይልቅ ልጅን ነው የሚርብ ።
+# data_UD-x19-s9
+ውሸታቸውን ነው ።
+# data_UD-x19-s10
+ፈረሱ ሌጣውን ጋለበ ።
+# data_UD-x19-s11
+ጦማቸውን ዋሉ ።
+# data_UD-x19-s12
+መንገድ ሲያቋርጡ ልጁን እጁን ያዘችው ።
+# data_UD-x19-s13
+ቀኑን ሙሉ ተኝቶ ነበር ።
+# data_UD-x19-s14
+እግዚአብሔርን ! እውነት ነው ።
+# data_UD-x19-s15
+ምን እባክህ ዝናብ እምቢ ብሎ አዝመራው አልተሳካም ።
+# data_UD-x19-s16
+እርሳሱን እንሆ !
+# data_UD-x19-s17
+ብድር ነው እንዴ የሚፈልጉት ?
+# data_UD-x19-s18
+ይመጣል እንዴ ?
+# data_UD-x19-s19
+ይህ ልጅ መዳኑን እንጃ ?
+# data_UD-x19-s20
+የዘንድሮን ነገር እንጃልኝ ።
+# data_UD-x20-s1
+እኔ እኮ ይህ ፈረስ ያንተ መስሎኝ ነበር ።
+# data_UD-x20-s2
+አዪ እሱ እዚህ ቢሆን ኖሮ ።
+# data_UD-x20-s3
+ኤዲያ ! ተመልከት ምን እንዳደረግህ ።
+# data_UD-x20-s4
+ፈረሱ ቶሎ ቶሎ ሂያጅ ነው ።
+# data_UD-x20-s5
+ለሚያስፈልገኝ ነገር ሁሉ ደጋፊዬ እሱ ነው ።
+# data_UD-x20-s6
+ገንዘብ ፈላጊ ነኝ ።
+# data_UD-x20-s7
+ይህ ቤት ፈራሽ ነው ።
+# data_UD-x20-s8
+አባቷ ዛሬ ደራሽ ነው ።
+# data_UD-x20-s9
+ሰው ሟች ነው ።
+# data_UD-x20-s10
+ሰው ተሰባሪ ነው ።
+# data_UD-x20-s11
+ጦርነቱ ካልቆመ ሁላችንም ተሰዳጅ ነን ።
+# data_UD-x20-s12
+ዓለሚቱ ተወዳጅ ጠባይ አላት ።
+# data_UD-x20-s13
+ከብታችንን በመስረቁ ምክንያት ታሰረ ።
+# data_UD-x20-s14
+መግደል ኃጢያት ነው ።
+# data_UD-x20-s15
+የልጃቸው መፈታት ሲሰማ ቤታቸው ውስጥ ደስታ ሆነ ።
+# data_UD-x20-s16
+ያለ ፓስፖርት ወደ ውጭ አገር መጓዝ አይቻልም ።
+# data_UD-x20-s17
+ምንም ጐበዝ ቢሆን መሸነፉ አይቀርም ።
+# data_UD-x20-s18
+ፍየል ከመድረሷ ቅጠል መበጠሷ ።
+# data_UD-x20-s19
+እናቲቱ የልጇን ፈተና መውደቅ ሰማች ።
+# data_UD-x20-s20
+አዳዲስ ልብስ መልበስ ይወዳል ።
+# data_UD-third_apple_2-x00-s1
+ቤቱ ሊሄድ ሲል ይዘንብ ጀመረ ።
+# data_UD-third_apple_2-x00-s2
+ልጁ ከመፍራቱ የተነሣ መርፌውን ሊወጋ አልደፈረም ።
+# data_UD-third_apple_2-x00-s3
+የገዛ ልብሴን የመስፋት ችሎታ ምነው በኖረኝ ።
+# data_UD-third_apple_2-x00-s4
+ካንዱ አገር ወዳንዱ አገር እየዞርኩ እኖራለሁ ።
+# data_UD-third_apple_2-x00-s5
+ሥራው እሰከ ተሠራ ድርስ ግድ የለኝም ።
+# data_UD-third_apple_2-x00-s6
+መጥቶ እንደሆነ ግባ በለው ።
+# data_UD-third_apple_2-x00-s7
+ልጆቹ ስራ እንዲሰሩ ይደረጋል ።
+# data_UD-third_apple_2-x00-s8
+ስትገባ ሰው አይተሃል ?
+# data_UD-third_apple_2-x00-s9
+ባያጠና ይሻለው ነበር ።
+# data_UD-third_apple_2-x00-s10
+በምንም ዐይነት ብትሠራው አለቅየው አይደሰትም ።
+# data_UD-third_apple_2-x00-s11
+በእናቴ ፈንታ ምነው እኔ በሞትኩ ።
+# data_UD-third_apple_2-x00-s12
+ዳኛውን ፈርቶ ሳይመጣ ቀረ ።
+# data_UD-third_apple_2-x00-s13
+እጅህን ሳትታጠብ አትብላ ።
+# data_UD-third_apple_2-x00-s14
+እየበላ አነበበ ።
+# data_UD-third_apple_2-x00-s15
+እናቱን በማየቱ በጣም ደስ አለው ።
+# data_UD-third_apple_2-x00-s16
+ወንድሜ ከአገር~ቤት ስለመጣ ላየው ሄድኩ ።
+# data_UD-third_apple_2-x00-s17
+ሳይጨልም ብትመለስ ይሻላል ፤ አለዚያ ትጠፋለህ ።
+# data_UD-third_apple_2-x00-s18
+ባገኘኋት ቁጥር ሰላምታ ትሰጠኛለች ።
+# data_UD-third_apple_2-x00-s19
+በሽርሽር ላይ ሆነን ቢዘንብስ ?
+# data_UD-third_apple_2-x00-s20
+ስለታመመ አልመጣም ።
+# data_UD-third_apple_2-x01-s1
+ተናጋሪው ንግግሩን ቶሎ ቢጨርስ ጥሩ ነበር ።
+# data_UD-third_apple_2-x01-s2
+ጓደኞችህ እዚህ ሳይመጡ ቢቀሩስ ?
+# data_UD-third_apple_2-x01-s3
+መታመሙን እንደነገረኝ መጣሁ ።
+# data_UD-third_apple_2-x01-s4
+ባለማጥናቱ ፈተናውን ወደቀ ።
+# data_UD-third_apple_2-x01-s5
+የኢኮኖሚው ውድቀት የማይቀር ነው እንበል ።
+# data_UD-third_apple_2-x01-s6
+የትኛውንም ብትመርጥ እገዛዋለሁ ።
+# data_UD-third_apple_2-x01-s7
+ቤት ብትውል ይሻላል ።
+# data_UD-third_apple_2-x01-s8
+ብዙ በመሮጤ እግሬን አመመኝ ።
+# data_UD-third_apple_2-x01-s9
+ወደ አባትሽ ቤት ብትመለሽ አይሻልሽምን ?
+# data_UD-third_apple_2-x01-s10
+ካሳ የአስቴር ወደ ጎንደር መሄድ ሰምቶአል ።
+# data_UD-third_apple_2-x01-s11
+ዛሬ ዋና ባትሄድ ይሻልሃል ።
+# data_UD-third_apple_2-x01-s12
+ምን ቢሆን ይሻላል ?
+# data_UD-third_apple_2-x01-s13
+ወደ አገር ቤት በሄድኩ ጊዜ ማንንም አልጠየኩም ።
+# data_UD-third_apple_2-x01-s14
+ካሳ አስቴር ወደ ጎንደር መሄድዋን ሰምቶአል ።
+# data_UD-third_apple_2-x01-s15
+ካሳ አስቴር ወደ ትምህርት ቤት ስለሄደች ተደሰተ ።
+# data_UD-third_apple_2-x01-s16
+ይህ ምስኪን ምነው በደንብ በልቶ አይቼው ።
+# data_UD-third_apple_2-x01-s17
+እዚያ ብሆን እመኛለሁ ።
+# data_UD-third_apple_2-x01-s18
+ምንም ቢመጣ አልፈራም ።
+# data_UD-third_apple_2-x01-s19
+የትም ብትሆን ለኔ ደብዳቤ መጻፍ አትርሳ ።
+# data_UD-third_apple_2-x01-s20
+እዚህ ካላችሁ ዘንድ ይህንን ጉዳይ ብንነጋገርበት መልካም ነው ።
+# data_UD-third_apple_2-x02-s1
+በጣም ብወድሽም አላገባሽም ።
+# data_UD-third_apple_2-x02-s2
+ምነው ቢያዳምጣት ኖሮ ።
+# data_UD-third_apple_2-x02-s3
+ሁለት ሰዓት ሳይበላ ቢቆይ ሆዱን አመመው ።
+# data_UD-third_apple_2-x02-s4
+ምነው ይህን ያህል ባልሠራ ።
+# data_UD-third_apple_2-x02-s5
+ምነው አስተማሪ በሆንሁ ።
+# data_UD-third_apple_2-x02-s6
+ገንዘብ ይስጠኝ እንጂ የፈለገውን እገዛለታለሁ ።
+# data_UD-third_apple_2-x02-s7
+ገነዘብ ብለምነው አባረረኝ ።
+# data_UD-third_apple_2-x02-s8
+አስቴር ወደ ጎጃም ስለ ሄደ አለቀሰች ።
+# data_UD-third_apple_2-x02-s9
+እንግዶች ስለማይመጡ ጠላውን አትቅጂ ።
+# data_UD-third_apple_2-x02-s10
+ምናልባት ይህን መጽሐፍ ለማሳተም የምትፈልጉ ከሆነ እልካለሁ ።
+# data_UD-third_apple_2-x02-s11
+ዘለለ ።
+# data_UD-third_apple_2-x02-s12
+ልጁ ወደቀ ።
+# data_UD-third_apple_2-x02-s13
+መሬቱ ተንቀጠቀጠ ።
+# data_UD-third_apple_2-x02-s14
+ወንዙ ደረቀ ።
+# data_UD-third_apple_2-x02-s15
+ፊቴ ነጣ ።
+# data_UD-third_apple_2-x02-s16
+ቡናው ፈላ ።
+# data_UD-third_apple_2-x02-s17
+አዳመጠች ።
+# data_UD-third_apple_2-x02-s18
+ድንጋዩ ለሰለሰ ።
+# data_UD-third_apple_2-x02-s19
+ወቀሰችው ።
+# data_UD-third_apple_2-x02-s20
+ካሳ በድንገት ወደ ጎንደር ሄደ ።
+# data_UD-third_apple_2-x03-s1
+ካሳ ትናንት በድንገት በመኪና ወደ ጎንደር ሄደ ።
+# data_UD-third_apple_2-x03-s2
+በርግጥ ካሳ ትናንት ወደ ጎንደር ሄዶአል ።
+# data_UD-third_apple_2-x03-s3
+ውሻዬ ሞተ ።
+# data_UD-third_apple_2-x03-s4
+እንደማን ነው የምትደንሰው ?
+# data_UD-third_apple_2-x03-s5
+ደነገጠች ።
+# data_UD-third_apple_2-x03-s6
+ቡርትኳኑ በሰለ ።
+# data_UD-third_apple_2-x03-s7
+ወደ ቤቷ ሄደች ።
+# data_UD-third_apple_2-x03-s8
+ዝናብ ዘነበ ።
+# data_UD-third_apple_2-x03-s9
+ቀኑ ጀመረ ።
+# data_UD-third_apple_2-x03-s10
+ከእኔ በለጠች ።
+# data_UD-third_apple_2-x03-s11
+መንገዱ ሁለት ቀን ይፈጃል ።
+# data_UD-third_apple_2-x03-s12
+ሽኘኋት ።
+# data_UD-third_apple_2-x03-s13
+ካሳ ወደ ቤተክርስቲያን ሄደ ።
+# data_UD-third_apple_2-x03-s14
+ካሳ አስቴር ስለታመመች ወደ ትምህርት ቤት አልሄደም ።
+# data_UD-third_apple_2-x03-s15
+ካሳ ሰለታመመ በመኪና ዛሬ ወደ ሆስፒታል ሄደ ።
+# data_UD-third_apple_2-x03-s16
+ካሳ በርግጥ በመኪና ወደ ትምህርት ቤት ይሄዳል ።
+# data_UD-third_apple_2-x03-s17
+አልማዝ ኳሱን ወረወረች ።
+# data_UD-third_apple_2-x03-s18
+ገንዘብ ለመነች ።
+# data_UD-third_apple_2-x03-s19
+አልማዝ ልጇን ተንከባከበች ።
+# data_UD-third_apple_2-x03-s20
+መንገዱ ሁለት ቀን ይፈጃል ።
+# data_UD-third_apple_2-x04-s1
+ካሳ ጥይት ተኮሰ ።
+# data_UD-third_apple_2-x04-s2
+ፈለግህን ተከተለ ።
+# data_UD-third_apple_2-x04-s3
+ፍየሎቹ ወንዙን ተከተሉ ።
+# data_UD-third_apple_2-x04-s4
+አልማዝ ወንዙን ተሻገረች ።
+# data_UD-third_apple_2-x04-s5
+አልማዝ አይጥ አየች ።
+# data_UD-third_apple_2-x04-s6
+አልማዝ ተስፋ ቆረጠች ።
+# data_UD-third_apple_2-x04-s7
+ቁመቴ 1.85 ነው ።
+# data_UD-third_apple_2-x04-s8
+ካሳ ደብዳቤ ላከ ።
+# data_UD-third_apple_2-x04-s9
+አልማዝ አገነፋች ።
+# data_UD-third_apple_2-x04-s10
+አጠባሁዋት ።
+# data_UD-third_apple_2-x04-s11
+አስቴር ብርጭቆ ሰበረች ።
+# data_UD-third_apple_2-x04-s12
+እንቁላሉን ሰበረችው ።
+# data_UD-third_apple_2-x04-s13
+ልጁ ኳሱን መታው ።
+# data_UD-third_apple_2-x04-s14
+የአባቱ መምጣት ካሳን ገረመው ።
+# data_UD-third_apple_2-x04-s15
+ብርቱኳኑ በሰለ ።
+# data_UD-third_apple_2-x04-s16
+ካሳ ከአባቱ በቁመት በለጠ ።
+# data_UD-third_apple_2-x04-s17
+ሰራተኞቹ ደሞዛቸውን ወሰዱ ።
+# data_UD-third_apple_2-x04-s18
+ካሳ ሚስቱን ሸኘ ።
+# data_UD-third_apple_2-x04-s19
+ምግቡ ተበላሸ ።
+# data_UD-third_apple_2-x04-s20
+አዲስ ልብስ ለበሰ ።
+# data_UD-third_apple_2-x05-s1
+አስተማሪው መፅሐፉን ያዘ ።
+# data_UD-third_apple_2-x05-s2
+የወንድሟ መሞት የአልማዝን ልብ ሰበረው ።
+# data_UD-third_apple_2-x05-s3
+መሄዷ የባሏን ልብ ሰበረው ።
+# data_UD-third_apple_2-x05-s4
+አልማዝ የካሳን መምጣት ታቃለች ።
+# data_UD-third_apple_2-x05-s5
+አልማዝ የታመመች መሰለችኝ ።
+# data_UD-third_apple_2-x05-s6
+ድመቱ ዛፍ ላይ ያለ መሰለኝ ።
+# data_UD-third_apple_2-x05-s7
+አልማዝ የራሷን ጭንቅላት መታች ።
+# data_UD-third_apple_2-x05-s8
+ጀርባዋን መታኋት ።
+# data_UD-third_apple_2-x05-s9
+አልማዝ እናቷን ሰለ ወንድሟ ሞት ጠየቀች ።
+# data_UD-third_apple_2-x05-s10
+መስመሩን ወደእኔ አሰመረች ።
+# data_UD-third_apple_2-x05-s11
+ካሳ ወደ ጎጃም በአውቶብስ ተጓዘ ።
+# data_UD-third_apple_2-x05-s12
+ካሳ ትናንት ሁለት በጎች ገዛ ።
+# data_UD-third_apple_2-x05-s13
+የልጁ መታመም አስተማሪውን አሳሰበው ።
+# data_UD-third_apple_2-x05-s14
+ገንዘብ አለመያዙ ገረማት ።
+# data_UD-third_apple_2-x05-s15
+ካሳ ዜናውን ለአለም ነገራት ።
+# data_UD-third_apple_2-x05-s16
+አስተማሪው ለተማሪዎቹ ጊዜ ሰጣቸው ።
+# data_UD-third_apple_2-x05-s17
+ሩጫ ጥንካሬን ሰጣት ።
+# data_UD-third_apple_2-x05-s18
+እንደምመጣ ለአልማዝ ነገርኩዋት ።
+# data_UD-third_apple_2-x05-s19
+ካሳ እንድትመጣ ጠየቃት ።
+# data_UD-third_apple_2-x05-s20
+አለቀሰች ።
+# data_UD-third_apple_2-x06-s1
+ጎንበስ አለች ።
+# data_UD-third_apple_2-x06-s2
+ጭንቅ አለው ።
+# data_UD-third_apple_2-x06-s3
+አልማዝ ወደፊት ቅርብ አለች ።
+# data_UD-third_apple_2-x06-s4
+ስምህን እናከብራለን ።
+# data_UD-third_apple_2-x06-s5
+ጊዜው / ወቅቱ ጥሩ ነው ።
+# data_UD-third_apple_2-x06-s6
+ድንጋዩ ለስላሳ ነው ።
+# data_UD-third_apple_2-x06-s7
+የአባቴ በሰላም መመለስ መልካም ነው ።
+# data_UD-third_apple_2-x06-s8
+መሄዷ ሚስጥር ነው ።
+# data_UD-third_apple_2-x06-s9
+እንደሚጠጣና እንደማይጠጣ ሚስጥር ነው ።
+# data_UD-third_apple_2-x06-s10
+ማንም ወደከተማ ነው መሄድ ያለበት ።
+# data_UD-third_apple_2-x06-s11
+መብረቁ የወረደው እዚህ ቦታ ነው ።
+# data_UD-third_apple_2-x06-s12
+ፈተናውን ያለፈው እንደ ሕልም ነው ።
+# data_UD-third_apple_2-x06-s13
+አባቴ የሞተው በድንገት ነው ።
+# data_UD-third_apple_2-x06-s14
+ቤት ነው የገዛሁት ።
+# data_UD-third_apple_2-x06-s15
+ያንን ቤት ነው የገዛሁት ።
+# data_UD-third_apple_2-x06-s16
+ያንን መንገድ ነው የመጣሁበት ።
+# data_UD-third_apple_2-x06-s17
+ድመቷን የወሰድኳት እኔ ነኝ ።
+# data_UD-third_apple_2-x06-s18
+መብላት ካለብኝ የምበላው ስጋ ነው ።
+# data_UD-third_apple_2-x06-s19
+ሰው መኖር ያለበት ባህር ዳር ነው ።
+# data_UD-third_apple_2-x06-s20
+ያገኘው የተመኘውን ነው ።
+# data_UD-third_apple_2-x07-s1
+እስካሁን ማወቅ ያልቻልኩት ማን እንደወሰደው ነው ።
+# data_UD-third_apple_2-x07-s2
+ቆንጆዋ ልጅ የኔ ናት ።
+# data_UD-third_apple_2-x07-s3
+ካሳ ጎበዝ ሆነ ።
+# data_UD-third_apple_2-x07-s4
+ካሳ ጎበዝ ነው ።
+# data_UD-third_apple_2-x07-s5
+ካሳ ጎበዝ ይመስላል ።
+# data_UD-third_apple_2-x07-s6
+አሸዋ መንገድ ላይ አለ ።
+# data_UD-third_apple_2-x07-s7
+አንድ ጊዜ ጎጃም ውስጥ አስተማሪ ነበር ።
+# data_UD-third_apple_2-x07-s8
+አስቴር ወደ ቤቷ መሄድ የፈለገች ይመስላል ።
+# data_UD-third_apple_2-x07-s9
+አልማዝ ታመመች ።
+# data_UD-third_apple_2-x07-s10
+ራበኝ ።
+# data_UD-third_apple_2-x07-s11
+ይሞቃል ።
+# data_UD-third_apple_2-x07-s12
+ሳህኑን ወረወሩት ።
+# data_UD-third_apple_2-x07-s13
+ፍየል ገዙላት ።
+# data_UD-third_apple_2-x07-s14
+ሚስጢሩ ገባኝ ።
+# data_UD-third_apple_2-x07-s15
+ነብሩ ተገደለ ።
+# data_UD-third_apple_2-x07-s16
+አልማዝ ለልደቷ ገንዘብ ተሸለመች ።
+# data_UD-third_apple_2-x07-s17
+ሳህን ተሰበረላት ።
+# data_UD-third_apple_2-x07-s18
+ከተማሪ~ቤት ተመለሰ ።
+# data_UD-third_apple_2-x07-s19
+በጣም ተለወጠ ።
+# data_UD-third_apple_2-x07-s20
+ልጁ ተደበቀ ።
+# data_UD-third_apple_2-x08-s1
+ሰዎቹ ተሰበሰቡ ።
+# data_UD-third_apple_2-x08-s2
+ለበዓሉ ጸጉሯን ሹሩባ ተሠራች ።
+# data_UD-third_apple_2-x08-s3
+ጦርነቱ ካልቆመ ሁላችንም ተሰዳጆች ነን ።
+# data_UD-third_apple_2-x08-s4
+አስተማሪው ተዛወረ ።
+# data_UD-third_apple_2-x08-s5
+ልጁ ተደሰተ ።
+# data_UD-third_apple_2-x08-s6
+ገንዘብ ተበደረ ።
+# data_UD-third_apple_2-x08-s7
+ካሳ ስለቀረ ተቀየምኩት ።
+# data_UD-third_apple_2-x08-s8
+ምግቡን ተጠየፈ ።
+# data_UD-third_apple_2-x08-s9
+መኪና ውስጥ ተቀመጠ ።
+# data_UD-third_apple_2-x08-s10
+የፈተናው ቀን ተራዘመ ።
+# data_UD-third_apple_2-x08-s11
+ገንዘብ ተዋጣ ።
+# data_UD-third_apple_2-x08-s12
+ዳኛው በአስቴር ላይ ፈረዱባት ።
+# data_UD-third_apple_2-x08-s13
+ወደ ተራራው ለመድረስ ሁለት ቀን ፈጀባቸው ።
+# data_UD-third_apple_2-x08-s14
+አስቴር በመጥረጊያው መስኮት ጠረገችበት ።
+# data_UD-third_apple_2-x08-s15
+አልማዝ ሴት~ተማሪዋን አየቻት ።
+# data_UD-third_apple_2-x08-s16
+አስቴር ለልጁ ምግቡን ሰራችለት ።
+# data_UD-third_apple_2-x08-s17
+መንገዱን አጠርንበት ።
+# data_UD-third_apple_2-x08-s18
+ሱቆቹ ተዘጉበት ።
+# data_UD-third_apple_2-x08-s19
+ውሃው ፈሰሰበት ።
+# data_UD-third_apple_2-x08-s20
+ሩጫ አልማዝን አወፈራት ።
+# data_UD-third_apple_2-x09-s1
+ካሳ ሰራተኛዋን ወደጎጃም አስወሰዳት ።
+# data_UD-third_apple_2-x09-s2
+አልማዝ ወተት አመጣች ።
+# data_UD-third_apple_2-x09-s3
+አልማዝ ልጇን አስተኛች ።
+# data_UD-third_apple_2-x09-s4
+ካሳ አልማዝን መፅሐፍ አስሸለማት ።
+# data_UD-third_apple_2-x09-s5
+ካሳ አልማዝን ውሻ አስገደላት ።
+# data_UD-third_apple_2-x09-s6
+ካሳ ቡና አስፈላ ።
+# data_UD-third_apple_2-x09-s7
+ካሳ ለአልማዝ ቡና አሰፈላላት ።
+# data_UD-third_apple_2-x09-s8
+አስገደሉዋት ።
+# data_UD-third_apple_2-x09-s9
+የሰረቀውን ሰውዬ ዳኛው ፊት አቀረቡት ።
+# data_UD-third_apple_2-x09-s10
+ልብሱን አስቆረጠ ።
+# data_UD-third_apple_2-x09-s11
+ቤቱን አስተጠበቀ ።
+# data_UD-third_apple_2-x09-s12
+ጠላው አስተኛኝ ።
+# data_UD-third_apple_2-x09-s13
+ልብሱን አስጠበበው ።
+# data_UD-third_apple_2-x09-s14
+ለፖሊስ ነግሮ ሽጉጡን አስወሰደበት ።
+# data_UD-third_apple_2-x09-s15
+መጽሐፉን አስያዛት ።
+# data_UD-third_apple_2-x09-s16
+ከበደን እንጀራ አስበላሁት ።
+# data_UD-third_apple_2-x09-s17
+ገመዱን አስረዘመው ።
+# data_UD-third_apple_2-x09-s18
+ውድድሩን ማሸነፉ አስደሰተው ።
+# data_UD-third_apple_2-x09-s19
+ከቤት አስወጣኋት ።
+# data_UD-third_apple_2-x09-s20
+ልብስ አሳጠብኳት ።
+# data_UD-third_apple_2-x10-s1
+ከሱቅ ሱቅ ሲዞር አስመሸኝ ።
+# data_UD-third_apple_2-x10-s2
+ይህ መንገድ ወደ ግቢ ያስኬዳል ።
+# data_UD-third_apple_2-x10-s3
+ጥርሴ ቆሎ አያስበላኝም ።
+# data_UD-third_apple_2-x10-s4
+ጩኸቱ አያስተኛኝም ።
+# data_UD-third_apple_2-x10-s5
+አንበሳዎቹ ተገዳደሉ ።
+# data_UD-third_apple_2-x10-s6
+ካሳና ሀይሉ በልጅቷ ምክንያት ድንጋይ ተወራውሩ ።
+# data_UD-third_apple_2-x10-s7
+መንግስት ህዝቡ እርስ በእርስ አጋደለ ።
+# data_UD-third_apple_2-x10-s8
+ተሽቀዳደሙ ።
+# data_UD-third_apple_2-x10-s9
+ካሳ እጁን ታጠበ ።
+# data_UD-third_apple_2-x10-s10
+ሰብሮ ወረወረው ።
+# data_UD-third_apple_2-x10-s11
+ለወንድሟ ፍየል ገዝታ ወደጎጃም ለሰርግ ትመጣለች ።
+# data_UD-third_apple_2-x10-s12
+ካሳ ወደከተማ ሄዶ ፣ ልብስ ገዝቶ ፣ ተመለሰ ።
+# data_UD-third_apple_2-x10-s13
+በሬ ገዝቶ ፣ አርዶ በላ ።
+# data_UD-third_apple_2-x10-s14
+ፈረስ ከገዛላት በኋላ መጣ ።
+# data_UD-third_apple_2-x10-s15
+ምሳውን በልቶ ወደ ገበያ ሄደ ።
+# data_UD-third_apple_2-x10-s16
+ምሳውን በልቶ ይሄዳል ።
+# data_UD-third_apple_2-x10-s17
+እናቴን ጠይቄ ልመጣና አገር ቤት እሄዳለሁ ።
+# data_UD-third_apple_2-x10-s18
+ለምን መጥቶ አይነግረኝም ?
+# data_UD-third_apple_2-x10-s19
+በልተህ ሳህኑን የማታጥበው ለምንድን ነው ?
+# data_UD-third_apple_2-x10-s20
+ሰርቆ ያዙት ።
+# data_UD-third_apple_2-x11-s1
+ወንበር ላይ ተቀምጦ ውሃ አፈሰሰችበት ።
+# data_UD-third_apple_2-x11-s2
+መጽሐፉን ከወንበር ላይ አንስታ ጠረጴዛው ላይ አኖረችው ።
+# data_UD-third_apple_2-x11-s3
+ሶስት ወር አስረው ለቀቁት ።
+# data_UD-third_apple_2-x11-s4
+አለና መለሰለት ።
+# data_UD-third_apple_2-x11-s5
+በቃኝ አለና ተነስቶ ሄደ ።
+# data_UD-third_apple_2-x11-s6
+ዘሎ ወረደ ።
+# data_UD-third_apple_2-x11-s7
+ባሥር ደቂቃ ውስጥ እመጣለሁ አለ ።
+# data_UD-third_apple_2-x11-s8
+ሞተሩን ልጠግነው እችላለሁ ብሎ ነበር ።
+# data_UD-third_apple_2-x11-s9
+አተርፍ ሲል አጐደለ ።
+# data_UD-third_apple_2-x11-s10
+የስራ ጓደኞቼ ከኔ ጋር አንሰራም አሉ ።
+# data_UD-third_apple_2-x11-s11
+ለፋሲካ አዲስ ልብስ ያስፈልገኛል አለች ።
+# data_UD-third_apple_2-x11-s12
+ወንጀለኛ አስጠግተሃል ተብሎ ተይዞ ነበር ።
+# data_UD-third_apple_2-x11-s13
+ኩባንያው ውሉን አልሰርዝም አለ ።
+# data_UD-third_apple_2-x11-s14
+ምናልባት አልመጣም ስላለ አልጠበቅሁትም ።
+# data_UD-third_apple_2-x11-s15
+ልጁን ማገዶ አምጣ ብለውት ወደ ዱር ለመሄድ አልደፍር አለ ።
+# data_UD-third_apple_2-x11-s16
+በረኛው አላስገባም አለው ።
+# data_UD-third_apple_2-x11-s17
+አልታዘዘኝ አለ ።
+# data_UD-third_apple_2-x11-s18
+አላግዘኝ አለች ።
+# data_UD-third_apple_2-x11-s19
+ከሰዓት በኋላ አግዝሻለሁ ብሏል በላት ።
+# data_UD-third_apple_2-x11-s20
+ከድልድዩ እዘላለሁ ቢል አታደርገውም ብለው ገፋፉት ።
+# data_UD-third_apple_2-x12-s1
+ምን አድርግ እንደምትለኝ እርግጠኛ አይደለሁም ።
+# data_UD-third_apple_2-x12-s2
+መምህሩ ተማሪዎቹን ተሰለፉ አላቸው ።
+# data_UD-third_apple_2-x12-s3
+ደግ ሰው ነው ይባላል ።
+# data_UD-third_apple_2-x12-s4
+እረኛውን አይቼዋለሁ ብሎ የምስክርነት ቃሉን ሰጠ ።
+# data_UD-third_apple_2-x12-s5
+በሳምንት አንድ ሺህ ብር አገኛለሁ ሲል ተጠራጠርኩት ።
+# data_UD-third_apple_2-x12-s6
+ባንዳንድ ባህል መለኵሴዎች በድንግልና እንኖራለን ብለው መማል አለባቸው ።
+# data_UD-third_apple_2-x12-s7
+ገንዘብ ያበድርሃል ብሎ የነገረህ ማን ነው ?
+# data_UD-third_apple_2-x12-s8
+አትምጣ ብለህ ካልጻፍክልኝ በስተቀር ማክሰኞ እመጣለሁ ።
+# data_UD-third_apple_2-x12-s9
+ሰዎች ሰይጣን አለ ብለው ያምናሉ ።
+# data_UD-third_apple_2-x12-s10
+ምን ብዬ ልመልስላቸው ?
+# data_UD-third_apple_2-x12-s11
+ተከሳሹ ሰው ጥፋተኛ ነህ ተብሎ ተፈረደበት ።
+# data_UD-third_apple_2-x12-s12
+ተቀምጠን እንሠራለን ።
+# data_UD-third_apple_2-x12-s13
+ነቅታ መቆየት አልቻለችም ።
+# data_UD-third_apple_2-x12-s14
+ዝናብ ዘንቦ መሬቱ ረጥቦ ነበር ።
+# data_UD-third_apple_2-x12-s15
+አቶ ካሳ ለእስራ~ዘመኑ አስር ችግኝ ተከሉ ።
+# data_UD-third_apple_2-x12-s16
+አስቴር ክፉ ሴት ነች ።
+# data_UD-third_apple_2-x12-s17
+ስጋው ጮማ ነው ።
+# data_UD-third_apple_2-x12-s18
+ልጆቹ ክፍል ውስጥ አሉ ።
+# data_UD-third_apple_2-x12-s19
+ካሳ ረዥም ይመስላል ።
+# data_UD-third_apple_2-x12-s20
+ሴቶቹ ሰከሩ ።
+# data_UD-third_apple_2-x12-s21
+ሴቶቹ ሰካራም ሆኑ ።
+# data_UD-third_apple_2-x13-s1
+ካሳ ተደሰተ ።
+# data_UD-third_apple_2-x13-s2
+ልጆቹ ተበሳጩ ።
+# data_UD-third_apple_2-x13-s3
+አስቴር ወደ ቤት ገባች ።
+# data_UD-third_apple_2-x13-s4
+ልጁ በር ላይ ቆመ ።
+# data_UD-third_apple_2-x13-s5
+ዶሮዎቹ ቆጥ ላይ ሰፈሩ ።
+# data_UD-third_apple_2-x13-s6
+ልጆቹ ወንበር ላይ ተቀመጡ ።
+# data_UD-third_apple_2-x13-s7
+አንበሳው ተንጠራራ ።
+# data_UD-third_apple_2-x13-s8
+ካሳ ንብረት ተረከበ ።
+# data_UD-third_apple_2-x13-s9
+ተማሪው ደብተሩን ቀደደው ።
+# data_UD-third_apple_2-x13-s10
+አስተማሪው ለተማሪዎች መፅሀፍ ሰጣቸው ።
+# data_UD-third_apple_2-x13-s11
+ካሳ ለወታደሮች ገንዘብ ሰጠ ።
+# data_UD-third_apple_2-x13-s12
+ካሳ ነገር አስቧል ።
+# data_UD-third_apple_2-x13-s13
+አስቴር ጥፋትዋን አምናለች ።
+# data_UD-third_apple_2-x13-s14
+አስቴር ገንዘብ ትፈልጋለች ።
+# data_UD-third_apple_2-x13-s15
+አስተማሪው ስራ ይጠላል ።
+# data_UD-third_apple_2-x13-s16
+ንጉስን ያከብሩአል ።
+# data_UD-third_apple_2-x13-s17
+አስቴር ተሹማለች ።
+# data_UD-third_apple_2-x13-s18
+ቡናው ተወቅጦአል ።
+# data_UD-third_apple_2-x13-s19
+ንብረት ይዘረፉአል ።
+# data_UD-third_apple_2-x13-s20
+ወተቱ ፈልቷል ።
+# data_UD-third_apple_2-x14-s1
+ካሳ በግ አልገዛም እንዴ ?
+# data_UD-third_apple_2-x14-s2
+አስቴር ክፉ ሴት አይደለችም ።
+# data_UD-third_apple_2-x14-s3
+ወይዘሮ አስቴር ለአውዳ ዓመት ምንም ልብስ አልገዙም ።
+# data_UD-third_apple_2-x14-s4
+አስቴር ምንም ልብስ አልገዛችም ።
+# data_UD-third_apple_2-x14-s5
+ማንም አልመጣም ።
+# data_UD-third_apple_2-x14-s6
+ከእናቱ ጋር ምሳ የበላው ካሳ አይደለም ።
+# data_UD-third_apple_2-x14-s7
+ካሳ ከእናቱ ጋር የበላው ምሳ አይደለም ።
+# data_UD-third_apple_2-x14-s8
+ብዙ ህፃናት ያለረዳት ያድጋሉ ።
+# data_UD-third_apple_2-x14-s9
+ካሳ ያለትዳር ብዙ ጊዜ ኖሮአል ።
+# data_UD-third_apple_2-x14-s10
+ማንም ለማንም ምንም አይሰጥም ።
+# data_UD-third_apple_2-x14-s11
+ነጋዴው ከስሮ ቀረ ።
+# data_UD-third_apple_2-x14-s12
+ማንም ለምሳ አልቀረም ።
+# data_UD-third_apple_2-x14-s13
+ተማሪው ካልተጠነቀቁ ብዙ ስሕተት ሳይሠራ አይቀርም ።
+# data_UD-third_apple_2-x14-s14
+ምንም እንኳ ሥራ ቢበዛበት መምጣቱ አይቀርም ።
+# data_UD-third_apple_2-x14-s15
+ወደድክም ጠላህም እሷ እንደሆን መምጣቷ አይቅርም ።
+# data_UD-third_apple_2-x14-s16
+ገንዘብ ይኖረኝ አይኖረኝ እንደሆን አላውቅም ።
+# data_UD-third_apple_2-x14-s17
+ለበዓል ምን ገዛህ ?
+# data_UD-third_apple_2-x14-s18
+ካሳ መጣ እንዴ ?
+# data_UD-third_apple_2-x14-s19
+ዓመት በዓል ደረሰ እንዴ ?
+# data_UD-third_apple_2-x14-s20
+ስልክ ደወልክ ወይ ?
+# data_UD-third_apple_2-x15-s1
+ማን ምን አደረገ ?
+# data_UD-third_apple_2-x15-s2
+ማን ምን በላ ?
+# data_UD-third_apple_2-x15-s3
+እስካሁን እንዴት እዚህ ቆየህ ?
+# data_UD-third_apple_2-x15-s4
+ወንዙ ምን ያህል ይረዝማል ?
+# data_UD-third_apple_2-x15-s5
+አዲስ አበባ ነገ ትሄዳለህ ?
+# data_UD-third_apple_2-x15-s6
+ጠጅ አምጣ !
+# data_UD-third_apple_2-x15-s7
+ተው !
+# data_UD-third_apple_2-x15-s8
+ካሳ ልብስ ይጠብ !
+# data_UD-third_apple_2-x15-s9
+ልብሱን እጠበው !
+# data_UD-third_apple_2-x15-s10
+ልብስ እጠብ !
+# data_UD-third_apple_2-x15-s11
+በል ብላ !
+# data_UD-third_apple_2-x15-s12
+ልብስ ትጠብ !
+# data_UD-third_apple_2-x15-s13
+እንጀራ ትጋግር !
+# data_UD-third_apple_2-x15-s14
+ላንድ ሰዓት ያህል እዚህ ብትቆይ ?
+# data_UD-third_apple_2-x15-s15
+ጨውን ብታቀብለኝ ?
+# data_UD-third_apple_2-x15-s16
+ሹራቡን ልበሺ !
+# data_UD-third_apple_2-x15-s17
+መኝታ ቤት ሂድና ኮቴን አምጣልኝ !
+# data_UD-third_apple_2-x15-s18
+ምነው ቢበሉ !
+# data_UD-third_apple_2-x15-s19
+የካሳ ቤት የመስራት ዓላማ ገረመኝ ።
+# data_UD-third_apple_2-x15-s20
+አስቴርን የሰደቡአት ልጆች ታሰሩ ።
+# data_UD-third_apple_2-x16-s1
+አስቴር ገንዘብ የላከችለት ሰው ዘገየ ።
+# data_UD-third_apple_2-x16-s2
+የአስቴር ቤት የመስራት አላማ ከሸፈ ።
+# data_UD-third_apple_2-x16-s3
+ካሳ የሄደበት ሀገር ሩቅ ነው ።
+# data_UD-third_apple_2-x16-s4
+አስቴር ሰጥታኝ የነበረው መኪና ያምራል ።
+# data_UD-third_apple_2-x16-s5
+ብርጭቆ የሰበረው ልጅ መጣ ።
+# data_UD-third_apple_2-x16-s6
+ካሳ የገባበት ቤት ጠባብ ነው ።
+# data_UD-third_apple_2-x16-s7
+የልጁ ቤት እዚህ ነው ።
+# data_UD-third_apple_2-x16-s8
+ወድቆ የነበረው ቤት የአስተማሪው ነው ።
+# data_UD-third_apple_2-x16-s9
+በእድሜ እንደ አንተ ካሉ ብላቴኖች ይልቅ ፊታችሁ ከስቶ ያየ እንደሆነ ያዝናል ።
+# data_UD-third_apple_2-x16-s10
+የዘላለምን ሒወትን እንዳገኝ ምን ላድርግ ?
+# data_UD-third_apple_2-x16-s11
+ሥራውን ሊጨርስ ሲል ስሕተት መሥራቱን ተገነዘበ ።
+# data_UD-third_apple_2-x16-s12
+የኢኮኖሚው ውድቀት የማይቀር ነው እንበል ።
+# data_UD-third_apple_2-x16-s13
+ኩባንያው እስከላባረረው ድረስ ይቆያል ።
+# data_UD-third_apple_2-x16-s14
+ወደ አገር ቤት በሄድኩ ጊዜ ማንንም አልጠየኩም ።
+# data_UD-third_apple_2-x16-s15
+ትምህርት ቤት በሄድኩ ቁጥር ኳስ እጫወታለሁ ።
+# data_UD-third_apple_2-x16-s16
+ምን ያህል ጊዜ አየሃት ?
+# data_UD-third_apple_2-x16-s17
+ገንዘቡን ማን እንደሰጣት ንገረን ?
+# data_UD-third_apple_2-x16-s18
+ከጥቂት ልምምድ በኋላ የተሻለ አድርገው ሠሩት ።
+# data_UD-third_apple_2-x16-s19
+ምሳውን ያልበላ እንደሆነ እንዲጫወት አትፍቀድለት ።
+# data_UD-third_apple_2-x16-s20
+ከተማ የምትሄድ እንደሆነ ጥራኝ ።
+# data_UD-third_apple_2-x17-s1
+የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+# data_UD-third_apple_2-x17-s2
+በጫካ ውስጥ የምትጓዝ ከሆነ መሣሪያ መያዝ አለብህ ።
+# data_UD-third_apple_2-x17-s3
+በምን ያርሳሉ ? በበሬ ነዋ ።
+# data_UD-third_apple_2-x17-s4
+እንጀራውን ምን አረግሽው ? በላሁታ ።
+# data_UD-third_apple_2-x17-s5
+ዛሬ ለምን አልመጣም ? እሁድ አይሠሩማ ።
+# data_UD-third_apple_2-x17-s6
+ሂዳ !
+# data_UD-third_apple_2-x17-s7
+እኔን ለማየት ፈልጎ ነበራ !
+# data_UD-third_apple_2-x17-s8
+ከበደ ለምን መጣ ? ሊመጣ ፈለጋ ።
+# data_UD-third_apple_2-x17-s9
+ቤት ግቡዋ ።
+# data_UD-third_apple_2-x17-s10
+ሁለት መኪኖች አየ ግን አንዱንም አልገዛም ።
+# data_UD-third_apple_2-x17-s11
+ጨውና በርበሬ ቅቤም አመጣሁ ።
+# data_UD-third_apple_2-x17-s12
+ወታደርም ባለቅኔም ነው ።
+# data_UD-third_apple_2-x17-s13
+ይህ አልጋም መቀመጫም ይሆናል ።
+# data_UD-third_apple_2-x17-s14
+ስሕተቱ የኔም ያንተም ነው ።
+# data_UD-third_apple_2-x17-s15
+ከዚህም ትንሽ ልውሰድ ?
+# data_UD-third_apple_2-x17-s16
+ዓለሙ ከሄደ ተስፋዬም ይሄዳል ።
+# data_UD-third_apple_2-x17-s17
+አምስቱም ተበላ ።
+# data_UD-third_apple_2-x17-s18
+ስንዴ እህል ነው ፣ ገብስና ጤፍም እንዲሁ ።
+# data_UD-third_apple_2-x17-s19
+እርሱም ደግሞ ይሄዳል ።
+# data_UD-third_apple_2-x17-s20
+ማንበብም መጻፍም አይችልም ።
+# data_UD-third_apple_2-x18-s1
+ጊዜም ሆነ ገንዘብ የለኝም ።
+# data_UD-third_apple_2-x18-s2
+አንተ ካልመጣህ እሱም አይመጣም ።
+# data_UD-third_apple_2-x18-s3
+እሱም አያውቀውም ።
+# data_UD-third_apple_2-x18-s4
+ኃይሉ መምጣት አይችልም እኔም እንዲሁ ።
+# data_UD-third_apple_2-x18-s5
+አያታችን በዕድሜ እየገፉ ቢሄዱም ለዛቸው አልጠፋም ።
+# data_UD-third_apple_2-x18-s6
+ምግቡ ጥሩ ባይሆንም ራባቸውንን አስታገሠልን ።
+# data_UD-third_apple_2-x18-s7
+የትም ብትሄድ ለኔ ደብዳቤ መጻፍ አትርሳ ።
+# data_UD-third_apple_2-x18-s8
+ይህማ ቢሆን መልካም ነው ።
+# data_UD-third_apple_2-x18-s9
+አስር ዓመት ቢፈጅም ትምህርቴን እጨርሳለሁ እንጂ ወደ ሀገሬስ አልመለስም ።
+# data_UD-third_apple_2-x18-s10
+እንግዲያስ እመጣለሁ ።
+# data_UD-third_apple_2-x18-s11
+ከኛ ጋር እንደምትቆይ መቼስ የታወቀ ነው ።
+# data_UD-third_apple_2-x18-s12
+ምንስ ቢሆን ትመታታለህ ?
+# data_UD-third_apple_2-x18-s13
+ሚስቱስ ብትሆን ጎበዝ ገበሬ ናት ።
+# data_UD-third_apple_2-x18-s14
+ወደ አባትሽ ቤት ብትመለሽስ ?
+# data_UD-third_apple_2-x18-s15
+በእግራችን እንሂድ ወይስ ባውቶቢስ ?
+# data_UD-third_apple_2-x18-s16
+ይህሳ ምንድን ነው ?
+# data_UD-third_apple_2-x18-s17
+ብዙዎችን ለማስተማርሳ ምን ዘዴ አገኛለሁ ?
+# data_UD-third_apple_2-x18-s18
+እግዚአብሔር ሰውን በአምሳሉ ፈጠረ ።
+# data_UD-third_apple_2-x18-s19
+በእውነት አንተን ምን እንደማደርግ አላውቅም ።
+# data_UD-third_apple_2-x18-s20
+ቁርሱን ዳቦ ይበላል ።
+# data_UD-third_apple_2-x19-s1
+ብርጭቆውን ወተት ጠጣበት ።
+# data_UD-third_apple_2-x19-s2
+ሙግቴን ተረታሁ ።
+# data_UD-third_apple_2-x19-s3
+ዐሥር~አለቃው ባለመታዘዙ ማዕረጉን ተገፈፈ ።
+# data_UD-third_apple_2-x19-s4
+ልጁን ቤቱን አሳየው ።
+# data_UD-third_apple_2-x19-s5
+ተራራውን መውጣት ብዙ ጥረት ይጠይቃል ።
+# data_UD-third_apple_2-x19-s6
+እሱን ብሆን አላደርገውም ነበር ።
+# data_UD-third_apple_2-x19-s7
+ጥሩ ሞትን ሞተ ።
+# data_UD-third_apple_2-x19-s8
+ራቁቱን ተኛ ።
+# data_UD-third_apple_2-x19-s9
+ለግብዣ ብቻውን መጣ ።
+# data_UD-third_apple_2-x19-s10
+ባዶ~እጁን መጣ ።
+# data_UD-third_apple_2-x19-s11
+ደረቁን አትብላ !
+# data_UD-third_apple_2-x19-s12
+ቢላው በቀለን እጁን ቆረጠው ።
+# data_UD-third_apple_2-x19-s13
+ሜዳ ሜዳውን ሄደ ።
+# data_UD-third_apple_2-x19-s14
+እባክህ ወንድም የዚህ ቦታ ስም ማን ይባላል ?
+# data_UD-third_apple_2-x19-s15
+እነሆ ልጄ ፈተናውን በከፍተኛ ውጤት አለፈ ።
+# data_UD-third_apple_2-x19-s16
+ፈተናውን በማለፍህ እንኳን ደስ ያለህ !
+# data_UD-third_apple_2-x19-s17
+የሷ ጠላ እንዲህ ነው እንዴ ?
+# data_UD-third_apple_2-x19-s18
+ለምን እንደሆነ እንጃ ባየሁት ቁጥር ቱግ እላለሁ ።
+# data_UD-third_apple_2-x19-s19
+የትምህርቱን አስፈላጊነት እንዴት እንደምገልጽ እንጃልኝ ።
+# data_UD-third_apple_2-x19-s20
+አባትህ የመጣ እንደሆነ እንጃልህ !
+# data_UD-third_apple_2-x20-s1
+ልጅቷ እኮ ቆንጆ ናት ።
+# data_UD-third_apple_2-x20-s2
+አዬ እባክህ ምንም አልተሻለውም ።
+# data_UD-third_apple_2-x20-s3
+እፎይ ይኸው በመጨረሻ ደረስን ።
+# data_UD-third_apple_2-x20-s4
+ይህ ጉዳይ እጅግ አሳሳቢ ነው ።
+# data_UD-third_apple_2-x20-s5
+ከሳሾቻችን በቀጠሮ አልቀረቡም ።
+# data_UD-third_apple_2-x20-s6
+ላባቱ ታዛዥ ነበር ።
+# data_UD-third_apple_2-x20-s7
+ይህ መንግስት የሕዝቡን ፍላጎት ካላሟላ አንድ ቀን ወዳቂ ነው ።
+# data_UD-third_apple_2-x20-s8
+ይቺ ሴትዮ እህል ካልበላች ሟች ናት ።
+# data_UD-third_apple_2-x20-s9
+ይቺ አሮጌ መኪና ተሰባሪ ናት ።
+# data_UD-third_apple_2-x20-s10
+ቤትህን ሳትቆልፍ እየሄድክ አንድ ቀን እቃህ ሁሉ ተወሳጅ ነው ።
+# data_UD-third_apple_2-x20-s11
+ወረቀቱ በቀላሉ ተቀዳጅ ነው ።
+# data_UD-third_apple_2-x20-s12
+ተፈላጊው የት አለ ?
+# data_UD-third_apple_2-x20-s13
+የከብታችን መሰረቅ በጣም አሳዘነን ።
+# data_UD-third_apple_2-x20-s14
+ሕፃን መምታት የጭካኔ ድርጊት ነው ።
+# data_UD-third_apple_2-x20-s15
+በውትድርና ሙያ ለበላይ ታዛዥ መሆን የግድ ነው ።
+# data_UD-third_apple_2-x20-s16
+በጊዜ መተኛት መብትህ ነው ።
+# data_UD-third_apple_2-x20-s17
+ፈተና መውደቄ አበሳጨኝ ።
+# data_UD-third_apple_2-x20-s18
+ባስፈራራውም ትእዛዜን መጣሱን ቀጠለ ።
+# data_UD-third_apple_2-x20-s19
+መቀለድና መቀባጠርን ይወዳል ።
+# data_UD-third_apple_2-x20-s20
+ቀይ ሹራብ መልበሴን አልወደደችውም ።
+# data_UD-third_apple_2-x21-s1
+መጽሐፉን መስረቁን አመነ ።
+# data_UD-third_apple_2-x21-s2
+በሩን መቀርቀር ረሳ ።
+# data_UD-third_apple_2-x21-s3
+አባያውን በሬ ትተህ ምነው ደህናውን መግረፍህ ?
+# data_UD-third_apple_2-x21-s4
+ምግብ እያለ ምነው አለመብላትህ ?
+# data_UD-third_apple_2-x21-s5
+ሌቱን ሙሉ ስሠራ መቆየቴን አላወቀችም ።
+# data_UD-third_apple_2-x21-s6
+ልጃቸው በጦርነት ላይ መሞቱን ተረዱ ።
+# data_UD-third_apple_2-x21-s7
+ልጁ ሱቁን መዝረፉን በተናዘዘ ጊዜ እናቱ በጣም አዘነች ።
+# data_UD-third_apple_2-x21-s8
+ቤት መሥራት ይችላል ።
+# data_UD-third_apple_2-x21-s9
+ነገ የምትመጣ መሆኑን ሰምቻለሁ ።
+# data_UD-third_apple_2-x21-s10
+መኪና በየጊዜው ካልታደሰ ብዙ የማይቆይ መሆኑ የታወቀ ነው ።
+# data_UD-third_apple_2-x21-s11
+መምጣት መቅረቱን ለማወቅ እፈልጋለሁ ።
+# data_UD-third_apple_2-x21-s12
+የሱ አዲስ አበባ መሄድ አይጠቅመንም ።
+# data_UD-third_apple_2-x21-s13
+ፈተና ለማለፍ በርትቶ ማጥናት ።
+# data_UD-third_apple_2-x21-s14
+ከዚህ የሚብስ ጊዜ አለ ማለት ነው ?
+# data_UD-third_apple_2-x21-s15
+ምን ማለትህ ነው ?
+# data_UD-third_apple_2-x21-s16
+ሚስቱን በመግደል ተከሰሰ ።
+# data_UD-third_apple_2-x21-s17
+አስተማሪው በጣም በመድከሙ ነቅቶ መቆየት አልቻለም ።
+# data_UD-third_apple_2-x21-s18
+አቧራ እንዳይነካው በማለት ሥዕሉን በጨርቅ ሸፈኑት ።
+# data_UD-third_apple_2-x21-s19
+መጽሐፉን ሳይጠይቅ ከመውሰዱ በቀር ምን አደረገህ ?
+# data_UD-third_apple_2-x21-s20
+ከመሄድ ይልቅ ብቆይ ይሻላል ።
+# data_UD-third_apple_2-x22-s1
+ከመምጣቱ ገበታ ላይ ጉብ አለ ።
+# data_UD-third_apple_2-x22-s2
+በሩን ከማለፉ ጩኸት ሰማ ።
+# data_UD-third_apple_2-x22-s3
+ብዙ ጨኸት ከመኖሩ የተነሣ ሊተኙ አልቻሉም ።
+# data_UD-third_apple_2-x22-s4
+በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደል ይደረሳል ።
+# data_UD-third_apple_2-x22-s5
+ለመጋባት ስለ መወሰናቸው የሰማሁት ነገር የለም ።
+# data_UD-third_apple_2-x22-s6
+የቦርዱ አባል እንደ መሆኑ ሁሉ የወር ገቢው ከመደበኛ ደሞዙ ዕጥፍ ነበር ።
+# data_UD-third_apple_2-x22-s7
+ዕንጨት ሲረጥብ እንደ መነፋት ይላል ።
+# data_UD-third_apple_2-x22-s8
+ጉሮሮው እንደ መድረቅ ብሏል ።
+# data_UD-third_apple_2-x22-s9
+ጽጌረዳው እንደ ማበብ ብሎ ጠወለገ ።
+# data_UD-third_apple_2-x22-s10
+አስተማሪን አለማክበር ኀጢአተኛ እንደ መሆን ይቆጠራል ።
+# data_UD-third_apple_2-x22-s11
+ሥራው ወደ ማለቁ ነው ።
+# data_UD-third_apple_2-x22-s12
+ጉዳቱን ያደረሰው ሰው የመክፈል ግዴታ አለበት ።
+# data_UD-third_apple_2-x22-s13
+አንድ የመሆኛችን ጊዜ አሁን ነው ።
+# data_UD-third_apple_2-x22-s14
+ሰውን የመናቅ ጠባዩን አልወድለትም ።
+# data_UD-third_apple_2-x22-s15
+አንተን ለማየት ጎንደር መጣሁ ።
+# data_UD-third_apple_2-x22-s16
+የመጣሁት መጽሐፉን ለሱ ለመስጠት ነው ።
+# data_UD-third_apple_2-x22-s17
+ልብስ ለመግዛት ብዬ ገበያ አልሄድም ።
+# data_UD-third_apple_2-x22-s18
+ይህን ነገር ለማረጋገጥ ስል በየቦታው ጠይቄ ነበር ።
+# data_UD-third_apple_2-x22-s19
+የታመመ ጓደኛችንን ልንጠይቅ ሄደን ነበር ።
+# data_UD-third_apple_2-x22-s20
+ይህን ሥራ የምሰራው አንተን ለማስደሰት ያህል ነው ።
+# data_UD-third_apple_2-x23-s1
+ለመግደሉ ማስረጃ የላቸውም ።
+# data_UD-third_apple_2-x23-s2
+ካባቱ ጋር ለመሄዱ ማስረጃ አለ ።
+# data_UD-third_apple_2-x23-s3
+ስምንት ያህል መጽሐፍ አሉኝ ።
+# data_UD-third_apple_2-x23-s4
+የሰጠናችሁን ምክር መከተል ነው ።
+# data_UD-third_apple_2-x23-s5
+ለዚህ መንግስ መስራት መሠቃይት ነው ።
+# data_UD-third_apple_2-x23-s6
+ገንዘብ ባይኖረኝም ተበድሬ ልብሱን ለልጄ መግዛት ነበረብኝ ።
+# data_UD-third_apple_2-x23-s7
+ቦታ ለማግኘት በጊዜ መነሣት ።
+# data_UD-third_apple_2-x23-s8
+እዳውን አለመክፈሉን አልሰማሁም ።
+# data_UD-third_apple_2-x23-s9
+ባለመምጣቱ በጣም ተገረምኩ ።
+# data_UD-third_apple_2-x23-s10
+ቀዳዳውን መወተፊያ ቡትቶ ፈልጊ ።
+# data_UD-third_apple_2-x23-s11
+እርሳሱን መቅረጫ የሚሆን ምላጭ ስጠኝ ።
+# data_UD-third_apple_2-x23-s12
+ብረት ለምድጃ መሥሪያ ያገለግላል ።
+# data_UD-third_apple_2-x23-s13
+ዐሥር ብር ጐደለኝ ።
+# data_UD-third_apple_2-x23-s14
+ይችን መታሰቢያ እንዲቀበሉኝ ።
+# data_UD-third_apple_2-x23-s15
+ዋጋውን ካልቀነስክ እቃውን አልገዛህም ።
+# data_UD-third_apple_2-x23-s16
+ጥሩ አናጢ ይወጣሃል ።
+# data_UD-third_apple_2-x23-s17
+ሳገኛቸው እሰጣቸዋለሁ ።
+# data_UD-third_apple_2-x23-s18
+ዛፉ ሥር ሄደና ተቀመጠ ።
+# data_UD-third_apple_2-x23-s19
+ፀሐይ ሳይኖር ልብሱ ምኑን ደረቀው ?
+# data_UD-third_apple_2-x23-s20
+አትሂድ ስንለው ሄዶ ታሰረና አረፈው ።
+# data_UD-third_apple_2-x24-s1
+ሹሙን በቅሎ ረገጠችው ።
+# data_UD-third_apple_2-x24-s2
+ሁለት ሹራብ ስለነበራት አንዱን ለእኅቷ ሰጠቻት ።
+# data_UD-third_apple_2-x24-s3
+በድብድብ ልሸነፍ ስል ደረሰልኝ ።
+# data_UD-third_apple_2-x24-s4
+አንድ ብርጭቆ ውሃ አምጣልኝ ።
+# data_UD-third_apple_2-x24-s5
+እናትህ ጸጉርህን አበጠረችልህ ?
+# data_UD-third_apple_2-x24-s6
+ሐኪሙ እባጩን አፈረጠለት ።
+# data_UD-third_apple_2-x24-s7
+ወገቤን ቀስ ብለሽ እሺልኝ ።
+# data_UD-third_apple_2-x24-s8
+ደብተርህን ላክልኝ ።
+# data_UD-third_apple_2-x24-s9
+እንድትመጣ ሰው ልልክብህ ነበር ።
+# data_UD-third_apple_2-x24-s10
+ባጠገቡ ለማለፍ ስሞክር መንገዱን ዘጋብኝ ።
+# data_UD-third_apple_2-x24-s11
+መጥፎው ያየር ሁኔታ በሽታዋን አባሰባት ።
+# data_UD-third_apple_2-x24-s12
+መንግስት ቀለቡን ቀነሰበት ።
+# data_UD-third_apple_2-x24-s13
+ጐማዬን ምስማር በሳብኝ ።
+# data_UD-third_apple_2-x24-s14
+ለሆድ ቁርጠት ብላበት ።
+# data_UD-third_apple_2-x24-s15
+ለእሷ ከትዳር ይልቅ ሥራዋ ይበልጥባታል ።
+# data_UD-third_apple_2-x24-s16
+ሐውልቱ የቆመበት ስፍራ ከዚህ ሩቅ አይደለም ።
+# data_UD-third_apple_2-x24-s17
+ክረምት ብዙ ዝናብ የሚዘንብበት ወራት ነው ።
+# data_UD-third_apple_2-x24-s18
+ሊያመልጥ የሚችልበትን ዘዴ ፈጠረ ።
+# data_UD-third_apple_2-x24-s19
+ወደ መጣበት አገር ይመለስ ።
+# data_UD-third_apple_2-x24-s20
+በሰጠሁት ገንዘብ ከረሜላ ገዛበት ።
+# data_UD-third_apple_2-x25-s1
+ሱቅ እሁድ እሁድ ክፍት መሆን አለበት ።
+# data_UD-third_apple_2-x25-s2
+መኪና ነጂዎች ሆስፒታል ጋ ጥሩምባ ማሰማት የለባቸውም ።
+# data_UD-third_apple_2-x25-s3
+ድል የተመታው ጦር መሣሪያውን ማስረከብ ነበረበት ።
+# data_UD-third_apple_2-x25-s4
+ዕቅዳችንን መለወጥ ይኖርብናል ።
+# data_UD-third_apple_2-x25-s5
+ከሐኪሙ ጋር የነበረኝን ቀጠሮ ማፍረስ ግድ ሆነብኝ ።
+# data_UD-third_apple_2-x25-s6
+ጠበቃ ማማከር የግድ አስፈላጊ ነበር ።
+# data_UD-third_apple_2-x25-s7
+እዚህ ብቆም ምን አለበት ?
+# data_UD-third_apple_2-x25-s8
+ወንዝ ያለበት የትኛውም ቦታ ሽርሽር መሄድ ደስ ይለዋል ።
+# data_UD-third_apple_2-x25-s9
+ፍርሃት እነበረበት አስቀረው ።
+# data_UD-third_apple_2-x25-s10
+መነጽሬን የጣልኩበትን ምነው ባወቅሁ ።
+# data_UD-third_apple_2-x25-s11
+ትምህርት በሌለበት ጧት ተነስታ የት ሄደች ?
+# data_UD-third_apple_2-x25-s12
+የተጣሉበትን ሳታውቅ ጣልቃ አትግባ ።
+# data_UD-third_apple_2-x25-s13
+ክርስቶስ በተሰቀለበት ቀን ፀሐይ ጨልማ ነበር ።
+# data_UD-third_apple_2-x25-s14
+ተማሪዎቹ በየተቀመጡበት ሥራ በመሥራት ላይ ናቸው ።
+# data_UD-third_apple_2-x25-s15
+ለንጉሱ ቀብር ሰው ከያለበት መጣ ።
+# data_UD-third_apple_2-x25-s16
+በሄደበት ሁሉ እቃ ይገዛል ።
+# data_UD-third_apple_2-x25-s17
+በሄደበት ሁሉ ልጆቹን ይዞ ይሄዳል ።
+# data_UD-third_apple_2-x25-s18
+በሄደበት ሁሉ ልጆቹን ይዞ ይሄዳል ።
+# data_UD-third_apple_2-x25-s19
+እሱ ባለበት ብድሩን እከፍለዋለሁ ።
+# data_UD-third_apple_2-x25-s20
+ፈረሱን ካሉበት ዘንድ ወሰድኩት ።
+# data_UD-third_apple_2-x26-s1
+ሚስጥሩ ገባኝ ።
+# data_UD-third_apple_2-x26-s2
+በቅሎዎቹ ስለደከሙ ጉዞውን አንቀጥል ።
+# data_UD-third_apple_2-x26-s3
+እሱ አባቱን ይመስለዋል ።
+# data_UD-third_apple_2-x26-s4
+ነገ የሚመጣ ይመስለኛል ።
+# data_UD-third_apple_2-x26-s5
+የራባት ትመስላለች ።
+# data_UD-third_apple_2-x26-s6
+ብርድ ይሰማኛል ።
+# data_UD-third_apple_2-x26-s7
+ከመኪና ስለወደቅሁ ያመኛል ።
+# data_UD-third_apple_2-x26-s8
+ከበቀለ ሥራ የአልማዝ ይሻላል ።
+# data_UD-third_apple_2-x26-s9
+ሙቀት ስለበዛ በጣም ጠምቶኛል ።
+# data_UD-third_apple_2-x26-s10
+በሙቀቱ ምክንያት ነሰረኝ ።
+# data_UD-third_apple_2-x26-s11
+በእንዲህ ሁኔታ የበሉት ምግብ አያረካም ።
+# data_UD-third_apple_2-x26-s12
+በዚህ ድልድይ ላይ ሲያልፉ ቀረጥ መክፈል ያስፈልጋል ።
+# data_UD-third_apple_2-x26-s13
+የሰው ዕቃ ሳይጠይቁ መውሰድ የስርቆት ያህል ይቆጠራል ።
+# data_UD-third_apple_2-x26-s14
+በጫካው ዳር ዳር አጋዘን ይታያል ።
+# data_UD-third_apple_2-x26-s15
+ሦስት ቀን ይኬድና ባራተኛው ይደረሳል ።
+# data_UD-third_apple_2-x26-s16
+እዚህ አገር ያልተደሰቱ የትም አይደሰቱ ።
+# data_UD-third_apple_2-x26-s17
+አራት መጽሐፍ አሉኝ ።
+# data_UD-third_apple_2-x26-s18
+አስተማሪው ሦስት ልጆች አሉት ።
+# data_UD-third_apple_2-x26-s19
+ያለኝ ቤት ትንሽ ነው ።
+# data_UD-third_apple_2-x26-s20
+ልጅ እንዲኖርው ይፈልጋል ።
+# data_UD-third_apple_2-x27-s1
+ብር በምታገኝበት ጊዜ ትከፍልሃለች ።
+# data_UD-third_apple_2-x27-s2
+ነገ ገንዘብ አገኛለሁ ።
+# data_UD-third_apple_2-x27-s3
+ነገ የራሴ ቤት ይኖረኛል ።
+# data_UD-third_apple_2-x27-s4
+አብሬያት ሲኒማ ብሄድ ግድ የለኝም ።
+# data_UD-third_apple_2-x27-s5
+ገንዘብ ሳይኖረኝ ሲኒማ አልሄድም ።
+# data_UD-third_apple_2-x27-s6
+መጽሐፎች አልነበሩኝም ።
+# data_UD-third_apple_2-x27-s7
+ዓይናፋር ልጃገረድ ብዙ ጓደኞች አይኖሯትም ።
+# data_UD-third_apple_2-x27-s8
+ግድግዳውን መራረገ ።
+# data_UD-third_apple_2-x27-s9
+ጥይቱ መስታወቱን ሰባበረው ።
+# data_UD-third_apple_2-x27-s10
+የመሬቱ መንቀጥቀጥ ብዙ ቋጥኞችን ፈነቃቀለ ።
+# data_UD-third_apple_2-x27-s11
+መብረቁ ዛፉን ሰነጣጠቀው ።
+# data_UD-third_apple_2-x27-s12
+ዶሮውን ገነጣጥላ ድስት ውስጥ ጨመረችው ።
+# data_UD-third_apple_2-x27-s13
+ቀጭኑ የሸረሪት ድር ተበጣጠሰ ።
+# data_UD-third_apple_2-x27-s14
+መጽሐፎቹ በወለሉ ላይ ተበታትነው ነበር ።
+# data_UD-third_apple_2-x27-s15
+ወንበሮቹን ለያያቸው ።
+# data_UD-third_apple_2-x27-s16
+እናትየዋ አሻንጉሊቶቹን ለልጆቹ አከፋፈለች ።
+# data_UD-third_apple_2-x27-s17
+ይህን ቲያትር በመለማመድ ላይ ነን ።
+# data_UD-third_apple_2-x27-s18
+ሐኪሙ የትርፍ~አንጀት በሽታ እንዳለብኝ ለማወቅ ሆዴን ደባበሰ ።
+# data_UD-third_apple_2-x27-s19
+ከብት አርቢዎች እየተጓጓዙ የሚኖሩ ሕዝብ ናቸው ።
+# data_UD-third_apple_2-x27-s20
+አስተማሪውን አሞጋገሰው ።
+# data_UD-third_apple_2-x28-s1
+እዚህ ከራርሞ ሄደ ።
+# data_UD-third_apple_2-x28-s2
+ነጋዴው ከሳስሯል ።
+# data_UD-third_apple_2-x28-s3
+ዝሆን አንበሳውን ረጋገጠው ።
+# data_UD-third_apple_2-x28-s4
+በብዙ አምባጓሮ የተነሣ ፊቱ ተቦጫጭሯል ።
+# data_UD-third_apple_2-x28-s5
+ልጆቹን ሰባሰበና ከተማ ገባ ።
+# data_UD-third_apple_2-x28-s6
+ደብዳቤውን አጣጥፎ ኪሱ ከተተ ።
+# data_UD-third_apple_2-x28-s7
+ወሬው ተደፋፈነ ።
+# data_UD-third_apple_2-x28-s8
+እንግዶቹ ከመምጣታቸው በፊት ብትለባብሺ ይሻላል ።
+# data_UD-third_apple_2-x28-s9
+አጋዘኖች በኢትዮጵያ ሜዳዎች ላይ ይዘዋወራሉ ።
+# data_UD-third_apple_2-x28-s10
+የኔ~ቢጤው ሲለማምን ውሎ ቤተ ክርስቲያን ያድራል ።
+# data_UD-third_apple_2-x28-s11
+ጧዋቱን በሙሉ ስላላክ ነበር ።
+# data_UD-third_apple_2-x28-s12
+እንጨቱን ቆራረጠው ።
+# data_UD-third_apple_2-x28-s13
+ሹሮ ሠራርታ ምሳዋን በላች ።
+# data_UD-third_apple_2-x28-s14
+ምሳውን በላላና ሄደ ።
+# data_UD-third_apple_2-x28-s15
+ቁርስ ቀማምሳ ልብስ አጠባ ያዘች ።
+# data_UD-third_apple_2-x28-s16
+ሲዘንብ አድሮ መሬቱ ረጣጥቧል ።
+# data_UD-third_apple_2-x28-s17
+ቀለብ ስትገዛዛ ዋለች ።
+# data_UD-third_apple_2-x28-s18
+እየሰራራ ራሱን ችሏል ።
+# data_UD-third_apple_2-x28-s19
+ስለ ጉዳዩ ተነጋገርን ።
+# data_UD-third_apple_2-x28-s20
+ልብስ ተለዋወጡ ።
+# data_UD-third_apple_2-x29-s1
+ሰውየው ከሌባው ጋር ተናነቀ ።
+# data_UD-third_apple_2-x29-s2
+ከኔ ባለቤት ጋር ትተዋወቁ ኖሯል ?
+# data_UD-third_apple_2-x29-s3
+ይህ ውሻ ተናካሽ ነው ።
+# data_UD-third_apple_2-x29-s4
+መሬቱ አረም አበቀለ ።
+# data_UD-third_apple_2-x29-s5
+ውሃውን አፈላ ።
+# data_UD-third_apple_2-x29-s6
+የልጁን ቁስል ሐኪሙ አዳነው ።
+# data_UD-third_apple_2-x29-s7
+ከብቶቹን ለግጦሽ ማዶ ካለው ሜዳ አዋላቸው ።
+# data_UD-third_apple_2-x29-s8
+ደስታ ዓይኗን አበራው ።
+# data_UD-third_apple_2-x29-s9
+ልብሱን አስወሰደው ።
+# data_UD-third_apple_2-x29-s10
+ጠላቱን አስገደለው ።
+# data_UD-third_apple_2-x29-s11
+ቤቱን አስጠበቀ ።
+# data_UD-third_apple_2-x29-s12
+መጽሐፉን አስያዘኝ ።
+# data_UD-third_apple_2-x29-s13
+ነጋዴዎቹን ሸቀጥ አለዋወጣቸው ።
+# data_UD-third_apple_2-x29-s14
+ብርጭቆ ሲያጥብ ያጋጫል ።
+# data_UD-third_apple_2-x29-s15
+ያዝ ለቀቅ አደረገ ።
+# data_UD-third_apple_2-x29-s16
+ይህን ጥያቄ ካነሱት ታጋዮች ግምባር ቀደሙ መለስ ዜናዊ ነው ።
+# data_UD-third_apple_2-x29-s17
+እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?
+# data_UD-third_apple_2-x29-s18
+ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?
+# data_UD-third_apple_2-x29-s19
+እስከ ነገ ብትቆይስ ?
+# data_UD-third_apple_2-x29-s20
+ከአስቴር የበለጠ ወፍራም ሴት ናት ።
+# data_UD-third_apple_2-x30-s1
+ካሳ ከአስቴር የበለጠች ወፍራም ሚስት አለችው ።
+# data_UD-third_apple_2-x30-s2
+ገነት ካሳ ያገባት ሴት ከአስቴር የበለጠች ወፍራም እንደሆነች ታውቃለች ።
+# data_UD-third_apple_2-x30-s3
+ትምህርቷን መጨረስዋ ነው ።
+# data_UD-third_apple_2-x30-s4
+ትናንት ለመጣው ልጅ ገነዘብ ላኩ ።
+# data_UD-third_apple_2-x30-s5
+ከአንገት በላይ ህክምና ተጀመረ ።
+# data_UD-third_apple_2-x30-s6
+ሰዎች እንደ አሳ በባህር ይኖራል ።
+# data_UD-third_apple_2-x30-s7
+አስቴር የሰበረችው ምንድን ነው ?
+# data_UD-third_apple_2-x30-s8
+አስቴርን የሰደቡዋት እነማን ናቸው ?
+# data_UD-third_apple_2-x30-s9
+አስቴር የሄደችበት መኪና ምንድን ነው ?
+# data_UD-third_apple_2-x30-s10
+አስቴር የሄደችበት ምክንያት ምንድን ነው ?
+# data_UD-third_apple_2-x30-s11
+አስቴር የሄደችበት ሀገር የት ነው ? ወዴት ነው ?
+# data_UD-third_apple_2-x30-s12
+አስቴር የመጣችው ከየት ነው ?
+# data_UD-third_apple_2-x30-s13
+በቀለ ማንን አየ ?
+# data_UD-third_apple_2-x30-s14
+የትኛው ልጅ መጣ ?
+# data_UD-third_apple_2-x30-s15
+ለመፃፍ ምን ጊዜ አገኘ ?
+# data_UD-third_apple_2-x30-s16
+ሌላስ የት ሄድክ ?
+# data_UD-third_apple_2-x30-s17
+አስተማሪው ተማሪውን ለምን ወቀሰው ?
+# data_UD-third_apple_2-x30-s18
+ምን በመጣ ነው ይህን ያህል የምሰደበው ?
+# data_UD-third_apple_2-x30-s19
+ስንት መጽሐፍ ትፈልጋለህ ?
+# data_UD-third_apple_2-x30-s20
+የተበደርኩትን ገንዘብ መቼ ሳልከፍል ቀርቻለሁ ?
+# data_UD-third_apple_2-x31-s1
+ምን እንደ ደረሰብኝ ታውቃለህ ?
+# data_UD-third_apple_2-x31-s2
+የልጅነቱን ጊዜ አስታውሶ ምንኛ ዕድለኛ እንደነበር ተገነዘበ ።
+# data_UD-third_apple_2-x31-s3
+ዛሬ ማን ያሸንፍ ይሆን ?
+# data_UD-third_apple_2-x31-s4
+ምን ደርሶበት ይሆን ?
+# data_UD-third_apple_2-x31-s5
+እርሱንማ አውቀው የለም ?

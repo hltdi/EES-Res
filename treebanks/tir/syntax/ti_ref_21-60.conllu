@@ -1,271 +1,52 @@
-# text = ደቀሰ ።
-# sent_id = ti_ref_1
-1-2	ደቀሰ	_	_	_	_	_	_	_	_
-1	ደቀስ	ደቀሰ	VERB	VERB	Aspect=Perf	0	root	_	_
-2	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	።	።	PUNCT	PUNCT	_	1	punct	_	_
-
-# text = ኣብ ዓራት ደቂሳ ።
-# sent_id = ti_ref_2
-1	ኣብ	ኣብ	ADP	ADP	_	2	case	_	_
-2	ዓራት	ዓራት	NOUN	NOUN	Number=Sing	3	obl	_	_
-3-4	ደቂሳ	_	_	_	_	_	_	_	_
-3	ደቂስ	ደቀሰ	VERB	VERB	Aspect=Perf	0	root	_	_
-4	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
-5	።	።	PUNCT	PUNCT	_	3	punct	_	_
-
-# text = እንጀራ የለን ።
-# sent_id = ti_ref_3
-1	እንጀራ	እንጀራ	NOUN	NOUN	Number=Sing	2	nsubj	_	_
-2-4	የለን	_	_	_	_	_	_	_	_
-2	የለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
-3	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-4	ን	ን	ADV	ADV	Polarity=Neg	2	advmod	_	_
-5	።	።	PUNCT	PUNCT	_	2	punct	_	_
-
-# text = ከልቢ ይነብሕ ።
-# sent_id = ti_ref_4
-1	ከልቢ	ከልቢ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
-2-3	ይነብሕ	_	_	_	_	_	_	_	_
-2	ይ	ይ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-3	ነብሕ	ነብሔ	VERB	VERB	Aspect=Imp	0	root	_	_
-4	።	።	PUNCT	PUNCT	_	3	punct	_	_
-
-# text = እቲ ሰብኣይ ጠምዩ ።
-# sent_id = ti_ref_5
-1	እቲ	እቲ	DET	DET	_	2	det	_	_
-2	ሰብኣይ	ሰብኣይ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
-3-4	ጠምዩ	_	_	_	_	_	_	_	_
-3	ጠሚይ	ጠመየ	VERB	VERB	Aspect=Perf	0	root	_	_
-4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-5	።	።	PUNCT	PUNCT	_	3	punct	_	_
-
-# text = ኣስቴር ጠምያ ።
-# sent_id = ti_ref_6
-1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	2	nsubj	_	_
-2-3	ጠምያ	_	_	_	_	_	_	_	_
-2	ጠሚይ	ጠመየ	VERB	VERB	Aspect=Perf	0	root	_	_
-3	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
-4	።	።	PUNCT	PUNCT	_	2	punct	_	_
-
-# text = ኣስቴር መኪና ኣላታ ።
-# sent_id = ti_ref_7a
-1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	3	obj:poss	_	_
-2	መኪና	መኪና	NOUN	NOUN	Number=Sing	3	nsubj	_	_
-3-5	ኣላታ	_	_	_	_	_	_	_	_
-3	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
-4	አት	አት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
-5	ኣ	ኣ	PRON	PRON	_	3	obj	_	AccGen=Fem|AccNum=Sing|AccPers=3
-6	።	።	PUNCT	PUNCT	_	3	punct	_	_
-
-# text = ንኣስቴር መኪና ኣላታ ።
-# sent_id = ti_ref_7b
-1-2	ንኣስቴር	_	_	_	_	_	_	_	_
-1	ን	ን	ADP	ADP	_	2	case	_	_
-2	ኣስቴር	ኣስቴር	PROPN	PROPN	_	4	obj:poss	_	_
-3	መኪና	መኪና	NOUN	NOUN	Number=Sing	4	nsubj	_	_
-4-6	ኣላታ	_	_	_	_	_	_	_	_
-4	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
-5	አት	አት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
-6	ኣ	ኣ	PRON	PRON	_	4	obj	_	AccGen=Fem|AccNum=Sing|AccPers=3
-7	።	።	PUNCT	PUNCT	_	4	punct	_	_
-
-# text = ሰቢሩ ።
-# sent_id = ti_ref_8
-1-2	ሰቢሩ	_	_	_	_	_	_	_	_
-1	ሰቢር	ሰበረ	VERB	VERB	Aspect=Perf	0	root	_	_
-2	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	።	።	PUNCT	PUNCT	_	1	punct	_	_
-
-# text = ንሱ ሰቢሩ ።
-# sent_id = ti_ref_9
-1	ንሱ	ንሱ	PRON	PRON	Number=Sing	2	nsubj	_	_
-2-3	ሰቢሩ	_	_	_	_	_	_	_	_
-2	ሰቢር	ሰበረ	VERB	VERB	Aspect=Perf	0	root	_	_
-3	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-4	።	።	PUNCT	PUNCT	_	2	punct	_	_
-
-# text = ንሱ ሰቢሩዎ ።
-# sent_id = ti_ref_10
-1	ንሱ	ንሱ	PRON	PRON	Number=Sing	2	nsubj	_	_
-2-4	ሰቢሩዎ	_	_	_	_	_	_	_	_
-2	ሰቢር	ሰበረ	VERB	VERB	Aspect=Perf	0	root	_	_
-3	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-4	ዎ	ዎ	PRON	PRON	_	2	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
-5	።	።	PUNCT	PUNCT	_	2	punct	_	_
-
-# text = ካሌብ ነቲ ቢኬሪ ሰቢሩዎ ።
-# sent_id = ti_ref_11
-1	ካሌብ	ካሌብ	PROPN	PROPN	Number=Sing	5	nsubj	_	_
-2-3	ነቲ	_	_	_	_	_	_	_	_
-2	ን	ን	ADP	ADP	_	3	case	_	_
-3	እቲ	እቲ	ADJ	ADJ	_	4	det	_	_
-4	ቢኬሪ	ቢኬሪ	NOUN	NOUN	Number=Sing	5	obj	_	_
-5-7	ሰቢሩዎ	_	_	_	_	_	_	_	_
-5	ሰቢር	ሰበረ	VERB	VERB	Aspect=Perf	0	root	_	_
-6	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-7	ዎ	ዎ	PRON	PRON	_	5	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
-8	።	።	PUNCT	PUNCT	_	5	punct	_	_
-
-# text = ኣበበ ነቲ ገንዘብ ንኣልማዝ ሂቡዋ ።
-# sent_id = ti_ref_12
-1	ኣበበ	ኣበበ	PROPN	PROPN	Number=Sing	6	nsubj	_	_
-2-3	ነቲ	_	_	_	_	_	_	_	_
-2	ን	ን	ADP	ADP	_	3	case	_	_
-3	እቲ	እቲ	ADJ	ADJ	_	4	det	_	_
-4	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	6	obj	_	_
-5	ንኣልማዝ	ንኣልማዝ	UNK	UNK	_	6	obl	_	_
-6-8	ሂቡዋ	_	_	_	_	_	_	_	_
-6	ሂብ	ውሀበ	VERB	VERB	Aspect=Perf	0	root	_	_
-7	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-8	ዋ	ዋ	PRON	PRON	_	6	obj	_	AccGen=Fem|AccNum=Sing|AccPers=3
-9	።	።	PUNCT	PUNCT	_	6	punct	_	_
-
-# text = ኣበበ ነቲ ገንዘብ ሂቡዋ ።
-# sent_id = ti_ref_13a
-1	ኣበበ	ኣበበ	PROPN	PROPN	Number=Sing	5	nsubj	_	_
-2-3	ነቲ	_	_	_	_	_	_	_	_
-2	ን	ን	ADP	ADP	_	3	case	_	_
-3	እቲ	እቲ	ADJ	ADJ	_	4	det	_	_
-4	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	5	obj	_	_
-5-7	ሂቡዋ	_	_	_	_	_	_	_	_
-5	ሂብ	ውሀበ	VERB	VERB	Aspect=Perf	0	root	_	_
-6	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-7	ዋ	ዋ	PRON	PRON	_	5	obj	_	AccGen=Fem|AccNum=Sing|AccPers=3
-8	።	።	PUNCT	PUNCT	_	5	punct	_	_
-
-# text = ኣበበ እቲ ገንዘብ ሂቡዋ ።
-# sent_id = ti_ref_13b
-1	ኣበበ	ኣበበ	PROPN	PROPN	Number=Sing	4	nsubj	_	_
-2	እቲ	እቲ	ADJ	ADJ	Number=Sing	3	det	_	_
-3	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	4	obj	_	_
-4-6	ሂቡዋ	_	_	_	_	_	_	_	_
-4	ሂብ	ውሀበ	VERB	VERB	Aspect=Perf	0	root	_	_
-5	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-6	ዋ	ዋ	PRON	PRON	_	4	obj	_	AccGen=Fem|AccNum=Sing|AccPers=3
-7	።	።	PUNCT	PUNCT	_	4	punct	_	_
-
-# text = ርእሰይ ሒሙኒ ።
-# sent_id = ti_ref_14
-1-2	ርእሰይ	_	_	_	_	_	_	_	_
-1	ርእሲ	ርእሲ	NOUN	NOUN	_	3	obj	_	_
-2	አይ	አይ	_	_	_	1	det	_	Number[psor]=Sing|Person[psor]=1
-3-5	ሒሙኒ	_	_	_	_	_	_	_	_
-3	ሒም	ሓመመ	VERB	VERB	Aspect=Perf	0	root	_	_
-4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-5	ኒ	ኒ	PRON	PRON	_	3	obj	_	AccNum=Sing|AccPers=1
-6	።	።	PUNCT	PUNCT	_	3	punct	_	_
-
-# text = እቲ ቢኬሪ ተሰቢሩ ።
-# sent_id = ti_ref_15
-1	እቲ	እቲ	ADJ	ADJ	Number=Sing	2	det	_	_
-2	ቢኬሪ	ቢኬሪ	NOUN	NOUN	Number=Sing	3	nsubj:pass	_	_
-3-4	ተሰቢሩ	_	_	_	_	_	_	_	_
-3	ተሰቢር	ተሰብረ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
-4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-5	።	።	PUNCT	PUNCT	_	3	punct	_	_
-
-# text = እቲ መንገዲ ብማይ ተባሕጒጉ ።
-# sent_id = ti_ref_16
-1	እቲ	እቲ	ADJ	ADJ	Number=Sing	2	det	_	_
-2	መንገዲ	መንገዲ	NOUN	NOUN	Number=Sing	5	nsubj:pass	_	_
-3-4	ብማይ	_	_	_	_	_	_	_	_
-3	ብ	ብ	ADP	ADP	_	4	case	_	_
-4	ማይ	ማይ	NOUN	NOUN	_	5	obl	_	_
-5-6	ተባሕጒጉ	_	_	_	_	_	_	_	_
-5	ተባሕጒጉ	ተባሕጐጕ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
-6	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-7	።	።	PUNCT	PUNCT	_	5	punct	_	_
-
-# text = ነቲ ወዲ ስራሕ ኣስሪሐዮ ።
-# sent_id = ti_ref_17
-1-2	ነቲ	_	_	_	_	_	_	_	_
-1	ን	ን	ADP	ADP	_	2	case	_	_
-2	እቲ	እቲ	ADJ	ADJ	_	3	det	_	_
-3	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	5	obj:cau	_	_
-4	ስራሕ	ስራሕ	NOUN	NOUN	Number=Sing	5	obj	_	_
-5-7	ኣስሪሐዮ	_	_	_	_	_	_	_	_
-5	ኣስሪሕ	ኣሰርሔ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
-6	ኤ	ኤ	PRON	PRON	Number=Sing|Person=1	5	nsubj	_	_
-7	ዮ	ዮ	PRON	PRON	_	5	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
-8	።	።	PUNCT	PUNCT	_	5	punct	_	_
-
-# text = ነቲ ወዲ ኣጕየዮ ።
-# sent_id = ti_ref_18
-1-2	ነቲ	_	_	_	_	_	_	_	_
-1	ን	ን	ADP	ADP	_	2	case	_	_
-2	እቲ	እቲ	ADJ	ADJ	_	3	det	_	_
-3	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	4	obj:caus	_	_
-4-6	ኣጕየዮ	_	_	_	_	_	_	_	_
-4	ኣጉየይ	ኣጕየየ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
-5	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-6	ኦ	ኦ	PRON	PRON	_	4	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
-7	።	።	PUNCT	PUNCT	_	4	punct	_	_
-
-# text = ኣቦይ እዩ ።
-# sent_id = ti_ref_19
-1-2	ኣቦይ	_	_	_	_	_	_	_	_
-1	ኣቦ	ኣቦ	NOUN	NOUN	_	0	root	_	_
-2	አይ	አይ	_	_	_	1	det	_	Number[psor]=Sing|Person[psor]=1
-3	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	1	cop	_	_
-4	።	።	PUNCT	PUNCT	_	1	punct	_	_
-
-# text = ካሕሳይ መምህር እዩ ።
-# sent_id = ti_ref_20
-1	ካሕሳይ	ካሕሳይ	PROPN	PROPN	Number=Sing	2	nsubj	_	_
-2	መምህር	መምህር	NOUN	NOUN	Number=Sing	0	root	_	_
-3	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	2	cop	_	_
-4	።	።	PUNCT	PUNCT	_	2	punct	_	_
-
 # text = እቲ ጸወታ ቀሊል ኣይኮነን  ።
 # sent_id = ti_ref_21
-1	እቲ	እቲ	ADJ	ADJ	Number=Sing	2	det	_	_
+1	እቲ	እቲ	DET	DET	Number=Sing	2	det	_	_
 2	ጸወታ	ጸወታ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
 3	ቀሊል	ቀሊል	NOUN	NOUN	Number=Sing	0	root	_	_
 4-7	ኣይኮነን	_	_	_	_	_	_	_	_
 4	ኣይ	ኣይ	SCONJ	SCONJ	Polarity=Neg	5	mark	_	_
-5	ኮን	ኰነ	VERB	VERB	Aspect=Perf	3	cop	_	_
+5	ኮን	ኰነ	VERB	VSTEM	Aspect=Perf	3	cop	_	_
 6	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	ን	ን	ADV	ADV	Polarity=Neg	5	advmod	_	_
 8	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = እቲ መግቢ ጽቡቕ እዩ ።
 # sent_id = ti_ref_22
-1	እቲ	እቲ	ADJ	ADJ	Number=Sing	2	det	_	_
+1	እቲ	እቲ	DET	DET	Number=Sing	2	det	_	_
 2	መግቢ	መግቢ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
 3	ጽቡቕ	ጽቡቕ	ADJ	ADJ	Number=Sing	0	root	_	_
-4	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	3	cop	_	_
+4	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	3	cop	_	_
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = ፈተና ጽቡቕ እዩ ።
 # sent_id = ti_ref_23
 1	ፈተና	ፈተና	NOUN	NOUN	Number=Sing	2	nsubj	_	_
 2	ጽቡቕ	ጽቡቕ	ADJ	ADJ	Number=Sing	0	root	_	_
-3	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	2	cop	_	_
+3	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	2	cop	_	_
 4	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
 # text = ንፍዕቲ እያ ።
 # sent_id = ti_ref_24
 1	ንፍዕቲ	ንፍዕቲ	ADJ	ADJ	Number=Sing	0	root	_	_
-2	እያ		COP	COP	Gender=Fem|Number=Sing|Person=3	1	cop	_	_
+2	እያ	እዩ	COP	COP	Gender=Fem|Number=Sing|Person=3	1	cop	_	_
 3	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
 # text = እቶም ተመሃሮ ክልተ እዮም ።
 # sent_id = ti_ref_25
-1	እቶም	እቶም	ADJ	ADJ	Number=Plur	2	det	_	_
+1	እቶም	እቶም	DET	DET	Number=Plur	2	det	_	_
 2	ተመሃሮ	ተመሃራይ	NOUN	NOUN	Number=Plur	3	nsubj	_	_
 3	ክልተ	ክልተ	NUM	NUM	_	0	root	_	_
-4	እዮም		COP	COP	Gender=Masc|Number=Plur|Person=3	3	cop	_	_
+4	እዮም	እዩ	COP	COP	Gender=Masc|Number=Plur|Person=3	3	cop	_	_
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = እዘን ትካላት ኣብ ዓለም ፍሉጣት እየን ።
 # sent_id = ti_ref_26
-1	እዘን	እዘን	ADJ	ADJ	Number=Plur	2	det	_	_
+1	እዘን	እዘን	DET	DET	Number=Plur	2	det	_	_
 2	ትካላት	ትካል	NOUN	NOUN	Number=Plur	5	nsubj	_	_
 3	ኣብ	ኣብ	ADP	ADP	_	4	case	_	_
 4	ዓለም	ዓለም	NOUN	NOUN	Number=Sing	5	obl	_	_
 5	ፍሉጣት	ፍሉጣት	ADJ	ADJ	Number=Plur	0	root	_	_
-6	እየን		COP	COP	Gender=Fem|Number=Plur|Person=3	5	cop	_	_
+6	እየን	እዩ	COP	COP	Gender=Fem|Number=Plur|Person=3	5	cop	_	_
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = ንሳ ኣብ ቤት መመገቢ ኣላ ።
@@ -273,45 +54,45 @@
 1	ንሳ	ንሳ	PRON	PRON	Number=Sing	5	nsubj	_	_
 2	ኣብ	ኣብ	ADP	ADP	_	3	case	_	_
 3	ቤት	ቤት	NOUN	NOUN	Number=Sing	5	obl	_	_
-4	መመገቢ	መመገቢ	NOUN	NOUN	Number=Sing	3	nmod	_	_
+4	መመገቢ	መመገቢ	NOUN	NOUN	Number=Sing	3	compound	_	_
 5-6	ኣላ	_	_	_	_	_	_	_	_
-5	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
-6	አት	አት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+5	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	0	root	_	_
+6	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = ኣብ ቤት መመገቢ ኣላ ።
 # sent_id = ti_ref_27b
 1	ኣብ	ኣብ	ADP	ADP	_	2	case	_	_
 2	ቤት	ቤት	NOUN	NOUN	Number=Sing	4	obl	_	_
-3	መመገቢ	መመገቢ	NOUN	NOUN	Number=Sing	2	nmod	_	_
+3	መመገቢ	መመገቢ	NOUN	NOUN	Number=Sing	2	compound	_	_
 4-5	ኣላ	_	_	_	_	_	_	_	_
-4	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
-5	አት	አት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
+4	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	0	root	_	_
+5	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
 6	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
 # text = እቲ መጽሓፍ ኣብ ጣውላ ኣሎ ።
 # sent_id = ti_ref_28
-1	እቲ	እቲ	ADJ	ADJ	Number=Sing	2	det	_	_
-2	መጽሓፍ	መጽሓፍ	NOUN	NOUN	Number=Sing	4	nsubj	_	_
+1	እቲ	እቲ	DET	DET	Number=Sing	2	det	_	_
+2	መጽሓፍ	መጽሓፍ	NOUN	NOUN	Number=Sing	5	nsubj	_	_
 3	ኣብ	ኣብ	ADP	ADP	_	4	case	_	_
 4	ጣውላ	ጣውላ	NOUN	NOUN	Number=Sing	5	obl	_	_
 5-6	ኣሎ	_	_	_	_	_	_	_	_
-5	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 6	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = ናታ እዩ ።
 # sent_id = ti_ref_29
-1	ናታ	ናታ	ADJ	ADJ	Number=Sing	0	root	_	_
-2	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	1	cop	_	_
+1	ናታ	ናታ	PRON	PRON	Number=Sing	0	root	_	_
+2	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	1	cop	_	_
 3	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
 # text = እቲ ገዛ ናቶም እዩ ።
 # sent_id = ti_ref_30
-1	እቲ	እቲ	ADJ	ADJ	Number=Sing	2	det	_	_
+1	እቲ	እቲ	DET	DET	Number=Sing	2	det	_	_
 2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
-3	ናቶም	ናቶም	ADJ	ADJ	Number=Sing	0	root	_	_
-4	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	3	cop	_	_
+3	ናቶም	ናቶም	PRON	PRON	Number=Sing	0	root	_	_
+4	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	3	cop	_	_
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = ንዓኣ እዩ ።
@@ -319,7 +100,7 @@
 1-2	ንዓኣ	_	_	_	_	_	_	_	_
 1	ን	ን	ADP	ADP	_	2	case	_	_
 2	ንሳ	ንሳ	PRON	PRON	_	0	root	_	_
-3	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	2	cop	_	_
+3	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	2	cop	_	_
 4	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
 # text = ኣብ ገዛ ሰብ ኣሎ ።
@@ -328,7 +109,7 @@
 2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	4	obl	_	_
 3	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	4	nsubj	_	_
 4-5	ኣሎ	_	_	_	_	_	_	_	_
-4	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 5	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
 6	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -336,7 +117,7 @@
 # sent_id = ti_ref_32b
 1	ሰብ	ሰብ	NOUN	NOUN	Number=Sing	2	nsubj	_	_
 2-3	ኣሎ	_	_	_	_	_	_	_	_
-2	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
+2	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 3	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 4	ኣብ	ኣብ	ADP	ADP	_	5	case	_	_
 5	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	2	obl	_	_
@@ -345,11 +126,11 @@
 # text = ኣብ 'ቲ ሽሓኒ ምግቢ ኣሎ ።
 # sent_id = ti_ref_33a
 1	ኣብ	ኣብ	ADP	ADP	_	3	case	_	_
-2	'ቲ	እቲ	ADJ	ADJ	Number=Sing	3	det	_	_
+2	'ቲ	እቲ	DET	DET	Number=Sing	3	det	_	_
 3	ሽሓኒ	ሽሓኒ	NOUN	NOUN	Number=Sing	5	obl	_	_
 4	ምግቢ	ምግቢ	NOUN	NOUN	Number=Sing	5	nsubj	_	_
 5-6	ኣሎ	_	_	_	_	_	_	_	_
-5	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 6	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -357,36 +138,36 @@
 # sent_id = ti_ref_33b
 1	ምግቢ	ምግቢ	NOUN	NOUN	Number=Sing	2	nsubj	_	_
 2-3	ኣሎ	_	_	_	_	_	_	_	_
-2	ኣለ	አለ	VERB	VERB	Aspect=Perf	0	root	_	_
+2	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 3	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 4	ኣብ	ኣብ	ADP	ADP	_	6	case	_	_
-5	'ቲ	እቲ	ADJ	ADJ	Number=Sing	6	det	_	_
+5	'ቲ	እቲ	DET	DET	Number=Sing	6	det	_	_
 6	ሽሓኒ	ሽሓኒ	NOUN	NOUN	Number=Sing	2	obl	_	_
 7	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
 # text = ኣብ 'ቲ ገዛ ድምጺ ይስማዕ ኣሎ ።
 # sent_id = ti_ref_34
 1	ኣብ	ኣብ	ADP	ADP	_	3	case	_	_
-2	'ቲ	እቲ	ADJ	ADJ	Number=Sing	3	det	_	_
+2	'ቲ	እቲ	DET	DET	Number=Sing	3	det	_	_
 3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	_
 4	ድምጺ	ድምጺ	NOUN	NOUN	Number=Sing	6	nsubj	_	_
 5-6	ይስማዕ	_	_	_	_	_	_	_	_
 5	ይ	ይ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-6	ስማዕ	ተሰምዔ	VERB	VERB	Aspect=Imp|Voice=Pass	0	root	_	_
+6	ስማዕ	ተሰምዔ	VERB	VSTEM	Aspect=Imp|Voice=Pass	0	root	_	_
 7-8	ኣሎ	_	_	_	_	_	_	_	_
-7	ኣለ	አለ	VERB	VERB	Aspect=Perf	6	aux	_	_
+7	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	6	aux	_	_
 8	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
 9	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
 # text = ኣብ 'ቲ ገዛ ሃንደበት ድምጺ ተሰሚዑ ።
 # sent_id = ti_ref_35
 1	ኣብ	ኣብ	ADP	ADP	_	3	case	_	_
-2	'ቲ	እቲ	ADJ	ADJ	Number=Sing	3	det	_	_
+2	'ቲ	እቲ	DET	DET	Number=Sing	3	det	_	_
 3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	_
 4	ሃንደበት	ሃንደበት	NOUN	NOUN	Number=Sing	6	advmod	_	_
 5	ድምጺ	ድምጺ	NOUN	NOUN	Number=Sing	6	nsubj:pass	_	_
 6-7	ተሰሚዑ	_	_	_	_	_	_	_	_
-6	ተሰሚዕ	ተሰምዔ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+6	ተሰሚዕ	ተሰምዔ	VERB	VSTEM	Aspect=Perf|Voice=Pass	0	root	_	_
 7	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 8	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
@@ -399,7 +180,7 @@
 4	ካብ	ካብ	ADP	ADP	_	5	case	_	_
 5	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	6	obl	_	_
 6-7	ወጺኣ	_	_	_	_	_	_	_	_
-6	ወጺእ	ወጽኤ	VERB	VERB	Aspect=Perf	0	root	_	_
+6	ወጺእ	ወጽኤ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 7	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
 8	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
@@ -413,10 +194,10 @@
 4	ትምህርቲ	ትምህርቲ	NOUN	NOUN	_	5	compound	_	_
 5	ቤት	ቤት	NOUN	NOUN	Number=Sing	6	obl	_	_
 6-7	ኢላ	_	_	_	_	_	_	_	_
-6	ኢል	ብሀለ	VERB	VERB	Aspect=Perf	8	advcl	_	_
+6	ኢል	ብሀለ	VERB	VSTEM	Aspect=Perf	8	advcl	_	_
 7	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
 8-9	ወጺኣ	_	_	_	_	_	_	_	_
-8	ወጺእ	ወጽኤ	VERB	VERB	Aspect=Perf	0	root	_	_
+8	ወጺእ	ወጽኤ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 9	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	_
 10	።	።	PUNCT	PUNCT	_	8	punct	_	_
 
@@ -425,18 +206,18 @@
 1	ምሸት	ምሸት	NOUN	NOUN	Number=Sing	3	obl	_	_
 2	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	3	obl	_	_
 3-4	በጺሑ	_	_	_	_	_	_	_	_
-3	በጺሕ	በጽሔ	VERB	VERB	Aspect=Perf	0	root	_	_
+3	በጺሕ	በጽሔ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = ምሸት እዩ ገዛ ዝበጽሐ ።
 # sent_id = ti_ref_39a
 1	ምሸት	ምሸት	NOUN	NOUN	Number=Sing	0	root	_	_
-2	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	1	cop	_	_
+2	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	1	cop	_	_
 3	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	5	obl	_	_
 4-6	ዝበጽሐ	_	_	_	_	_	_	_	_
 4	ዝ	ዝ	SCONJ	SCONJ	_	5	mark	_	_
-5	በጽሕ	በጽሔ	VERB	VERB	Aspect=Perf	1	csubj:cleft	_	ClauseType=ACl
+5	በጽሕ	በጽሔ	VERB	VSTEM	Aspect=Perf	1	csubj:cleft	_	ClauseType=ACl
 6	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -445,33 +226,33 @@
 1	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	3	obl	_	_
 2-4	ዝበጽሐ	_	_	_	_	_	_	_	_
 2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
-3	በጽሕ	በጽሔ	VERB	VERB	Aspect=Perf	5	csubj	_	ClauseType=ACl
+3	በጽሕ	በጽሔ	VERB	VSTEM	Aspect=Perf	5	csubj:cleft	_	ClauseType=ACl
 4	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 5	ምሸት	ምሸት	NOUN	NOUN	Number=Sing	0	root	_	_
-6	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	5	cop	_	_
+6	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	5	cop	_	_
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = ምሸት እዩ ነይሩ ገዛ ዝበጽሐ ።
 # sent_id = ti_ref_40
 1	ምሸት	ምሸት	NOUN	NOUN	Number=Sing	0	root	_	_
-2	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	1	cop	_	_
+2	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	1	cop	_	_
 3-4	ነይሩ	_	_	_	_	_	_	_	_
-3	ነይር	ነበረ	VERB	VERB	Aspect=Perf	2	aux	_	_
+3	ነይር	ነበረ	VERB	VSTEM	Aspect=Perf	2	aux	_	_
 4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 5	ገዛ	ገዛ	NOUN	NOUN	Number=Sing	7	obl	_	_
 6-8	ዝበጽሐ	_	_	_	_	_	_	_	_
 6	ዝ	ዝ	SCONJ	SCONJ	_	7	mark	_	_
-7	በጽሕ	በጽሔ	VERB	VERB	Aspect=Perf	1	csubj:cleft	_	ClauseType=ACl
+7	በጽሕ	በጽሔ	VERB	VSTEM	Aspect=Perf	1	csubj:cleft	_	ClauseType=ACl
 8	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
-9	።	።	PUNCT	PUNCT	_	9	_	_	_
+9	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
 # text = ብሓንደበት ወዲቑ ።
 # sent_id = ti_ref_41
 1-2	ብሓንደበት	_	_	_	_	_	_	_	_
 1	ብ	ብ	ADP	ADP	_	2	case	_	_
-2	ሓንደበት	ሓንደበት	NOUN	NOUN	_	3	obl	_	_
+2	ሓንደበት	ሓንደበት	NOUN	NOUN	_	3	advmod	_	_
 3-4	ወዲቑ	_	_	_	_	_	_	_	_
-3	ወዲቅ	ወደቐ	VERB	VERB	Aspect=Perf	0	root	_	_
+3	ወዲቅ	ወደቐ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -482,10 +263,10 @@
 2	ን	ን	ADP	ADP	_	3	case	_	_
 3	ካሌብ	ካሌብ	PROPN	PROPN	_	6	obj	_	_
 4-5	ደጋጊማ	_	_	_	_	_	_	_	_
-4	ደጋጊም	ደጋገመ	VERB	VERB	Aspect=Perf	6	advcl	_	_
+4	ደጋጊም	ደጋገመ	VERB	VSTEM	Aspect=Perf	6	advcl	_	_
 5	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
 6-8	ጸዊዓቶ	_	_	_	_	_	_	_	_
-6	ጸዊዕ	ጸውዔ	VERB	VERB	Aspect=Perf	0	root	_	_
+6	ጸዊዕ	ጸውዔ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 7	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
 8	ኦ	ኦ	PRON	PRON	_	6	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
 9	።	።	PUNCT	PUNCT	_	6	punct	_	_
@@ -495,10 +276,10 @@
 1	ጅማ	ጅማ	PROPN	PROPN	Number=Sing	3	nsubj	_	_
 2-3	ዝበሃል	_	_	_	_	_	_	_	_
 2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
-3	በሃል	ተብሀለ	VERB	VERB	Aspect=Imp|Voice=Pass	4	acl:relcl	_	ClauseType=ACl
+3	በሃል	ተብሀለ	VERB	VSTEM	Aspect=Imp|Voice=Pass	4	acl:relcl	_	ClauseType=ACl
 4	ከተማ	ከተማ	NOUN	NOUN	Number=Sing	5	obl	_	_
 5-6	ከይዶም	_	_	_	_	_	_	_	_
-5	ከይድ	ከደ	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ከይድ	ከደ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 6	ኦም	ኦም	PRON	PRON	Gender=Masc|Number=Plur|Person=3	5	nsubj	_	_
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -508,7 +289,7 @@
 1	ን	ን	ADP	ADP	_	2	case	_	_
 2	ጅማ	ጅማ	PROPN	PROPN	_	3	obl	_	_
 3-4	ከይዶም	_	_	_	_	_	_	_	_
-3	ከይድ	ከደ	VERB	VERB	Aspect=Perf	0	root	_	_
+3	ከይድ	ከደ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 4	ኦም	ኦም	PRON	PRON	Gender=Masc|Number=Plur|Person=3	3	nsubj	_	_
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -518,7 +299,7 @@
 2	ከተማ	ከተማ	NOUN	NOUN	Number=Sing	4	obl	_	_
 3	ጅማ	ጅማ	PROPN	PROPN	Number=Sing	2	nmod	_	_
 4-5	ከይዶም	_	_	_	_	_	_	_	_
-4	ከይድ	ከደ	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ከይድ	ከደ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 5	ኦም	ኦም	PRON	PRON	Gender=Masc|Number=Plur|Person=3	4	nsubj	_	_
 6	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -526,7 +307,7 @@
 # sent_id = ti_ref_46a
 1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	2	nsubj	_	_
 2-3	ደኺማ	_	_	_	_	_	_	_	_
-2	ደኪም	ደኸመ	VERB	VERB	Aspect=Perf	0	root	_	_
+2	ደኪም	ደኸመ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 3	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
 4	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -534,7 +315,7 @@
 # sent_id = ti_ref_46b
 1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	2	obj:exper	_	_
 2-4	ደኺሙዋ	_	_	_	_	_	_	_	_
-2	ደኪም	ደኸመ	VERB	VERB	Aspect=Perf	0	root	_	_
+2	ደኪም	ደኸመ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 3	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 4	ዋ	ዋ	PRON	PRON	_	2	obj	_	AccGen=Fem|AccNum=Sing|AccPers=3
 5	።	።	PUNCT	PUNCT	_	2	punct	_	_
@@ -543,9 +324,9 @@
 # sent_id = ti_ref_47
 1-2	ይመጽእ	_	_	_	_	_	_	_	_
 1	ይ	ይ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-2	መጽእ	መጽኤ	VERB	VERB	Aspect=Imp	0	root	_	_
+2	መጽእ	መጽኤ	VERB	VSTEM	Aspect=Imp	0	root	_	_
 3-4	ነይሩ	_	_	_	_	_	_	_	_
-3	ነይር	ነበረ	VERB	VERB	Aspect=Perf	2	aux	_	_
+3	ነይር	ነበረ	VERB	VSTEM	Aspect=Perf	2	aux	_	_
 4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 5	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -553,18 +334,18 @@
 # sent_id = ti_ref_48a
 1-2	ነቲ	_	_	_	_	_	_	_	_
 1	ን	ን	ADP	ADP	_	2	case	_	_
-2	እቲ	እቲ	ADJ	ADJ	_	3	det	_	_
+2	እቲ	እቲ	DET	DET	_	3	det	_	_
 3	ማዕጾ	ማዕጾ	NOUN	NOUN	Number=Sing	4	obj	_	_
 4-5	ከፊቱ	_	_	_	_	_	_	_	_
-4	ከፊት	ከፈተ	VERB	VERB	Aspect=Perf	10	advcl	_	_
+4	ከፊት	ከፈተ	VERB	VSTEM	Aspect=Perf	10	advcl	_	_
 5	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
 6	፡	፡	PUNCT	PUNCT	_	4	punct	_	_
 7-8	ነቲ	_	_	_	_	_	_	_	_
 7	ን	ን	ADP	ADP	_	8	case	_	_
-8	እቲ	እቲ	ADJ	ADJ	_	9	det	_	_
+8	እቲ	እቲ	DET	DET	_	9	det	_	_
 9	ከልቢ	ከልቢ	NOUN	NOUN	Number=Sing	10	obj	_	_
 10-12	ኣእትዩዎ	_	_	_	_	_	_	_	_
-10	ኣእቲው	ኣእተወ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+10	ኣእቲው	ኣእተወ	VERB	VSTEM	Aspect=Perf|Voice=Cau	0	root	_	_
 11	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
 12	ዎ	ዎ	PRON	PRON	_	10	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
 13	።	።	PUNCT	PUNCT	_	10	punct	_	_
@@ -573,18 +354,18 @@
 # sent_id = ti_ref_48b
 1-2	ነቲ	_	_	_	_	_	_	_	_
 1	ን	ን	ADP	ADP	_	2	case	_	_
-2	እቲ	እቲ	ADJ	ADJ	_	3	det	_	_
+2	እቲ	እቲ	DET	DET	_	3	det	_	_
 3	ማዕጾ	ማዕጾ	NOUN	NOUN	Number=Sing	4	obj	_	_
 4-5	ክፍት ኣቢሉ	_	_	_	_	_	_	_	_
-4	ኣቢል	ክፍት ኣበለ	VERB	VERB	Aspect=Perf|Voice=Cau	10	advcl	_	_
+4	ኣቢል	ክፍት ኣበለ	VERB	VSTEM	Aspect=Perf|Voice=Cau	10	advcl	_	_
 5	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
 6	፡	፡	PUNCT	PUNCT	_	4	punct	_	_
 7-8	ነቲ	_	_	_	_	_	_	_	_
 7	ን	ን	ADP	ADP	_	8	case	_	_
-8	እቲ	እቲ	ADJ	ADJ	_	9	det	_	_
+8	እቲ	እቲ	DET	DET	_	9	det	_	_
 9	ከልቢ	ከልቢ	NOUN	NOUN	Number=Sing	10	obj	_	_
 10-12	ኣእትዩዎ	_	_	_	_	_	_	_	_
-10	ኣእቲው	ኣእተወ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+10	ኣእቲው	ኣእተወ	VERB	VSTEM	Aspect=Perf|Voice=Cau	0	root	_	_
 11	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
 12	ዎ	ዎ	PRON	PRON	_	10	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
 13	።	።	PUNCT	PUNCT	_	10	punct	_	_
@@ -593,33 +374,33 @@
 # sent_id = ti_ref_49
 1	ስልኪ	ስልኪ	NOUN	NOUN	Number=Sing	2	obj	_	_
 2-3	ዓጽያ	_	_	_	_	_	_	_	_
-2	ዐጺው	ዓጸወ	VERB	VERB	Aspect=Perf	22	advcl	_	_
+2	ዐጺው	ዓጸወ	VERB	VSTEM	Aspect=Perf	22	advcl	_	_
 3	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
 4	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
 5	ካብ	ካብ	ADP	ADP	_	7	case	_	_
-6	'ቲ	እቲ	ADJ	ADJ	Number=Sing	7	det	_	_
+6	'ቲ	እቲ	DET	DET	Number=Sing	7	det	_	_
 7	መንበር	መንበር	NOUN	NOUN	Number=Sing	8	obl	_	_
 8-9	ተሲኣ	_	_	_	_	_	_	_	_
-8	ተሲእ	ተስኤ	VERB	VERB	Aspect=Perf	22	advcl	_	_
+8	ተሲእ	ተስኤ	VERB	VSTEM	Aspect=Perf	22	advcl	_	_
 9	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	_
 10	፡	፡	PUNCT	PUNCT	_	8	punct	_	_
 11-12	ነቲ	_	_	_	_	_	_	_	_
 11	ን	ን	ADP	ADP	_	12	case	_	_
-12	እቲ	እቲ	ADJ	ADJ	_	18	det	_	_
+12	እቲ	እቲ	DET	DET	_	18	det	_	_
 13-14	ዝዅሕኳሕ	_	_	_	_	_	_	_	_
 13	ዝ	ዝ	SCONJ	SCONJ	_	14	mark	_	_
-14	ኩሕኳሕ	ተዃሕኵሔ	VERB	VERB	Aspect=Imp|Voice=Pass	18	acl:relcl	_	ClauseType=ACl
+14	ኩሕኳሕ	ተዃሕኵሔ	VERB	VSTEM	Aspect=Imp|Voice=Pass	18	acl:relcl	_	ClauseType=ACl
 15-17	ዝነበረ	_	_	_	_	_	_	_	_
 15	ዝ	ዝ	SCONJ	SCONJ	_	16	mark	_	_
-16	ነበር	ነበረ	VERB	VERB	Aspect=Perf	14	aux	_	ClauseType=ACl
+16	ነበር	ነበረ	VERB	VSTEM	Aspect=Perf	14	aux	_	ClauseType=ACl
 17	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
 18	ማዕጾ	ማዕጾ	NOUN	NOUN	Number=Sing	21	obj	_	_
 19-21	ክትከፍት	_	_	_	_	_	_	_	_
 19	ክ	ክ	SCONJ	SCONJ	_	21	mark	_	_
 20	ት	ት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	21	nsubj	_	_
-21	ከፍት	ከፈተ	VERB	VERB	Aspect=Imp	22	advcl	_	_
+21	ከፍት	ከፈተ	VERB	VSTEM	Aspect=Imp	22	advcl	_	_
 22-23	ከይዳ	_	_	_	_	_	_	_	_
-22	ከይድ	ከደ	VERB	VERB	Aspect=Perf	0	root	_	_
+22	ከይድ	ከደ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 23	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	22	nsubj	_	_
 24	።	።	PUNCT	PUNCT	_	22	punct	_	_
 
@@ -627,42 +408,42 @@
 # sent_id = ti_ref_50
 1-2	ክመጽእ	_	_	_	_	_	_	_	_
 1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
-2	መጽእ	መጽኤ	VERB	VERB	Aspect=Imp	3	xcomp	_	_
+2	መጽእ	መጽኤ	VERB	VSTEM	Aspect=Imp	3	xcomp	_	_
 3-4	ደልዩ	_	_	_	_	_	_	_	_
-3	ደሊይ	ደለየ	VERB	VERB	Aspect=Perf	0	root	_	_
+3	ደሊይ	ደለየ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 5-6	ኣሎ	_	_	_	_	_	_	_	_
-5	ኣለ	አለ	VERB	VERB	Aspect=Perf	3	aux	_	_
+5	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	3	aux	_	_
 6	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	፡	፡	PUNCT	PUNCT	_	13	punct	_	_
 8	ንሳ	ንሳ	PRON	PRON	Number=Sing	13	nsubj	_	_
-9	'ውን	'ውን	ADV	ADV	_	13	advmod	_	_
+9	'ውን	'ውን	ADV	ADV	_	8	cc	_	_
 10-12	ክትመጽእ	_	_	_	_	_	_	_	_
 10	ክ	ክ	SCONJ	SCONJ	_	12	mark	_	_
 11	ት	ት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	12	nsubj	_	_
-12	መጽእ	መጽኤ	VERB	VERB	Aspect=Imp	13	xcomp	_	_
+12	መጽእ	መጽኤ	VERB	VSTEM	Aspect=Imp	13	xcomp	_	_
 13-14	ደልያ	_	_	_	_	_	_	_	_
-13	ደሊይ	ደለየ	VERB	VERB	Aspect=Perf	3	conj	_	_
+13	ደሊይ	ደለየ	VERB	VSTEM	Aspect=Perf	3	conj	_	_
 14	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	13	nsubj	_	_
 15-16	ኣላ	_	_	_	_	_	_	_	_
-15	ኣለ	አለ	VERB	VERB	Aspect=Perf	13	aux	_	_
-16	አት	አት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	15	nsubj	_	_
+15	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	13	aux	_	_
+16	ኣ	ኣ	PRON	PRON	Gender=Fem|Number=Sing|Person=3	15	nsubj	_	_
 17	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = ክመጽእ ደልዩ ኣሎ ፡ ንሳ 'ውን ከምኡ ።
 # sent_id = ti_ref_51
 1-2	ክመጽእ	_	_	_	_	_	_	_	_
 1	ክ	ክ	SCONJ	SCONJ	_	2	mark	_	_
-2	መጽእ	መጽኤ	VERB	VERB	Aspect=Imp	3	xcomp	_	_
+2	መጽእ	መጽኤ	VERB	VSTEM	Aspect=Imp	3	xcomp	_	_
 3-4	ደልዩ	_	_	_	_	_	_	_	_
-3	ደሊይ	ደለየ	VERB	VERB	Aspect=Perf	0	root	_	_
+3	ደሊይ	ደለየ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 4	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 5-6	ኣሎ	_	_	_	_	_	_	_	_
-5	ኣለ	አለ	VERB	VERB	Aspect=Perf	3	aux	_	_
+5	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	3	aux	_	_
 6	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	፡	፡	PUNCT	PUNCT	_	8	punct	_	_
 8	ንሳ	ንሳ	PRON	PRON	Number=Sing	3	conj	_	_
-9	'ውን	'ውን	ADV	ADV	_	8	orphan	_	_
+9	'ውን	'ውን	ADV	ADV	_	8	cc	_	_
 10-11	ከምኡ	_	_	_	_	_	_	_	_
 10	ከም	ከም	ADP	ADP	_	11	case	_	_
 11	ንሱ	ንሱ	PRON	PRON	_	8	orphan	_	_
@@ -674,10 +455,10 @@
 2	ሻሂ	ሻሂ	NOUN	NOUN	Number=Sing	4	obj	_	_
 3-4	እፈቱ	_	_	_	_	_	_	_	_
 3	እ	እ	PRON	PRON	Number=Sing|Person=1	4	nsubj	_	_
-4	ፈትው	ፈተወ	VERB	VERB	Aspect=Imp	0	root	_	_
+4	ፈትው	ፈተወ	VERB	VSTEM	Aspect=Imp	0	root	_	_
 5	፡	፡	PUNCT	PUNCT	_	6	punct	_	_
 6	ንስኺ	ንስኺ	PRON	PRON	Number=Sing	4	conj	_	_
-7	ከኣ	ከኣ	CCONJ	CCONJ	_	6	orphan	_	_
+7	ከኣ	ከኣ	CCONJ	CCONJ	_	6	cc	_	_
 8	ቡን	ቡን	NOUN	NOUN	Number=Sing	6	orphan	_	_
 9	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -687,7 +468,7 @@
 2	ሻሂ	ሻሂ	NOUN	NOUN	Number=Sing	4	obj	_	_
 3-4	እፈቱ	_	_	_	_	_	_	_	_
 3	እ	እ	PRON	PRON	Number=Sing|Person=1	4	nsubj	_	_
-4	ፈትው	ፈተወ	VERB	VERB	Aspect=Imp	0	root	_	_
+4	ፈትው	ፈተወ	VERB	VSTEM	Aspect=Imp	0	root	_	_
 5	፡	፡	PUNCT	PUNCT	_	6	punct	_	_
 6	ንስኺ	ንስኺ	PRON	PRON	Number=Sing	4	conj	_	_
 7	ቡን	ቡን	NOUN	NOUN	Number=Sing	6	orphan	_	_
@@ -701,31 +482,31 @@
 4-6	ክትነብር	_	_	_	_	_	_	_	_
 4	ክ	ክ	SCONJ	SCONJ	_	6	mark	_	_
 5	ት	ት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
-6	ነብር	ነበረ	VERB	VERB	Aspect=Imp	8	xcomp	_	_
+6	ነብር	ነበረ	VERB	VSTEM	Aspect=Imp	8	xcomp	_	_
 7-8	ትደልይ	_	_	_	_	_	_	_	_
 7	ት	ት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	_
-8	ደልይ	ደለየ	VERB	VERB	Aspect=Imp	0	root	_	_
+8	ደልይ	ደለየ	VERB	VSTEM	Aspect=Imp	0	root	_	_
 9	፤	፤	PUNCT	PUNCT	_	10	punct	_	_
 10-11	ሓፍታ	_	_	_	_	_	_	_	_
 10	ሓፍቲ	ሓፍቲ	NOUN	NOUN	_	8	conj	_	_
 11	ኣ	ኣ	_	_	_	10	det	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3
-12	ድማ	ድማ	ADV	ADV	_	10	orphan	_	_
+12	ድማ	ድማ	ADV	ADV	_	10	cc	_	_
 13	ኣብ	ኣብ	ADP	ADP	_	14	case	_	_
 14	ጅማ	ጅማ	PROPN	PROPN	Number=Sing	10	orphan	_	_
 15	።	።	PUNCT	PUNCT	_	8	punct	_	_
 
 # text = እቲ ዝመደብናዮ ነገር ኣይሰለጠናን ።
 # sent_id = ti_ref_55
-1	እቲ	እቲ	ADJ	ADJ	Number=Sing	6	det	_	_
+1	እቲ	እቲ	DET	DET	Number=Sing	6	det	_	_
 2-5	ዝመደብናዮ	_	_	_	_	_	_	_	_
 2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
-3	መደብ	መደበ	VERB	VERB	Aspect=Perf	6	acl:relcl	_	ClauseType=ACl
+3	መደብ	መደበ	VERB	VSTEM	Aspect=Perf	6	acl:relcl	_	ClauseType=ACl
 4	ና	ና	PRON	PRON	Number=Plur|Person=1	3	nsubj	_	_
 5	ዮ	ዮ	PRON	PRON	_	3	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
 6	ነገር	ነገር	NOUN	NOUN	Number=Sing	8	nsubj	_	_
 7-11	ኣይሰለጠናን	_	_	_	_	_	_	_	_
 7	ኣይ	ኣይ	SCONJ	SCONJ	Polarity=Neg	8	mark	_	_
-8	ሰለጥ	ሰለጠ	VERB	VERB	Aspect=Perf	0	root	_	_
+8	ሰለጥ	ሰለጠ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 9	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
 10	ና	ና	PRON	PRON	_	8	obj	_	AccNum=Plur|AccPers=1
 11	ን	ን	ADV	ADV	Polarity=Neg	8	advmod	_	_
@@ -735,12 +516,12 @@
 # sent_id = ti_ref_56
 1-4	ዝመደብናዮ	_	_	_	_	_	_	_	_
 1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
-2	መደብ	መደበ	VERB	VERB	Aspect=Perf	6	csubj:relcl	_	ClauseType=ACl
+2	መደብ	መደበ	VERB	VSTEM	Aspect=Perf	6	csubj:relcl	_	ClauseType=ACl
 3	ና	ና	PRON	PRON	Number=Plur|Person=1	2	nsubj	_	_
 4	ዮ	ዮ	PRON	PRON	_	2	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
 5-9	ኣይሰለጠናን	_	_	_	_	_	_	_	_
 5	ኣይ	ኣይ	SCONJ	SCONJ	Polarity=Neg	6	mark	_	_
-6	ሰለጥ	ሰለጠ	VERB	VERB	Aspect=Perf	0	root	_	_
+6	ሰለጥ	ሰለጠ	VERB	VSTEM	Aspect=Perf	0	root	_	_
 7	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 8	ና	ና	PRON	PRON	_	6	obj	_	AccNum=Plur|AccPers=1
 9	ን	ን	ADV	ADV	Polarity=Neg	6	advmod	_	_
@@ -750,12 +531,12 @@
 # sent_id = ti_ref_57
 1-4	ዝተዛረበቶ	_	_	_	_	_	_	_	_
 1	ዝ	ዝ	SCONJ	SCONJ	_	2	mark	_	_
-2	ተዛረብ	ተዛረበ	VERB	VERB	Aspect=Perf|Voice=Rcp1	6	csubj:relcl	_	ClauseType=ACl
+2	ተዛረብ	ተዛረበ	VERB	VSTEM	Aspect=Perf|Voice=Rcp1	6	csubj:relcl	_	ClauseType=ACl
 3	አት	አት	PRON	PRON	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
 4	ኦ	ኦ	PRON	PRON	_	2	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
 5-9	ኣይተረደኣንን	_	_	_	_	_	_	_	_
 5	ኣይ	ኣይ	SCONJ	SCONJ	Polarity=Neg	6	mark	_	_
-6	ተረደእ	ተረደኤ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+6	ተረደእ	ተረደኤ	VERB	VSTEM	Aspect=Perf|Voice=Pass	0	root	_	_
 7	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 8	ን	ን	PRON	PRON	_	6	obj	_	AccNum=Sing|AccPers=1
 9	ን	ን	ADV	ADV	Polarity=Neg	6	advmod	_	_
@@ -763,36 +544,36 @@
 
 # text = ጡረታ ዝወጸ ኣይምህርን እዩ ።
 # sent_id = ti_ref_58
-1	ጡረታ	ጡረታ	NOUN	NOUN	Number=Sing	3	obj	_	_
+1	ጡረታ	ጡረታ	NOUN	NOUN	Number=Sing	3	obl	_	_
 2-4	ዝወጸ	_	_	_	_	_	_	_	_
 2	ዝ	ዝ	SCONJ	SCONJ	_	3	mark	_	_
-3	ወጽ	ወጽኤ	VERB	VERB	Aspect=Perf	6	csubj:relcl	_	ClauseType=ACl
+3	ወጽ	ወጽኤ	VERB	VSTEM	Aspect=Perf	6	csubj:relcl	_	ClauseType=ACl
 4	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 5-7	ኣይምህርን	_	_	_	_	_	_	_	_
 5	ኣይ	ኣይ	SCONJ	SCONJ	Polarity=Neg	6	mark	_	_
-6	ምህር	ምሀረ	VERB	VERB	Aspect=Imp	0	root	_	_
+6	ምህር	ምሀረ	VERB	VSTEM	Aspect=Imp	0	root	_	_
 7	ን	ን	ADV	ADV	Polarity=Neg	6	advmod	_	_
-8	እዩ		COP	COP	Gender=Masc|Number=Sing|Person=3	6	aux	_	_
+8	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	6	aux	_	_
 9	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
 # text = ነቲ ብድሕሪት ተሰሪዑ ዘሎ ወዲ ጸውዓዮ ።
 # sent_id = ti_ref_59
 1-2	ነቲ	_	_	_	_	_	_	_	_
 1	ን	ን	ADP	ADP	_	2	case	_	_
-2	እቲ	እቲ	ADJ	ADJ	_	10	det	_	_
+2	እቲ	እቲ	DET	DET	_	10	det	_	_
 3-4	ብድሕሪት	_	_	_	_	_	_	_	_
 3	ብ	ብ	ADP	ADP	_	4	case	_	_
-4	ድሕሪት	ድሕሪት	NOUN	NOUN	_	5	obl	_	_
+4	ድሕሪት	ድሕሪት	NOUN	NOUN	_	5	advmod	_	_
 5-6	ተሰሪዑ	_	_	_	_	_	_	_	_
-5	ተሰሪዕ	ተሰርዔ	VERB	VERB	Aspect=Perf|Voice=Pass	10	acl:relcl	_	_
+5	ተሰሪዕ	ተሰርዔ	VERB	VSTEM	Aspect=Perf|Voice=Pass	10	acl:relcl	_	_
 6	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7-9	ዘሎ	_	_	_	_	_	_	_	_
 7	ዝ	ዝ	SCONJ	SCONJ	_	8	mark	_	_
-8	ኣለ	አለ	VERB	VERB	Aspect=Perf	5	aux	_	ClauseType=ACl
+8	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	5	aux	_	ClauseType=ACl
 9	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
 10	ወዲ	ወዲ	NOUN	NOUN	Number=Sing	11	obj	_	_
 11-12	ጸውዓዮ	_	_	_	_	_	_	_	_
-11	ጸውዓ	ጸውዔ	VERB	VERB	Mood=Jus	0	root	_	_
+11	ጸውዓ	ጸውዔ	VERB	VSTEM	Mood=Jus	0	root	_	_
 12	ዮ	ዮ	PRON	PRON	_	11	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
 13	።	።	PUNCT	PUNCT	_	11	punct	_	_
 
@@ -800,19 +581,19 @@
 # sent_id = ti_ref_60
 1-2	ነቲ	_	_	_	_	_	_	_	_
 1	ን	ን	ADP	ADP	_	2	case	_	_
-2	እቲ	እቲ	ADJ	ADJ	_	5	det	_	_
+2	እቲ	እቲ	DET	DET	_	5	det	_	_
 3-4	ብድሕሪት	_	_	_	_	_	_	_	_
 3	ብ	ብ	ADP	ADP	_	4	case	_	_
-4	ድሕሪት	ድሕሪት	NOUN	NOUN	_	5	obl	_	_
+4	ድሕሪት	ድሕሪት	NOUN	NOUN	_	5	advmod	_	_
 5-6	ተሰሪዑ	_	_	_	_	_	_	_	_
-5	ተሰሪዕ	ተሰርዔ	VERB	VERB	Aspect=Perf|Voice=Pass	10	ccomp:relcl	_	_
+5	ተሰሪዕ	ተሰርዔ	VERB	VSTEM	Aspect=Perf|Voice=Pass	10	ccomp:relcl	_	_
 6	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7-9	ዘሎ	_	_	_	_	_	_	_	_
 7	ዝ	ዝ	SCONJ	SCONJ	_	8	mark	_	_
-8	ኣለ	አለ	VERB	VERB	Aspect=Perf	5	aux	_	ClauseType=ACl
+8	ኣለ	ኣለ	VERB	VSTEM	Aspect=Perf	5	aux	_	ClauseType=ACl
 9	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
 10-11	ጸውዓዮ	_	_	_	_	_	_	_	_
-10	ጸውዓ	ጸውዔ	VERB	VERB	Mood=Jus	0	root	_	_
+10	ጸውዓ	ጸውዔ	VERB	VSTEM	Mood=Jus	0	root	_	_
 11	ዮ	ዮ	PRON	PRON	_	10	obj	_	AccGen=Masc|AccNum=Sing|AccPers=3
 12	።	።	PUNCT	PUNCT	_	10	punct	_	_
 
