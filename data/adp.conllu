@@ -2,15 +2,15 @@
 # text = ወደ ጅማ ይሄዳል
 1	ወደ	_	ADP	_	_	2	case	_	_
 2	ጅማ	_	NOUN	_	_	3	obl	_	_
-3	ይሄዳል	_	VERB	_	_	0	root	_	 _
+3	ይሄዳል	_	VERB	_	_	0	root	_	_=null
 
 # sent_id = am1.5
 # text = ከዮሴፍ ጋር ማጣች
 1-2	ከዮሴፍ	_	_	_	_	_	_	_	_
-1	ከ	_	_	_	_	_	_	_	_
-2	ዮሴፍ	_	_	_	_	_	_	_	_
-3	ጋር	_	_	_	_	_	_	_	_
-4	መጣች	_	_	_	_	_	_	_	_
+1	ከ	_	ADP	_	_	2	case	_	_
+2	ዮሴፍ	_	NOUN	_	_	4	obl	_	_
+3	ጋር	_	ADP	_	_	2	case	_	_
+4	መጣች	_	VERB	_	_	0	root	_	_
 
 # sent_id = am2a
 # text = እቤት ውስጥ ተቀመጠ
