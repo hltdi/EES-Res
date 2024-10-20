@@ -30,12 +30,61 @@ def tokenize(string):
             string = partition[-1]
     return tokens
 
-def tokens2conllu(tokens):
+def tokenfile2conllu(file, write2=None):
+    '''Convert a file with sentence strings to a string of CoNLL-U representations.'''
+    conllu = []
+    with open(file, encoding='utf8') as f:
+        sent_id = ''
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            if line[0] == '#':
+                # this is a sentence id
+                sent_id = line.split('#')[1].strip()
+            else:
+                tokens = tokenize(line)
+                c = tokens2conllu(tokens, sent_id=sent_id)
+                conllu.append(c)
+                sent_id = ''
+    conllu = "\n\n".join(conllu)
+    if write2:
+        with open(write2, 'w', encoding='utf8') as f:
+            print(conllu, file=f)
+    else:
+        return conllu
+
+def tokens2conllu(tokens, sentence='', comment='', sent_id=''):
     '''
     tokens is a list of strings and tuples consisting of a string and a list of segments.
     '''
     index = 1
-    
+    lines = []
+    sentence = sentence or ' '.join([t[0] if isinstance(t, tuple) else t for t in tokens])
+    if comment:
+        lines.append(comment)
+    if sent_id:
+        lines.append("# sent_id = {}".format(sent_id))
+    lines.append("# text = {}".format(sentence))
+    for token in tokens:
+        if isinstance(token, tuple):
+            # A multi-token 'word'
+            mt = token[0]
+            segments = token[1]
+            length = len(segments)
+            start = index
+            end = index + length-1
+            multi = "{}-{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(start, end, mt)
+            lines.append(multi)
+            for segment in segments:
+                segline = "{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(index, segment)
+                lines.append(segline)
+                index += 1
+        else:
+            line = "{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(index, token)
+            lines.append(line)
+            index += 1
+    return '\n'.join(lines)
 
 def conllu2corpus(conllu, fileout):
     lines = []

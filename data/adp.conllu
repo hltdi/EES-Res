@@ -1,0 +1,79 @@
+# sent_id = am1
+# text = ወደ ጅማ ይሄዳል
+1	ወደ	_	ADP	_	_	2	case	_	_
+2	ጅማ	_	NOUN	_	_	3	obl	_	_
+3	ይሄዳል	_	VERB	_	_	0	root	_
+# _
+
+# sent_id = am1.5
+# text = ከዮሴፍ ጋር ማጣች
+1-2    ከዮሴፍ	_	_	_	_	_	_	_	_
+1      ከ	_	_	_	_	_	_	_	_
+2      ዮሴፍ	_	_	_	_	_	_	_	_
+3      ጋር	_	_	_	_	_	_	_	_
+4      መጣች	_	_	_	_	_	_	_	_
+
+# sent_id = am2a
+# text = እቤት ውስጥ ተቀመጠ
+1-2	እቤት	_	_	_	_	_	_	_	_
+1	እ	_	ADP	_	_	3	case	_	_
+2	ቤት	_	NOUN	_	_	3	nmod	_	_
+3	ውስጥ	_	NOUN	_	_	4	obl	_	_
+4	ተቀመጠ	_	VERB	_	_	0	root	_	_
+
+# sent_id = am2b
+# text = እቤት ውስጥ ተቀመጠ
+1-2	እቤት	_	_	_	_	_	_	_	_
+1	እ	_	ADP	_	_	2	case	_	_
+2	ቤት	_	NOUN	_	_	4	obl	_	_
+3	ውስጥ	_	ADP	_	_	2	case	_	_
+4	ተቀመጠ	_	VERB	_	_	0	root	_	_
+
+# sent_id = ti2a
+# text = ኣብ ውሽጢ ገዛ ተቐሚጡ
+1	ኣብ	_	ADP	_	_	2	case	_	_
+2	ውሽጢ	_	NOUN	_	_	4	obl	_	_
+3	ገዛ	_	NOUN	_	_	2	nmod	_	_
+4	ተቐሚጡ	_	VERB	_	_	0	root	_	_
+
+# sent_id = ti2b
+# text = ኣብ ውሽጢ ገዛ ተቐሚጡ
+1	ኣብ	_	ADP	_	_	3	case	_	_
+2	ውሽጢ	_	ADP	_	_	3	case	_	_
+3	ገዛ	_	NOUN	_	_	4	obl	_	_
+4	ተቐሚጡ	_	VERB	_	_	0	root	_	_
+
+# sent_id = am3a
+# text = በበሽታ ምክንያት ቀረ
+1-2	በበሽታ	_	_	_	_	_	_	_	_
+1	በ	_	ADP	_	_	3	case	_	_
+2	በሽታ	_	NOUN	_	_	3	nmod	_	_
+3	ምክንያት	_	NOUN	_	_	4	obl	_	_
+4	ቀረ	_	VERB	_	_	0	root	_	_
+
+# sent_id = am3b
+# text = በበሽታ ምክንያት ቀረ
+1-2	በበሽታ	_	_	_	_	_	_	_	_
+1	በ	_	ADP	_	_	2	case	_	_
+2	በሽታ	_	_	_	_	4	obl	_	_
+3	ምክንያት	_	ADP	_	_	2	case	_	_
+4	ቀረ	_	VERB	_	_	0	root	_	_
+
+# sent_id = am4a
+# text = ከትምህርት በኋላ ተመለሱ
+1-2	ከትምህርት	_	_	_	_	_	_	_	_
+1	ከ	_	ADP	_	_	2	case	_	_
+2	ትምህርት	_	NOUN	_	_	4	obl	_	_
+3	በኋላ	_	ADP	_	_	2	case	_	_
+4	ተመለሱ	_	VERB	_	_	0	root	_	_
+
+# sent_id = am4b
+# text = ከትምህርት በኋላ ተመለሱ
+1-2	ከትምህርት	_	_	_	_	_	_	_	_
+1	ከ	_	ADP	_	_	4	case	_	_
+2	ትምህርት	_	NOUN	_	_	4	nmod	_	_
+3-4	በኋላ	_	_	_	_	_	_	_	_
+3	በ	_	ADP	_	_	4	case	_	_
+4	ኋላ	_	NOUN	_	_	5	obl	_	_
+5	ተመለሱ	_	VERB	_	_	0	root	_	_
+
