@@ -1,0 +1,24 @@
+SUBJC
+OBJC
+ACC	-ን (PART)
+NEG ኣል- (PART)
+NCM -ም (PART)
+POSM (possessive noun suffix)
+RLP (relative pronoun) (PART)
+IRLP (imperfective relative pronoun) -እም (PART)
+
+ነው
+	ን
+	አው
+-በት
+	በ
+	ት
+በ(ADP) … ምክንያት(ADP)
+
+እስካላባረረው ድረስ
+	እስከ(SCONJ)
+	…አላባረረው…
+ድረስ(SCONJ)
+በየሄደበት
+	በ(ADP)
+	እየ(ADP)

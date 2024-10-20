@@ -1,0 +1,12 @@
+fix እዩ እያ etc. lemma
+fix ኣላ etc. suffix
+fix ADJ for DET
+fix PRON for DET
+
+68: ኣተኲሩ (NOUN not VERB)
+91: ደስ ኣይብለንን እዩ
+
+translations
+95
+103
+112a (delete?); 112b is like Am

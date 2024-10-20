@@ -1,0 +1,121 @@
+﻿    • 68: Am vs. Ti
+    • 71: xcomp vs. advcl (እንዲማር መከረችው)
+    • 74
+    • 79: aux vs. cop
+    • 80: Ti translation (ዝርድኣና active / passive?)
+    • 81: Ti translation (ሳጣ → ሰኣነ)
+    • 85: አሳለፈ (caus?)
+    • 91: ብልጣ ብልጥ በመሆን የሚገኝ ትርፍ ደስ አይለኝም ። (→advcl ብልጣ ብልጥ → cop በመሆን?)
+    • 95-99: nsubj:outer? Csubj?
+    • 112: ambiguous attachment: ለዚህ ዓላማ
+    • 109??
+    • obl vs. advmod (38, 41, 42)
+    • nsubj vs. csubj (56, 58, 60, 63)
+    • nmod vs. nsubj (62)
+    • infinitives as nouns or verbs (62, 66)
+
+Languages with rich verb morphology often feature various forms of object agreement as well obligatory subject agreement. In such languages verbs have their own internal argument structure. For a given language, the number of options for morphological arguments may not match that for syntactic arguments, so the mapping between the two levels of argument structure is not necessarily one-to-one. Nevertheless, at the level of specific verb lexical entries, the mapping is certainly constrained. This implies that 
+For languages with rich morphology, a good deal of information about valence categories may be accessible from verb morphology alone. In addition to explicit derivational affixes signaling valence reducing or increasing morphosyntax, the patterns of occurrence of particular subcategories of agreement inflection may 
+
+For high-resource languages, such as English, German, and Japanese, researchers have access to syntactic resources, such as treebanks; semantic resources, such as frame nets; and lexical resources, such as word nets. Many of these have been compiled by hand over a tedious process of years. For the great majority of languages, we will need to rely on semi-automatic methods to develop such resources. For a subset of these languages, those with unusually rich morphology, the inflectional and derivational morphology associated with particular verb roots may provide information that supports a partial characterization of the syntactic and semantic properties of these roots, a resource that could provide the basis for more elaborate resources such as frame nets. In this paper, we pursue this possibility for a family of languages, the Semitic languages spoken today in Eritrea and Ethiopia, for which we have access to a dedicated morphological analyzer and, in two cases, Amharic and Tigrinya, sizable text corpora and bilingual dictionaries with English glosses. Focusing on experience verbs, we first select a subset of the experience verb roots (XR_I) representing different canonical mappings of morphological roles to syntactic and semantic roles, defining a morpho-syntactic-semantic (MSS) frame for each. Next we morphologically analyze the verbs in the corpora and cluster the verb roots on the basis of a set of morphological features. We isolate the clusters containing the XR_I roots and search for other experience roots in these clusters (XR_II), starting from candidate translations of English experience verbs from the English FrameNet. For each new XR_II root we assign the MSS frame associated with the XR_I root in the same cluster. We evaluate the method by checking whether the MSS frame assigns the correct syntactic and semantic roles to the arguments in randomly selected sentences containing the XR_II roots.
+For example, for the Amharic root <r’b> ‘hunger, be hungry’, we create the MSS assigning separate valence patterns to the base and passive forms of this root.
+DERIVATIONAL FORM
+LEMMA
+ROLES
+BASE
+ራበ(ው)
+MORPH: subj
+MORPH: obj
+
+
+SYN: --
+SYN: expl
+
+
+SEM: --
+SEM: experiencer
+PASSIVE
+ተራበ
+MORPH: subj
+MORPH: --
+
+
+SYN: nsubj
+SYN: --
+
+
+SEM: experiencer
+SEM: --
+
+From the English FrameNet we discover that the lexical item sick belongs to the same frame (Biological_urge), as hungry, and we posit the same MSS frame for the Amharic translation of this lexical item, <’mm>.
+
+Semantic role labeling (SRL) makes use of resources that, for particular verb lexemes, relate syntactic roles (subject, direct object) to semantic roles (actor, undergoer). For low-resource languages, there are few if any such resources. In the paper we consider a subset of experience verbs in a family of low-resource languages, the Ethio-Eritrean Semitic languages. For morphologically rich languages such as these, the mapping between verb syntax and semantics can be extended to include morphology. Thus a "morpho-syntactic-semantic (MSS) frame" in such a language maps morphological roles (verb subject and object agreement and noun case) onto syntactic roles, which are in turn mapped onto semantic roles.
+Starting from available linguistic accounts of two representative languages in the family, Tigrinya and Amharic, we consider (2, 3, 4?) categories of MSS frames for experience verbs, some of which are quite unusual among the world's languages. Then we show how the availability of a corpus and a morphological analyzer for these languages allows us to verify known members of these categories and extend the categories to include new members.
+
+anne.kavaler@gmail.com
+
+    1. Analyze verbs in corpus and extract candidate features
+    2. Feature tuning
+    3. Do agglomerative clustering
+    4. Examine clusters at different iterations
+        1. Do they contain E roots?
+        2. Do they contain non-E roots?
+    5. From clusters, isolate possible MSS frames
+    6. Does this method distinguish roots with characteristic MSS frames?
+
+Possible val/voice categories
+3sm_	3sm_12	3sm_3	12_	12_o	3f|p_	3f|p_o
+1	1		1	1	1	1	1
+
+Roots with only inanimate undergoers/themes (ስብር); 3sm_3 but not 3sm_12
+Roots with only inanimate causes (ፍስስ); 3sm_* but not 12_*
+*Roots with only animate undergoers/themes (ክብር+cs)
+*Roots with only animate actors (ውድድ)
+*Roots with animate and inanimate undergoers/themes (ውድድ ምትእ)
+*Roots with animate and inanimate actors/causes (ድክም+cs, ምትእ, ምጥእ+cs)
+
+Transitive roots+vv
+	3sm subj; 3sm_12/3sm_3 but not 12_o or 3f|p_o
+	all subj; 3sm_* and 12_o and 3f|p_o
+Intransitive roots+vv
+	3sm subj; 3sm_ but not 12_ or 3f|p_
+	all subj; 3sm_ and 12_ and 3f|p_
+
+Kistane experience verbs
+
+አዚቃይ ሱፋ አክል በአውድ ለዋግባ አቂጠኖ::
+ያን ሁሉ የተመረተ እህል ከአውድማ ለማስገባት አደከመን::
+We got tired to store all the grain that was spread on the threshing ground.
+
+አታ%ት%ግዜ ንቂጡ፡፡
+አንዳንድ ጊዜ እንደክማለን፡፡
+Sometimes we get tired.
+
+ቂጦ /k′it′o/ ግ/v. (ደከመ) become weak
+ምጠጠኚ ቂጦ፡፡
+ህመምተኛው ደከመ፡፡
+The patient become weak.
+
+ራበን%ት /#rab#nnÑt/ ግ/v. (ራበው) be hungry
+ባዪ% ራበን%ት::
+ልጁን ራበው::
+The child got hungry.
+
+ጠማ%ን%ት /t'«mmannÑt/ ግ/v. (ጠማው፣ተጠማ) be thirst
+ባዪ ዪጋ ጠማ%ን%ት፡፡
+ልጁ ውሃ ጠማው፡፡
+The child got thirsty.
+
+3. አመመ ; ጠማ (unike Tig) ; ራበ (unlike Tig)
+a. Base
+i. With no obj suffix, the morph/syn subj is the theme (a potential cause of the experience), but this seems not to be true for ራበ and ጠማ
+   ያማል ; ይጠማል(?)
+ii. With 3sm subj agreement and obj suffix, the morph obj and syn expl is the experiencer.
+  አመመኝ ; ጠማኝ ; ራበኝ
+b. Passive/reflexive
+The morph/syn subj is the experiencer.
+   ታመምኩ ; ተጠማሁ ; ተራብኩ
+c. Causative
+The morph/syn subj is the cause; the morph/syn obj is the experiencer.
+  አሳመመኝ ; አራበኝ ; አጠማኝ, አስጠማኝ
+

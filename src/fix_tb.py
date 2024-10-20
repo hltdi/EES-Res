@@ -1,3 +1,7 @@
+'''
+Modifying CoNNL-U files in various ways.
+'''
+
 from conllu import parse, TokenList, Token
 
 def read_file(path):

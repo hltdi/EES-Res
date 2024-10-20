@@ -11,6 +11,65 @@ import re
 
 MWE_RE = re.compile(r"(\w+)\s*[=:]\s*\(([\w\s]+)\)")
 
+def datafile2conllu(file, write2=None):
+    '''Convert a file with sentence strings to a string of CoNLL-U representations.'''
+    conllu = []
+    with open(file, encoding='utf8') as f:
+        sent_id = ''
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            if line[0] == '#':
+                # this is a sentence id
+                sent_id = line.split('#')[1].strip()
+            else:
+                tokens = tokenize(line)
+                c = data2conllu(tokens, sent_id=sent_id)
+                conllu.append(c)
+                sent_id = ''
+    conllu = "\n\n".join(conllu)
+    if write2:
+        with open(write2, 'w', encoding='utf8') as f:
+            print(conllu, file=f)
+    else:
+        return conllu
+
+def data2conllu(tokens, sentence='', comment='', sent_id=''):
+    '''
+    tokens is a list of strings and tuples consisting of a string and a list of segments.
+    '''
+    index = 1
+    lines = []
+    sentence = sentence or ' '.join([t[0].replace('_', ' ') if isinstance(t, tuple) else t for t in tokens])
+    if comment:
+        lines.append(comment)
+    if sent_id:
+        lines.append("# sent_id = {}".format(sent_id))
+    lines.append("# text = {}".format(sentence))
+    for token in tokens:
+        if isinstance(token, tuple):
+            # A multi-token item
+            mt = token[0]
+            if '_' in mt:
+                # An actual MWE rather than a segmented word
+                mt = mt.replace('_', ' ')
+            segments = token[1]
+            length = len(segments)
+            start = index
+            end = index + length-1
+            multi = "{}-{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(start, end, mt)
+            lines.append(multi)
+            for segment in segments:
+                segline = "{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(index, segment)
+                lines.append(segline)
+                index += 1
+        else:
+            line = "{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(index, token)
+            lines.append(line)
+            index += 1
+    return '\n'.join(lines)
+
 def tokenize(string):
     '''
     string is a tokenized sentence, which may contain segmented words or MWEs, indicated like this:
@@ -29,62 +88,6 @@ def tokenize(string):
             tokens.append(token)
             string = partition[-1]
     return tokens
-
-def tokenfile2conllu(file, write2=None):
-    '''Convert a file with sentence strings to a string of CoNLL-U representations.'''
-    conllu = []
-    with open(file, encoding='utf8') as f:
-        sent_id = ''
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            if line[0] == '#':
-                # this is a sentence id
-                sent_id = line.split('#')[1].strip()
-            else:
-                tokens = tokenize(line)
-                c = tokens2conllu(tokens, sent_id=sent_id)
-                conllu.append(c)
-                sent_id = ''
-    conllu = "\n\n".join(conllu)
-    if write2:
-        with open(write2, 'w', encoding='utf8') as f:
-            print(conllu, file=f)
-    else:
-        return conllu
-
-def tokens2conllu(tokens, sentence='', comment='', sent_id=''):
-    '''
-    tokens is a list of strings and tuples consisting of a string and a list of segments.
-    '''
-    index = 1
-    lines = []
-    sentence = sentence or ' '.join([t[0] if isinstance(t, tuple) else t for t in tokens])
-    if comment:
-        lines.append(comment)
-    if sent_id:
-        lines.append("# sent_id = {}".format(sent_id))
-    lines.append("# text = {}".format(sentence))
-    for token in tokens:
-        if isinstance(token, tuple):
-            # A multi-token 'word'
-            mt = token[0]
-            segments = token[1]
-            length = len(segments)
-            start = index
-            end = index + length-1
-            multi = "{}-{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(start, end, mt)
-            lines.append(multi)
-            for segment in segments:
-                segline = "{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(index, segment)
-                lines.append(segline)
-                index += 1
-        else:
-            line = "{}\t{}\t_\t_\t_\t_\t_\t_\t_\t_".format(index, token)
-            lines.append(line)
-            index += 1
-    return '\n'.join(lines)
 
 def conllu2corpus(conllu, fileout):
     lines = []
@@ -321,3 +324,30 @@ def align_sentences(file1, file2, comments=True, write="ti_am_att-ud-text.txt"):
                     print("{} and {} don't match".format(l1, l2))
                 print("{}\n{}\n{}".format(c1, s1, s2), file=file)
 #    print("N1 {}, N2 {}".format(n1, n2))
+
+# Old stuff
+
+def data2table(file, starred=True, write=True):
+    tsv = ["ID\tTigrinya\tAmharic\tUD\tNotes"]
+    with open(file, encoding='utf8') as file:
+        current = []
+        starred = False
+        for line in file:
+            if len(current) <= 2:
+                if '*' in line:
+                    starred = True
+                    line = line.replace('*', '')
+                current.append(line.strip())
+            else:
+                if starred:
+                    tsv.append('\t'.join(current) + '\t \t ')
+                starred = False
+                if '*' in line:
+                    starred = True
+                    line = line.replace('*', '')
+                current = [line.strip()]
+    if write:
+        with open("../data/ti_am_att-ud-test.tsv", 'w', encoding='utf8') as file:
+            for line in tsv:
+                print(line, file=file)
+    return tsv
