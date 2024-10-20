@@ -2,8 +2,7 @@
 # text = ወደ ጅማ ይሄዳል
 1	ወደ	_	ADP	_	_	2	case	_	_
 2	ጅማ	_	NOUN	_	_	3	obl	_	_
-3	ይሄዳል	_	VERB	_	_	0	root	_
-# _
+3	ይሄዳል	_	VERB	_	_	0	root	_	 _
 
 # sent_id = am1.5
 # text = ከዮሴፍ ጋር ማጣች
