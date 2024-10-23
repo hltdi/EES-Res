@@ -60,7 +60,7 @@
 1	ደጋግም	_	VERB	_	_	4	advcl	_	_
 2	ኦ	_	_	_	_	1	nsubj:suf	_	_
 3-5	እምቢ አሉ	_	_	_	_	_	_	_	_
-3	እምቢ	_	_	_	_	4	compound:lvc	_	_
+3	እምቢ	_	_	_	_	4	cpd:lvc	_	_
 4	አለ	_	_	_	_	0	root	_	_
 5	ኡ	_	_	_	_	4	nsubj:suff	_	_
 
