@@ -109,6 +109,7 @@ venv.bak/
 
 # tools
 tools/
+figure/*.svg
 
 # Spyder project settings
 .spyderproject
