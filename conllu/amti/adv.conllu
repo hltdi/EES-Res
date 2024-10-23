@@ -73,7 +73,7 @@
 
 # sent_id = am-adv6b
 # text = ትናንት ዘነበ
-1	ትናንት	_	ADV	_	_	2	advmod	_	_
+1	ትናንት	_	NOUN	_	_	2	obl	_	_
 2-3	ዘነበ	_	_	_	_	_	_	_	_
 2	ዘነብ	_	_	_	_	0	root	_	_
 3	አ	_	_	_	_	2	nsubj:suf	_	_
