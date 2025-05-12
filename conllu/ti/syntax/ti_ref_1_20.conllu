@@ -1,12 +1,12 @@
 # text = ደቀሰ ።
-# sent_id = ti_ref_1
+# sent_id = ti-ref-1
 1-2	ደቀሰ	_	_	_	_	_	_	_	Translit=dək'əsə
 1	ደቀስ	ደቀሰ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=SERAHI|Root=ድቅስ:B
 2	አ	አ	PRON	PRON:suf	Gender=Masc|Number=Sing|Person=3	1	nsubj:suf	_	_
 3	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
 # text = ኣብ ዓራት ደቂሳ ።
-# sent_id = ti_ref_2
+# sent_id = ti-ref-2
 1	ኣብ	ኣብ	ADP	ADP	_	2	case	_	Translit=ʔab
 2	ዓራት	ዓራት	NOUN	NOUN	Number=Sing	3	obl	_	Translit=ʕarat
 3-4	ደቂሳ	_	_	_	_	_	_	_	Translit=dək'isa
@@ -15,7 +15,7 @@
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = እንጀራ የለን ።
-# sent_id = ti_ref_3
+# sent_id = ti-ref-3
 1	እንጀራ	እንጀራ	NOUN	NOUN	Number=Sing	2	nsubj	_	Translit=ʔnǰəra
 2-4	የለን	_	_	_	_	_	_	_	Translit=yələn
 2	የለ	ኣለ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=SERAHI|Root=ህልው:B
@@ -24,7 +24,7 @@
 5	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
 # text = ከልቢ ይነብሕ ።
-# sent_id = ti_ref_4
+# sent_id = ti-ref-4
 1	ከልቢ	ከልቢ	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=kəlbi
 2-3	ይነብሕ	_	_	_	_	_	_	_	Translit=ynəbħ
 2	ይ	ይ	PRON	PRON:pre	Gender=Masc|Number=Sing|Person=3	3	nsubj:pre	_	_
@@ -32,7 +32,7 @@
 4	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = እቲ ሰብኣይ ጠምዩ ።
-# sent_id = ti_ref_5
+# sent_id = ti-ref-5
 1	እቲ	እቲ	DET	DET	_	2	det	_	Translit=ʔti
 2	ሰብኣይ	ሰብኣይ	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=səbʔay
 3-4	ጠምዩ	_	_	_	_	_	_	_	Translit=t'əmyu
@@ -41,7 +41,7 @@
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = ኣስቴር ጠምያ ።
-# sent_id = ti_ref_6
+# sent_id = ti-ref-6
 1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	2	nsubj	_	Translit=ʔaster
 2-3	ጠምያ	_	_	_	_	_	_	_	Translit=t'əmya
 2	ጠሚይ	ጠመየ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=SERAHI|Root=ጥምይ:A
@@ -49,7 +49,7 @@
 4	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
 # text = ኣስቴር መኪና ኣላታ ።
-# sent_id = ti_ref_7a
+# sent_id = ti-ref-7a
 1	ኣስቴር	ኣስቴር	PROPN	PROPN	Number=Sing	3	obj:poss	_	Translit=ʔaster
 2	መኪና	መኪና	NOUN	NOUN	Number=Sing	3	nsubj	_	Translit=məkina
 3-5	ኣላታ	_	_	_	_	_	_	_	Translit=ʔalata
@@ -59,7 +59,7 @@
 6	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = ንኣስቴር መኪና ኣላታ ።
-# sent_id = ti_ref_7b
+# sent_id = ti-ref-7b
 1-2	ንኣስቴር	_	_	_	_	_	_	_	Translit=nʔaster
 1	ን	ን	ADP	ADP:pre	_	2	case:pre	_	_
 2	ኣስቴር	ኣስቴር	PROPN	PROPN	_	4	obj:poss	_	_
@@ -71,14 +71,14 @@
 7	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
 # text = ሰቢሩ ።
-# sent_id = ti_ref_8
+# sent_id = ti-ref-8
 1-2	ሰቢሩ	_	_	_	_	_	_	_	Translit=səbiru
 1	ሰቢር	ሰበረ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=SERAHI|Root=ስብር:A
 2	ኡ	ኡ	PRON	PRON:suf	Gender=Masc|Number=Sing|Person=3	1	nsubj:suf	_	_
 3	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
 # text = ንሱ ሰቢሩ ።
-# sent_id = ti_ref_9
+# sent_id = ti-ref-9
 1	ንሱ	ንሱ	PRON	PRON	Number=Sing	2	nsubj	_	Translit=nsu
 2-3	ሰቢሩ	_	_	_	_	_	_	_	Translit=səbiru
 2	ሰቢር	ሰበረ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=SERAHI|Root=ስብር:A
@@ -86,7 +86,7 @@
 4	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
 # text = ንሱ ሰቢሩዎ ።
-# sent_id = ti_ref_10
+# sent_id = ti-ref-10
 1	ንሱ	ንሱ	PRON	PRON	Number=Sing	2	nsubj	_	Translit=nsu
 2-4	ሰቢሩዎ	_	_	_	_	_	_	_	Translit=səbiruwo
 2	ሰቢር	ሰበረ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=SERAHI|Root=ስብር:A
@@ -95,7 +95,7 @@
 5	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
 # text = ካሌብ ነቲ ቢኬሪ ሰቢሩዎ ።
-# sent_id = ti_ref_11
+# sent_id = ti-ref-11
 1	ካሌብ	ካሌብ	PROPN	PROPN	Number=Sing	5	nsubj	_	Translit=kaleb
 2-3	ነቲ	_	_	_	_	_	_	_	Translit=nəti
 2	ን	ን	ADP	ADP:pre	_	3	case:pre	_	_
@@ -108,7 +108,7 @@
 8	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = ኣበበ ነቲ ገንዘብ ንኣልማዝ ሂቡዋ ።
-# sent_id = ti_ref_12
+# sent_id = ti-ref-12
 1	ኣበበ	ኣበበ	PROPN	PROPN	Number=Sing	6	nsubj	_	Translit=ʔabəbə
 2-3	ነቲ	_	_	_	_	_	_	_	Translit=nəti
 2	ን	ን	ADP	ADP:pre	_	3	case:pre	_	_
@@ -124,7 +124,7 @@
 10	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
 # text = ኣበበ ነቲ ገንዘብ ሂቡዋ ።
-# sent_id = ti_ref_13a
+# sent_id = ti-ref-13a
 1	ኣበበ	ኣበበ	PROPN	PROPN	Number=Sing	5	nsubj	_	Translit=ʔabəbə
 2-3	ነቲ	_	_	_	_	_	_	_	Translit=nəti
 2	ን	ን	ADP	ADP:pre	_	3	case:pre	_	_
@@ -137,7 +137,7 @@
 8	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = ኣበበ እቲ ገንዘብ ሂቡዋ ።
-# sent_id = ti_ref_13b
+# sent_id = ti-ref-13b
 1	ኣበበ	ኣበበ	PROPN	PROPN	Number=Sing	4	nsubj	_	Translit=ʔabəbə
 2	እቲ	እቲ	DET	DET	Number=Sing	3	det	_	Translit=ʔti
 3	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	4	obj	_	Translit=gənzəb
@@ -148,7 +148,7 @@
 7	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
 # text = ርእሰይ ሒሙኒ ።
-# sent_id = ti_ref_14
+# sent_id = ti-ref-14
 1-2	ርእሰይ	_	_	_	_	_	_	_	Translit=rʔsəy
 1	ርእሲ	ርእሲ	NOUN	NOUN	_	3	nsubj	_	_
 2	አይ	አይ	_	_:suf	Number[psor]=Sing|Person[psor]=1	1	det:suf	_	_
@@ -159,7 +159,7 @@
 6	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = እቲ ቢኬሪ ተሰቢሩ ።
-# sent_id = ti_ref_15
+# sent_id = ti-ref-15
 1	እቲ	እቲ	DET	DET	Number=Sing	2	det	_	Translit=ʔti
 2	ቢኬሪ	ቢኬሪ	NOUN	NOUN	Number=Sing	3	nsubj:pass	_	Translit=bikeri
 3-4	ተሰቢሩ	_	_	_	_	_	_	_	Translit=təsəbiru
@@ -168,7 +168,7 @@
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = እቲ መንገዲ ብማይ ተባሕጒጉ ።
-# sent_id = ti_ref_16
+# sent_id = ti-ref-16
 1	እቲ	እቲ	DET	DET	Number=Sing	2	det	_	Translit=ʔti
 2	መንገዲ	መንገዲ	NOUN	NOUN	Number=Sing	5	nsubj:pass	_	Translit=məngədi
 3-4	ብማይ	_	_	_	_	_	_	_	Translit=bmay
@@ -180,7 +180,7 @@
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = ነቲ ወዲ ስራሕ ኣስሪሐዮ ።
-# sent_id = ti_ref_17
+# sent_id = ti-ref-17
 1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
 1	ን	ን	ADP	ADP:pre	_	2	case:pre	_	_
 2	እቲ	እቲ	DET	DET	_	3	det	_	_
@@ -193,7 +193,7 @@
 8	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = ነቲ ወዲ ኣጕየዮ ።
-# sent_id = ti_ref_18
+# sent_id = ti-ref-18
 1-2	ነቲ	_	_	_	_	_	_	_	Translit=nəti
 1	ን	ን	ADP	ADP:pre	_	2	case:pre	_	_
 2	እቲ	እቲ	DET	DET	_	3	det	_	_
@@ -205,7 +205,7 @@
 7	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
 # text = ኣቦይ እዩ ።
-# sent_id = ti_ref_19
+# sent_id = ti-ref-19
 1-2	ኣቦይ	_	_	_	_	_	_	_	Translit=ʔaboy
 1	ኣቦ	ኣቦ	NOUN	NOUN	_	0	root	_	_
 2	አይ	አይ	_	_:suf	Number[psor]=Sing|Person[psor]=1	1	det:suf	_	_
@@ -213,7 +213,7 @@
 4	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
 # text = ካሕሳይ መምህር እዩ ።
-# sent_id = ti_ref_20
+# sent_id = ti-ref-20
 1	ካሕሳይ	ካሕሳይ	PROPN	PROPN	Number=Sing	2	nsubj	_	Translit=kaħsay
 2	መምህር	መምህር	NOUN	NOUN	Number=Sing	0	root	_	Translit=məmhr
 3	እዩ	እዩ	COP	COP	Gender=Masc|Number=Sing|Person=3	2	cop	_	Translit=ʔyu

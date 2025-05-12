@@ -1,0 +1,9 @@
+ልጁ ከመፍራቱ የተነሣ መርፌውን ሊወጋ አልደፈረም ።
+(syntax of last 3 words?)
+
+Fix case for verb prepositions/adverb_prefixes.
+    No case for both types? (But -ን has it...)
+    No case only for adverbs?
+    Verbs can have only one case.
+
+PronType for independent pronouns (እኔ)

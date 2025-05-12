@@ -1,0 +1,42 @@
+1026 sentences
+
+AMBIGUITY
+Amharic
+	761 distinct words
+	1356 instances
+
+seMayawi_semay_24
+
+NOM -> VERB
+if it's not GEN and there's no intervening VERB or infinitive
+
+እንደምትኖርበት ቤት ቆንጆ ነው
+like-which-you-live-in-it house pretty it-is
+it's pretty like the house where you live
+እንደቤቱ ቆንጆ ነው
++rel -adv "like" ->acl
+
+እንደ (P/I)
++rel +adv "as"/"like" ->advcl
+
+እንደ+NEG_PRF
+"as though (not)" ->advcl
+
+እንደ (መጠን, ሁሉ, ወዲያው)
++rel +adv "just as" ->advcl
+
+እንደ+PRF + COP
+progressive
+
+እንደ (P/I)
++rel -adv ("that") ->ccomp
+
+->ccomp, SCONJ ("that") P/I
+->advcl, SCONJ ("as", "just as", "as though", "if") P/I
+
+->acl, ADP ("like") P/I
+
+
+
+	
+	

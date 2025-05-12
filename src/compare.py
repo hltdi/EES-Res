@@ -13,6 +13,131 @@ USERS = ['megasser', 'abutihere', 'nazarethamlesom']
 
 ID_RE = re.compile(r'(\d+)([a-zA-Z]*)')
 
+def read_text(path="../text/amti/am_ti_starter.txt"):
+    '''
+    Read in a text file consisting of triples of lines (comment, Amh, Tir)
+    and return it as a dict.
+    '''
+    group = []
+    groups = {}
+    comment = ''
+    amh = []
+    with open(path, encoding='utf8') as old:
+        for line in old:
+            line = line.strip()
+            if line[0] == '#':
+                if group:
+                    groups[comment] = group
+                comment = line
+                group = []
+            else:
+                group.append(line)
+        if group:
+            groups[comment] = group
+    return groups
+
+def rewrite():
+    group = []
+    lines = {}
+    comment = ''
+    amh = []
+    with open("../text/amti/ti_am_att-ud.txt", encoding='utf8') as old:
+        for line in old:
+            line = line.strip()
+            if line[0] == '#':
+                if group:
+                    lines[comment] = group
+                comment = line
+                group = []
+            else:
+                group.append(line)
+        if group:
+            lines[comment] = group
+    with open("../text/amti/am_ti_att-ud.txt", 'w', encoding='utf8') as new:
+        for id, (t, a) in lines.items():
+            if a in amh:
+                print("{} is repeated".format(id))
+            else:
+                amh.append(a)
+                print(id, file=new)
+                print(a, file=new)
+                print(t, file=new)
+
+def reorder():
+    group = []
+    ids = []
+    comment = ''
+    lines = {}
+    with open("../text/am/am_att-ud-test.txt", encoding='utf8') as att:
+        for line in att:
+            line = line.strip()
+            if line[0] == '#':
+                line = line.replace('data_UD-', 'sent_id = ')
+                ids.append(line)
+    with open("../text/amti/am_ti_starter.txt", encoding='utf8') as new:
+        for line in new:
+            line = line.strip()
+            if line[0] == '#':
+                if group:
+                    lines[comment] = group
+                comment = line
+                group = []
+            else:
+                group.append(line)
+        if group:
+            lines[comment] = group
+    for id in ids:
+        group = lines.get(id)
+        if not group:
+            print("{} not found".format(id))
+
+def merge_ti(original, new):
+    group = []
+    comment = ''
+    lines = {}
+    newlines = {}
+    with open(original, encoding='utf8') as file:
+        for line in file:
+            line = line.strip()
+            if line[0] == '#':
+                if group:
+                    lines[comment] = group
+                comment = line
+                group = []
+            else:
+                group.append(line)
+        if group:
+            lines[comment] = group
+    group = []
+    comment = ''
+    position = 0
+    with open(new, encoding='utf8') as file:
+        for line in file:
+            line = line.strip()
+            if line[0] == '#':
+                if line not in lines:
+                    print("{} missing from original".format(line))
+                else:
+                    comment = line
+                    group = lines[comment]
+                    position = 0
+            elif position == 0:
+                # line is new Ti
+                # old Ti
+                oldti = group[0]
+                if oldti != line:
+                    # Correcting new Ti
+                    if line[-2] != ' ':
+                        line = line[:-1] + ' ' + line[-1]
+                        line.replace(" አ", " ኣ")
+                        if line[0] == 'አ':
+                            line = 'ኣ' + line[1:]
+                    print("Replacing {} with {}".format(oldti, line))
+                    group[0] = line
+                position += 1
+        
+    return lines
+
 def ti_update_data(datafile, write=None):
     lines = []
     include = False

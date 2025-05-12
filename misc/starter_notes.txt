@@ -1,0 +1,186 @@
+Amharic
+
+What happens when an infinitive has both verb and noun inflection?
+100- 26,34,36,45,59
+300- 40,43
+400- 29,48,57, 64, 78
+500- 82
+እንግዶቹ ከመምጣታቸው በፊት
+የመክፈል ግዴታ (400:64)
+ካሳ የአስቴር ወደ ጎንደር መሄድ ሰምቶአል
+እስከ: mark not case! in እስከ መግደል is it SCONJ rather than ADP?
+what about ስለ with infinitive ስለ መወሰናቸው (400:61)?
+ከመኖሩ የተናሣ: are ከ አንድ የተነሣ both SCONJ, connected by mark?
+በማየቱ (በ an ADP or an SCONJ)
+እንደ መሆኑ is እንደ and ADP or SCONJ; is the relation case or mark? 400: 62, 63, 64, 65, 66
+አንድ የመሆናችን ጊዜ: 400:69
+
+Instrument nouns can also have arguments with -ን 400:86,87
+
+ያህል: what is it in ለማስደሰት ያህል (400:76)? NOUN? SCONJ?
+ስምንት ያህል: here ያህል is an ADV modifying ስምንት!
+የስርቆት ያህል (500:47) NOUN?
+
+complements
+ልብስ ለመግዛት ብዬ: advcl or ccomp or even xcomp? (400:73, 74)
+አልበት: obj:oblig / obl:oblig ? (400:68)
+
+እንደሆን ከሆነ AUX/VERB; many examples 1-100: 83
+
+Multiple "accusative" objects (or explicit arg + obj suffix)
+ ለበዓሉ ጸጉሯን ሹሩባ ተሠራች ።
+ ፊቷን ታጠበች ።
+ 200-300: 31
+ድል የተመታው: ድል obj or maybe xcomp?
+ቀጠሮ ማፍረስ ግድ ሆነብኝ: ግድ
+
+xcomp vs. advcl: ሊያመልጥ ለማድረግ
+ልጅ እንዲኖረው ይፈልጋል 500:54
+400: 90, 91
+
+Multiple converb clauses (also punct dep head) 1-100: 14, 200-300: 34, 35
+
+ይልቅ and ይብስ as ADP (postposition), not just ADV
+rather than in English a fixed expression linked by cc to one of two conjuncts
+than in English comparatives is ADP linked to following nominal by case
+differently than[<-case] him[<-obl-differently]
+
+repeated place and time nouns/postpositions: 1:7 ከሱቅ ሱቅ; 500:17 እሁድ እሁድ; probably should be conj; ዳር ዳር
+
+1-100 Amharic
+7 ከሱቅ ሰቅ ሲዞር
+14 multiple converb clauses
+20 ጎንደር ይደርሳል
+25 ጡት አጠባኋት
+37 ልብሴን የመስፋት ችሎታ (noun / verb inflection with the same form?)
+40 መጥቶ እንደሆነ ግባ በለው
+53 በሽርሽር ላይ ሆነን... / 65 ምን ቢሆን ይሻላል ?  / 70 እዚያ ብሆን እመኛለሁ ። / 72 የትም ብትሆን ለኔ ደብዳቤ መጻፍ አትርሳ ።
+63 ካሳ የአስቴር ወደ ጎንደር መሄድ ሰምቶአል ። (nmod vs. nsubj)
+69 ይህ ምስኪን ምነው በደንብ በልቶ አይቼው ። (translation)
+73 እዚህ ካላችሁ ዘንድ ይህንን ጉዳይ ብንነጋገርበት መልካም ነው ። (ጉዳይ obj? obl?)
+77 ምነው ይህን ያህል ባልሠራ ። (ይህን ያህል obj? obj?)
+78 ምነው አስተማሪ በሆንሁ ። (root)
+83 የምትፈልጉ ከሆነ which is the head ከሆነ head, cop, or aux
+
+100-200 Amharic: 60 minutes
+9 በእርግጥ
+26 የአባቱ መምታት
+34 የወንድሟ መሞት
+36 የካሳን መምጣት
+40 ጀርባዋን መታኋት
+45 የልጁ መታመም
+57 coordinate conjuncts head
+59 የአባቴ መመለስ
+63 መብረቁ የወረደው እዚህ ቦታ ነው ። ??
+71 obj:exper (አለበት)
+75 ካሳ ጎበዝ ሆነ
+77 ጎበዝ ይመስላል
+87-100 morphological passives
+94 ለበዓሉ ጸጉሯን ሹሩባ ተሠራች ። ?
+
+Should ማንም be unsegmented (like ምንም)?
+ምንም እንኳ should be a MWE
+
+200-300
+2, 3, 10 passive
+12, 13, 15, 16, 17, 18, 19, 22, 23, 25?, 26 causative
+27 reciprocal
+7 ሴት ተማሪ compound missed
+29 መንግስት ህዝቡ እርስ በእርስ አጋደለ ። እርስ በርስ? ህዝቡ?
+39 እናቴን ጠይቄ ልመጣና አገር ቤት እሄዳለሁ ። conjunction? also 46, 47
+60 አላግዘኝ አለች ። translation?
+63 እርግጠኛ + xcomp? 'sure of what you're saying...'
+64 አለ + iobj (hearer + ን)
+69 ብሎ ነገረ xcomp? (as opposed to advcl)
+70 ብሎ ጻፈ
+71 ብሎ አመነ
+72 ብሎ መለሰ
+73 ተከሳሹ ሰው ጥፋተኛ ነህ ተብሎ ተፈረደበት ። multiple
+
+300-400
+**67 redo አንዱንም
+**86 redo ሃገሬ
+ይኖረኝ አይኖረኝ JUS or IPFV
+5 ምንም ልብስ አልገዙም ምንም: det?
+16 ምንም እንኳ
+17 coordination, aux
+25 ምህ ያህል
+32 coordination (left)
+35 ላንድ ሰዓት ያህል
+38 coordination (left)
+50 በእድሜ እንደ አንተ ... ይልቅ ...
+52 ድረስ should be ADP, እስከ should be mark
+53 ምን ያህል ጊዜ
+56 እንዲጫወት አትፍቀድለት
+61 እንጀራውን ምን አረግሽው ? በላሁታ ። (two objects)
+64 advcl vs. xcomp ለማየት ፈልጎ
+65 advcl vs. xcomp ሊመጣ ፈለገ
+68-71 coordination (left)
+75 orphan?
+77 coordination
+78 coordination?
+83, 85 subordinate copula ባይሆንም ቢሆን
+89, 90 subordinate copula ምንሽ ቢሆን
+92 orphan
+96-98 two objects አንተን ምን እንደማደርግ
+99 translation
+
+400-500
+2 obj or obl ተራራውን መውጣት
+3 subordinate copula እሱን ብሆን
+3, 15, 17, 87 AUX/VERB
+4 ሞትን ሞተ
+8 ደረቁን
+9 multiple objects
+10 ሜዳ ሜዳውን ሄደ
+12 እነሆ parataxis? conj?
+17 aux የመጣ እንደሆነ
+19 what is ምንም in ምንም አልተሻለውም: PRON/ADV, obl/advmod/nsubj?
+31 subordinate copula መሆን
+33 ፈተና መውደቄ obj?
+35 መቀባጠር ይወዳል xcomp or ccomp?
+39 infinitive as root መግረፍህ
+45 ይምትመጣ መሆኑን aux? head
+46 የማይቆይ መሆኑ aux? head
+47 ለማወቅ እፈልጋለሁ xcomp
+49 ፈተና ለማለፍ በርትቶ ማጥናት fragment? ለማለፍ advcl of elided verb?
+51 ምን ማለት ነው is ምን obj or ccomp?
+54 አቧራ እንዳይነካው በማለት ccomp or advcl?
+56 ከመሄድ ይልቅ ብቆይ advcl+mark or obl+adp?
+57 ከመምጣቱ ገበታ ላይ translation
+59 ከመኖሩ የተነሣ (ከ SCONJ?) የተነሣ SCONJ?
+60 ሲል (ሲባል) as "in order to"
+62 ሁሉ as case (POS: ADP?); መሆኑ: subordinate cop
+62 እንደ መሆኑ
+86 ቀዳዳውን መወተፊያ ቡትቶ nmod? instrument noun as verby
+87 መቅረጫ የሚሆን ምላጭ xcomp
+92 አናጢ ይወጣሃል: is this the nsubj?
+100 አንድ ብርጭቆ ውሃ: nmod?
+
+500-600
+6 ለማለፍ ስሞክር: xcomp or advcl (ለ- vs. 0-)
+11 ከትዳር ይልቅ ሥራዋ conj or?
+14 ሊያመልጥ የሚችልበትን ዘዴ xcomp or advcl?
+**19 ድል የተመታው: ድል obj or maybe xcomp? [redo because of missing compound]
+21 ቀጠሮ ማፍረስ ግድ ሆነብኝ
+22 የግድ nmod? አስፈላጊ
+26,27, 32, 35, 50 headless relative clauses as complements: advcl or ccomp or obl
+30 በመሥራት ላይ ናቸው; ናቸው: cop or aux; በ- ላይ: ADP or SCONJ
+35 ካሉበት ዘንድ; ADP or SCONJ, case or mark
+37 complement of ይመስላል: obj or xcomp
+47 የሰው ዕቃ ሳይጠይቁ መውሰድ የስርቆት ያህል ይቆጠራል "as" arg of ይቆጠራል: xcomp; ያህል NOUN vs. ADV
+85 ጧቱን በሙሉ: ሙሉ nmod so should it be NOUN rather than ADJ
+** 89 [redo because of missing compound]
+92 ራሱን ቻለ: obj or something else (because it's idiomatic)
+96 ትተዋወቁ ኖሯል: aux (ትተዋወቁ as root)?
+
+
+600-700
+13 AUX/VERB
+10 ታጋዮች translation
+
+900-
+54 አልሰማም ይሆን translation
+
+Multiple
+ራሴን አመመኝ / ፊቱን ታጠበ obj or iobj?

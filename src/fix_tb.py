@@ -4,10 +4,274 @@ Modifying CoNNL-U files in various ways.
 
 from conllu import parse, TokenList, Token
 
+def fix_possessive(file):
+    output = []
+    with open(file) as f:
+        for line in f:
+            line = line.strip()
+            if not line or line[0] == '#':
+                output.append(line)
+            else:
+                items = line.split('\t')
+                misc = items[-1]
+                if misc == 'Possessive=Yes':
+                    feats = items[5]
+                    items[5] = feats.replace("PronType=Prs", "Possessive=True|PronType=Prs")
+                    items[9] = '_'
+                output.append('\t'.join(items))
+    out = file.rpartition('.')[0] + "_fixed.conllu"
+    with open(out, 'w') as f:
+        for line in output:
+            print(line, file=f)
+                
+def is_head(c_fields, id_range):
+#    print("Is {} head for {}".format(c_fields, id_range))
+    id = int(c_fields[0])
+    head = c_fields[6]
+    if head == '_':
+        head = -1
+    else:
+        head = int(head)
+    if id_range[0] <= head <= id_range[1]:
+#        print("  NO")
+        return False
+#    print("  YES")
+    return True
+
+def update_feats(feats, token, rel):
+    if feats == '_':
+        return None
+    feats = feats.split('|')
+    if 'Possessive=Yes' in feats or rel == 'det:poss':
+        new_feats = []
+        # possessive, modify PNG
+        for feat in feats:
+            f, v = feat.split('=')
+            if f == 'Gender':
+                new_feats.append("Gender[psor]={}".format(v))
+            elif f == 'Person':
+                new_feats.append("Person[psor]={}".format(v))
+            elif f == 'Number':
+                new_feats.append("Number[psor]={}".format(v))
+            elif f not in ('PronType', 'Possessive'):
+                new_feats.append(feat)
+        return new_feats
+    elif rel == "obj:aff":
+        new_feats = []
+        for feat in feats:
+            f, v = feat.split('=')
+            if f == 'Gender':
+                new_feats.append("ObjGen={}".format(v))
+            elif f == 'Number':
+                new_feats.append("ObjNum={}".format(v))
+            elif f == 'Person':
+                new_feats.append("ObjPers={}".format(v))
+            elif f != 'PronType':
+                new_feats.append(feat)
+        return new_feats
+    elif rel == 'obl:aff':
+        new_feats = []
+        pre = "Mal"
+        if token.startswith("ለ") or token.startswith("ል"):
+            pre = "Ben"
+        for feat in feats:
+            f, v = feat.split('=')
+            if f == 'Gender':
+                new_feats.append("{}Gen={}".format(pre, v))
+            elif f == 'Number':
+                new_feats.append("{}Num={}".format(pre, v))
+            elif f == 'Person':
+                new_feats.append("{}Pers={}".format(pre, v))
+            elif f != 'PronType':
+                new_feats.append(feat)
+        return new_feats
+    else:
+        new_feats = []
+        for feat in feats:
+            f, v = feat.split('=')
+            if f != 'PronType':
+                new_feats.append(feat)
+        return new_feats
+
+def combine_feats(path, outpath=''):
+    output = []
+    in_segmented = False
+    id_range = None
+    saved_feats = set()
+    saved_lines = []
+    saved_head = -1
+    with open(path) as file:
+        for line in file:
+            line = line.strip()
+            if not line or line[0] == '#':
+                output.append(line)
+            else:
+                items = line.split('\t')
+                feats = items[5]
+                id = items[0]
+                tok = items[1]
+                rel = items[7]
+                is_group = '-' in id
+                if not is_group:
+                    id = int(id)
+                if in_segmented:
+                    if is_group or id < id_range[0] or id > id_range[1]:
+                        # End of segmented word
+                        # Add saved stuff
+#                        print("saved head {}, saved feats {}".format(saved_head, saved_feats))
+                        for saved_line in saved_lines:
+                            if int(saved_line[0]) == saved_head:
+                                # This is the head
+                                # Fix feats
+                                if saved_feats:
+                                    saved_feats = list(saved_feats)
+                                    saved_feats.sort()
+                                    saved_feats = '|'.join(saved_feats)
+                                    saved_line[5] = saved_feats
+                                else:
+                                    saved_line[5] = '_'
+                            else:
+                                saved_line[5] = '_'
+                            output.append('\t'.join(saved_line))
+                        saved_lines = []
+                        saved_feats = set()
+                        saved_head = -1
+                        if is_group:
+                            in_segmented = True
+                            id_range = id.split('-')
+                            id_range = int(id_range[0]), int(id_range[1])
+                        else:
+                            in_segmented = False
+                            id_range = None
+                        # Add current line
+                        output.append(line)
+                    else:
+                        # current token is in segmented word
+                        exp_feats = update_feats(feats, tok, rel)
+                        if exp_feats:
+                            saved_feats.update(exp_feats)
+                        if is_head(items, id_range):
+                            saved_head = id
+                        saved_lines.append(items)
+                elif is_group:
+                    in_segmented = True
+                    id_range = id.split('-')
+                    id_range = int(id_range[0]), int(id_range[1])
+                    output.append(line)
+                else:
+                    output.append(line)
+    outpath = outpath or path.rpartition('.')[0] + '_cf.conllu'
+    with open(outpath, 'w') as file:
+        for line in output:
+            print(line, file=file)
+    return output
+
+def empty_rels(inpath):
+    id = ''
+    with open(inpath) as file:
+        for line in file:
+            line = line.strip()
+            if not line:
+                continue
+            if line[0] == '#':
+                if "sent_id" in line:
+                    id = line.split(' = ')[-1]
+            else:
+                line = line.split('\t')
+                if '-' not in line[0] and line[7] == '_':
+                    print("{}: {}\t{}".format(id, line[0], line[1]))
+
+def number_conllu(inpath, outpath, start=1, language='am'):
+    with open(inpath) as inp:
+        c = start
+        next = False
+        with open(outpath, 'w') as outp:
+            for line in inp:
+                if next:
+                    print("# sent_id = {}-S-{}".format(language, c), file=outp)
+                    next = False
+                    c += 1
+                else:
+                    if line.startswith("# sent"):
+                        next = True
+                        line = line.replace("sent_", "ATT_")
+                print(line.strip(), file=outp)
+
+def number_corpus(inpath, outpath):
+    with open(inpath) as inp:
+        c = 1
+        next = False
+        with open(outpath, 'w') as outp:
+            for line in inp:
+                if next:
+                    print("# TB_id = S-{}".format(c), file=outp)
+                    next = False
+                    c += 1
+                else:
+                    if line[0] == '#':
+                        # comment line
+                        next = True
+                print(line.strip(), file=outp)
+
+def move_clausetype(path, outpath=''):
+    output = []
+    head = ''
+    with open(path) as file:
+        for line in file:
+            line = line.strip()
+            if not line or line[0] == '#':
+                output.append(line)
+            else:
+                items = line.split('\t')
+                feats = items[5]
+                if 'ClauseType' in feats and items[3] != 'VERB':
+                    # move ClauseType
+                    head = items[6]
+                    feats = feats.replace("ClauseType=Subord", '')
+                    if feats and feats[-1] == '|':
+                        feats = feats[:-1]
+                    if not feats:
+                        feats = '_'
+                    items[5] = feats
+                    new_line = '\t'.join(items)
+                    output.append(new_line)
+                    print("Removed ClauseType from line {}".format(new_line))
+                elif head and items[0] == head:
+                    # add ClauseType here
+                    items = line.split('\t')
+                    feats = items[5]
+                    if 'ClauseType' in feats:
+                        # don't add clause feats
+                        output.append(line)
+                    else:
+                        feats = feats.split('|')
+                        feats.append('ClauseType=Subord')
+                        feats.sort()
+                        feats = '|'.join(feats)
+                        items[5] = feats
+                        new_line = '\t'.join(items)
+                        output.append(new_line)
+                    head = ''
+                    print("Added ClauseType to line {}".format(new_line))
+                else:
+                    output.append(line)
+    if outpath:
+        with open(outpath, 'w') as file:
+            for line in output:
+                print(line, file=file)
+    return output
+
 def read_file(path):
     file = open(path, 'r', encoding='utf8')
     data = parse(file.read())
     return data
+
+def get_sentence_by_id(corpus, id):
+    for sentence in corpus:
+        md = sentence.metadata
+        if md.get('sent_id') == id:
+            return sentence
+    return None
 
 def distribute_feats1(sent, source_id, dest_id, feats):
     pass

@@ -1,0 +1,4104 @@
+# ATT_id = Sleepwalking-26-s1
+# sent_id = S-1
+መጽሐፉን አስያዛት ።
+ነቲ መጽሓፍ ኣትሒዙዋ ።
+# ATT_id = Sleepwalking-26-s3
+# sent_id = S-2
+ከበደን እንጀራ አስበላሁት ።
+ንከበደ እንጌራ ኣብሊዐዮ ።
+# ATT_id = Sleepwalking-26-s5
+# sent_id = S-3
+ገመዱን አስረዘመው ።
+ነቲ ገመድ ኣንዊሑዎ ።
+# ATT_id = Sleepwalking-26-s7
+# sent_id = S-4
+ውድድሩን ማሸነፉ አስደሰተው ።
+ነቲ ውድድር ምዕዋቱ ኣሕጒሱዎ ።
+# ATT_id = Sleepwalking-26-s9
+# sent_id = S-5
+ከቤት አስወጣኋት ።
+ካብ ገዛ ኣውጺአያ ።
+# ATT_id = Sleepwalking-26-s11
+# sent_id = S-6
+ልብስ አሳጠብኳት ።
+ክዳን ኣሕጺበያ ።
+# ATT_id = Sleepwalking-26-s13
+# sent_id = S-7
+ከሱቅ ሱቅ ሲዞር አስመሸኝ ።
+ድኳን ድኳን ከዘውር ኣምሲዩኒ ።
+# ATT_id = Sleepwalking-26-s15
+# sent_id = S-8
+ይህ መንገድ ወደ ግቢ ያስኬዳል ።
+እዚ መንገዲ ናብቲ ቀጽሪ የኽይድ እዩ ።
+# ATT_id = Sleepwalking-26-s17
+# sent_id = S-9
+ጥርሴ ቆሎ አያስበላኝም ።
+ስነይ ቆሎ ኣየብልዓንን እዩ ።
+# ATT_id = Sleepwalking-26-s19
+# sent_id = S-10
+ጩኸቱ አያስተኛኝም ።
+እቲ ጫውጫውታ ኣየደቅሰንን እዩ ።
+# ATT_id = Sleepwalking-Am_aux-s1
+# sent_id = S-11
+ካሳ አስተማሪ ነው ።
+ካሕሳይ መምህር እዩ ።
+# ATT_id = Sleepwalking-Am_aux-s2
+# sent_id = S-12
+አስተማሪ ናት ።
+መምህር እያ ።
+# ATT_id = Sleepwalking-Am_aux-s5
+# sent_id = S-13
+እሱ አለቀሰ ።
+ንሱ በኽዩ ።
+# ATT_id = Sleepwalking-Am_aux-s6
+# sent_id = S-14
+በሩን ከፍቶ እቤት ገብቶ እቃውን አዘጋጅቶ ቤቱን ጠርጎ ሄደ ።
+ነቲ ማዕጾ ከፊቱ ፡ ገዛ ኣትዩ ፡ ኣቑሑት አዳልዩ ፡ ነቲ ገዛ ኣጽርዩዎ ከይዱ ።
+# ATT_id = Sleepwalking-Am_aux-s7
+# sent_id = S-15
+ቆሞ ተናገረ ።
+ደው ኢሉ ተዛሪቡ ።
+# ATT_id = Sleepwalking-Am_aux-s8
+# sent_id = S-16
+ተመልሶ ሄደ ።
+ተመሊሱ ከይዱ ።
+# ATT_id = Sleepwalking-x04-s2
+# sent_id = S-17
+ካሳ ልብስ ተኮሰ ።
+ካሕሳይ ክዳን ኣስታሪሩ ።
+# ATT_id = Sleepwalking-x04-s3
+# sent_id = S-18
+መንገድሽን ተከተለ ።
+መንገድኺ ተኸቲሉ ።
+# ATT_id = Sleepwalking-x04-s4
+# sent_id = S-19
+ካሳ ምሳውን በላ ።
+ካሕሳይ ምስሑ በሊዑ ።
+# ATT_id = Sleepwalking-x04-s5
+# sent_id = S-20
+መንገዱ ጎንደር ይደርሳል ።
+እቲ መንገዲ ክሳብ ጎንደር ይበጽሕ ።
+# ATT_id = Sleepwalking-x04-s6
+# sent_id = S-21
+አልማዝ ክብደት ቀነሰች ።
+ኣልማዝ ክብደታ ቀኒሳ ።
+# ATT_id = Sleepwalking-x04-s7
+# sent_id = S-22
+ስጋው ሁለት ኪሎ ይመዝናል ።
+እቲ ስጋ ክልተ ኪሎ  ይምዘን ።
+# ATT_id = Sleepwalking-x04-s8
+# sent_id = S-23
+ወንድሜን ያቀዋል ።
+ንሓወይ ይፈልጦ እዩ ።
+# ATT_id = Sleepwalking-x04-s9
+# sent_id = S-24
+አልማዝ ገንፎ አገነፋች ።
+ኣልማዝ ግዓት ግዒታ ።
+# ATT_id = Sleepwalking-x04-s10
+# sent_id = S-25
+ጡት አጠባሁዋት ።
+ጡብ አጥብየያ ።
+# ATT_id = Sleepwalking-x04-s11
+# sent_id = S-26
+ካሳ ትናንት መኪና ገዛ ።
+ካሕሳይ ትማሊ ማኪና ገዚኡ ።
+# ATT_id = Sleepwalking-x04-s12
+# sent_id = S-27
+ካሳ ልጁን ገረፈው ።
+ካሕሳይ ንወዱ ገሪፉዎ ።
+# ATT_id = Sleepwalking-x04-s13
+# sent_id = S-28
+ካሳ ልጅ ወለደ ።
+ካሕሳይ ቆልዓ ወሊዱ ።
+# ATT_id = Sleepwalking-x04-s15
+# sent_id = S-29
+ወደ ከተማ ተጓዘ ።
+ንከተማ ተጓዒዙ ።
+# ATT_id = Sleepwalking-x04-s16
+# sent_id = S-30
+ልጁ ብርጭቆውን ወረወረው ።
+እቲ ቆልዓ ነቲ ብኬሪ ደርብዩዎ ።
+# ATT_id = Sleepwalking-x04-s17
+# sent_id = S-31
+ልጇን ተንከባከበች ።
+እታ ቆልዓ ተንከባሊላ ።
+# ATT_id = Sleepwalking-x04-s18
+# sent_id = S-32
+ፖሊሱ ጥይት ተኮሰ ።
+እቲ ፖሊስ ጥይት ተኲሱ ።
+# ATT_id = Sleepwalking-x04-s19
+# sent_id = S-33
+ካሳ ከአባቱ ተሻለ ።
+ካሕሳይ ካብ አቡኡ ሕይሹ ።
+# ATT_id = Sleepwalking-x04-s20
+# sent_id = S-34
+ልጁ ኳሱን አነሳ ።
+እቲ ቆልዓ ነታ ኵዕሶ አልዒሉዋ ።
+# ATT_id = third_apple_2-x00-s1
+# sent_id = S-35
+ቤቱ ሊሄድ ሲል ይዘንብ ጀመረ ።
+ንገዛ ክኸይድ ክብል እንከለኹ ፡ ማይ ክሃርም ጀሚሩ ።
+# ATT_id = third_apple_2-x00-s2
+# sent_id = S-36
+ልጁ ከመፍራቱ የተነሣ መርፌውን ሊወጋ አልደፈረም ።
+እቲ ወዲ ካብ ምፍርሑ ዝተላዕለ ፡ መርፍእ ክወግእ ኣይደፈረን ።
+# ATT_id = third_apple_2-x00-s3
+# sent_id = S-37
+የገዛ ልብሴን የመስፋት ችሎታ ምነው በኖረኝ ።
+እንታይ ነይሩዎ ናይ ባዕለይ ክዳን ናይ ምስፋይ ክእለት እንተዝነብረኒ ።
+# ATT_id = third_apple_2-x00-s4
+# sent_id = S-38
+ካንዱ አገር ወዳንዱ አገር እየዞርኩ እኖራለሁ ።
+ካብ ሓደ ዓዲ ናብ ካልእ ዓዲ እናዞርኩ እነብር ።
+# ATT_id = third_apple_2-x00-s5
+# sent_id = S-39
+ሥራው እስከ ተሠራ ድረስ ግድ የለኝም ።
+እቲ ስራሕ ክሳብ ዝተሰርሐ ጸገም የብለይን ።
+# ATT_id = third_apple_2-x00-s6
+# sent_id = S-40
+መጥቶ እንደሆነ ግባ በለው ።
+መጺኡ እንተኾይኑ ፡ እቶው በሎ ።
+# ATT_id = third_apple_2-x00-s7
+# sent_id = S-41
+ልጆቹ ስራ እንዲሰሩ ይደረጋል ።
+እቶም ቆልዑት ስራሕ ከምዝሰርሑ ክግበር እዩ ።
+# ATT_id = third_apple_2-x00-s8
+# sent_id = S-42
+ስትገባ ሰው አይተሃል ?
+ክትኣቱ እንከለኻ ሰብ 'ዶ ርእይኻ ?
+# ATT_id = third_apple_2-x00-s9
+# sent_id = S-43
+ባያጠና ይሻለው ነበር ።
+እንተዘየጽንዕ ምሓሾ ነይሩ ።
+# ATT_id = third_apple_2-x00-s10
+# sent_id = S-44
+በምንም ዐይነት ብትሠራው አለቅየው አይደሰትም ።
+ዘገበርካ ገይርካ እንተትሰርሖ 'ውን ፡ ነቲ ሓለቓ ኣይምሕጐስን እዩ ።
+# ATT_id = third_apple_2-x00-s11
+# sent_id = S-45
+በእናቴ ፈንታ ምነው እኔ በሞትኩ ።
+እንታይ ነይሩዎ ፡ ኣብ ክንዲ ኣደይ ኣነ እንተዝመውት ።
+# ATT_id = third_apple_2-x00-s12
+# sent_id = S-46
+ዳኛውን ፈርቶ ሳይመጣ ቀረ ።
+እቲ ዳኛ ፈሪሑ ከይመጸ ተሪፉ ።
+# ATT_id = third_apple_2-x00-s13
+# sent_id = S-47
+እጅህን ሳትታጠብ አትብላ ።
+ኢድካ ከይተሓጸብካ ኣይትብላዕ ።
+# ATT_id = third_apple_2-x00-s14
+# sent_id = S-48
+እየበላ አነበበ ።
+እናበልዐ ኣንቢቡ ።
+# ATT_id = third_apple_2-x00-s15
+# sent_id = S-49
+እናቱን በማየቱ በጣም ደስ አለው ።
+ኣዲኡ ብምርኣዩ ኣዝዩ ተሓጒሱ ።
+# ATT_id = third_apple_2-x00-s16
+# sent_id = S-50
+ወንድሜ ከአገር ቤት ስለመጣ ላየው ሄድኩ ።
+ሓወይ ካብ ዓዲ ስለዝመጸ ፡ ክርእዮ ከይደ ።
+# ATT_id = third_apple_2-x00-s17
+# sent_id = S-51
+ሳይጨልም ብትመለስ ይሻላል ፤ አለዚያ ትጠፋለህ ።
+ከይጸልመተ እንተትምለስ ይሓይሽ ፤ እንተዘይኮይኑ ክትጠፍእ ኢኻ ።
+# ATT_id = third_apple_2-x00-s18
+# sent_id = S-52
+ባገኘኋት ቁጥር ሰላምታ ትሰጠኛለች ።
+ኣብ ዝረኸብኩዋ እዋን ሰላም ትብለኒ ።
+# ATT_id = third_apple_2-x00-s19
+# sent_id = S-53
+በሽርሽር ላይ ሆነን ቢዘንብስ ?
+ኣብ ዙረት እንከለና ፡ ማይ እንተ ሃረመ 'ኸ ?
+# ATT_id = third_apple_2-x00-s20
+# sent_id = S-54
+ስለታመመ አልመጣም ።
+ስለዝሓመመ ኣይመጸን ።
+# ATT_id = third_apple_2-x01-s1
+# sent_id = S-55
+ተናጋሪው ንግግሩን ቶሎ ቢጨርስ ጥሩ ነበር ።
+እዚ ዝዛረብ ዘሎ ሰብ ፡ ዘረብኡ ተሎ ኢሉ እንተ ዝውድእ ጽቡቕ ነይሩ ።
+# ATT_id = third_apple_2-x01-s2
+# sent_id = S-56
+ጓደኞችህ እዚህ ሳይመጡ ቢቀሩስ ?
+ምሕዙትካ አብዚ ከይመጹ እንተተረፉኸ ?
+# ATT_id = third_apple_2-x01-s4
+# sent_id = S-57
+ባለማጥናቱ ፈተናውን ወደቀ ።
+ስለዘየጽነዐ ፈተና ተሪፉ ።
+# ATT_id = third_apple_2-x01-s5
+# sent_id = S-58
+የኢኮኖሚው ውድቀት የማይቀር ነው እንበል ።
+ናይ ቁጠባ ውድቀት ኣይተርፍን እዩ ንበል ።
+# ATT_id = third_apple_2-x01-s6
+# sent_id = S-59
+የትኛውንም ብትመርጥ እገዛዋለሁ ።
+ዝኾነ እንተመረጽካ ፡ ክገዝኦ እየ ።
+# ATT_id = third_apple_2-x01-s7
+# sent_id = S-60
+ቤት ብትውል ይሻላል ።
+ኣብ ገዛ እንተወዓልካ ይሓይሽ ።
+# ATT_id = third_apple_2-x01-s8
+# sent_id = S-61
+ብዙ በመሮጤ እግሬን አመመኝ ።
+ብዙሕ ስለዝጐየኹ ፡ እግረይ ሒሙኒ ።
+# ATT_id = third_apple_2-x01-s9
+# sent_id = S-62
+ወደ አባትሽ ቤት ብትመለሽ አይሻልሽምን ?
+ናብ እንዳ ኣቦኺ እንተ ትምለሲ ኣይሕሸክን ?
+# ATT_id = third_apple_2-x01-s10
+# sent_id = S-63
+ካሳ የአስቴር ወደ ጎንደር መሄድ ሰምቶአል ።
+ካሕሳይ ኣስቴር ናብ ከረን ምኻዳ ሰሚዑ ።
+# ATT_id = third_apple_2-x01-s11
+# sent_id = S-64
+ዛሬ ዋና ባትሄድ ይሻልሃል ።
+ሎሚ ምሕንባስ እንተዘይከድካ ይሕሸካ ።
+# ATT_id = third_apple_2-x01-s12
+# sent_id = S-65
+ምን ቢሆን ይሻላል ?
+እንታይ እንተኾነ ይሓይሽ ?
+# ATT_id = third_apple_2-x01-s13
+# sent_id = S-66
+ወደ አገር ቤት በሄድኩ ጊዜ ማንንም አልጠየኩም ።
+ናብ ዓዲ ዝኸድክሉ ጊዜ ፡ ንወላ ሓደ ሰብ ኣይበጻሕኩን ።
+# ATT_id = third_apple_2-x01-s14
+# sent_id = S-67
+ካሳ አስቴር ወደ ጎንደር መሄድዋን ሰምቶአል ።
+ካሕሳይ ኣስቴር ናብ ከረን ምኻዳ ሰሚዑ ።
+# ATT_id = third_apple_2-x01-s15
+# sent_id = S-68
+ካሳ አስቴር ወደ ትምህርት ቤት ስለሄደች ተደሰተ ።
+ካሕሳይ ኣስቴር ናብ ቤት ትምህርቲ ብምኻዳ ተሓጒሱ ።
+# ATT_id = third_apple_2-x01-s16
+# sent_id = S-69
+ይህ ምስኪን ምነው በደንብ በልቶ አይቼው ።
+እዚ መስኪን ፡ እንታይ ደኣ ብግቡእ በሊዑ ርእየዮ ።
+# ATT_id = third_apple_2-x01-s17
+# sent_id = S-70
+እዚያ ብሆን እመኛለሁ ።
+አብቲ እንተዝኸውን ኢለ እመነ ።
+# ATT_id = third_apple_2-x01-s18
+# sent_id = S-71
+ምንም ቢመጣ አልፈራም ።
+ዝኾነ ይምጻእ ፡ ኣይፈርሕን እየ ።
+# ATT_id = third_apple_2-x01-s19
+# sent_id = S-72
+የትም ብትሆን ለኔ ደብዳቤ መጻፍ አትርሳ ።
+ኣብ ዝኾነ ቦታ ሃሉ ፡ ንዓይ መልእኽቲ ምጽሓፍ ኣይትረስዕ ።
+# ATT_id = third_apple_2-x01-s20
+# sent_id = S-73
+እዚህ ካላችሁ ዘንድ ይህንን ጉዳይ ብንነጋገርበት መልካም ነው ።
+ምስ እቶም ኣብዚ ዘለኹም ፡ ነዚ ጉዳይ እንተተዘራረብናሉ ጽቡቕ እዩ ።
+# ATT_id = third_apple_2-x02-s1
+# sent_id = S-74
+በጣም ብወድሽም አላገባሽም ።
+ወላ 'ኳ ኣዝዩ ይፍቶኺ ፡ ኣይተመርዓወክን ።
+# ATT_id = third_apple_2-x02-s2
+# sent_id = S-75
+ምነው ቢያዳምጣት ኖሮ ።
+እንታይ ነይሩዎ እንተዝሰምዓ ነይሩ ።
+# ATT_id = third_apple_2-x02-s3
+# sent_id = S-76
+ሁለት ሰዓት ሳይበላ ቢቆይ ሆዱን አመመው ።
+ክልተ ሰዓት ከይበልዐ ምስዝጸንሕ ፡ ከብዱ ይሓምም ።
+# ATT_id = third_apple_2-x02-s4
+# sent_id = S-77
+ምነው ይህን ያህል ባልሠራ ።
+እንታይ ነይሩዎ ክንድዚ ዝኣክል እንተዘይሰርሕ ።
+# ATT_id = third_apple_2-x02-s5
+# sent_id = S-78
+ምነው አስተማሪ በሆንሁ ።
+እንታይ ነይሩዎ መምህር እንተዝኸውን ።
+# ATT_id = third_apple_2-x02-s6
+# sent_id = S-79
+ገንዘብ ይስጠኝ እንጂ የፈለገውን እገዛለታለሁ ።
+ገንዘብ ደኣ ይሃበኒ እምበር ፡ ዝደለዮ ክገዝኣሉ እየ ።
+# ATT_id = third_apple_2-x02-s7
+# sent_id = S-80
+ገንዘብ ብለምነው አባረረኝ ።
+ገንዘብ እንተለመንኩዎ ፡ ሰጒጉኒ ።
+# ATT_id = third_apple_2-x02-s8
+# sent_id = S-81
+አስቴር ወደ ጎጃም ስለ ሄደ አለቀሰች ።
+ኣስቴር ናብ ከረን ስለ ዝኸደ በኽያ ።
+# ATT_id = third_apple_2-x02-s9
+# sent_id = S-82
+እንግዶች ስለማይመጡ ጠላውን አትቅጂ ።
+ኣጋይሽ ስለዘይመጹ ፡ ስዋ ኣይትቕድሒ ።
+# ATT_id = third_apple_2-x02-s10
+# sent_id = S-83
+ምናልባት ይህን መጽሐፍ ለማሳተም የምትፈልጉ ከሆነ እልካለሁ ።
+ምናልባት ነዚ መጽሓፍ ምሕታም ትደልዪ እንተዀንኩም ፡ ክልእኽ እየ ።
+# ATT_id = third_apple_2-x02-s11
+# sent_id = S-84
+ዘለለ ።
+ዘሊሉ ።
+# ATT_id = third_apple_2-x02-s12
+# sent_id = S-85
+ልጁ ወደቀ ።
+እቲ ቆልዓ ወዲቑ ።
+# ATT_id = third_apple_2-x02-s13
+# sent_id = S-86
+መሬቱ ተንቀጠቀጠ ።
+መሬት ተንቀጥቂጡ ።
+# ATT_id = third_apple_2-x02-s14
+# sent_id = S-87
+ወንዙ ደረቀ ።
+እቲ ውሕጂ ነቒጹ ።
+# ATT_id = third_apple_2-x02-s15
+# sent_id = S-88
+ፊቴ ነጣ ።
+ገጸይ ጸርዩ ።
+# ATT_id = third_apple_2-x02-s16
+# sent_id = S-89
+ቡናው ፈላ ።
+ቡን ፈሊሑ ።
+# ATT_id = third_apple_2-x02-s17
+# sent_id = S-90
+አዳመጠች ።
+ጸን ኢላ ሰሚዓ ።
+# ATT_id = third_apple_2-x02-s18
+# sent_id = S-91
+ድንጋዩ ለሰለሰ ።
+እቲ እምኒ ለስሊሱ ።
+# ATT_id = third_apple_2-x02-s19
+# sent_id = S-92
+ወቀሰችው ።
+ወቒሳቶ ።
+# ATT_id = third_apple_2-x02-s20
+# sent_id = S-93
+ካሳ በድንገት ወደ ጎንደር ሄደ ።
+ካሕሳይ ብሃንደበት ንከረን ከይዱ ።
+# ATT_id = third_apple_2-x03-s1
+# sent_id = S-94
+ካሳ ትናንት በድንገት በመኪና ወደ ጎንደር ሄደ ።
+ካሕሳይ ትማሊ ብሃንደበት ብመኪና ንከረን ከይዱ ።
+# ATT_id = third_apple_2-x03-s2
+# sent_id = S-95
+በርግጥ ካሳ ትናንት ወደ ጎንደር ሄዶአል ።
+ብርግጽ ካሕሳይ ትማሊ ንከረን ከይዱ ።
+# ATT_id = third_apple_2-x03-s3
+# sent_id = S-96
+ውሻዬ ሞተ ።
+ከልበይ ሞይቱ ።
+# ATT_id = third_apple_2-x03-s4
+# sent_id = S-97
+እንደማን ነው የምትደንሰው ?
+ከም መን ኮይና እያ እትስዕስዕ ?
+# ATT_id = third_apple_2-x03-s5
+# sent_id = S-98
+ደነገጠች ።
+ሰንቢዳ ።
+# ATT_id = third_apple_2-x03-s6
+# sent_id = S-99
+ብርቱካኑ በሰለ ።
+እቲ ኣራንቺ በሲሉ ።
+# ATT_id = third_apple_2-x03-s7
+# sent_id = S-100
+ወደ ቤቷ ሄደች ።
+ንገዛ ከይዳ ።
+# ATT_id = third_apple_2-x03-s8
+# sent_id = S-101
+ዝናብ ዘነበ ።
+ማይ ሃሪሙ ።
+# ATT_id = third_apple_2-x03-s9
+# sent_id = S-102
+ቀኑ ጀመረ ።
+እቲ ምዓልቲ ተጀሚሩ ።
+# ATT_id = third_apple_2-x03-s10
+# sent_id = S-103
+ከእኔ በለጠች ።
+ካባይ በሊጻ ።
+# ATT_id = third_apple_2-x03-s11
+# sent_id = S-104
+መንገዱ ሁለት ቀን ይፈጃል ።
+እቲ መንገዲ ክልተ ምዓልቲ ይወስድ ።
+# ATT_id = third_apple_2-x03-s12
+# sent_id = S-105
+ሸኘኋት ።
+ኣፋኒየያ ።
+# ATT_id = third_apple_2-x03-s13
+# sent_id = S-106
+ካሳ ወደ ቤተክርስቲያን ሄደ ።
+ካሕሳይ ናብ ቤተክርስትያን ከይዱ ።
+# ATT_id = third_apple_2-x03-s14
+# sent_id = S-107
+ካሳ አስቴር ስለታመመች ወደ ትምህርት ቤት አልሄደም ።
+ካሕሳይ ኣስቴር ስለዝሓመመት ናብ ቤት ትምህርቲ ኣይከደን ።
+# ATT_id = third_apple_2-x03-s15
+# sent_id = S-108
+ካሳ ስለታመመ በመኪና ዛሬ ወደ ሆስፒታል ሄደ ።
+ካሕሳይ ስለዝሓመመ ሎሚ ብመኪና ናብ ሆስፒታል ከይዱ ።
+# ATT_id = third_apple_2-x03-s16
+# sent_id = S-109
+ካሳ በርግጥ በመኪና ወደ ትምህርት ቤት ይሄዳል ።
+ካሕሳይ ብርግጽ ብመኪና ናብ ትምህርቲ ክኸይድ እዩ ።
+# ATT_id = third_apple_2-x03-s17
+# sent_id = S-110
+አልማዝ ኳሱን ወረወረች ።
+ኣልማዝ ነታ ኵዕሶ ደርቢያታ ።
+# ATT_id = third_apple_2-x03-s18
+# sent_id = S-111
+ገንዘብ ለመነች ።
+ገንዘብ ለሚና ።
+# ATT_id = third_apple_2-x03-s19
+# sent_id = S-112
+አልማዝ ልጇን ተንከባከበች ።
+ኣልማዝ ነቲ ቆልዓ ተኸናኺናቶ ።
+# ATT_id = third_apple_2-x04-s1
+# sent_id = S-113
+ካሳ ጥይት ተኮሰ ።
+ካሕሳይ ጥይት ተኲሱ ።
+# ATT_id = third_apple_2-x04-s2
+# sent_id = S-114
+ፈለግህን ተከተለ ።
+ኣሰርካ ተኸቲሉ ።
+# ATT_id = third_apple_2-x04-s3
+# sent_id = S-115
+ፍየሎቹ ወንዙን ተከተሉ ።
+እተን ኣጣል ነቲ ሩባ ተኸቲለን ከይደን ።
+# ATT_id = third_apple_2-x04-s4
+# sent_id = S-116
+አልማዝ ወንዙን ተሻገረች ።
+ኣልማዝ ነቲ ውሕጅ ተሳጊራቶ ።
+# ATT_id = third_apple_2-x04-s5
+# sent_id = S-117
+አልማዝ አይጥ አየች ።
+ኣልማዝ አንጭዋ ርእያ ።
+# ATT_id = third_apple_2-x04-s6
+# sent_id = S-118
+አልማዝ ተስፋ ቆረጠች ።
+ኣልማዝ ተስፋ ቆሪጻ ።
+# ATT_id = third_apple_2-x04-s7
+# sent_id = S-119
+ቁመቴ 1.85 ነው ።
+ቁመተይ 1.85 እዩ ።
+# ATT_id = third_apple_2-x04-s8
+# sent_id = S-120
+ካሳ ደብዳቤ ላከ ።
+ካሕሳይ መልእኽቲ ልኢኹ ።
+# ATT_id = third_apple_2-x04-s9
+# sent_id = S-121
+አልማዝ አገነፋች ።
+ኣልማዝ ግዒታ ።
+# ATT_id = third_apple_2-x04-s10
+# sent_id = S-122
+አጠባሁዋት ።
+ኣጥብየያ ።
+# ATT_id = third_apple_2-x04-s11
+# sent_id = S-123
+አስቴር ብርጭቆ ሰበረች ።
+ኣስቴር ብኬሪ ሰቢራ ።
+# ATT_id = third_apple_2-x04-s12
+# sent_id = S-124
+እንቁላሉን ሰበረችው ።
+እቲ እንቋቝሖ ሰቢራቶ ።
+# ATT_id = third_apple_2-x04-s13
+# sent_id = S-125
+ልጁ ኳሱን መታው ።
+እቲ ወዲ ነታ ኵዕሶ ቀሊዑዋ ።
+# ATT_id = third_apple_2-x04-s14
+# sent_id = S-126
+የአባቱ መምጣት ካሳን ገረመው ።
+ናይ ኣቡኡ ምምጻእ ንካሕሳይ ገሪሙዎ ።
+# ATT_id = third_apple_2-x04-s15
+# sent_id = S-127
+ብርቱካኑ በሰለ ።
+እቲ ኣራንቺ በሲሉ ።
+# ATT_id = third_apple_2-x04-s16
+# sent_id = S-128
+ካሳ ከአባቱ በቁመት በለጠ ።
+ካሕሳይ ብቑመቱ ካብ ኣቡኡ በሊጹ ።
+# ATT_id = third_apple_2-x04-s17
+# sent_id = S-129
+ሰራተኞቹ ደሞዛቸውን ወሰዱ ።
+እቶም ሰራሕተኛታት ዶሞዞም ተቐቢሎም ።
+# ATT_id = third_apple_2-x04-s18
+# sent_id = S-130
+ካሳ ሚስቱን ሸኘ ።
+ካሕሳይ ንሰበይቱ ኣፋንዩዋ ።
+# ATT_id = third_apple_2-x04-s19
+# sent_id = S-131
+ምግቡ ተበላሸ ።
+እቲ ምግቢ ተበላሽዩ ።
+# ATT_id = third_apple_2-x04-s20
+# sent_id = S-132
+አዲስ ልብስ ለበሰ ።
+ሓዲሽ ክዳን ተኸዲኑ ።
+# ATT_id = third_apple_2-x05-s1
+# sent_id = S-133
+አስተማሪው መፅሐፉን ያዘ ።
+እቲ መምህር መጽሓፉ ሒዙ አሎ ።
+# ATT_id = third_apple_2-x05-s2
+# sent_id = S-134
+የወንድሟ መሞት የአልማዝን ልብ ሰበረው ።
+ምሟት ናይ ሓዋ ፡ ንልቢ ኣልማዝ ሰቢሩዎ ።
+# ATT_id = third_apple_2-x05-s3
+# sent_id = S-135
+መሄዷ የባሏን ልብ ሰበረው ።
+ምኻዳ ንልቢ ሰብኣያ ሰቢሩዎ ።
+# ATT_id = third_apple_2-x05-s4
+# sent_id = S-136
+አልማዝ የካሳን መምጣት ታቃለች ።
+ኣልማዝ ናይ ካሕሳይ ምምጻእ ትፈልጥ እያ ።
+# ATT_id = third_apple_2-x05-s5
+# sent_id = S-137
+አልማዝ የታመመች መሰለችኝ ።
+ኣልማዝ ዝሓመመት መሲሉኒ ።
+# ATT_id = third_apple_2-x05-s6
+# sent_id = S-138
+ድመቱ ዛፍ ላይ ያለ መሰለኝ ።
+እታ ድሙ አብ 'ቲ ልዕሊ ገረብ ዝነበረት መሲሉኒ ።
+# ATT_id = third_apple_2-x05-s7
+# sent_id = S-139
+አልማዝ የራሷን ጭንቅላት መታች ።
+ኣልማዝ ንገዛእ ርእሳ ሃሪማ ።
+# ATT_id = third_apple_2-x05-s8
+# sent_id = S-140
+ጀርባዋን መታኋት ።
+ሕቘኣ ሃሪመያ ።
+# ATT_id = third_apple_2-x05-s9
+# sent_id = S-141
+አልማዝ እናቷን ስለ ወንድሟ ሞት ጠየቀች ።
+ኣልማዝ ነዲኣ ብዛዕባ ናይ ሓዋ ሞት ሓቲታታ ።
+# ATT_id = third_apple_2-x05-s10
+# sent_id = S-142
+መስመሩን ወደእኔ አሰመረች ።
+ነቲ መስመር ናባይ ኣስሚራቶ ።
+# ATT_id = third_apple_2-x05-s11
+# sent_id = S-143
+ካሳ ወደ ጎጃም በአውቶብስ ተጓዘ ።
+ካሕሳይ ናብ ጎጃም ብኣውቶቡስ ተጓዒዙ ።
+# ATT_id = third_apple_2-x05-s12
+# sent_id = S-144
+ካሳ ትናንት ሁለት በጎች ገዛ ።
+ካሕሳይ ትማሊ ክልተ ኣባጊዕ ገዚኡ ።
+# ATT_id = third_apple_2-x05-s13
+# sent_id = S-145
+የልጁ መታመም አስተማሪውን አሳሰበው ።
+ናይ 'ቲ ቆልዓ ሕማም ነቲ መምህር ኣተሓሳሲቡዎ ።
+# ATT_id = third_apple_2-x05-s14
+# sent_id = S-146
+ገንዘብ አለመያዙ ገረማት ።
+ገንዘብ ዘይምሓዙ ገሪሙዋ ።
+# ATT_id = third_apple_2-x05-s15
+# sent_id = S-147
+ካሳ ዜናውን ለአለም ነገራት ።
+ካሕሳይ ነቲ ዜና ንለምለም ነጊሩዋ ።
+# ATT_id = third_apple_2-x05-s16
+# sent_id = S-148
+አስተማሪው ለተማሪዎቹ ጊዜ ሰጣቸው ።
+እቲ መምህር ነቶም ተመሃሮ ጊዜ ሂቡዎም ።
+# ATT_id = third_apple_2-x05-s17
+# sent_id = S-149
+ሩጫ ጥንካሬን ሰጣት ።
+ጕያ ሓይሊ ሂቡዋ ።
+# ATT_id = third_apple_2-x05-s18
+# sent_id = S-150
+እንደምመጣ ለአልማዝ ነገርኩዋት ።
+ከምዝመጽእ ንኣልማዝ ነጊረያ ።
+# ATT_id = third_apple_2-x05-s19
+# sent_id = S-151
+ካሳ እንድትመጣ ጠየቃት ።
+ካሕሳይ ንኽትመጽእ ሓቲቱዋ ።
+# ATT_id = third_apple_2-x05-s20
+# sent_id = S-152
+አለቀሰች ።
+በኽያ ።
+# ATT_id = third_apple_2-x06-s1
+# sent_id = S-153
+ጎንበስ አለች ።
+ድንን ኢላ ።
+# ATT_id = third_apple_2-x06-s2
+# sent_id = S-154
+ጭንቅ አለው ።
+ጭንቕ ኢሉዎ ።
+# ATT_id = third_apple_2-x06-s3
+# sent_id = S-155
+አልማዝ ወደፊት ቅርብ አለች ።
+ኣልማዝ ንቕድሚት ቅርብ ኢላ ።
+# ATT_id = third_apple_2-x06-s4
+# sent_id = S-156
+ስምህን እናከብራለን ።
+ስምካ ክነኽብር ኢና ።
+# ATT_id = third_apple_2-x06-s5
+# sent_id = S-157
+ጊዜው / ወቅቱ ጥሩ ነው ።
+እዋኑ ጽቡቕ እዩ ።
+# ATT_id = third_apple_2-x06-s6
+# sent_id = S-158
+ድንጋዩ ለስላሳ ነው ።
+እቲ እምኒ ልስሉስ እዩ ።
+# ATT_id = third_apple_2-x06-s7
+# sent_id = S-159
+የአባቴ በሰላም መመለስ መልካም ነው ።
+ኣቦይ ብድሓን ምምላሱ ጽቡቕ እዩ ።
+# ATT_id = third_apple_2-x06-s8
+# sent_id = S-160
+መሄዷ ሚስጥር ነው ።
+ምኻዳ ምስጢር እዩ ።
+# ATT_id = third_apple_2-x06-s9
+# sent_id = S-161
+እንደሚጠጣና እንደማይጠጣ ሚስጥር ነው ።
+ምስታዩን ዘይምስታዩ ምስጢር እዩ ።
+# ATT_id = third_apple_2-x06-s10
+# sent_id = S-162
+ማንም ወደከተማ ነው መሄድ ያለበት ።
+ዝኾነ ሰብ ናብ ከተማ እዩ ክኸይድ ዘለዎ ።
+# ATT_id = third_apple_2-x06-s11
+# sent_id = S-163
+መብረቁ የወረደው እዚህ ቦታ ነው ።
+መብረቕ ዝወደቖ እዚ ቦታ እዩ ።
+# ATT_id = third_apple_2-x06-s12
+# sent_id = S-164
+ፈተናውን ያለፈው እንደ ሕልም ነው ።
+እቲ ፈተና ከም ሕልሚ እዩ ሓሊፉ ።
+# ATT_id = third_apple_2-x06-s13
+# sent_id = S-165
+አባቴ የሞተው በድንገት ነው ።
+ኣቦይ ዝሞተ ብሓደጋ እዩ ።
+# ATT_id = third_apple_2-x06-s14
+# sent_id = S-166
+ቤት ነው የገዛሁት ።
+ገዛ እየ ገዚአ ።
+# ATT_id = third_apple_2-x06-s15
+# sent_id = S-167
+ያንን ቤት ነው የገዛሁት ።
+ነቲ ገዛ እየ ገዚአዮ ።
+# ATT_id = third_apple_2-x06-s16
+# sent_id = S-168
+ያንን መንገድ ነው የመጣሁበት ።
+ዝመጻእኩሉ እዚ መንገዲ እዩ ።
+# ATT_id = third_apple_2-x06-s17
+# sent_id = S-169
+ድመቷን የወሰድኳት እኔ ነኝ ።
+ነታ ድሙ ዝወሰዳ ኣነ እዩ ።
+# ATT_id = third_apple_2-x06-s18
+# sent_id = S-170
+መብላት ካለብኝ የምበላው ስጋ ነው ።
+ክበልዕ እንተሎኒ ዝበልዖ ስጋ እዩ ።
+# ATT_id = third_apple_2-x06-s19
+# sent_id = S-171
+ሰው መኖር ያለበት ባህር ዳር ነው ።
+ሰብ ክነብር ዘለዎ አብ ገምገም ባሕሪ እዩ ።
+# ATT_id = third_apple_2-x06-s20
+# sent_id = S-172
+ያገኘው የተመኘውን ነው ።
+እቲ ዝረኸቦ ፡ ዝተመነዮ እዩ ።
+# ATT_id = third_apple_2-x07-s1
+# sent_id = S-173
+እስካሁን ማወቅ ያልቻልኩት ማን እንደወሰደው ነው ።
+ክሳብ ሕጂ ምፍላጥ ዘይከአሉዎ መን ከምዝወሰዶ እዩ ።
+# ATT_id = third_apple_2-x07-s2
+# sent_id = S-174
+ቆንጆዋ ልጅ የኔ ናት ።
+እታ ጽብቕቲ ቆልዓ ናተይ እያ ።
+# ATT_id = third_apple_2-x07-s3
+# sent_id = S-175
+ካሳ ጎበዝ ሆነ ።
+ካሕሳይ ንፉዕ ኮይኑ ።
+# ATT_id = third_apple_2-x07-s4
+# sent_id = S-176
+ካሳ ጎበዝ ነው ።
+ካሕሳይ ንፉዕ እዩ ።
+# ATT_id = third_apple_2-x07-s5
+# sent_id = S-177
+ካሳ ጎበዝ ይመስላል ።
+ካሕሳይ ንፉዕ ይመስል ።
+# ATT_id = third_apple_2-x07-s6
+# sent_id = S-178
+አሸዋ መንገድ ላይ አለ ።
+ሑጻ አብቲ መንገዲ አሎ ።
+# ATT_id = third_apple_2-x07-s7
+# sent_id = S-179
+አንድ ጊዜ ጎጃም ውስጥ አስተማሪ ነበር ።
+ሓደ እዋን አብ ባጽዕ መምህር ነይሩ ።
+# ATT_id = third_apple_2-x07-s8
+# sent_id = S-180
+አስቴር ወደ ቤቷ መሄድ የፈለገች ይመስላል ።
+ኣስቴር ንገዝኣ ክትከይድ ዝደለየት ትመስል ።
+# ATT_id = third_apple_2-x07-s9
+# sent_id = S-181
+አልማዝ ታመመች ።
+ኣልማዝ ሓሚማ ።
+# ATT_id = third_apple_2-x07-s10
+# sent_id = S-182
+ራበኝ ።
+ጠምዩኒ ።
+# ATT_id = third_apple_2-x07-s11
+# sent_id = S-183
+ይሞቃል ።
+መይቍ ።
+# ATT_id = third_apple_2-x07-s12
+# sent_id = S-184
+ሳህኑን ወረወሩት ።
+ነቲ ሽሓኒ ደርብዮምዎ ።
+# ATT_id = third_apple_2-x07-s13
+# sent_id = S-185
+ፍየል ገዙላት ።
+ጤል ገዚኦሙላ ።
+# ATT_id = third_apple_2-x07-s14
+# sent_id = S-186
+ሚስጢሩ ገባኝ ።
+ሚስጢሩ ተረዲኡኒ ።
+# ATT_id = third_apple_2-x07-s15
+# sent_id = S-187
+ነብሩ ተገደለ ።
+እቲ ነብሪ ተቐቲሉ ።
+# ATT_id = third_apple_2-x07-s16
+# sent_id = S-188
+አልማዝ ለልደቷ ገንዘብ ተሸለመች ።
+ኣልማዝ ንበዓል ልደታ ገንዘብ ተሸሊማ ።
+# ATT_id = third_apple_2-x07-s17
+# sent_id = S-189
+ሳህን ተሰበረላት ።
+እቲ ሽሓኒ ተሰቢሩ ።
+# ATT_id = third_apple_2-x07-s18
+# sent_id = S-190
+ከተማሪ ቤት ተመለሰ ።
+ካብ ቤት ትምህርቲ ተመሊሱ ።
+# ATT_id = third_apple_2-x07-s19
+# sent_id = S-191
+በጣም ተለወጠ ።
+ብጣዕሚ ተቐይሩ ።
+# ATT_id = third_apple_2-x07-s20
+# sent_id = S-192
+ልጁ ተደበቀ ።
+እቲ ቆልዓ ተሓቢኡ ።
+# ATT_id = third_apple_2-x08-s1
+# sent_id = S-193
+ሰዎቹ ተሰበሰቡ ።
+ሰባት ተኣኪቦም ።
+# ATT_id = third_apple_2-x08-s2
+# sent_id = S-194
+ለበዓሉ ጸጉሯን ሹሩባ ተሠራች ።
+ንበዓል ኢላ ጸጕራ ሽርበ ተቖኒና ።
+# ATT_id = third_apple_2-x08-s3
+# sent_id = S-195
+ጦርነቱ ካልቆመ ሁላችንም ተሰዳጆች ነን ።
+እቲ ውግእ እንተ ዘየኸቲሙ ኩልና ተሰደድቲ ኢና ።
+# ATT_id = third_apple_2-x08-s4
+# sent_id = S-196
+አስተማሪው ተዛወረ ።
+እቲ መምህር ተዛዊሩ ።
+# ATT_id = third_apple_2-x08-s5
+# sent_id = S-197
+ልጁ ተደሰተ ።
+እቲ ቆልዓ ተሓጒሱ ።
+# ATT_id = third_apple_2-x08-s6
+# sent_id = S-198
+ገንዘብ ተበደረ ።
+ገንዘብ ተለቂሑ ።
+# ATT_id = third_apple_2-x08-s7
+# sent_id = S-199
+ካሳ ስለቀረ ተቀየምኩት ።
+ካሕሳይ ስለዝተረፈ ተቐይመሉ ።
+# ATT_id = third_apple_2-x08-s8
+# sent_id = S-200
+ምግቡን ተጠየፈ ።
+ነቲ ምግቢ ተጸይፉዎ ።
+# ATT_id = third_apple_2-x08-s9
+# sent_id = S-201
+መኪና ውስጥ ተቀመጠ ።
+አብ ውሽጢ መኪና ኮፍ ኢሉ ።
+# ATT_id = third_apple_2-x08-s10
+# sent_id = S-202
+የፈተናው ቀን ተራዘመ ።
+እቲ ናይ ፈተና ዕለት ተናዊሑ ።
+# ATT_id = third_apple_2-x08-s11
+# sent_id = S-203
+ገንዘብ ተዋጣ ።
+ገንዘብ ተዋጺኡ ።
+# ATT_id = third_apple_2-x08-s12
+# sent_id = S-204
+ዳኛው በአስቴር ላይ ፈረዱባት ።
+እቶም ዳኛ ንአስቴር ፈሪዶምዋ ።
+# ATT_id = third_apple_2-x08-s13
+# sent_id = S-205
+ወደ ተራራው ለመድረስ ሁለት ቀን ፈጀባቸው ።
+ናብቲ ጎቦ ንምብጻሕ ፡ ክልተ ምዓልቲ ወሲዱላ ።
+# ATT_id = third_apple_2-x08-s14
+# sent_id = S-206
+አስቴር በመጥረጊያው መስኮት ጠረገችበት ።
+ኣስቴር ነቲ ሞኸስተር መስኮት ኣጽርያትሉ ።
+# ATT_id = third_apple_2-x08-s15
+# sent_id = S-207
+አልማዝ ሴት ተማሪዋን አየቻት ።
+ኣልማዝ ነታ ተመሃሪታ ርእያታ ።
+# ATT_id = third_apple_2-x08-s16
+# sent_id = S-208
+አስቴር ለልጁ ምግቡን ሰራችለት ።
+ኣስቴር ነቲ ቆልዓ ምግቡ ሰሪሓትሉ ።
+# ATT_id = third_apple_2-x08-s17
+# sent_id = S-209
+መንገዱን አጠርንበት ።
+ነቲ መንገዲ ሓጺርናሉ ።
+# ATT_id = third_apple_2-x08-s18
+# sent_id = S-210
+ሱቆቹ ተዘጉበት ።
+ድኳናቱ ተዓጺዮሞ ።
+# ATT_id = third_apple_2-x08-s19
+# sent_id = S-211
+ውሃው ፈሰሰበት ።
+እቲ ማይ ተዃዩዎ ።
+# ATT_id = third_apple_2-x08-s20
+# sent_id = S-212
+ሩጫ አልማዝን አወፈራት ።
+ጉያ ንኣልማዝ ኣርጒዱዋ ።
+# ATT_id = third_apple_2-x09-s1
+# sent_id = S-213
+ካሳ ሰራተኛዋን ወደጎጃም አስወሰዳት ።
+ካሕሳይ ነታ ሰራሕተኛ ንባጽዕ ኣስዲዱዋ ።
+# ATT_id = third_apple_2-x09-s2
+# sent_id = S-214
+አልማዝ ወተት አመጣች ።
+ኣልማዝ ጸባ ኣምጺኣ ።
+# ATT_id = third_apple_2-x09-s3
+# sent_id = S-215
+አልማዝ ልጇን አስተኛች ።
+ኣልማዝ ቆልዓኣ ኣደቂሳ ።
+# ATT_id = third_apple_2-x09-s4
+# sent_id = S-216
+ካሳ አልማዝን መፅሐፍ አስሸለማት ።
+ካሕሳይ ንኣልማዝ መጽሓፍ ኣሸሊሙዋ ።
+# ATT_id = third_apple_2-x09-s5
+# sent_id = S-217
+ካሳ አልማዝን ውሻ አስገደላት ።
+ካሕሳይ ንኣልማዝ ከልቢ ኣቕቲሉዋ ።
+# ATT_id = third_apple_2-x09-s6
+# sent_id = S-218
+ካሳ ቡና አስፈላ ።
+ካሕሳይ ብሰብ ገይሩ ቡን ኣፍሊሑ ።
+# ATT_id = third_apple_2-x09-s7
+# sent_id = S-219
+ካሳ ለአልማዝ ቡና አስፈላላት ።
+ካሕሳይ ንኣልማዝ ብሰብ ገይሩ ቡን ኣፍሊሑላ ።
+# ATT_id = third_apple_2-x09-s8
+# sent_id = S-220
+አስገደሉዋት ።
+ኣቕቲሎማ ።
+# ATT_id = third_apple_2-x09-s9
+# sent_id = S-221
+የሰረቀውን ሰውዬ ዳኛው ፊት አቀረቡት ።
+ነቲ ዝሰረቐ ሰብኣይ አብ ቅድሚ ዳኛ አቕሪቦምዎ ።
+# ATT_id = third_apple_2-x09-s10
+# sent_id = S-222
+ልብሱን አስቆረጠ ።
+ነቲ ክዳን ኣቑሪጹዎ ።
+# ATT_id = third_apple_2-x09-s11
+# sent_id = S-223
+ቤቱን አስጠበቀ ።
+ነቲ ገዛ ኣሕልዩዎ ።
+# ATT_id = third_apple_2-x09-s12
+# sent_id = S-224
+ጠላው አስተኛኝ ።
+እቲ ስዋ ኣደቂሱኒ ።
+# ATT_id = third_apple_2-x09-s13
+# sent_id = S-225
+ልብሱን አስጠበበው ።
+ነቲ ክዳን ኣጽቢቡዎ ።
+# ATT_id = third_apple_2-x09-s14
+# sent_id = S-226
+ለፖሊስ ነግሮ ሽጉጡን አስወሰደበት ።
+ንፖሊስ ነጊሩ ሽጕጡ ኣውሲዱሉ ።
+# ATT_id = third_apple_2-x10-s5
+# sent_id = S-227
+አንበሳዎቹ ተገዳደሉ ።
+እቶም ኣናብስ ተቐታቲሎም ።
+# ATT_id = third_apple_2-x10-s6
+# sent_id = S-228
+ካሳና ሀይሉ በልጅቷ ምክንያት ድንጋይ ተወራወሩ ።
+ካሕሳይን ሃይለን ብሰንኪ እታ ጓል እምኒ ተደራብዮም ።
+# ATT_id = third_apple_2-x10-s7
+# sent_id = S-229
+መንግስት ህዝቡ እርስ በእርስ አጋደለ ።
+መንግስቲ ንህዝቢ ነንሕድሕዱ ኣቃቲሉዎ ።
+# ATT_id = third_apple_2-x10-s8
+# sent_id = S-230
+ተሽቀዳደሙ ።
+ተቐዳዲሞም ።
+# ATT_id = third_apple_2-x10-s9
+# sent_id = S-231
+ካሳ እጁን ታጠበ ።
+ካሕሳይ ኢዱ ተሓጺቡ ።
+# ATT_id = third_apple_2-x10-s10
+# sent_id = S-232
+ሰብሮ ወረወረው ።
+ሰቢሩ ደርብዩዎ ።
+# ATT_id = third_apple_2-x10-s11
+# sent_id = S-233
+ለወንድሟ ፍየል ገዝታ ወደጎጃም ለሰርግ ትመጣለች ።
+ንሓዋ ዝኸውን ጤል ገዚኣ ፡ ንከረን ንመርዓ ክትመጽእ እያ ።
+# ATT_id = third_apple_2-x10-s12
+# sent_id = S-234
+ካሳ ወደከተማ ሄዶ ፣ ልብስ ገዝቶ ፣ ተመለሰ ።
+ካሕሳይ ናብ ከተማ ከይዱ ፡ ክዳን ገዚኡ ተመሊሱ ።
+# ATT_id = third_apple_2-x10-s13
+# sent_id = S-235
+በሬ ገዝቶ ፣ አርዶ በላ ።
+ብዕራይ ገዚኡ ፡ ሓሪዱ በሊዑ ።
+# ATT_id = third_apple_2-x10-s14
+# sent_id = S-236
+ፈረስ ከገዛላት በኋላ መጣ ።
+ፈረስ ምስ ገዝኣላ መጺኡ ።
+# ATT_id = third_apple_2-x10-s15
+# sent_id = S-237
+ምሳውን በልቶ ወደ ገበያ ሄደ ።
+ምስሑ በሊዑ ንከተማ ከይዱ ።
+# ATT_id = third_apple_2-x10-s16
+# sent_id = S-238
+ምሳውን በልቶ ይሄዳል ።
+ምስሑ በሊዑ ክኸይድ እዩ ።
+# ATT_id = third_apple_2-x10-s17
+# sent_id = S-239
+እናቴን ጠይቄ ልመጣና አገር ቤት እሄዳለሁ ።
+ንኣደይ በጺሐያ ክመጽእ ፡ ንዓዲ ክኸይድ እየ ።
+# ATT_id = third_apple_2-x10-s18
+# sent_id = S-240
+ለምን መጥቶ አይነግረኝም ?
+ስለምንታይ መጺኡ ኣይነገረንን ?
+# ATT_id = third_apple_2-x10-s19
+# sent_id = S-241
+በልተህ ሳህኑን የማታጥበው ለምንድን ነው ?
+ምስ በላዕካ ነቲ ሽሓኒ ዘይትሓጽቦ ስለምንታይ ኢኻ ?
+# ATT_id = third_apple_2-x10-s20
+# sent_id = S-242
+ሰርቆ ያዙት ።
+ሰሪቑ ሒዞሞ ።
+# ATT_id = third_apple_2-x11-s1
+# sent_id = S-243
+ወንበር ላይ ተቀምጦ ውሃ አፈሰሰችበት ።
+ኣብ መንበር ተቐሚጡ ከሎ ፡ ማይ ኣፍሲሳትሉ ።
+# ATT_id = third_apple_2-x11-s2
+# sent_id = S-244
+መጽሐፉን ከወንበር ላይ አንስታ ጠረጴዛው ላይ አኖረችው ።
+ነቲ መጽሓፍ ካብ መንበር ኣልዒላ አብ ጣውላ ኣቐሚጣቶ ።
+# ATT_id = third_apple_2-x11-s3
+# sent_id = S-245
+ሶስት ወር አስረው ለቀቁት ።
+ሰለስተ ወርሒ ኣሲሮም ፈቲሖሞ ።
+# ATT_id = third_apple_2-x11-s4
+# sent_id = S-246
+አለና መለሰለት ።
+ኢሉ መሊሱሉ ።
+# ATT_id = third_apple_2-x11-s5
+# sent_id = S-247
+በቃኝ አለና ተነስቶ ሄደ ።
+ይኣኽለኒ ኢሉ ተሲኡ ከይዱ ።
+# ATT_id = third_apple_2-x11-s6
+# sent_id = S-248
+ዘሎ ወረደ ።
+ዘሊሉ ወሪዱ ።
+# ATT_id = third_apple_2-x11-s7
+# sent_id = S-249
+ባሥር ደቂቃ ውስጥ እመጣለሁ አለ ።
+ኣብ ውሽጢ ዓሰርተ ደቒቕ ክመጽእ ኢየ ኢሉ ።
+# ATT_id = third_apple_2-x11-s8
+# sent_id = S-250
+ሞተሩን ልጠግነው እችላለሁ ብሎ ነበር ።
+ነቲ ሞቶር ክዕርዮ እኽእል እየ ኢሉ ነይሩ ።
+# ATT_id = third_apple_2-x11-s9
+# sent_id = S-251
+አተርፍ ሲል አጐደለ ።
+ክምልእ ክብል ፡ ኣጕዲሉ ።
+# ATT_id = third_apple_2-x11-s10
+# sent_id = S-252
+የስራ ጓደኞቼ ከኔ ጋር አንሰራም አሉ ።
+ናይ ስራሕ ብጾተይ ምሳኻ ኣይንሰርሕን ኢና ኢሎም ።
+# ATT_id = third_apple_2-x11-s11
+# sent_id = S-253
+ለፋሲካ አዲስ ልብስ ያስፈልገኛል አለች ።
+ንፋሲካ ሓዲሽ ክዳን የድልየኒ ኢዩ ኢላ ።
+# ATT_id = third_apple_2-x11-s12
+# sent_id = S-254
+ወንጀለኛ አስጠግተሃል ተብሎ ተይዞ ነበር ።
+ገበነኛ ኣዕቊብካ ተባሂሉ ተታሒዙ ነይሩ ።
+# ATT_id = third_apple_2-x11-s13
+# sent_id = S-255
+ኩባንያው ውሉን አልሰርዝም አለ ።
+እቲ ኩባንያ ነቲ ውዕል ኣይስርዞን እየ ኢሉ ።
+# ATT_id = third_apple_2-x11-s14
+# sent_id = S-256
+ምናልባት አልመጣም ስላለ አልጠበቅሁትም ።
+ምናልባት ኣይመጽእን ኢየ ስለዝበለ ፡ ኣይተጸበኹዎን ።
+# ATT_id = third_apple_2-x11-s15
+# sent_id = S-257
+ልጁን ማገዶ አምጣ ብለውት ወደ ዱር ለመሄድ አልደፍር አለ ።
+ነቲ ቆልዓ ፡ ዕንጨይቲ ኣምጽእ ኢሎሞ ፤ ግን ናብ 'ቲ ጫካ ምኻድ ኣይደፈረን ።
+# ATT_id = third_apple_2-x11-s16
+# sent_id = S-258
+በረኛው አላስገባም አለው ።
+እቲ ሓላዊ ማዕጾ ኣየእትወካን ኢየ ኢሉዎ ።
+# ATT_id = third_apple_2-x11-s17
+# sent_id = S-259
+አልታዘዘኝ አለ ።
+ኣይተኣዘዘንን ኢሉ ።
+# ATT_id = third_apple_2-x11-s18
+# sent_id = S-260
+አላግዘኝ አለች ።
+ኣይሓገዘንን ኢላ ።
+# ATT_id = third_apple_2-x11-s19
+# sent_id = S-261
+ከሰዓት በኋላ አግዝሻለሁ ብሏል በላት ።
+ድሕሪ ፋዱስ ክሕግዘኪ ኢየ ኢሉ ኢላ ።
+# ATT_id = third_apple_2-x11-s20
+# sent_id = S-262
+ከድልድዩ እዘላለሁ ቢል አታደርገውም ብለው ገፋፉት ።
+ካብቲ ቢንቶ ክዘልል ኢየ ምስ በለ ፡ ኣይትውዕሎን ኢኻ ኢሎም ደፊኦሞ ።
+# ATT_id = third_apple_2-x12-s1
+# sent_id = S-263
+ምን አድርግ እንደምትለኝ እርግጠኛ አይደለሁም ።
+እንታይ ግበር ኢላ ትሓተኒ ከምዘላ ርግጸኛ ኣይኮንኩን ።
+# ATT_id = third_apple_2-x12-s2
+# sent_id = S-264
+መምህሩ ተማሪዎቹን ተሰለፉ አላቸው ።
+እታ መምህር ነቶም ተመሃሮ ተሰርዑ ኢላቶም ።
+# ATT_id = third_apple_2-x12-s3
+# sent_id = S-265
+ደግ ሰው ነው ይባላል ።
+ሕያዋይ ሰብ እዩ ይበሃል ።
+# ATT_id = third_apple_2-x12-s4
+# sent_id = S-266
+እረኛውን አይቼዋለሁ ብሎ የምስክርነት ቃሉን ሰጠ ።
+ነቲ ጓሳ ርእየዮ እየ ኢሉ ናይ ምስክር ቃሉ ሂቡ ።
+# ATT_id = third_apple_2-x12-s5
+# sent_id = S-267
+በሳምንት አንድ ሺህ ብር አገኛለሁ ሲል ተጠራጠርኩት ።
+ኣብ ሰሙን ሓደ ሽሕ ብር እረክብ ምስ በለ ተጠራጢረ ።
+# ATT_id = third_apple_2-x12-s6
+# sent_id = S-268
+ባንዳንድ ባህል መለኵሴዎች በድንግልና እንኖራለን ብለው መማል አለባቸው ።
+ኣብ ሓደ ሓደ ባህሊ ፡ መነኮሳት ብድንግልና ክንነብር ኢና ኢሎም ክምሕሉ ኣለዎም ።
+# ATT_id = third_apple_2-x12-s7
+# sent_id = S-269
+ገንዘብ ያበድርሃል ብሎ የነገረህ ማን ነው ?
+ገንዘብ ከለቅሓካ እዩ ኢሉ ዝነገረካ መን ኢዩ ?
+# ATT_id = third_apple_2-x12-s8
+# sent_id = S-270
+አትምጣ ብለህ ካልጻፍክልኝ በስተቀር ማክሰኞ እመጣለሁ ።
+ኣይትምጻእ ኢልካ እንተ ዘይጽሒፍካለይ ፡ ሰኑይ ክመጽእ እየ ።
+# ATT_id = third_apple_2-x12-s9
+# sent_id = S-271
+ሰዎች ሰይጣን አለ ብለው ያምናሉ ።
+ሰባት ሰይጣን አሎ ኢሎም ይኣምኑ ።
+# ATT_id = third_apple_2-x12-s10
+# sent_id = S-272
+ምን ብዬ ልመልስላቸው ?
+እንታይ ኢለ ክምልሰሎም ?
+# ATT_id = third_apple_2-x12-s11
+# sent_id = S-273
+ተከሳሹ ሰው ጥፋተኛ ነህ ተብሎ ተፈረደበት ።
+እቲ ተኸሳሲ ገበነኛ ኢኻ ተባሂሉ ተፈሪዱ ።
+# ATT_id = third_apple_2-x12-s12
+# sent_id = S-274
+ተቀምጠን እንሠራለን ።
+ኮፍ ኢልና ክንሰርሕ ኢና ።
+# ATT_id = third_apple_2-x12-s13
+# sent_id = S-275
+ነቅታ መቆየት አልቻለችም ።
+ነቒሓ ክትጽበ ኣይከኣለትን ።
+# ATT_id = third_apple_2-x12-s14
+# sent_id = S-276
+ዝናብ ዘንቦ መሬቱ ረጥቦ ነበር ።
+ዝናብ ሃሪሙ እቲ መሬት ጠልቅዩ ነይሩ ።
+# ATT_id = third_apple_2-x12-s15
+# sent_id = S-277
+አቶ ካሳ ለእስራ ዘመኑ አስር ችግኝ ተከሉ ።
+ኣቶ ካሕሳይ ንዝኽሪ ክልተ ሽሕ ዓመተ ምሕረት ፡ ዓሰርተ ፈልሲ ገረብ ተኺሎም ።
+# ATT_id = third_apple_2-x12-s16
+# sent_id = S-278
+አስቴር ክፉ ሴት ነች ።
+ኣስቴር ክፍእቲ ጓል እያ ።
+# ATT_id = third_apple_2-x12-s17
+# sent_id = S-279
+ስጋው ጮማ ነው ።
+እቲ ስጋ ስቡሕ እዩ ።
+# ATT_id = third_apple_2-x12-s18
+# sent_id = S-280
+ልጆቹ ክፍል ውስጥ አሉ ።
+እቶም ቆልዑ አብ ክፍሊ አለዉ ።
+# ATT_id = third_apple_2-x12-s19
+# sent_id = S-281
+ካሳ ረዥም ይመስላል ።
+ካሕሳይ ነዊሕ ይመስል ።
+# ATT_id = third_apple_2-x12-s20
+# sent_id = S-282
+ሴቶቹ ሰከሩ ።
+እተን ኣንስቲ ሰኺረን ።
+# ATT_id = third_apple_2-x12-s21
+# sent_id = S-283
+ሴቶቹ ሰካራም ሆኑ ።
+እተን ኣንስቲ ሰኽራማት ኰይነን ።
+# ATT_id = third_apple_2-x13-s1
+# sent_id = S-284
+ካሳ ተደሰተ ።
+ካሕሳይ ተሓጒሱ ።
+# ATT_id = third_apple_2-x13-s2
+# sent_id = S-285
+ልጆቹ ተበሳጩ ።
+እቶም ቆልዑት ተበሳጭዮም ።
+# ATT_id = third_apple_2-x13-s3
+# sent_id = S-286
+አስቴር ወደ ቤት ገባች ።
+ኣስቴር ንገዛ ኣትያ ።
+# ATT_id = third_apple_2-x13-s4
+# sent_id = S-287
+ልጁ በር ላይ ቆመ ።
+እቲ ቆልዓ አብ ኣፍደገ ደው ኢሉ ።
+# ATT_id = third_apple_2-x13-s5
+# sent_id = S-288
+ዶሮዎቹ ቆጥ ላይ ሰፈሩ ።
+እተን ደርሁት አብ ሰገነት ሰፊረን ።
+# ATT_id = third_apple_2-x13-s6
+# sent_id = S-289
+ልጆቹ ወንበር ላይ ተቀመጡ ።
+እቶም ቆልዑ ኣብ መንበር ኮፍ ኢሎም ።
+# ATT_id = third_apple_2-x13-s7
+# sent_id = S-290
+አንበሳው ተንጠራራ ።
+እቲ ኣንበሳ ተመጣጢሩ ።
+# ATT_id = third_apple_2-x13-s8
+# sent_id = S-291
+ካሳ ንብረት ተረከበ ።
+ካሕሳይ ንብረት ተረኺቡ ።
+# ATT_id = third_apple_2-x13-s9
+# sent_id = S-292
+ተማሪው ደብተሩን ቀደደው ።
+እቲ ተመሃራይ ጥራዙ ቀዲዱ ።
+# ATT_id = third_apple_2-x13-s11
+# sent_id = S-293
+ካሳ ለወታደሮች ገንዘብ ሰጠ ።
+ካሕሳይ ንወተሃደራት ገንዘብ ሂቡ ።
+# ATT_id = third_apple_2-x13-s12
+# sent_id = S-294
+ካሳ ነገር አስቧል ።
+ካሕሳይ ነገር ሓሲቡ ኣሎ ።
+# ATT_id = third_apple_2-x13-s13
+# sent_id = S-295
+አስቴር ጥፋትዋን አምናለች ።
+ኣስቴር ጌግኣ ኣሚና ።
+# ATT_id = third_apple_2-x13-s14
+# sent_id = S-296
+አስቴር ገንዘብ ትፈልጋለች ።
+ኣስቴር ገንዘብ ትደልይ እያ ።
+# ATT_id = third_apple_2-x13-s15
+# sent_id = S-297
+አስተማሪው ስራ ይጠላል ።
+እቲ መምህር ስራሕ ይጸልእ እዩ ።
+# ATT_id = third_apple_2-x13-s16
+# sent_id = S-298
+ንጉስን ያከብራሉ ።
+ነቲ ንጉስ የኽብሩዎ እዮም ።
+# ATT_id = third_apple_2-x13-s17
+# sent_id = S-299
+አስቴር ተሹማለች ።
+ኣስቴር ተሸይማ ።
+# ATT_id = third_apple_2-x13-s18
+# sent_id = S-300
+ቡናው ተወቅጦአል ።
+እቲ ቡን ተጐዲኡ ።
+# ATT_id = third_apple_2-x13-s19
+# sent_id = S-301
+ንብረት ይዘርፋሉ ።
+ነቲ ንብረት ክዘምቱዎ እዮም ።
+# ATT_id = third_apple_2-x13-s20
+# sent_id = S-302
+ወተቱ ፈልቷል ።
+እቲ ጸባ ፈሊሑ ።
+# ATT_id = third_apple_2-x14-s1
+# sent_id = S-303
+ካሳ በግ አልገዛም እንዴ ?
+ካሕሳይ በጊዕ ኣይገዝእን ድዩ ?
+# ATT_id = third_apple_2-x14-s2
+# sent_id = S-304
+አስቴር ክፉ ሴት አይደለችም ።
+ኣስቴር ክፍእቲ ጓል ኣይኮነተን ።
+# ATT_id = third_apple_2-x14-s3
+# sent_id = S-305
+ወይዘሮ አስቴር ለአውደ ዓመት ምንም ልብስ አልገዙም ።
+ወይዘሮ ኣስቴር ንዓውደ ዓመት ዝኾነ ክዳን ኣይገዝኣን ።
+# ATT_id = third_apple_2-x14-s4
+# sent_id = S-306
+አስቴር ምንም ልብስ አልገዛችም ።
+ኣስቴር ፈጺማ ክዳን ኣይገዝአተን ።
+# ATT_id = third_apple_2-x14-s5
+# sent_id = S-307
+ማንም አልመጣም ።
+ወላሓደ ኣይመጸን ።
+# ATT_id = third_apple_2-x14-s6
+# sent_id = S-308
+ከእናቱ ጋር ምሳ የበላው ካሳ አይደለም ።
+ምሳኹም ሓቢሩ ምሳሕ ዝበልዐ ፡ ካሕሳይ ኣይኮነን ።
+# ATT_id = third_apple_2-x14-s7
+# sent_id = S-309
+ካሳ ከእናቱ ጋር የበላው ምሳ አይደለም ።
+ካሕሳይ ምስ ኣዲኡ ዝበልዎ ምሳሕ ኣይኮነን ።
+# ATT_id = third_apple_2-x14-s8
+# sent_id = S-310
+ብዙ ህፃናት ያለረዳት ያድጋሉ ።
+ብዙሓት ቆልዑ ብዘይ ሓጋዚ ይዓብዩ ።
+# ATT_id = third_apple_2-x14-s9
+# sent_id = S-311
+ካሳ ያለትዳር ብዙ ጊዜ ኖሮአል ።
+ካሕሳይ ብዘይ ሓዳር ንነዊሕ ጊዜ ነይሩ ።
+# ATT_id = third_apple_2-x14-s10
+# sent_id = S-312
+ማንም ለማንም ምንም አይሰጥም ።
+ዝኾነ ሰብ ንዝኾነ ካልእ ዝኾነ ነገር ኣይህብን ።
+# ATT_id = third_apple_2-x14-s11
+# sent_id = S-313
+ነጋዴው ከስሮ ቀረ ።
+እቲ ነጋዳይ ከሲሩ ተሪፉ ።
+# ATT_id = third_apple_2-x14-s12
+# sent_id = S-314
+ማንም ለምሳ አልቀረም ።
+ወላ ሓንቲ ንምሳሕ ኣይተረፈን ።
+# ATT_id = third_apple_2-x14-s13
+# sent_id = S-315
+ተማሪው ካልተጠነቀቁ ብዙ ስሕተት ሳይሠራ አይቀርም ።
+እቲ ተመሃራይ እንተ ዘይተጠንቂቆም ብዙሕ ጌጋ ከይፈጸመ ኣይተርፍን እዩ ።
+# ATT_id = third_apple_2-x14-s14
+# sent_id = S-316
+ምንም እንኳ ሥራ ቢበዛበት መምጣቱ አይቀርም ።
+ወላ ስራሕ ይብዝሓዮ ፡ ምምጽኡ ኣይተርፍን እዩ ።
+# ATT_id = third_apple_2-x14-s16
+# sent_id = S-317
+ገንዘብ ይኖረኝ አይኖረኝ እንደሆን አላውቅም ።
+ገንዘብ ይሃልወኒ ኣይሃልወኒ ኣይፈልጥን ።
+# ATT_id = third_apple_2-x14-s17
+# sent_id = S-318
+ለበዓል ምን ገዛህ ?
+ንበዓል እንታይ ገዚእካ ?
+# ATT_id = third_apple_2-x14-s18
+# sent_id = S-319
+ካሳ መጣ እንዴ ?
+ካሕሳይ መጺኡ ድዩ ደኣ ?
+# ATT_id = third_apple_2-x14-s19
+# sent_id = S-320
+ዓመት በዓል ደረሰ እንዴ ?
+ዓውደ ዓመት ኣትይዩ ድዩ ደኣ ?
+# ATT_id = third_apple_2-x14-s20
+# sent_id = S-321
+ስልክ ደወልክ ወይ ?
+ስልኪ ደዊልካ ዶ ?
+# ATT_id = third_apple_2-x15-s1
+# sent_id = S-322
+ማን ምን አደረገ ?
+መን እንታይ ገይሩ ?
+# ATT_id = third_apple_2-x15-s2
+# sent_id = S-323
+ማን ምን በላ ?
+መን እንታይ በሊዑ ?
+# ATT_id = third_apple_2-x15-s3
+# sent_id = S-324
+እስካሁን እንዴት እዚህ ቆየህ ?
+ክሳብ ሕጂ ከመይ ገይርካ አብዚ ጸኒሕካ ?
+# ATT_id = third_apple_2-x15-s4
+# sent_id = S-325
+ወንዙ ምን ያህል ይረዝማል ?
+እቲ ሩባ ክንድይ ዝኣኽል እዩ ንውሓቱ ?
+# ATT_id = third_apple_2-x15-s5
+# sent_id = S-326
+አዲስ አበባ ነገ ትሄዳለህ ?
+ጽባሕ ኣዲስ አበባ ክትከይድ ዲኻ ?
+# ATT_id = third_apple_2-x15-s6
+# sent_id = S-327
+ጠጅ አምጣ !
+ሜስ ኣምጽእ !
+# ATT_id = third_apple_2-x15-s7
+# sent_id = S-328
+ተው !
+ግደፍ !
+# ATT_id = third_apple_2-x15-s8
+# sent_id = S-329
+ካሳ ልብስ ይጠብ !
+ካሕሳይ ክዳን ይሕጸብ !
+# ATT_id = third_apple_2-x15-s9
+# sent_id = S-330
+ልብሱን እጠበው !
+ነቲ ክዳን ሕጸቦ !
+# ATT_id = third_apple_2-x15-s10
+# sent_id = S-331
+ልብስ እጠብ !
+ክዳን ሕጸብ !
+# ATT_id = third_apple_2-x15-s11
+# sent_id = S-332
+በል ብላ !
+ብላዕ በል!
+# ATT_id = third_apple_2-x15-s12
+# sent_id = S-333
+ልብስ ትጠብ !
+ክዳን ትሕጸብ !
+# ATT_id = third_apple_2-x15-s13
+# sent_id = S-334
+እንጀራ ትጋግር !
+እንጌራ ትሰንክት !
+# ATT_id = third_apple_2-x15-s14
+# sent_id = S-335
+ላንድ ሰዓት ያህል እዚህ ብትቆይ ?
+ንሓደ ስዓት ዝኣክል ኣብዚ እንተትጸንሕ 'ኸ ?
+# ATT_id = third_apple_2-x15-s15
+# sent_id = S-336
+ጨውን ብታቀብለኝ ?
+ጨው 'ባ ኣቐብለኒ ?
+# ATT_id = third_apple_2-x15-s16
+# sent_id = S-337
+ሹራቡን ልበሺ !
+ነቲ ጎልፎ ተኸደኒዮ !
+# ATT_id = third_apple_2-x15-s17
+# sent_id = S-338
+መኝታ ቤት ሂድና ኮቴን አምጣልኝ !
+መደቀሲ እሞ እቶ ፡ ኩታይ ኣምጽዓለይ !
+# ATT_id = third_apple_2-x15-s18
+# sent_id = S-339
+ምነው ቢበሉ !
+ብልዑ እንዶ !
+# ATT_id = third_apple_2-x15-s19
+# sent_id = S-340
+የካሳ ቤት የመስራት ዓላማ ገረመኝ ።
+ናይ ካሕሳይ ገዛ ናይ ምስራሕ ዕላማ ገሪሙኒ ።
+# ATT_id = third_apple_2-x15-s20
+# sent_id = S-341
+አስቴርን የሰደቡአት ልጆች ታሰሩ ።
+ንኣስቴር ዝጸረፉዋ ቆልዑ ተኣሲሮም ።
+# ATT_id = third_apple_2-x16-s1
+# sent_id = S-342
+አስቴር ገንዘብ የላከችለት ሰው ዘገየ ።
+ኣስቴር ገንዘብ ዝሰደደትሉ ሰብኣይ ደንጕዩ ።
+# ATT_id = third_apple_2-x16-s2
+# sent_id = S-343
+የአስቴር ቤት የመስራት አላማ ከሸፈ ።
+ናይ ኣስቴር ገዛ ናይ ምስራሕ ዓላማ ፈሺሉ ።
+# ATT_id = third_apple_2-x16-s3
+# sent_id = S-344
+ካሳ የሄደበት ሀገር ሩቅ ነው ።
+ካሕሳይ ዝኸዶ ሃገር ርሑቕ እዩ ።
+# ATT_id = third_apple_2-x16-s4
+# sent_id = S-345
+አስቴር ሰጥታኝ የነበረው መኪና ያምራል ።
+ኣስቴር ሂባትኒ ዝነበረት ማኪና ጸብቕቲ እያ ።
+# ATT_id = third_apple_2-x16-s5
+# sent_id = S-346
+ብርጭቆ የሰበረው ልጅ መጣ ።
+ብኬሪ ዝሰበረ ወዲ መጺኡ ።
+# ATT_id = third_apple_2-x16-s6
+# sent_id = S-347
+ካሳ የገባበት ቤት ጠባብ ነው ።
+ካሕሳይ ዝኣትዎ ገዛ ጸቢብ እዩ ።
+# ATT_id = third_apple_2-x16-s7
+# sent_id = S-348
+የልጁ ቤት እዚህ ነው ።
+ናይቲ ወዲ ገዛ እዚ እዩ ።
+# ATT_id = third_apple_2-x16-s8
+# sent_id = S-349
+ወድቆ የነበረው ቤት የአስተማሪው ነው ።
+እቲ ዓንዩ ዝነበረ ገዛ ናይቲ መምህር እዩ ።
+# ATT_id = third_apple_2-x16-s9
+# sent_id = S-350
+በእድሜ እንደ አንተ ካሉ ብላቴኖች ይልቅ ፊታችሁ ከስቶ ያየ እንደሆነ ያዝናል ።
+ብዕድመ ማዕረኹም ካብ ዝኾኑ ኣወዳት ንላዕሊ ገጽኩም ቀጢኑ ክርእይ እንከሎ ክሓዝን እዩ ።
+# ATT_id = third_apple_2-x16-s10
+# sent_id = S-351
+የዘላለምን ሒወትን እንዳገኝ ምን ላድርግ ?
+ናይ ዘለኣለም ህይወት ንምርካብ እንታይ ክገብር ?
+# ATT_id = third_apple_2-x16-s13
+# sent_id = S-352
+ኩባንያው እስካላባረረው ድረስ ይቆያል ።
+እቲ ኩባንያ ባዕሉ ክሳብ ዘይሰጎጎ ፡ ክጸንሕ እዩ ።
+# ATT_id = third_apple_2-x16-s16
+# sent_id = S-353
+ምን ያህል ጊዜ አየሃት ?
+ንኸንደይ ዝኣክል ጊዜ ኢኻ ርእይኻያ ።
+# ATT_id = third_apple_2-x16-s17
+# sent_id = S-354
+ገንዘቡን ማን እንደሰጣት ንገረን ?
+ነቲ ገንዘብ መን ከምዝሃባ ንገረና ?
+# ATT_id = third_apple_2-x16-s18
+# sent_id = S-355
+ከጥቂት ልምምድ በኋላ የተሻለ አድርገው ሠሩት ።
+ድሕሪ ሓጺር ልምምድ ዝሓሸ ገይሮም ሰሪሖሞ ።
+# ATT_id = third_apple_2-x16-s19
+# sent_id = S-356
+ምሳውን ያልበላ እንደሆነ እንዲጫወት አትፍቀድለት ።
+ምስሑ ዘይበልዐ እንተዀይኑ ፡ ክጻወት ኣይተፍቐድሉ ።
+# ATT_id = third_apple_2-x16-s20
+# sent_id = S-357
+ከተማ የምትሄድ እንደሆነ ጥራኝ ።
+ከተማ ትኸይድ እንተኰይንካ ፡ ጸውዓኒ ።
+# ATT_id = third_apple_2-x17-s1
+# sent_id = S-358
+የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+ትኸይድ እንተ ኰይንካ መጽሓፍ መለሰለይ ።
+# ATT_id = third_apple_2-x17-s2
+# sent_id = S-359
+በጫካ ውስጥ የምትጓዝ ከሆነ መሣሪያ መያዝ አለብህ ።
+ብጫካ ትጉዓዝ እንተኰንካ ፡ መሳርያ ክትሕዝ አለካ ።
+# ATT_id = third_apple_2-x17-s3
+# sent_id = S-360
+በምን ያርሳሉ ? በበሬ ነዋ ።
+ብምንታይ ክሓርሱ እዮም ? ብብዕራይ እምበር ፡ ብምንታይ ደአ ።
+# ATT_id = third_apple_2-x17-s4
+# sent_id = S-361
+እንጀራውን ምን አረግሽው ? በላሁታ ።
+ነቲ እንጌራ እንታይ ገይርኪዮ ? በሊዓዮ ።
+# ATT_id = third_apple_2-x17-s5
+# sent_id = S-362
+ዛሬ ለምን አልመጣም ? እሁድ አይሠሩማ ።
+ሎሚ ስለምንታይ ኣይመጸን ? ሰንበት እኳ ኣይሰርሑን እዮም ።
+# ATT_id = third_apple_2-x17-s6
+# sent_id = S-363
+ሂዳ !
+ኪድ እሞ !
+# ATT_id = third_apple_2-x17-s7
+# sent_id = S-364
+እኔን ለማየት ፈልጎ ነበራ !
+ንዓይ ንኽርኢ ደልዪ ነይሩ 'ኳ ?
+# ATT_id = third_apple_2-x17-s8
+# sent_id = S-365
+ከበደ ለምን መጣ ? ሊመጣ ፈለጋ ።
+ከበደ ንምንታይ መጺኡ ? ክመጽእ ስለዝደለይ ።
+# ATT_id = third_apple_2-x17-s9
+# sent_id = S-366
+ቤት ግቡዋ ።
+ገዛ እተዉ እንዶ ።
+# ATT_id = third_apple_2-x17-s10
+# sent_id = S-367
+ሁለት መኪኖች አየ ግን አንዱንም አልገዛም ።
+ክልተ መኪናታት ርእዩ ፡ ግን ወላ ሓንቲ ኣይገዝአን ።
+# ATT_id = third_apple_2-x17-s11
+# sent_id = S-368
+ጨውና በርበሬ ቅቤም አመጣሁ ።
+ጨውን በርበረን ጠስሚ 'ውን ኣምጺአ ።
+# ATT_id = third_apple_2-x17-s12
+# sent_id = S-369
+ወታደርም ባለቅኔም ነው ።
+ወተሃደርን ገጣማይን እዩ ።
+# ATT_id = third_apple_2-x17-s13
+# sent_id = S-370
+ይህ አልጋም መቀመጫም ይሆናል ።
+እዚ ዓራትን ኮፍመበልን ይኸውን እዩ ።
+# ATT_id = third_apple_2-x17-s14
+# sent_id = S-371
+ስሕተቱ የኔም ያንተም ነው ።
+እቲ ጌጋ ናተይን ናትካን እዩ ።
+# ATT_id = third_apple_2-x17-s15
+# sent_id = S-372
+ከዚህም ትንሽ ልውሰድ ?
+ካብዚ 'ውንዶ ቁሩብ ክወስድ ?
+# ATT_id = third_apple_2-x17-s16
+# sent_id = S-373
+ዓለሙ ከሄደ ተስፋዬም ይሄዳል ።
+ኣለም እንተኸይዱ ተስፋይ 'ውን ክኸይድ እዩ ።
+# ATT_id = third_apple_2-x17-s17
+# sent_id = S-374
+አምስቱም ተበላ ።
+ሓሙሽቲኡ ተበሊዑ ።
+# ATT_id = third_apple_2-x17-s18
+# sent_id = S-375
+ስንዴ እህል ነው ፣ ገብስና ጤፍም እንዲሁ ።
+ስርናይ እኽሊ እዩ ፤ ስገምን ጣፍን 'ውን ከምኡ ።
+# ATT_id = third_apple_2-x17-s19
+# sent_id = S-376
+እርሱም ደግሞ ይሄዳል ።
+ንሱ 'ውን ይኸይድ እዩ ።
+# ATT_id = third_apple_2-x17-s20
+# sent_id = S-377
+ማንበብም መጻፍም አይችልም ።
+ምንባብ ኮነ ምጽሓፍ ኣይኽእልን እዩ ።
+# ATT_id = third_apple_2-x18-s1
+# sent_id = S-378
+ጊዜም ሆነ ገንዘብ የለኝም ።
+ጊዜ ይኹን ገንዘብ ይብለይን ።
+# ATT_id = third_apple_2-x18-s2
+# sent_id = S-379
+አንተ ካልመጣህ እሱም አይመጣም ።
+ንስኻ እንተዘይመጺእካ ንሱ 'ውን ኣይመጽእን እዩ ።
+# ATT_id = third_apple_2-x18-s3
+# sent_id = S-380
+እሱም አያውቀውም ።
+ንሱ 'ውን ኣይፈልጦን እዩ ።
+# ATT_id = third_apple_2-x18-s4
+# sent_id = S-381
+ኃይሉ መምጣት አይችልም እኔም እንዲሁ ።
+ሃይለ ክመጽእ ኣይኽእልን እዩ ፡ ኣነ 'ውን ከምኡ ።
+# ATT_id = third_apple_2-x18-s5
+# sent_id = S-382
+አያታችን በዕድሜ እየገፉ ቢሄዱም ለዛቸው አልጠፋም ።
+ኣቦሓጎና ዕድመ 'ኳ ዝደፍኡ እንተኾኑ ፡ ላዛኦም ግን ኣየጥፉኡን ።
+# ATT_id = third_apple_2-x18-s6
+# sent_id = S-383
+ምግቡ ጥሩ ባይሆንም ራባቸውን አስታገሠልን ።
+እቲ ምግቡ ጥዑም እኳ እንተዘይኮነ ፡ ንጥምየቶም ግን ኣዕጊሱልና ።
+# ATT_id = third_apple_2-x18-s7
+# sent_id = S-384
+የትም ብትሄድ ለኔ ደብዳቤ መጻፍ አትርሳ ።
+ኣብ ዝኸድካ ከይድካ ፡ ንዓይ መልእኽቲ ምጽሓፍ ኣይትረስዕ ።
+# ATT_id = third_apple_2-x18-s8
+# sent_id = S-385
+ይህማ ቢሆን መልካም ነው ።
+እዚ 'ሞ እንተዝኸውን ፡ ጽቡቕ ነይሩ ።
+# ATT_id = third_apple_2-x18-s9
+# sent_id = S-386
+አስር ዓመት ቢፈጅም ትምህርቴን እጨርሳለሁ እንጂ ወደ ሀገሬስ አልመለስም ።
+ዓሰርተ ዓመት ወላ ይወድእ ፡ ትምህርተይ ከይወዳእኩ ንዓደይ ኣይምለስን እዩ ።
+# ATT_id = third_apple_2-x18-s10
+# sent_id = S-387
+እንግዲያስ እመጣለሁ ።
+ደጊምስ ክመጽእ እየ ።
+# ATT_id = third_apple_2-x18-s11
+# sent_id = S-388
+ከኛ ጋር እንደምትቆይ መቼስ የታወቀ ነው ።
+ምሳና ከምትጸንሕ መቸም ፍሉጥ እዩ ።
+# ATT_id = third_apple_2-x18-s12
+# sent_id = S-389
+ምንስ ቢሆን ትመታታለህ ?
+ዝኾነ ይኹን ንምንታይ ትሃርማ ?
+# ATT_id = third_apple_2-x18-s13
+# sent_id = S-390
+ሚስቱስ ብትሆን ጎበዝ ገበሬ ናት ።
+ሰበይቱ እንተኾነት 'ውን ንፍዕቲ ሓረስታይ እያ ።
+# ATT_id = third_apple_2-x18-s14
+# sent_id = S-391
+ወደ አባትሽ ቤት ብትመለሽስ ?
+ናብ እንዳ አቦኺ እንተተመለስኪ 'ኸ ?
+# ATT_id = third_apple_2-x18-s15
+# sent_id = S-392
+በእግራችን እንሂድ ወይስ ባውቶቢስ ?
+ብግርና ዶ ንኺድ ወይስ ብኣውቶቡስ ?
+# ATT_id = third_apple_2-x18-s16
+# sent_id = S-393
+ይህሳ ምንድን ነው ?
+እዚ 'ኸ እንታይ እዩ ?
+# ATT_id = third_apple_2-x18-s17
+# sent_id = S-394
+ብዙዎችን ለማስተማርሳ ምን ዘዴ አገኛለሁ ?
+ንብዙሓት ንምምሃር 'ከ እንታይ ሜላ ምረኸብኩ ?
+# ATT_id = third_apple_2-x18-s18
+# sent_id = S-395
+እግዚአብሔር ሰውን በአምሳሉ ፈጠረ ።
+እግዚኣብሔር ንሰብ ብምስሉ ፈጢሩዎ ።
+# ATT_id = third_apple_2-x18-s19
+# sent_id = S-396
+በእውነት አንተን ምን እንደማደርግ አላውቅም ።
+ብእውነት ፡ ንዓኻ እንታይ ከምዝገብረካ ኣይፈልጠን እየ ።
+# ATT_id = third_apple_2-x18-s20
+# sent_id = S-397
+ቁርሱን ዳቦ ይበላል ።
+ንቑርሱ ባኒ ይበልዕ ።
+# ATT_id = third_apple_2-x19-s1
+# sent_id = S-398
+ብርጭቆውን ወተት ጠጣበት ።
+ነቲ ቢኬሪ ጸባ ሰትዩሉ ።
+# ATT_id = third_apple_2-x19-s2
+# sent_id = S-399
+ሙግቴን ተረታሁ ።
+ምጕተይ ተረቲዐ ።
+# ATT_id = third_apple_2-x19-s3
+# sent_id = S-400
+ዐሥር አለቃው ባለመታዘዙ ማዕረጉን ተገፈፈ ።
+እቲ ሓለቓ ዓሰርተ ስለዘይተኣዘዘ ምዓርጉ ተሓዲጉ ።
+# ATT_id = third_apple_2-x19-s4
+# sent_id = S-401
+ልጁን ቤቱን አሳየው ።
+እቲ ቆልዓ ገዝኡ ኣርእዩዎ ።
+# ATT_id = third_apple_2-x19-s5
+# sent_id = S-402
+ተራራውን መውጣት ብዙ ጥረት ይጠይቃል ።
+ነቲ ጎቦ ምድያብ ፡ ብዙሕ ጻዕሪ ይሓትት ።
+# ATT_id = third_apple_2-x19-s6
+# sent_id = S-403
+እሱን ብሆን አላደርገውም ነበር ።
+ንሱ 'ውን እንተኾነ ፡ ኣይምገበሮን ነይሩ ።
+# ATT_id = third_apple_2-x19-s7
+# sent_id = S-404
+ጥሩ ሞትን ሞተ ።
+ጽቡቕ ሞት ሞይቱ ።
+# ATT_id = third_apple_2-x19-s8
+# sent_id = S-405
+ራቁቱን ተኛ ።
+ጥርሑ ደቂሱ ።
+# ATT_id = third_apple_2-x19-s9
+# sent_id = S-406
+ለግብዣ ብቻውን መጣ ።
+ናብ 'ቲ ዕድመ ንበይኑ መጺኡ ።
+# ATT_id = third_apple_2-x19-s10
+# sent_id = S-407
+ባዶ እጁን መጣ ።
+ጥራሕ ኢዱ መጺኡ ።
+# ATT_id = third_apple_2-x19-s11
+# sent_id = S-408
+ደረቁን አትብላ !
+ነቲ ንቑጽ ኣይትብልዓዮ ?
+# ATT_id = third_apple_2-x19-s12
+# sent_id = S-409
+ቢላው በቀለን እጁን ቆረጠው ።
+እቲ ካራ ንበቀለ ኢዱ ሓሪዱዎ ።
+# ATT_id = third_apple_2-x19-s13
+# sent_id = S-410
+ሜዳ ሜዳውን ሄደ ።
+ጎልጎል ጎልጎል ከይዱ ።
+# ATT_id = third_apple_2-x19-s14
+# sent_id = S-411
+እባክህ ወንድም የዚህ ቦታ ስም ማን ይባላል ?
+በጃኸ እስከ እዚ ሓወይ ፡ ናይዚ ቦታ ስም እንታይ ይበልሃል ?
+# ATT_id = third_apple_2-x19-s15
+# sent_id = S-412
+እነሆ ልጄ ፈተናውን በከፍተኛ ውጤት አለፈ ።
+እንሆ ወደይ ፈተና ብልዑል ነጥቢ ሓሊፉ ።
+# ATT_id = third_apple_2-x19-s16
+# sent_id = S-413
+ፈተናውን በማለፍህ እንኳን ደስ ያለህ !
+ፈተና ብምሕላፍካ እንቋዕ ደስ በለካ !
+# ATT_id = third_apple_2-x19-s17
+# sent_id = S-414
+የሷ ጠላ እንዲህ ነው እንዴ ?
+ናታ ስዋ ከምዚ ድ 'ዩ ደአ ?
+# ATT_id = third_apple_2-x19-s18
+# sent_id = S-415
+ለምን እንደሆነ እንጃ ባየሁት ቁጥር ቱግ እላለሁ ።
+እንታይ ከምዝዀንኩ እንድዒ ፡ ኣብ ዝረኣኹዎ ጊዜ ሕርር ይብል ።
+# ATT_id = third_apple_2-x19-s19
+# sent_id = S-416
+የትምህርቱን አስፈላጊነት እንዴት እንደምገልጽ እንጃልኝ ።
+ናይ ትምህርቲ ኣድላይነት ፡ ብኸመይ ከምዝገልጾ እንድዕለይ ።
+# ATT_id = third_apple_2-x19-s20
+# sent_id = S-417
+አባትህ የመጣ እንደሆነ እንጃልህ !
+ኣቦኻ መጺኡ እንተዀይኑ እንድዕልካ ።
+# ATT_id = third_apple_2-x20-s1
+# sent_id = S-418
+ልጅቷ እኮ ቆንጆ ናት ።
+እታ ጓል እኳ ጽብቕቲ እያ ።
+# ATT_id = third_apple_2-x20-s2
+# sent_id = S-419
+አዬ እባክህ ምንም አልተሻለውም ።
+በጃኺ ርኣይዮ ፡ ፍጹም ኣይሓሾን ።
+# ATT_id = third_apple_2-x20-s3
+# sent_id = S-420
+እፎይ ይኸው በመጨረሻ ደረስን ።
+ኡፎይ ፡ እንሆልኪ አብ መወዳእታ በጺሕና ።
+# ATT_id = third_apple_2-x20-s4
+# sent_id = S-421
+ይህ ጉዳይ እጅግ አሳሳቢ ነው ።
+እዚ ጉዳይ ኣዚዩ የተሓሳስብ እዩ ።
+# ATT_id = third_apple_2-x20-s5
+# sent_id = S-422
+ከሳሾቻችን በቀጠሮ አልቀረቡም ።
+ከሰስትና አብ ቆጸራ ኣይተረኽቡን ።
+# ATT_id = third_apple_2-x20-s6
+# sent_id = S-423
+ላባቱ ታዛዥ ነበር ።
+ንኣቡኡ ይእዘዞ ነይሩ ።
+# ATT_id = third_apple_2-x20-s7
+# sent_id = S-424
+ይህ መንግስት የሕዝቡን ፍላጎት ካላሟላ አንድ ቀን ወዳቂ ነው ።
+እዚ መንግስቲ ናይ ህዝቢ ድሌት እንተዘየማሊኡ ፡ ሓደ ምዓልቲ ክወድቕ እዩ ።
+# ATT_id = third_apple_2-x20-s8
+# sent_id = S-425
+ይቺ ሴትዮ እህል ካልበላች ሟች ናት ።
+እዛ ሰበይቲ እኽሊ እንተዘይበሊዓ ፡ ክትመውት እያ ።
+# ATT_id = third_apple_2-x20-s9
+# sent_id = S-426
+ይቺ አሮጌ መኪና ተሰባሪ ናት ።
+እታ ኣረጊት ማኪና ክትስበር እያ ።
+# ATT_id = third_apple_2-x20-s10
+# sent_id = S-427
+ቤትህን ሳትቆልፍ እየሄድክ አንድ ቀን እቃህ ሁሉ ተወሳጅ ነው ።
+ገዛኻ ከይዓጸኻ ትኸይድ ፡ ሓደ ምዓልቲ ኩሉ ኣቑሑትካ ክስረቕ እዩ ።
+# ATT_id = third_apple_2-x20-s12
+# sent_id = S-428
+ተፈላጊው የት አለ ?
+እቲ ዝድለ ዘሎ ኣባይ አሎ ?
+# ATT_id = third_apple_2-x20-s13
+# sent_id = S-429
+የከብታችን መሰረቅ በጣም አሳዘነን ።
+ናይ ከብትና ምስራቕ ኣዝዩ ኣሕዚኑና ።
+# ATT_id = third_apple_2-x20-s14
+# sent_id = S-430
+ሕፃን መምታት የጭካኔ ድርጊት ነው ።
+ቆልዓ ምውቓዕ ፡ ናይ ጭካኔ ግብሪ እዩ ።
+# ATT_id = third_apple_2-x20-s15
+# sent_id = S-431
+በውትድርና ሙያ ለበላይ ታዛዥ መሆን የግድ ነው ።
+አብ ሞያ ውትህድርና ፡ ንላዕለዎት ሓለፍቲ ተኣዛዚ ምዃን ናይ ግደን እዩ ።
+# ATT_id = third_apple_2-x20-s16
+# sent_id = S-432
+በጊዜ መተኛት መብትህ ነው ።
+ብእዋኑ ምድቃስ መሰልካ እዩ ።
+# ATT_id = third_apple_2-x20-s17
+# sent_id = S-433
+ፈተና መውደቄ አበሳጨኝ ።
+ፈተና ምትራፈይ ኣበሳጭዩኒ ።
+# ATT_id = third_apple_2-x20-s18
+# sent_id = S-434
+ባስፈራራውም ትእዛዜን መጣሱን ቀጠለ ።
+ወላ 'ኳ እንተኣፈራራሕኩዎ ፡ ንትእዛዘይ ምጥሓስ ቀጺሉዎ ።
+# ATT_id = third_apple_2-x20-s19
+# sent_id = S-435
+መቀለድና መቀባጠርን ይወዳል ።
+ምልጋጽን ምቅብጣርን ይፈቱው ።
+# ATT_id = third_apple_2-x20-s20
+# sent_id = S-436
+ቀይ ሹራብ መልበሴን አልወደደችውም ።
+ቀይሕ ጎልፎ ምኽዳነይ ኣይፈተወቶን ።
+# ATT_id = third_apple_2-x21-s1
+# sent_id = S-437
+መጽሐፉን መስረቁን አመነ ።
+ነቲ መጽሓፍ ምስራቑ ኣሚኑ ።
+# ATT_id = third_apple_2-x21-s2
+# sent_id = S-438
+በሩን መቀርቀር ረሳ ።
+ማዕጾ ምዕጻው ረሲዑ ።
+# ATT_id = third_apple_2-x21-s3
+# sent_id = S-439
+አባያውን በሬ ትተህ ምነው ደህናውን መግረፍህ ?
+ነቲ እምቢተኛ ብዕራይ ገዲፍካ ፡ ንምንታይ ኢኻ ነቲ ሕያዋይ እትሃርም ?
+# ATT_id = third_apple_2-x21-s4
+# sent_id = S-440
+ምግብ እያለ ምነው አለመብላትህ ?
+ምግቢ እንከሎስ ፡ እንታይ 'ዩ ዘምብላዕካ ?
+# ATT_id = third_apple_2-x21-s5
+# sent_id = S-441
+ሌቱን ሙሉ ስሠራ መቆየቴን አላወቀችም ።
+ምሉእ ለይቲ ክሰርሕ ምጽንሐይ ኣፈለጠትን ።
+# ATT_id = third_apple_2-x21-s6
+# sent_id = S-442
+ልጃቸው በጦርነት ላይ መሞቱን ተረዱ ።
+ወዶም አብ ውግእ ምሟቱ ተረዲኦም ።
+# ATT_id = third_apple_2-x21-s7
+# sent_id = S-443
+ልጁ ሱቁን መዝረፉን በተናዘዘ ጊዜ እናቱ በጣም አዘነች ።
+እቲ ወዲ ነቲ ድኳን ምስራቑ ዝተናዘዘሉ ጊዜ ፡ አዲኡ ኣዝያ ሓዚና ።
+# ATT_id = third_apple_2-x21-s8
+# sent_id = S-444
+ቤት መሥራት ይችላል ።
+ገዛ ምስራሕ ይኽእል እዩ ።
+# ATT_id = third_apple_2-x21-s9
+# sent_id = S-445
+ነገ የምትመጣ መሆኑን ሰምቻለሁ ።
+ጽባሕ ክትመጽእ ምዃንካ ፡  ሰሚዐ አለኹ ።
+# ATT_id = third_apple_2-x21-s10
+# sent_id = S-446
+መኪና በየጊዜው ካልታደሰ ብዙ የማይቆይ መሆኑ የታወቀ ነው ።
+መኪና በብእዋኑ እንተዘይተሓዲሳ ፡ ብዙሕ ጊዜ ክትጸንሕ ከምዘይትኽእል ፍሉጥ እዩ ።
+# ATT_id = third_apple_2-x21-s11
+# sent_id = S-447
+መምጣት መቅረቱን ለማወቅ እፈልጋለሁ ።
+ምምጻእ ምትራፉ ፡ ክፈልጥ እደልይ እየ ።
+# ATT_id = third_apple_2-x21-s12
+# sent_id = S-448
+የሱ አዲስ አበባ መሄድ አይጠቅመንም ።
+ናቱ ንኣዲስ ኣበባ ምኻድ ኣይጠቕመናን እዩ ።
+# ATT_id = third_apple_2-x21-s13
+# sent_id = S-449
+ፈተና ለማለፍ በርትቶ ማጥናት ።
+ፈተና ንምሕላፍ በርቲዕካ ምጽኛዕ ።
+# ATT_id = third_apple_2-x21-s14
+# sent_id = S-450
+ከዚህ የሚብስ ጊዜ አለ ማለት ነው ?
+ካብ 'ዚ ዝኸፍእ ጊዜ ኣሎ ማለት ድዩ ?
+# ATT_id = third_apple_2-x21-s15
+# sent_id = S-451
+ምን ማለትህ ነው ?
+እንታይ ማለትካ እዩ ?
+# ATT_id = third_apple_2-x21-s16
+# sent_id = S-452
+ሚስቱን በመግደል ተከሰሰ ።
+ሰበይቱ ብምቕታሉ ተኸሲሱ ።
+# ATT_id = third_apple_2-x21-s17
+# sent_id = S-453
+አስተማሪው በጣም በመድከሙ ነቅቶ መቆየት አልቻለም ።
+እቲ መምህር ኣዝዩ ስለዝደኸመ ፡ ነቒሑ ክሰርሕ ኣይከኣለን ።
+# ATT_id = third_apple_2-x21-s18
+# sent_id = S-454
+አቧራ እንዳይነካው በማለት ሥዕሉን በጨርቅ ሸፈኑት ።
+ደሮና ከይዓልቦ ኢሎም ፡ ነቲ ስእሊ ብጨርቒ ሸፊኖሞ ።
+# ATT_id = third_apple_2-x21-s19
+# sent_id = S-455
+መጽሐፉን ሳይጠይቅ ከመውሰዱ በቀር ምን አደረገህ ?
+ነቲ መጽሓፍ ከየፍቀደ ካብ ምውሳድ ሓሊፉ ፡ እንታይ ገይሩካ ?
+# ATT_id = third_apple_2-x21-s20
+# sent_id = S-456
+ከመሄድ ይልቅ ብቆይ ይሻላል ።
+ካብ ምኻድስ እንተዝጸንሕ ይሓሽ ።
+# ATT_id = third_apple_2-x22-s1
+# sent_id = S-457
+ከመምጣቱ ገበታ ላይ ጉብ አለ ።
+ካብ ዝመጽእ ኣትሒዙ ፡ አብ መኣዲ ኵይጥ ኢሉ አሎ ።
+# ATT_id = third_apple_2-x22-s2
+# sent_id = S-458
+በሩን ከማለፉ ጩኸት ሰማ ።
+ነቲ ማዕጾ ቅድሚ ምስጋሩ ፡ ኣውያት ሰሚዑ ።
+# ATT_id = third_apple_2-x22-s3
+# sent_id = S-459
+ብዙ ጩኸት ከመኖሩ የተነሣ ሊተኙ አልቻሉም ።
+ብዙህ ጫውጫታ ካብ ምንባር ዝተላዕለ ፡ ክድቅሱ አይከኣሉን ።
+# ATT_id = third_apple_2-x22-s4
+# sent_id = S-460
+በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደል ይደረሳል ።
+ኣብ 'ዚ እዋን እዚ ገንዘብ ንምርካብ ተባሂሉ ክሳብ ምቕታል እዩ ዝብጻሕ ።
+# ATT_id = third_apple_2-x22-s5
+# sent_id = S-461
+ለመጋባት ስለ መወሰናቸው የሰማሁት ነገር የለም ።
+ብዛዕባ ክምርዓዉ ምስምምዖም ፡ ዝሰማዕኩዎ ነገር የለን ።
+# ATT_id = third_apple_2-x22-s6
+# sent_id = S-462
+የቦርዱ አባል እንደ መሆኑ ሁሉ የወር ገቢው ከመደበኛ ደሞዙ ዕጥፍ ነበር ።
+ናይ ቦርድ ኣባል ካብ ዝኾኑ ፡ ኩሉ ናይ ወርሒ ኣታዊኦም ፡ ካብ ምዱብ ደሞዞም ዕጽፊ ኰይኑ ነይሩ ።
+# ATT_id = third_apple_2-x22-s7
+# sent_id = S-463
+ዕንጨት ሲረጥብ እንደ መነፋት ይላል ።
+ዕንጨይቲ ክጥልቂ እንከሎ ፡ ከም ንፍሕ ይብል ።
+# ATT_id = third_apple_2-x22-s8
+# sent_id = S-464
+ጉሮሮው እንደ መድረቅ ብሏል ።
+ጎሮሩኡ ከም ድርቕ ኢሉ ።
+# ATT_id = third_apple_2-x22-s9
+# sent_id = S-465
+ጽጌረዳው እንደ ማበብ ብሎ ጠወለገ ።
+እቲ ዕንባባ ጽጌረዳ ፡ ዕምብብ ምስ በለ ሓሪሩ ።
+# ATT_id = third_apple_2-x22-s10
+# sent_id = S-466
+አስተማሪን አለማክበር ኀጢአተኛ እንደ መሆን ይቆጠራል ።
+መምህር ዘይምኽባር ፡ ዳርጋ ከም ሓጥያት እዩ ዝቑጸር ።
+# ATT_id = third_apple_2-x22-s11
+# sent_id = S-467
+ሥራው ወደ ማለቁ ነው ።
+እቲ ስራሕ አብ ምውዳእ ገጹ እዩ ።
+# ATT_id = third_apple_2-x22-s12
+# sent_id = S-468
+ጉዳቱን ያደረሰው ሰው የመክፈል ግዴታ አለበት ።
+ነዚ ማህሰይቲ ዘውረደ ሰብ ፡ ናይ ምኽሓስ ግዴታ አለዎ ።
+# ATT_id = third_apple_2-x22-s13
+# sent_id = S-469
+አንድ የመሆናችን ጊዜ አሁን ነው ።
+ሓደ ዝዀኑሉ እዋን ሕጂ እዩ ።
+# ATT_id = third_apple_2-x22-s14
+# sent_id = S-470
+ሰውን የመናቅ ጠባዩን አልወድለትም ።
+ነቲ ሰብ ናይ ምንዓቕ ጠባዩ ፡ ኣይፈትዎን እዩ ።
+# ATT_id = third_apple_2-x22-s15
+# sent_id = S-471
+አንተን ለማየት ጎንደር መጣሁ ።
+ንዓኻ ንምርኣይ ፡ ንባጽዕ መጺአ ።
+# ATT_id = third_apple_2-x22-s16
+# sent_id = S-472
+የመጣሁት መጽሐፉን ለሱ ለመስጠት ነው ።
+አብ 'ዚ ዝመጻእኩ ፡ ነዚ መጽሓፍ ንዓኡ ንምሃብ እዩ ።
+# ATT_id = third_apple_2-x22-s17
+# sent_id = S-473
+ልብስ ለመግዛት ብዬ ገበያ አልሄድም ።
+ክዳን ንኽገዝእ ኢለ ፡ ዕዳጋ ኣይከይድን እየ ።
+# ATT_id = third_apple_2-x22-s18
+# sent_id = S-474
+ይህን ነገር ለማረጋገጥ ስል በየቦታው ጠይቄ ነበር ።
+ነዚ ነገር እዚ ከረጋግጽ ክብል ፡ ኣብ ኩሉ ቦታ ሓቲተ ነይረ ።
+# ATT_id = third_apple_2-x22-s19
+# sent_id = S-475
+የታመመ ጓደኛችንን ልንጠይቅ ሄደን ነበር ።
+ዝሓመመ ዓርክና ፡ ክንበጽሕ ከይድና ነይርና ።
+# ATT_id = third_apple_2-x22-s20
+# sent_id = S-476
+ይህን ሥራ የምሰራው አንተን ለማስደሰት ያህል ነው ።
+እዚ ስራሕ እዚ ዝሰርሖ ዘልኹ ፡ ንዓኻ ንምሕጓስ እዩ ።
+# ATT_id = third_apple_2-x23-s1
+# sent_id = S-477
+ለመግደሉ ማስረጃ የላቸውም ።
+ከም ዝቐተለ ጭብጢ የብሎምን ።
+# ATT_id = third_apple_2-x23-s2
+# sent_id = S-478
+ካባቱ ጋር ለመሄዱ ማስረጃ አለ ።
+ምስ ኣብኡ ናይ ምኻዱ ፡ መረጋገጺ ኣሎ ።
+# ATT_id = third_apple_2-x23-s3
+# sent_id = S-479
+ስምንት ያህል መጽሐፍ አሉኝ ።
+ሾሞንተ ዝኣክለ መጽሓፍቲ አለኒ ።
+# ATT_id = third_apple_2-x23-s4
+# sent_id = S-480
+የሰጠናችሁን ምክር መከተል ነው ።
+ነቲ ዝሃብናኩም ምኽሪ ፡ ምክትታል እዩ ።
+# ATT_id = third_apple_2-x23-s5
+# sent_id = S-481
+ለዚህ መንግስት መስራት መሠቃየት ነው ።
+ነዚ መንግስቲ እዚ ምስራሕ ፡ ምስቓይ ማለት እዩ ።
+# ATT_id = third_apple_2-x23-s6
+# sent_id = S-482
+ገንዘብ ባይኖረኝም ተበድሬ ልብሱን ለልጄ መግዛት ነበረብኝ ።
+ገንዘብ እንተዘይነብረኒ 'ውን ፡ ተለቒሐ ነቲ ክዳን ንወደይ ክገዝኣሉ ነይሩኒ ።
+# ATT_id = third_apple_2-x23-s7
+# sent_id = S-483
+ቦታ ለማግኘት በጊዜ መነሣት ።
+ቦታ ንምርካብ ፡ ብእዋኑ ምትሳእ ።
+# ATT_id = third_apple_2-x23-s8
+# sent_id = S-484
+እዳውን አለመክፈሉን አልሰማሁም ።
+ዕድኡ ከም ዘይከፈለ ፡ ኣይሰማዕኩን ።
+# ATT_id = third_apple_2-x23-s9
+# sent_id = S-485
+ባለመምጣቱ በጣም ተገረምኩ ።
+ብዘይምምጽኡ ብዙሕ ተገሪመ ።
+# ATT_id = third_apple_2-x23-s10
+# sent_id = S-486
+ቀዳዳውን መወተፊያ ቡትቶ ፈልጊ ።
+ነዚ ነዃል መወተፊ ፡ ጨርቀ መርቂ ድለዪ ።
+# ATT_id = third_apple_2-x23-s11
+# sent_id = S-487
+እርሳሱን መቅረጫ የሚሆን ምላጭ ስጠኝ ።
+ነዚ ርሳስ መጽረቢ ዝኽውን ላማ ሃበኒ ።
+# ATT_id = third_apple_2-x23-s12
+# sent_id = S-488
+ብረት ለምድጃ መሥሪያ ያገለግላል ።
+ሓጺን ምድጃ መስርሒ የገልግል ።
+# ATT_id = third_apple_2-x23-s13
+# sent_id = S-489
+ዐሥር ብር ጐደለኝ ።
+ዓሰርተ ናቕፋ ጎዲሉኒ ።
+# ATT_id = third_apple_2-x23-s14
+# sent_id = S-490
+ይችን መታሰቢያ እንዲቀበሉኝ ።
+እዚኣ ንመዘከርታ እንተዝቕበሉኒ ።
+# ATT_id = third_apple_2-x23-s15
+# sent_id = S-491
+ዋጋውን ካልቀነስክ እቃውን አልገዛህም ።
+ነቲ ዋጋ ኣይቀነስካ ፡ ነቲ ኣቕሓ 'ውን ኣይገዛእካ ።
+# ATT_id = third_apple_2-x23-s16
+# sent_id = S-492
+ጥሩ አናጢ ይወጣሃል ።
+ንፉዕ ጸራባይ ምዀንካ ።
+# ATT_id = third_apple_2-x23-s17
+# sent_id = S-493
+ሳገኛቸው እሰጣቸዋለሁ ።
+ምስ ረኸብኩዎም ፡ ክህቦም እየ ።
+# ATT_id = third_apple_2-x23-s18
+# sent_id = S-494
+ዛፉ ሥር ሄደና ተቀመጠ ።
+ካብ እግሪ እቲ ገረብ ከይዱ ፡ ኮፍ ኢሉ ።
+# ATT_id = third_apple_2-x23-s19
+# sent_id = S-495
+ፀሐይ ሳይኖር ልብሱ ምኑን ደረቀው ?
+ጸሓይ ከየላ ፡ እቲ ክዳን እንታይዩ ነቒጹ ?
+# ATT_id = third_apple_2-x23-s20
+# sent_id = S-496
+አትሂድ ስንለው ሄዶ ታሰረና አረፈው ።
+ኣይትኺድ እናበልናዮ ከይዱ ፡ ተኣሲሩ ከኣ ኣዓሪፉ ።
+# ATT_id = third_apple_2-x24-s1
+# sent_id = S-497
+ሹሙን በቅሎ ረገጠችው ።
+ነቲ ሹም በቕሊ ረጊጻቶ ።
+# ATT_id = third_apple_2-x24-s2
+# sent_id = S-498
+ሁለት ሹራብ ስለነበራት አንዱን ለእኅቷ ሰጠቻት ።
+ክልተ ጎልፎ ስለዝነበራ ፡ እንቲ ሓደ ንሓፍታ ሂባታ ።
+# ATT_id = third_apple_2-x24-s3
+# sent_id = S-499
+በድብድብ ልሸነፍ ስል ደረሰልኝ ።
+ኣብ 'ቲ ባእሲ ፡ ክሽነፍ ምስ ቀረብኩ ዘርዩለይ ።
+# ATT_id = third_apple_2-x24-s4
+# sent_id = S-500
+አንድ ብርጭቆ ውሃ አምጣልኝ ።
+ሓንቲ ቢኬሪ ማይ ኣምጽኣለይ ።
+# ATT_id = third_apple_2-x24-s5
+# sent_id = S-501
+እናትህ ጸጉርህን አበጠረችልህ ?
+ኣዴኻ ጸጉርኻ ዶ መሺጣትልካ ?
+# ATT_id = third_apple_2-x24-s6
+# sent_id = S-502
+ሐኪሙ እባጩን አፈረጠለት ።
+እቲ ሓኪም ፡ ነቲ ሕበጥ ኣንቲዑሉ ።
+# ATT_id = third_apple_2-x24-s7
+# sent_id = S-503
+ወገቤን ቀስ ብለሽ እሺልኝ ።
+ጎነይ ቀስ ኢልኪ ድረዝለይ ።
+# ATT_id = third_apple_2-x24-s8
+# sent_id = S-504
+ደብተርህን ላክልኝ ።
+ጥራዝካ ልኣኸለይ ።
+# ATT_id = third_apple_2-x24-s9
+# sent_id = S-505
+እንድትመጣ ሰው ልልክብህ ነበር ።
+ንኸትመጽእ ሰብ ክልእከልካ ነርይሩዎ ።
+# ATT_id = third_apple_2-x24-s10
+# sent_id = S-506
+ባጠገቡ ለማለፍ ስሞክር መንገዱን ዘጋብኝ ።
+ብጥቕኡ ክሓልፍ ክፍትን ከለኹ ፡ መንገዲ ዓጊቱኒ ።
+# ATT_id = third_apple_2-x24-s11
+# sent_id = S-507
+መጥፎው ያየር ሁኔታ በሽታዋን አባሰባት ።
+እቲ ሕማቕ ኩነታት ኣየረ ፡ ንሕማማ ኣግዲዱላ ።
+# ATT_id = third_apple_2-x24-s12
+# sent_id = S-508
+መንግስት ቀለቡን ቀነሰበት ።
+መንግስቲ ቀለቡ ኣጕዲሉሉ ።
+# ATT_id = third_apple_2-x24-s13
+# sent_id = S-509
+ጐማዬን ምስማር በሳብኝ ።
+ንጎማይ መስማር በሲዑለይ ።
+# ATT_id = third_apple_2-x24-s14
+# sent_id = S-510
+ለሆድ ቁርጠት ብላበት ።
+ንቕርጸት ከብዲ ፡ ብልዓሉ ።
+# ATT_id = third_apple_2-x24-s15
+# sent_id = S-511
+ለእሷ ከትዳር ይልቅ ሥራዋ ይበልጥባታል ።
+ንዓኣ ካብ ሓዳር ንላዕሊ ፡ ስርሓ ይዓብያ ።
+# ATT_id = third_apple_2-x24-s16
+# sent_id = S-512
+ሐውልቱ የቆመበት ስፍራ ከዚህ ሩቅ አይደለም ።
+እቲ ሓውልቲ ቆይሙዎ ዘሎ ስፍራ ፡ ካብ 'ዚ ርሑቕ ኣይኮነን ።
+# ATT_id = third_apple_2-x24-s17
+# sent_id = S-513
+ክረምት ብዙ ዝናብ የሚዘንብበት ወራት ነው ።
+ክረምቲ ብዙሕ ማይ ዝሃርመሉ ወቕቲ እዩ ።
+# ATT_id = third_apple_2-x24-s18
+# sent_id = S-514
+ሊያመልጥ የሚችልበትን ዘዴ ፈጠረ ።
+ንኽሃድም ዘኽእሎ ሜላ ፈጢሩ ።
+# ATT_id = third_apple_2-x24-s19
+# sent_id = S-515
+ወደ መጣበት አገር ይመለስ ።
+ናብ ዝመጽኦ ዓዲ ይመለስ ።
+# ATT_id = third_apple_2-x24-s20
+# sent_id = S-516
+በሰጠሁት ገንዘብ ከረሜላ ገዛበት ።
+በቲ ዝሃብኩዎ ገንዘብ ፡ ከረሜላ ገዚኡ ።
+# ATT_id = third_apple_2-x25-s1
+# sent_id = S-517
+ሱቅ እሁድ እሁድ ክፍት መሆን አለበት ።
+ዕዳጋ ሰንበት ሰንበት ክኽፈት አለዎ ።
+# ATT_id = third_apple_2-x25-s2
+# sent_id = S-518
+መኪና ነጂዎች ሆስፒታል ጋ ጥሩምባ ማሰማት የለባቸውም ።
+ዘወርቲ መኪና አብ ጥቓ ሆስፒታል ጥሩማ ክሃርሙ የብሎምን ።
+# ATT_id = third_apple_2-x25-s3
+# sent_id = S-519
+ድል የተመታው ጦር መሣሪያውን ማስረከብ ነበረበት ።
+ዝተሸነፈ ሰራዊት ፡ መሳርሒኡ ከረክብ ነይሩዎ ።
+# ATT_id = third_apple_2-x25-s4
+# sent_id = S-520
+ዕቅዳችንን መለወጥ ይኖርብናል ።
+መደብና ክንቅይር ይግብና ።
+# ATT_id = third_apple_2-x25-s5
+# sent_id = S-521
+ከሐኪሙ ጋር የነበረኝን ቀጠሮ ማፍረስ ግድ ሆነብኝ ።
+ምስ ሓኪም ዝነበረኒ ቆጸራ ንኽስርዝ ግድን ኮይኑኒ ።
+# ATT_id = third_apple_2-x25-s6
+# sent_id = S-522
+ጠበቃ ማማከር የግድ አስፈላጊ ነበር ።
+ንጠበቓ ምምኻር ናይ ግድን አድላዪ ነይሩ ።
+# ATT_id = third_apple_2-x25-s7
+# sent_id = S-523
+እዚህ ብቆም ምን አለበት ?
+ኣብዚ ደው እንተበልኩ እንታይ አለዎ ?
+# ATT_id = third_apple_2-x25-s8
+# sent_id = S-524
+ወንዝ ያለበት የትኛውም ቦታ ሽርሽር መሄድ ደስ ይለዋል ።
+አብ ዝኾነ ወሓዚ ዘለዎ ቦታ ዙረት ምኻድ ደስ ይብሎ ።
+# ATT_id = third_apple_2-x25-s9
+# sent_id = S-525
+ፍርሃት እነበረበት አስቀረው ።
+ፍርሓት አብቲ ዝነብሮ ኣትሪፉዎ ።
+# ATT_id = third_apple_2-x25-s10
+# sent_id = S-526
+መነጽሬን የጣልኩበትን ምነው ባወቅሁ ።
+ነቲ መነጸረይ ዝተርበኹሉ ቦታ እንተዝፈልጦ ።
+# ATT_id = third_apple_2-x25-s11
+# sent_id = S-527
+ትምህርት በሌለበት ጧት ተነስታ የት ሄደች ?
+ትምህርቲ ዘየለ ከሎ ፡ ንግሆ ተንሲኣ ኣበይ ከይዳ ?
+# ATT_id = third_apple_2-x25-s12
+# sent_id = S-528
+የተጣሉበትን ሳታውቅ ጣልቃ አትግባ ።
+መበኣሲኦም ከይፈልጥካ ፡ ኣብ መንጉኦም ኣይትእቶ ።
+# ATT_id = third_apple_2-x25-s13
+# sent_id = S-529
+ክርስቶስ በተሰቀለበት ቀን ፀሐይ ጨልማ ነበር ።
+ክርስቶስ ዝተሰቕለሉ ምዓልቲ ፡ ጸሓይ ጸልሚታ ነይራ ።
+# ATT_id = third_apple_2-x25-s14
+# sent_id = S-530
+ተማሪዎቹ በየተቀመጡበት ሥራ በመሥራት ላይ ናቸው ።
+እቶም ተመሃሮ ኣብ ኮፍ ዝበሉሉ ፡ ስርሖም ኣብ ምስራሕ እዮም ተጸሚዶም ዘለዉ ።
+# ATT_id = third_apple_2-x25-s15
+# sent_id = S-531
+ለንጉሱ ቀብር ሰው ከያለበት መጣ ።
+ንናይ ንጉስ ቀብሪ ሰብ ካካብ ዘለዎ ቦታ መጺኡ ።
+# ATT_id = third_apple_2-x25-s16
+# sent_id = S-532
+በሄደበት ሁሉ እቃ ይገዛል ።
+ኣብ ዝኸዶ ቦት ኣቕሓ ይገዝእ ።
+# ATT_id = third_apple_2-x25-s17
+# sent_id = S-533
+በሄደበት ሁሉ ልጆቹን ይዞ ይሄዳል ።
+ኣብ ዝኸዶ ኩሉ ፡ ደቁ ሒዙ ይኸይድ ።
+# ATT_id = third_apple_2-x25-s19
+# sent_id = S-534
+እሱ ባለበት ብድሩን እከፍለዋለሁ ።
+ንሱ አብ ዘለዎ ፡ ነቲ ዕዳ ክኸፍሎ እየ ።
+# ATT_id = third_apple_2-x25-s20
+# sent_id = S-535
+ፈረሱን ካሉበት ዘንድ ወሰድኩት ።
+ነቲ ፈረስ ኣብ 'ቲ ዘለዉዎ ቦታ ወሲደዮ ።
+# ATT_id = third_apple_2-x26-s1
+# sent_id = S-536
+ሚስጥሩ ገባኝ ።
+እቲ ምስጢር ተረዲኡኒ ።
+# ATT_id = third_apple_2-x26-s2
+# sent_id = S-537
+በቅሎዎቹ ስለደከሙ ጉዞውን አንቀጥል ።
+እተን ኣባቕል ሰለዝደኸማ ፡ መንገዲ ኣይንቐጽል ።
+# ATT_id = third_apple_2-x26-s3
+# sent_id = S-538
+እሱ አባቱን ይመስለዋል ።
+ንሱ ንኣብኡ ይመስል ።
+# ATT_id = third_apple_2-x26-s4
+# sent_id = S-539
+ነገ የሚመጣ ይመስለኛል ።
+ጽባሕ ዝመጽ እመስለኒ ።
+# ATT_id = third_apple_2-x26-s5
+# sent_id = S-540
+የራባት ትመስላለች ።
+ዝጠመየት ትመስል ።
+# ATT_id = third_apple_2-x26-s7
+# sent_id = S-541
+ከመኪና ስለወደቅሁ ያመኛል ።
+ካብ መኪና ስለዝወደቕኩ ይሕመኒ 'ሎ ።
+# ATT_id = third_apple_2-x26-s8
+# sent_id = S-542
+ከበቀለ ሥራ የአልማዝ ይሻላል ።
+ካብ ናይ ካሕሳይ ስራሕ ናይ ኣስቴር ይሓይሽ ።
+# ATT_id = third_apple_2-x26-s9
+# sent_id = S-543
+ሙቀት ስለበዛ በጣም ጠምቶኛል ።
+ሙቐት ስለዝበርትዐ ፡ ብዙሕ ጽሚኡኒ ኣሎ ።
+# ATT_id = third_apple_2-x26-s10
+# sent_id = S-544
+በሙቀቱ ምክንያት ነሰረኝ ።
+ብሰንኪ ሙቐት ፡ ኣፍንጫይ ረሲነ ።
+# ATT_id = third_apple_2-x26-s11
+# sent_id = S-545
+በእንዲህ ሁኔታ የበሉት ምግብ አያረካም ።
+ብኸምዚ ኩነት ዝብላዕ ምግቢ ፡ ኣየጽግብን እዩ ።
+# ATT_id = third_apple_2-x26-s12
+# sent_id = S-546
+በዚህ ድልድይ ላይ ሲያልፉ ቀረጥ መክፈል ያስፈልጋል ።
+በዚ ቢንቶ እዚ ክትሓልፍ ከለኻ ፡ ቀረጽ ክትከፍል ኣለካ ።
+# ATT_id = third_apple_2-x26-s13
+# sent_id = S-547
+የሰው ዕቃ ሳይጠይቁ መውሰድ የስርቆት ያህል ይቆጠራል ።
+ናይ ሰብ ኣቕሓ ፍቓድ ከይሓተትካ ምውሳድ ፡ ከም ስርቂ ይቑጸር ።
+# ATT_id = third_apple_2-x26-s14
+# sent_id = S-548
+በጫካው ዳር ዳር አጋዘን ይታያል ።
+ኣብ ወሰናስን እቲ ዱር ፡ ዓጋዜን ይረኣያ እየን ።
+# ATT_id = third_apple_2-x26-s15
+# sent_id = S-549
+ሦስት ቀን ይኬድና ባራተኛው ይደረሳል ።
+ሰለስተ መዓልቲ ከይድካ ፡ ኣብ ሳልሳይ ምዓልቲ ይእቶ ።
+# ATT_id = third_apple_2-x26-s16
+# sent_id = S-550
+እዚህ አገር ያልተደሰቱ የትም አይደሰቱ ።
+ኣብዚ ዓዲ ዘይተሓጐሱ ፡ ኣብ ዝኾነ ቦታ ኣይሕጐሱን እዮም ።
+# ATT_id = third_apple_2-x26-s17
+# sent_id = S-551
+አራት መጽሐፍ አሉኝ ።
+ኣርባዕተ መጽሓፍቲ ኣለዋኒ ።
+# ATT_id = third_apple_2-x26-s18
+# sent_id = S-552
+አስተማሪው ሦስት ልጆች አሉት ።
+እቲ መምህር ሰለስት ቆልዑት አለዉዎ ።
+# ATT_id = third_apple_2-x26-s19
+# sent_id = S-553
+ያለኝ ቤት ትንሽ ነው ።
+እቲ ዘለኒ ገዛ ንእሽቶይ እዩ ።
+# ATT_id = third_apple_2-x26-s20
+# sent_id = S-554
+ልጅ እንዲኖረው ይፈልጋል ።
+ቆልዓ ክህልዎ ይደልይ እዩ ።
+# ATT_id = third_apple_2-x27-s1
+# sent_id = S-555
+ብር በምታገኝበት ጊዜ ትከፍልሃለች ።
+ገንዘብ ኣብ ዝረኸበትሉ እዋን ፡ ክትከፍለካ እያ ።
+# ATT_id = third_apple_2-x27-s2
+# sent_id = S-556
+ነገ ገንዘብ አገኛለሁ ።
+ጽባሕ ገንዘብ ክረክብ እየ ።
+# ATT_id = third_apple_2-x27-s3
+# sent_id = S-557
+ነገ የራሴ ቤት ይኖረኛል ።
+ጽባሕ ናይ ገዛእ ርእሰይ ገዛ ክህልወኒ እዩ ።
+# ATT_id = third_apple_2-x27-s4
+# sent_id = S-558
+አብሬያት ሲኒማ ብሄድ ግድ የለኝም ።
+ምስኣ ንሲነማ እንተኸድኩ ግዲ የብለይን ።
+# ATT_id = third_apple_2-x27-s5
+# sent_id = S-559
+ገንዘብ ሳይኖረኝ ሲኒማ አልሄድም ።
+ገንዘይ ከይሓዝኩ ፡ ንሲነማ ኣይከይድን እየ ።
+# ATT_id = third_apple_2-x27-s6
+# sent_id = S-560
+መጽሐፎች አልነበሩኝም ።
+መጽሓፍቲ ኣይነበረንን ።
+# ATT_id = third_apple_2-x27-s7
+# sent_id = S-561
+ዓይናፋር ልጃገረድ ብዙ ጓደኞች አይኖሯትም ።
+ሓፋር ጓል አንስተይቲ ብዙሓት ምሓዙት ኣይህልዉዋን እዩም ።
+# ATT_id = third_apple_2-x27-s8
+# sent_id = S-562
+ግድግዳውን መራረገ ።
+ነቲ መንግቕ ለቓሊቑዎ ።
+# ATT_id = third_apple_2-x27-s9
+# sent_id = S-563
+ጥይቱ መስታወቱን ሰባበረው ።
+እቲ ጥይቲ ነቲ መስትያ ሰባቢሩዎ ።
+# ATT_id = third_apple_2-x27-s10
+# sent_id = S-564
+የመሬቱ መንቀጥቀጥ ብዙ ቋጥኞችን ፈነቃቀለ ።
+እቲ ምንቅጥቃጥ ብዙሕ ኣኻውሕ ፈናቒሉ ።
+# ATT_id = third_apple_2-x27-s11
+# sent_id = S-565
+መብረቁ ዛፉን ሰነጣጠቀው ።
+እቲ በርቂ ነቲ ገረብ ሰናጢቑዎ ።
+# ATT_id = third_apple_2-x27-s12
+# sent_id = S-566
+ዶሮውን ገነጣጥላ ድስት ውስጥ ጨመረችው ።
+ነቲ ደርሆር መታቲራ ኣብ ድስቲ ኣእትያቶ ።
+# ATT_id = third_apple_2-x27-s13
+# sent_id = S-567
+ቀጭኑ የሸረሪት ድር ተበጣጠሰ ።
+እቲ ቀጢን ዓለባ ሳሬት ተበጣጢሱ ።
+# ATT_id = third_apple_2-x27-s14
+# sent_id = S-568
+መጽሐፎቹ በወለሉ ላይ ተበታትነው ነበር ።
+እቲ መጽሓፍቲ ኣብቲ ባይታ ተደራብዩ ነይሩ ።
+# ATT_id = third_apple_2-x27-s15
+# sent_id = S-569
+ወንበሮቹን ለያያቸው ።
+ነቲ መናብርቲ ፈላልዩዎ ።
+# ATT_id = third_apple_2-x27-s16
+# sent_id = S-570
+እናትየዋ አሻንጉሊቶቹን ለልጆቹ አከፋፈለች ።
+እታ ኣደ ነተን ባምቡላታት ነቶም ቆልዑ መቒላተን ።
+# ATT_id = third_apple_2-x27-s17
+# sent_id = S-571
+ይህን ቲያትር በመለማመድ ላይ ነን ።
+ነቲ ተዋስኦ አብ ምልምማድ ኢና ዘለና ።
+# ATT_id = third_apple_2-x27-s18
+# sent_id = S-572
+ሐኪሙ የትርፍ አንጀት በሽታ እንዳለብኝ ለማወቅ ሆዴን ደባበሰ ።
+እቲ ሓኪም ናይ በንትሽተ ሕማም እንተለኒ ንምፍላጥ ከብደይ ሓሳሱዩኒ ።
+# ATT_id = third_apple_2-x27-s19
+# sent_id = S-573
+ከብት አርቢዎች እየተጓጓዙ የሚኖሩ ሕዝብ ናቸው ።
+ኣርባሕቲ ከብቲ እናተጓዕዙ ዝነብሩ ህዝቢ እዮም ።
+# ATT_id = third_apple_2-x27-s20
+# sent_id = S-574
+አስተማሪውን አሞጋገሰው ።
+ነቲ መምህር ንኣኢዱዎ ።
+# ATT_id = third_apple_2-x28-s1
+# sent_id = S-575
+እዚህ ከራርሞ ሄደ ።
+ኣብዚ ከሪሙ ከይዱ ።
+# ATT_id = third_apple_2-x28-s2
+# sent_id = S-576
+ነጋዴው ከሳስሯል ።
+እቲ ነጋዳይ ብዙሕ ከሲሩ እዩ ።
+# ATT_id = third_apple_2-x28-s3
+# sent_id = S-577
+ዝሆን አንበሳውን ረጋገጠው ።
+እቲ ሓርማዝ ነቲ አንበሳ ረጋጊጹዎ ።
+# ATT_id = third_apple_2-x28-s4
+# sent_id = S-578
+በብዙ አምባጓሮ የተነሣ ፊቱ ተቦጫጭሯል ።
+ካብ ብዙሕ ባእሲ ዝተበገሰ ፡ ገጹ ተበሓጫጪሩ ።
+# ATT_id = third_apple_2-x28-s5
+# sent_id = S-579
+ልጆቹን ሰባሰበና ከተማ ገባ ።
+ደቅኻ ኣኻኽብ 'ሞ ንኸተማ እቶ ።
+# ATT_id = third_apple_2-x28-s6
+# sent_id = S-580
+ደብዳቤውን አጣጥፎ ኪሱ ከተተ ።
+ነቲ ደብዳቤ ዓጻጺፉ አብ ጅብኡ ኣእቲዩዎ ።
+# ATT_id = third_apple_2-x28-s7
+# sent_id = S-581
+ወሬው ተደፋፈነ ።
+ነቲ ወረ ሓባቢኡዎ ።
+# ATT_id = third_apple_2-x28-s8
+# sent_id = S-582
+እንግዶቹ ከመምጣታቸው በፊት ብትለባብሺ ይሻላል ።
+እቶም ዕዱማት ቅድሚ ምምጽኦም ፡ እንተትከዳደኒ ምሓሸ ።
+# ATT_id = third_apple_2-x28-s9
+# sent_id = S-583
+አጋዘኖች በኢትዮጵያ ሜዳዎች ላይ ይዘዋወራሉ ።
+ዓጋዜናት ኣብ ሜዳ ኢትዮጵያ ይዘዋወራ እየን ።
+# ATT_id = third_apple_2-x28-s10
+# sent_id = S-584
+የኔ ቢጤው ሲለማምን ውሎ ቤተ ክርስቲያን ያድራል ።
+ከማይ ዝበለ ክለማምን ውዒሉ ፡ ቤተ ክርስትያን ይሓድር ።
+# ATT_id = third_apple_2-x28-s11
+# sent_id = S-585
+ጧቱን በሙሉ ስላላክ ነበር ።
+ምሉእ ንግሆ ክለኣኣኽ ኣርፊደ ።
+# ATT_id = third_apple_2-x28-s12
+# sent_id = S-586
+እንጨቱን ቆራረጠው ።
+ነቲ ዕንጨይቲ ቆራሪጹዎ ።
+# ATT_id = third_apple_2-x28-s13
+# sent_id = S-587
+ሹሮ ሠራርታ ምሳዋን በላች ።
+ሽሮ ሰራሪሓ ምስሓ በሊዓ ።
+# ATT_id = third_apple_2-x28-s14
+# sent_id = S-588
+ምሳውን በላላና ሄደ ።
+ምሳሕ በላሊዑ ከይርዱ ።
+# ATT_id = third_apple_2-x28-s15
+# sent_id = S-589
+ቁርስ ቀማምሳ ልብስ አጠባ ያዘች ።
+ቁርሲ ጠዓዒማ ፡ ክዳን ምሕጻብ ጀሚራ ።
+# ATT_id = third_apple_2-x28-s16
+# sent_id = S-590
+ሲዘንብ አድሮ መሬቱ ረጣጥቧል ።
+ማይ ክሃርም ሓዲሩ ፡ እቲ መረት ጠላቕዩ ኣሎ ።
+# ATT_id = third_apple_2-x28-s17
+# sent_id = S-591
+ቀለብ ስትገዛዛ ዋለች ።
+ቀለብ ክትገዛዝእ ውዒላ ።
+# ATT_id = third_apple_2-x28-s18
+# sent_id = S-592
+እየሰራራ ራሱን ችሏል ።
+እናሰራርሐ ነብሱ ክኢሉ ።
+# ATT_id = third_apple_2-x28-s19
+# sent_id = S-593
+ስለ ጉዳዩ ተነጋገርን ።
+ብዛዕባ እቲ ጉዳይ ተዘራሪብና ።
+# ATT_id = third_apple_2-x28-s20
+# sent_id = S-594
+ልብስ ተለዋወጡ ።
+ክዳን ተቐያይሮም ።
+# ATT_id = third_apple_2-x29-s1
+# sent_id = S-595
+ሰውየው ከሌባው ጋር ተናነቀ ።
+እቲ ሰብኣይ ምስቲ ሰራቒ ተሓናኒቑ ።
+# ATT_id = third_apple_2-x29-s2
+# sent_id = S-596
+ከኔ ባለቤት ጋር ትተዋወቁ ኖሯል ?
+ምስ ብዓል ቤተይ ትፋለጡ ነይርኩም ?
+# ATT_id = third_apple_2-x29-s3
+# sent_id = S-597
+ይህ ውሻ ተናካሽ ነው ።
+እዚ ከልቢ ተናኻሲ እዩ ።
+# ATT_id = third_apple_2-x29-s4
+# sent_id = S-598
+መሬቱ አረም አበቀለ ።
+እቲ ግራት ጻህያይ ኣብቊሉ ።
+# ATT_id = third_apple_2-x29-s5
+# sent_id = S-599
+ውሃውን አፈላ ።
+ነቲ ማይ አፍሊሑዎ ።
+# ATT_id = third_apple_2-x29-s6
+# sent_id = S-600
+የልጁን ቁስል ሐኪሙ አዳነው ።
+ናይቲ ቆልዓ ቁስሊ እቲ ሓኪም ኣሕውዩሉ ።
+# ATT_id = third_apple_2-x29-s7
+# sent_id = S-601
+ከብቶቹን ለግጦሽ ማዶ ካለው ሜዳ አዋላቸው ።
+ነተን ከብቲ ምእንቲ ክምእርራ ናብ 'ቲ ማዕዶ ዘሎ ጎልጎል ኣውዒሉወን ።
+# ATT_id = third_apple_2-x29-s8
+# sent_id = S-602
+ደስታ ዓይኗን አበራው ።
+ታሕጓስ ንኣዒንታ አብርሂዎ ።
+# ATT_id = third_apple_2-x29-s9
+# sent_id = S-603
+ልብሱን አስወሰደው ።
+ነቲ ክዳውንቲ አውሲዱዎ ።
+# ATT_id = third_apple_2-x29-s10
+# sent_id = S-604
+ጠላቱን አስገደለው ።
+ንጸላእቱ ኣቕቲሉዎም ።
+# ATT_id = third_apple_2-x29-s11
+# sent_id = S-605
+ቤቱን አስጠበቀ ።
+ገዝኡ ኣሕልዩ ።
+# ATT_id = third_apple_2-x29-s12
+# sent_id = S-606
+መጽሐፉን አስያዘኝ ።
+ነቲ መጽሓፍ ኣትሒዙኒ ።
+# ATT_id = third_apple_2-x29-s13
+# sent_id = S-607
+ነጋዴዎቹን ሸቀጥ አለዋወጣቸው ።
+እቶም ነጋዶ ሸቐጥ ኣቀያይሩዎም ።
+# ATT_id = third_apple_2-x29-s14
+# sent_id = S-608
+ብርጭቆ ሲያጥብ ያጋጫል ።
+ቢኬሪ ክሓጽብ እንከሎ የጋጩ እዩ ።
+# ATT_id = third_apple_2-x29-s15
+# sent_id = S-609
+ያዝ ለቀቅ አደረገ ።
+ሕዝ ግድፍ ኣቢሉዎ ።
+# ATT_id = third_apple_2-x29-s16
+# sent_id = S-610
+ይህን ጥያቄ ካነሱት ታጋዮች ግምባር ቀደሙ መለስ ዜናዊ ነው ።
+ነዚ ሕቶ እዚ ካብ ዘልዓሉ ተቓለስቲ ግምባራት ፡ ቀዳማይ መለስ ዜናዊ እዩ ።
+# ATT_id = third_apple_2-x29-s20
+# sent_id = S-611
+ከአስቴር የበለጠ ወፍራም ሴት ናት ።
+ካብ ኣስቴር ዝገደደት ገጃፍ ሰበይርቲ እያ ።
+# ATT_id = third_apple_2-x30-s1
+# sent_id = S-612
+ካሳ ከአስቴር የበለጠች ወፍራም ሚስት አለችው ።
+ካሕሳይ ካብ ኣስቴር ዝገደደት ገጃፍ ሰበይቲ ኣላቶ ።
+# ATT_id = third_apple_2-x30-s2
+# sent_id = S-613
+ገነት ካሳ ያገባት ሴት ከአስቴር የበለጠች ወፍራም እንደሆነች ታውቃለች ።
+ገነት ካሕሳይ ዝተመርዓዋ ሰበይቲ ካብ ኣስቴር ንላዕሊ ረጓድ ምዃና ትፈልጥ እያ ።
+# ATT_id = third_apple_2-x30-s3
+# sent_id = S-614
+ትምህርቷን መጨረስዋ ነው ።
+ትምህርታ አብ ምውዳእ ገጻ እያ ።
+# ATT_id = third_apple_2-x30-s4
+# sent_id = S-615
+ትናንት ለመጣው ልጅ ገንዘብ ላኩ ።
+ነቲ ትማሊ ዝመጸ ወዲ ገንዘብ ልኢኾሙሉ ።
+# ATT_id = third_apple_2-x30-s5
+# sent_id = S-616
+ከአንገት በላይ ህክምና ተጀመረ ።
+ካብ ክሳድ ንላዕሊ ዝሕክም ሕክምና ተኸፊቱ ።
+# ATT_id = third_apple_2-x30-s6
+# sent_id = S-617
+ሰዎች እንደ አሳ በባህር ይኖራል ።
+ሰብ ከም ዓሳ አብ ባሕሪ ይነብር ።
+# ATT_id = third_apple_2-x30-s7
+# sent_id = S-618
+አስቴር የሰበረችው ምንድን ነው ?
+ኣስቴር ዝሰበረቶ እንታይ እዩ ?
+# ATT_id = third_apple_2-x30-s8
+# sent_id = S-619
+አስቴርን የሰደቡዋት እነማን ናቸው ?
+ንኣስቴር ዝጸረፉዋ ብዓል መን እዮም ?
+# ATT_id = third_apple_2-x30-s9
+# sent_id = S-620
+አስቴር የሄደችበት መኪና ምንድን ነው ?
+ኣስቴር ዝኸደትላ መኪና እንታይ እያ ?
+# ATT_id = third_apple_2-x30-s10
+# sent_id = S-621
+አስቴር የሄደችበት ምክንያት ምንድን ነው ?
+ንኣስቴር ዘኽየዳ ምኽናያት እንታይ እዩ ?
+# ATT_id = third_apple_2-x30-s11
+# sent_id = S-622
+አስቴር የሄደችበት ሀገር የት ነው ? ወዴት ነው ?
+ኣስቴር ዝኸደቶ ዓዲ ኣብይ እዩ ? አበይ እዩ ?
+# ATT_id = third_apple_2-x30-s12
+# sent_id = S-623
+አስቴር የመጣችው ከየት ነው ?
+ኣስቴር ዝመጸቶ ካበይ እዩ ?
+# ATT_id = third_apple_2-x30-s13
+# sent_id = S-624
+በቀለ ማንን አየ ?
+ተስፋይ ንመን ርእዩ ?
+# ATT_id = third_apple_2-x30-s14
+# sent_id = S-625
+የትኛው ልጅ መጣ ?
+ኣየናይ ወዲ መጺኡ ?
+# ATT_id = third_apple_2-x30-s15
+# sent_id = S-626
+ለመፃፍ ምን ጊዜ አገኘ ?
+ንኽጽሕፍ እንታይ ጊዜ ረኺቡ ?
+# ATT_id = third_apple_2-x30-s16
+# sent_id = S-627
+ሌላስ የት ሄድክ ?
+ካልእስ ኣበይ ከይድካ ?
+# ATT_id = third_apple_2-x30-s17
+# sent_id = S-628
+አስተማሪው ተማሪውን ለምን ወቀሰው ?
+እቲ መምህር ነቲ ተመሃራይ ንምንታይ ወቒሱዎ ?
+# ATT_id = third_apple_2-x30-s18
+# sent_id = S-629
+ምን በመጣ ነው ይህን ያህል የምሰደበው ?
+እንታይ ገይረ እየ ክንድዚ ዝኣክል ዝጽረፍ ?
+# ATT_id = third_apple_2-x30-s19
+# sent_id = S-630
+ስንት መጽሐፍ ትፈልጋለህ ?
+ክንደይ መጽሓፍ እትደሊ ?
+# ATT_id = third_apple_2-x31-s1
+# sent_id = S-631
+ምን እንደ ደረሰብኝ ታውቃለህ ?
+እንታይ ከም ዝወረደኒ ትፈልጥ 'ዶ ?
+# ATT_id = third_apple_2-x31-s2
+# sent_id = S-632
+የልጅነቱን ጊዜ አስታውሶ ምንኛ ዕድለኛ እንደነበር ተገነዘበ ።
+ናይ ቁልዕነቱ ጊዜ ዘኪሩ ክንድምንታይ ዕድለኛ ከምዝነበረ ተገንዚቡ ።
+# ATT_id = third_apple_2-x31-s3
+# sent_id = S-633
+ዛሬ ማን ያሸንፍ ይሆን ?
+ሎም መን ክዕወት ይኸውን ?
+# ATT_id = third_apple_2-x31-s4
+# sent_id = S-634
+ምን ደርሶበት ይሆን ?
+እንታይ ኣጋጢሙዎ ይኸውን ?
+# ATT_id = third_apple_2-x31-s5
+# sent_id = S-635
+እርሱንማ አውቀው የለም ?
+ንሱ ደኣ ፈሊጡዎ ኸየለዶ ?
+# ATT_id = x00-s1
+# sent_id = S-636
+ከኔ ጋር ባትሄድ ይሻለኛል ።
+ምሳይ እንተ ዘይከድካ ይሕሸካ ።
+# ATT_id = x00-s2
+# sent_id = S-637
+ልቡ ሊፈነዳ ትንሽ ቀረው ።
+ልቡ ክትኮስ ቁሩብ ተፍሪፉዎ ።
+# ATT_id = x00-s3
+# sent_id = S-638
+ከመጣ አይቀር ጓዙን ይዞ ይምጣ ።
+ምምጽኡ ዘይተርፎ ፡ ንብረቱ ሒዙዎ ይምጻእ ።
+# ATT_id = x00-s4
+# sent_id = S-639
+ከዚህ ችግር ብገላገል እወድ ነበር ።
+ካብዚ ሽግር ክገላገል ደስ ምበለኒ ።
+# ATT_id = x00-s5
+# sent_id = S-640
+መቼም ይምጣ መች እራቱን ሳይበላ አይተኛ ።
+አብ ዝኾነ እዋን ይምጻው ፡ ድራሩ ከይበልዐ ኣይድቅስን እዩ ።
+# ATT_id = x00-s6
+# sent_id = S-641
+በሩን ከመክፈቴ እሷን አየኋት ።
+ነቲ ማዕጾ ክፍት ምስ አበልኩዎ ፡ ንዓኣ ርእየያ ።
+# ATT_id = x00-s7
+# sent_id = S-642
+ልጆቹ ስራ የሚሰሩ ይመስላል ።
+እቶም ሰባት ስራሕ ዝሰርሑ ይመስሉ ።
+# ATT_id = x00-s8
+# sent_id = S-643
+ሰርቼ እንኳን ቢሆን ኑሮ ብድሬን እከፍል ነበር ።
+ሰሪሐ እኳ  እንተዝኸውን ነይረ ፡ ድሮ ዕዳይ ምኸፈልኩ ነይረ ።
+# ATT_id = x00-s9
+# sent_id = S-644
+ብሠራው እወደዋለሁ ነገር ግን ጊዜ የለኝም ።
+እንተ ዝሰርሖ ምፈቶኹዎ ፡  እንተኾነ ግን ጊዜ ብለይን ።
+# ATT_id = x00-s11
+# sent_id = S-645
+ለሰርጉ ባለመምጣቴ ተቀየመኝ ።
+አብ መርዕኡ ዘይምውዓለይ ተቐዩሙኒ ።
+# ATT_id = x00-s12
+# sent_id = S-646
+በዝናቡ ምክንያት ጨዋታው ተላለፈ ።
+ብሰንኪ ዝናብ እቲ ጸወታ ናብ ካልእ ግዜ ተመሓላሊፉ ኣሎ ።
+# ATT_id = x00-s13
+# sent_id = S-647
+ሥራውን ሊጨርስ ሲል ስሕተት መሥራቱን ተገነዘበ ።
+ነቲ ስራሕ ክውድኦ ክብል ከሎ ፡ ጌጋ ምግባሩ ተገንዚቡ ።
+# ATT_id = x00-s14
+# sent_id = S-648
+ወደቤተ መጻሕፍት የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+ንቤት ንባብ ትኸይድ እንተ ኰንካ ፡ ነዚ መጽሓፍ ምለሰለይ ።
+# ATT_id = x00-s15
+# sent_id = S-649
+አባትና እናቱን እየጠየቀ ይመለሳል ።
+ነቡኡን ነዲኡን እናሓተተ እዩ ይምልስ ።
+# ATT_id = x00-s16
+# sent_id = S-650
+ሚስቱን በመግደሉ ተከሰሰ ።
+ንሰበይቱ ስለዝቐተለ ተኸሲሱ ።
+# ATT_id = x00-s17
+# sent_id = S-651
+መንገዱ ስለሚያዳልጥ በጥንቃቄ ብትራመድ ይሻላል ።
+እቲ መንገዲ ስለዘንደልህጽ ፡ ተጠንቂቕካ እንተ ትስጉም ይሓይሽ ።
+# ATT_id = x00-s18
+# sent_id = S-652
+የማላነብ ብሆን ኖሮ መጽሐፍ አልጠይቅህም ።
+ዘየንብብ እንተዝኸውን ነይረ ፡ መጽሓፍ ኣይምሓተትኩኻን ።
+# ATT_id = x00-s19
+# sent_id = S-653
+በሕይወት እስካለሁ አልረሳም ።
+ብህይወት ክሳብ ዘለኹ ኣይርስዖን እየ ።
+# ATT_id = x00-s20
+# sent_id = S-654
+በመናገር ላይ እያለሁ መልስ ሰጠችኝ ።
+እናተዛረብኩ እንከለኹ መልሲ ሂባትኒ ።
+# ATT_id = x01-s1
+# sent_id = S-655
+እስኪመጣ ድረስ ጠበቅሁት ።
+ክሳብ ዝመጽእ ፡ ተጸብየዮ ።
+# ATT_id = x01-s2
+# sent_id = S-656
+ኩባንያው እስካላባረረው ድረስ ይቆያል ።
+እቲ ኩባንያ ክሳብ ዝሰጎ ክጸንሕ እዩ ።
+# ATT_id = x01-s3
+# sent_id = S-657
+እውነቱን ቢናገርስ ።
+ሓቂ እንተተዛረበ 'ኸ ?
+# ATT_id = x01-s4
+# sent_id = S-658
+በየሄደበት ሁሉ እቃ ይገዛል ።
+አብ ዝኸዶ ዘበለ ኣቕሓ ይገዝእ ።
+# ATT_id = x01-s5
+# sent_id = S-659
+በእግራችን ብንሸራሸርስ ?
+ብእግርና እንተ ተዛወርና 'ኸ ?
+# ATT_id = x01-s6
+# sent_id = S-660
+እንደምንም ብዬ ከዚያ ብደርስ ።
+ዝገበርኩ ገይረ አብኡ እንተዝበጽሕ ።
+# ATT_id = x01-s7
+# sent_id = S-661
+ቤት ብትቆይ ይሻላል ወይስ ወደ ጨዋታው ብትሄድ ?
+አብ ገዛ እንተጸናሕካ ዶ ይሓይሽ ወይስ ናብቲ ጸወታ እንተኸድካ ?
+# ATT_id = x01-s8
+# sent_id = S-662
+ነገ ብትመጣ እወዳለሁ ።
+ጸባሕ እንተትመጽእ ምፈተኹ ።
+# ATT_id = x01-s9
+# sent_id = S-663
+ሱቅ መሄድህ እንደሆነ አንድ ኪሎ ስኳር አምጣልኝ ?
+ዕዳጋ ትኸይድ እንተ ኰይንካ ፡ ሓደ ኪሎ ሽኮር እንዶ አምጽኣለይ ?
+# ATT_id = x01-s10
+# sent_id = S-664
+ነገ ይዘንባል ? ባልዘነበ ።
+ጽባህ ክሃርም  እዩ ? እንተዘይሃርም እባ ።
+# ATT_id = x01-s11
+# sent_id = S-665
+ካሳ አስቴርን ቡና እንድታፈላ አደረገ ።
+ካሕሳይ ንአስቴር ቡን ከምእተፍልሕ ገይሩዋ ።
+# ATT_id = x01-s12
+# sent_id = S-666
+ካሳ ወደ ጎንደር ለመሄድ ይፈልጋል ።
+ካሕሳይ ንጎንደር ክኸየድ ይደልይ እዩ ።
+# ATT_id = x01-s13
+# sent_id = S-667
+ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
+ክሳብ ክንደይ ተቐይሩ ከም ዘሎ እንተትርእይ ምገረመካ ።
+# ATT_id = x01-s14
+# sent_id = S-668
+ይህ ሕመም ምነው በለቀቀኝ ።
+እዚ ሕማም እንታይ ኣለዎ እንተ ዝገድፈኒ ።
+# ATT_id = x01-s15
+# sent_id = S-669
+ካሳ አስቴር ወደ ጎንደር እንደሄደች አውቆአል ።
+ካሕሳይ ኣስቴር ንጎንደር ምኻዳ ፈሊጡ ።
+# ATT_id = x01-s16
+# sent_id = S-670
+ካሳ አስቴር ወደ ትምህርት ቤት እንደ ሄደች ምሳውን በላ ።
+ካሕሳይ ኣስቴር ንቤት ትምህርቲ ኪድ ምስ በለት ምስሑ በሊዑ ።
+# ATT_id = x01-s17
+# sent_id = S-671
+ልክ ሆስፒታል ስንደርስ ተገላገለች ።
+ልክዕ ኣብ ሆስፒታል ብጽሕ ምስ በልና ተገላጊላ ።
+# ATT_id = x01-s18
+# sent_id = S-672
+መኪና ሲመጣ ስታይ አትደንግጥ ።
+መኪና ክትመጽእ ክትርእይ እንከለኻ ኣይትሰንብድ ።
+# ATT_id = x01-s19
+# sent_id = S-673
+እዚህ ካለህ እራት አብረኸን ብላ ።
+ኣብዚ ከለኻ ድራር ምሳይ ሓቢርካ ብላዕ ።
+# ATT_id = x01-s20
+# sent_id = S-674
+ወጣት ብሆንም ብዙ አይቻለሁ ።
+መንእሰይ ይኹን እምበር ፡ ብዙሕ ርእየ እየ ።
+# ATT_id = x02-s1
+# sent_id = S-675
+እዚያ ብቻህን ባትሄድ እወዳለሁ ።
+ናብኡ በይንኻ እንተዘይከድካ እፈቱው ።
+# ATT_id = x02-s2
+# sent_id = S-676
+ምነው እውነቱን ቢናገር ኖሮ ።
+ሓቂ እንተ ዝዛረብ እንታይ ነይሩዎ ።
+# ATT_id = x02-s3
+# sent_id = S-677
+ምነው ብርቱካኖቹ በስለው ቢሆን ኖሮ ።
+እዚ ኣርቺታት እንታይ ነይሩዎ በሲሉ እንተ ዝኸውን ነይሩ  ።
+# ATT_id = x02-s4
+# sent_id = S-678
+ይህን ያህል ባይሰራ ይሻለው ነበር ።
+ክንድዚ ዝኣክል እንተ ዘይሰርሕ ምሓሾ ነይሩ ።
+# ATT_id = x02-s5
+# sent_id = S-679
+ምነው ይህን ያህል ባይበላስ ።
+እንታይ ነይሩዎ ክንድዚ ዝኣክል እንተዘይበልዕ ።
+# ATT_id = x02-s6
+# sent_id = S-680
+አማርኛ ቢችል በተሻለ ነበር ።
+ኣምሓርኛ እንተ ዝኽእል ምሓሸኒ ነይሩ ።
+# ATT_id = x02-s8
+# sent_id = S-681
+ገንዘብ ስላልነበረኝ መሄድ አልቻልኩም ።
+ገንዘብ ስለዘይነበረኒ ክኸይድ ኣይከኣልኩን ።
+# ATT_id = x02-s9
+# sent_id = S-682
+አስቴር ወደ ትምህርት ቤት የሄደች ይመስላል ።
+ኣስቴር ናብ ቤት ትምህርቲ ዝኸደት ይመስል ።
+# ATT_id = x02-s10
+# sent_id = S-683
+ትምህርት ቤት በሄድኩ ቁጥር ኳስ እጫወታለሁ ።
+ንቤት ትምህርቲ አብ ዝኸድኩሉ ጊዜ ፡ ኵዕሶ እጻወት ።
+# ATT_id = x02-s11
+# sent_id = S-684
+አለቀሰ ።
+በኽዩ ።
+# ATT_id = x02-s12
+# sent_id = S-685
+መጣች ።
+መጺኡ ።
+# ATT_id = x02-s13
+# sent_id = S-686
+ካሳ ተናደደ ።
+ካሕሳይ ሓሪቑ ።
+# ATT_id = x02-s14
+# sent_id = S-687
+ልጁ ተኛ ።
+እቲ ቆልዓ ደቂሱ ።
+# ATT_id = x02-s15
+# sent_id = S-688
+ውሃው ቀዘቀዘ ።
+እቲ ማይ ዝሒሉ ።
+# ATT_id = x02-s16
+# sent_id = S-689
+ፈጣን ሆነ ።
+ቅልጡፍ ኰይኑ ።
+# ATT_id = x02-s17
+# sent_id = S-690
+ስንደው በቀለ ።
+እቲ ስርናይ በቚሉ ።
+# ATT_id = x02-s18
+# sent_id = S-691
+ቃዠ ።
+ባህሪሩ ።
+# ATT_id = x02-s19
+# sent_id = S-692
+ሁላችንም አልመጣንም ።
+ኩላትና ኣይመጻእናን ።
+# ATT_id = x02-s20
+# sent_id = S-693
+ካሳ ወደ ጎንደር ሄደ ።
+ካሕሳይ ንጎንደር ከይዱ ።
+# ATT_id = x03-s1
+# sent_id = S-694
+ካሳ ትናንትና ወደ ጎንደር ሄደ ።
+ካሕሳይ ትማሊ ንጎንደር ከይዱ ።
+# ATT_id = x03-s2
+# sent_id = S-695
+በርግጥ ካሳ ትናንት ወደ ጎንደር ሄዷል ።
+ካሕሳይ ብርግጽ ትማሊ ንጎንደር ከይዱ ።
+# ATT_id = x03-s3
+# sent_id = S-696
+ሞተ ።
+ሞይቱ ።
+# ATT_id = x03-s4
+# sent_id = S-697
+የእኔ ውሻ ሞተ ።
+ከልበይ ሞይቱ ።
+# ATT_id = x03-s5
+# sent_id = S-698
+የምትደንሺው ?
+እትስዕስዕዮ ?
+# ATT_id = x03-s6
+# sent_id = S-699
+አልማዝ በወንድሟ ሞት ደነገጠች ።
+ኣልማዝ ብናይ ሓዋ ሞት ሰንቢዳ ።
+# ATT_id = x03-s7
+# sent_id = S-700
+አንደኛ ሆነች ።
+ቀዳመይቲ ኰይና ።
+# ATT_id = x03-s8
+# sent_id = S-701
+በወንዙ አጠገብ ሄዱ ።
+ብጥቓ እቲ ሩባ ከይዶም ።
+# ATT_id = x03-s9
+# sent_id = S-702
+ዘነበ ።
+ማይ ሃሪሙ ።
+# ATT_id = x03-s10
+# sent_id = S-703
+ጀመረ ።
+ጀሚሩ ።
+# ATT_id = x03-s11
+# sent_id = S-704
+መፅሐፍ አነበበች ።
+መጽሓፍ ኣንቢባ ።
+# ATT_id = x03-s12
+# sent_id = S-705
+አልማዝ እንቅልፍ ወሰዳት ።
+ኣልማዝ ድቃስ ወሲዱዋ ።
+# ATT_id = x03-s13
+# sent_id = S-706
+አሳው ከባህር ወጣ ።
+እዚ ዓሳ ካብ ባሕሪ ወጺኡ ።
+# ATT_id = x03-s14
+# sent_id = S-707
+ካሳ ወደ ቤቱ ገባ ።
+ካሕሳይ ናብ ገዝኡ አትዩ ።
+# ATT_id = x03-s15
+# sent_id = S-708
+ካሳ ክፉኛ ተቆጣ ።
+ካሕሳይ ኣዝዩ ተቔጢዑ ።
+# ATT_id = x03-s16
+# sent_id = S-709
+ምናልባት ካሳ በድንገት ወደ ጎንደር ሄዶ ይሆናል ።
+ምናልባት ካሕሳይ ሃንደበት ንጎንደር ከይዱ ይኸውን ።
+# ATT_id = x03-s17
+# sent_id = S-710
+ካሳ በፍፁም በመኪና ወደ ትምህርት ቤት አይሄድም ።
+ካሕሳይ ብናይ ፍጹም ማኪና ናብ ቤት ትምህርቲ ኣይከይድን እዩ  ።
+# ATT_id = x03-s18
+# sent_id = S-711
+አልማዝ ካሳን ገደለች ።
+ኣልማዝ ንካሕሳይ ቀቲላቶ ።
+# ATT_id = x03-s19
+# sent_id = S-712
+ምሳ በላሁ ።
+ምሳሕ በሊዐ ።
+# ATT_id = x05-s1
+# sent_id = S-713
+ገበሬው እርሻውን ያለሰልሳል ።
+እቲ ሓረስታይ ንግራቱ ይኩስኩስ አሎ ።
+# ATT_id = x05-s2
+# sent_id = S-714
+ካሳ ክፉኛ ታሟል ።
+ካሕሳይ ኣዝዩ ሓሚሙ አሎ ።
+# ATT_id = x05-s3
+# sent_id = S-715
+መምጣቷን አልወደውም ።
+ምምጽኣ ኣይፈትዎን እየ ።
+# ATT_id = x05-s4
+# sent_id = S-716
+የሚመጣውን ታውቃለች ።
+ዝመጽእ ትፈልጥ እያ ።
+# ATT_id = x05-s5
+# sent_id = S-717
+የካሳ በፈተና መውደቅ አልማዝን ገረማት ።
+ናይ ካሕሳይ መርመራ ምትራፍ ንኣልማዝ ገሪሙዋ ።
+# ATT_id = x05-s6
+# sent_id = S-718
+ድመቱ ነብር መሰለኝ ።
+እቲ ድሙ እዩ ነይሩ እመስለኒ ።
+# ATT_id = x05-s7
+# sent_id = S-719
+አልማዝ ልብስ እያጠበች መሰለኝ ።
+ኣልማዝ ክዳን ትሓጽብ ዘላ እመስለኒ ።
+# ATT_id = x05-s8
+# sent_id = S-720
+አልማዝ አርፍዳ እንደምትመጣ ነግራኛለች ።
+ኣልማዝ ደንጕያ ከም እትመጽእ ነጊራትኒ እያ ።
+# ATT_id = x05-s9
+# sent_id = S-721
+ጀርባዋ ላይ መታኋት ።
+ኣብ ሕቖኣ ሃሪመያ ።
+# ATT_id = x05-s10
+# sent_id = S-722
+እናቴን ስለ ወንድሟ መምጣት ጠየኳት ።
+ነደይ ብዛዕባ ናይ ሓዋ ምምጻእ ሓቲተያ ።
+# ATT_id = x05-s11
+# sent_id = S-723
+ካሳ ጥይቱን ወደእኔ አነጣጠረ ።
+ካሕሳይ ነቲ ጥይት ናባይ  አነጻጺሩዎ ።
+# ATT_id = x05-s12
+# sent_id = S-724
+ካሳ በጦር አንበሳ ገደለ ።
+ካሕሳይ ብኲናት ኣንበሳ ቀቲሉ ።
+# ATT_id = x05-s13
+# sent_id = S-725
+ልጁ ትናንትና ሁለት እንቁላል ሸጠ ።
+እቲ ቆልዓ ትማሊ ክልተ እንቋቑሖ ሸይጡ ።
+# ATT_id = x05-s14
+# sent_id = S-726
+የመኪናው አለመምጣት አልማዝን አስጨነቃት ።
+ናይታ መኪና ዘይምምጽእ ንኣልማዝ አጨኒቑዋ ።
+# ATT_id = x05-s15
+# sent_id = S-727
+መታመሙን እንደነገረኝ መጣሁ ።
+ምሕማሙ ንግር ምስ ኣበለኒ መጺአ ።
+# ATT_id = x05-s16
+# sent_id = S-728
+ለከበደ ገንዘብ ሰጠሁት ።
+ንከበደ ገንዘብ ሂበይዮ ።
+# ATT_id = x05-s17
+# sent_id = S-729
+ህመሙ ፋታ ሰጣት ።
+እቲ ሕማም ዕረፍቲ ሂቡዋ ።
+# ATT_id = x05-s18
+# sent_id = S-730
+ካሳ እንደሚመጣ ለአልማዝ ነገራት ።
+ካሕሳይ ክመጽእ ምዃኑ ንኣልማዝ ነጊሩዋ ።
+# ATT_id = x05-s19
+# sent_id = S-731
+ማን እንደሚመጣ ነገርኩዋት ።
+መን ከምዝመጽእ ነጊረያ ።
+# ATT_id = x05-s20
+# sent_id = S-732
+ዝም አለች ።
+ትም ኢላ ።
+# ATT_id = x06-s1
+# sent_id = S-733
+ከፊቴ ጥፍት አለች ።
+ካብ ገጸይ ጥፍእ ኢላ ።
+# ATT_id = x06-s2
+# sent_id = S-734
+አጎነበሰች ።
+ድንን ኢላ ።
+# ATT_id = x06-s3
+# sent_id = S-735
+ካሳ ምክሬን አልቀበል አለ ።
+ካሕሳይ ንምኽረይ ምቕባል አብዩ ።
+# ATT_id = x06-s4
+# sent_id = S-736
+ሁሉን አዘጋጅተናል ።
+ኩሉ ኣዳሊና ኣለና ።
+# ATT_id = x06-s5
+# sent_id = S-737
+የቤቴን ጣሪያ አነሳሁት ።
+ናይ ገዛይ ናሕሲ  ኣልየዮ  ።
+# ATT_id = x06-s6
+# sent_id = S-738
+ወተት ነጭ ነው ።
+ጸባእ ጻዕዳ እዩ ።
+# ATT_id = x06-s7
+# sent_id = S-739
+ሩጫ ጥሩ ነው ።
+ጕይያ ጽቡቕ እዩ ።
+# ATT_id = x06-s8
+# sent_id = S-740
+ቆንጆ ልጅ ነበረች ።
+ጽብቕቲ ጓል ነይራ ።
+# ATT_id = x06-s9
+# sent_id = S-741
+ማን እንደሚመጣ ሚስጥር ነው ።
+መን ከምዝመጽእ ምስጢር እዩ ።
+# ATT_id = x06-s10
+# sent_id = S-742
+በሽጉጥ ነው አንበሳ የገደልኩት ።
+ብሽጕጥ እየ ነቲ አንበሳ ዝቐተልኩዎ  ።
+# ATT_id = x06-s11
+# sent_id = S-743
+የሄድነው በወንዙ አጠገብ ነው ።
+ዝኸድናዮ ብጥቓ እቲ ሩባ እዩ ።
+# ATT_id = x06-s12
+# sent_id = S-744
+አልማዝ እንደ እናት ነች ።
+ኣልማዝ ከም አደ እያ ።
+# ATT_id = x06-s13
+# sent_id = S-745
+ጉዞ በጠዋት መሆን አለበት ።
+መንገዲ ብንግሆ ክኸውን አለዎ ።
+# ATT_id = x06-s14
+# sent_id = S-746
+የገዛሁት ቤት ነው ።
+ዝገዛእኩዎ ገዛ እዩ ።
+# ATT_id = x06-s15
+# sent_id = S-747
+መንገዱ የመጣንበት ነው ።
+እቲ መንገዲ እቲ ዝምጻእናሉ እዩ ።
+# ATT_id = x06-s16
+# sent_id = S-748
+የገዛሁት ያንን ቤት ነው ።
+እቲ ዝገዛእኩዎ እቲ ገዛ እዩ ።
+# ATT_id = x06-s17
+# sent_id = S-749
+የመጣሁት በዚያ መንገድ ነው ።
+ዝመጻእኩሉ ፡ በዚ መንገዲ እዩ ።
+# ATT_id = x06-s18
+# sent_id = S-750
+የምበላ ከሆነ የምበላው ስጋ ነው ።
+ዝበልዕ እንተኾይኑ ፡ ዝበልዖ ስጋ እዩ ።
+# ATT_id = x06-s19
+# sent_id = S-751
+ወደጎጃም የሄደችው በአውቶቢስ ነው ።
+ንከረን ዝኸደቶ ብኣውቶቡስ እዩ  ።
+# ATT_id = x06-s20
+# sent_id = S-752
+የምወደው ሥራ መሥራትን ነው ።
+ዝፈትዎ ስራሕ ምስራሕ እዩ ።
+# ATT_id = x07-s1
+# sent_id = S-753
+የምጠላው ጠላ መጠጣቷን ነው ።
+እቲ ዝጸልዎ ስዋ ምስታያ እዩ ።
+# ATT_id = x07-s2
+# sent_id = S-754
+እስካሁን ማወቅ ያልቻልኩት መምጣት አለመምጣቷን ነው ።
+ክሳብ ሕጂ ክፈልጦ ዘይከአልኩ ፡ ምምጽኣ ዘይምምጽኣ እዩ ።
+# ATT_id = x07-s3
+# sent_id = S-755
+ካሳ አስተማሪ ሆነ ።
+ካሕሳይ መምህር ኰይኑ ።
+# ATT_id = x07-s4
+# sent_id = S-756
+አስተማሪ ነው ።
+መምህር እዩ ።
+# ATT_id = x07-s5
+# sent_id = S-757
+ካሳ አባቱን ይመስላል ።
+ካሕሳይ ነቡኡ ይመስል ።
+# ATT_id = x07-s6
+# sent_id = S-758
+ካሳ ቤት ውስጥ አለ ።
+ካሕሳይ አብ ገዛ ኣሎ ።
+# ATT_id = x07-s7
+# sent_id = S-759
+አምና ጎበዝ ነበር ።
+ዓሚ ንፉዕ ነይሩ ።
+# ATT_id = x07-s8
+# sent_id = S-760
+አስቴር ቤት እየሰራች ነው ።
+ኣስቴር ገዛ እናሰርሐት እያ ።
+# ATT_id = x07-s9
+# sent_id = S-761
+ተጠማች ።
+ማይ ጸሚአ ።
+# ATT_id = x07-s10
+# sent_id = S-762
+አስቴርን ጨነቃት ።
+ኣስቴር ተጨኒቓ ።
+# ATT_id = x07-s11
+# sent_id = S-763
+አልማዝን አመማት ።
+ኣልማዝ ሓሚማ ።
+# ATT_id = x07-s12
+# sent_id = S-764
+አንበሳውን ገደሉት ።
+ነቲ አንበሳ ቀቲሎሞ ።
+# ATT_id = x07-s13
+# sent_id = S-765
+አመጡዋት ።
+አምጺኦምዋ ።
+# ATT_id = x07-s14
+# sent_id = S-766
+ራሴን አመመኝ ።
+ርእሰይ ሒሙኒ ።
+# ATT_id = x07-s15
+# sent_id = S-767
+ብርድ ይሰማኛል ።
+ቁሪ ይስምዓኒ አሎ ።
+# ATT_id = x07-s16
+# sent_id = S-768
+ገንዘቡ ለአልማዝ ተሸለመ ።
+እቲ ገንዘብ ንኣልማዝ ተሸሊሙ ።
+# ATT_id = x07-s17
+# sent_id = S-769
+ልብሱ ለአልማዝ ተገዛላት ።
+እቲ ክዳን ንኣልማዝ ተገዚኡላ ።
+# ATT_id = x07-s18
+# sent_id = S-770
+መጽሐፉን መለሰ ።
+ነቲ መጽሓፍ መሊሱዎ ።
+# ATT_id = x07-s19
+# sent_id = S-771
+ልብሱን ለወጠ ።
+ክዳኑ ቀይሩ ።
+# ATT_id = x07-s20
+# sent_id = S-772
+ልጁ ልብሱን ደበቀ ።
+እቲ ቆልዓ ንኽዳኑ ሓቢኡዎ ።
+# ATT_id = x08-s1
+# sent_id = S-773
+ሰዎቹ ዕንጨት ሰበሰቡ ።
+እቶም ሰባት ዕንጨይቲ ኣርዮም ።
+# ATT_id = x08-s2
+# sent_id = S-774
+እጇን ታጠበች ።
+ኢዳ ተሓጺባ ።
+# ATT_id = x08-s3
+# sent_id = S-775
+አንዳንድ ዓሳዎች የሚበሉ ናቸው ።
+ሓደ ሓደ ዓሳታት ይብልዑ እዮም ።
+# ATT_id = x08-s4
+# sent_id = S-776
+ወረቀቱ በቀላሉ ተቀዳጅ ነው ።
+እዚ ወረቐት ብቐሊሉ ተቀዳዲ እዩ ።
+# ATT_id = x08-s5
+# sent_id = S-777
+ሻንጣዬን ተሰረቅሁ ።
+ሳንጣይ ተሰሪቐ ።
+# ATT_id = x08-s6
+# sent_id = S-778
+ውሃ ተጎነጨ ።
+ማይ ምዓጐ ።
+# ATT_id = x08-s7
+# sent_id = S-779
+ካገር እስኪወጣ ታገሰ ።
+ካብ ዓዲ ክሳብ ዝወጽእ ተዓጊሱ ።
+# ATT_id = x08-s8
+# sent_id = S-780
+የአባቱን ፈለግ ተከተለ ።
+ናይ አቡኡ ኣሰር ተኸቲሉ ።
+# ATT_id = x08-s9
+# sent_id = S-781
+መጽሐፉን ተዋሰ ።
+ነቲ መጽሓፍ ተለቂሑዎ ።
+# ATT_id = x08-s10
+# sent_id = S-782
+በሁኔታው ተሸበረ ።
+በቲ ኩነታት ተረቢሹ ።
+# ATT_id = x08-s11
+# sent_id = S-783
+ሰልፉ ተቃለለ ።
+እቲ ሰልፊ ጐዲሉ ።
+# ATT_id = x08-s12
+# sent_id = S-784
+የመሄጃው ቀን ተቃረበ ።
+ዝኸደሉ ምዓልቲ ቀሪቡ ።
+# ATT_id = x08-s13
+# sent_id = S-785
+ካሳ ለአስቴር መዝሙር ዘመረላት ።
+ካሕሳይ ንኣስቴር መዝሙር ዘሚሉላ ።
+# ATT_id = x08-s14
+# sent_id = S-786
+ዳኛው ለአስቴር ፈረዱላት ።
+እቲ ዳኛ ንኣስቴር በይኑላ ።
+# ATT_id = x08-s15
+# sent_id = S-787
+ዮሐንስ መጽሐፉን ለአስቴር መለሰላት ።
+ዮውሃንስ ነቲ መጽሓፍ ንኣስቴር መሊሱላ ።
+# ATT_id = x08-s16
+# sent_id = S-788
+አስቴር በመጥረጊያው ቤቱን ጠረገችበት ።
+ኣስቴር ነቲ መኾስተር ገዛ ኮስቲራቱሉ ።
+# ATT_id = x08-s17
+# sent_id = S-789
+መኖሪያ ቤቱ ታሸገበት ።
+መንበሪ ቤቱ ተዓሺጉዎ ።
+# ATT_id = x08-s18
+# sent_id = S-790
+ሽማግሌ ተላከበት ።
+ሽማግለ ተላኢኹሉ ።
+# ATT_id = x08-s19
+# sent_id = S-791
+ገንዘቡ ጠፋበት ።
+ገንዘቡ ጠፊኡዎ ።
+# ATT_id = x08-s20
+# sent_id = S-792
+እቃው ተሰረቀበት ።
+ንብረቱ ተሰሪቑዎ ።
+# ATT_id = x09-s1
+# sent_id = S-793
+ውሃውን አፈላችው ።
+ነቲ ማይ ኣፍሊሓቶ ።
+# ATT_id = x09-s2
+# sent_id = S-794
+አልማዝን ዳቦ አጎረስኩዋት ።
+ንኣልማዝ ቅጫ ኣኾሊሰያ ።
+# ATT_id = x09-s3
+# sent_id = S-795
+ቅቤውን አቀለጡት ።
+ነቲ ልኻይ ኣምኪኸዮ ።
+# ATT_id = x09-s4
+# sent_id = S-796
+ካሳ ለልጆቹ መንገዱን አሳያቸው ።
+ካሕሳይ ነቶም ቆልዑት ነቲ መንገዲ ኣርውዩዎም ።
+# ATT_id = x09-s5
+# sent_id = S-797
+አልማዝ መዘመሯ መፅሐፍ አስሸለማት ።
+ኣልማዝ ምዝማራ መጽሓፍ ኣሸሊሙዋ ።
+# ATT_id = x09-s6
+# sent_id = S-798
+ካሳ አልማዝን አስገደላት ።
+ካሕሳይ ንኣልማዝ ኣቕቲሉዋ ።
+# ATT_id = x09-s7
+# sent_id = S-799
+ፀሐዩ ቅቤውን በአልማዝ ላይ አስቀለጠው ።
+እቲ ጽሓይ ነቲ ልኻይ አብ ርእሲ ኣልማዝ ኣምኪኹዎ ።
+# ATT_id = x09-s8
+# sent_id = S-800
+አልማዝ ላይ ድንጋይ አስወረወሩባት ።
+ንኣልማዝ እምኒ ኣደርቢዮሙላ ።
+# ATT_id = x09-s9
+# sent_id = S-801
+ልጁን አስተኙት ።
+ነቲ ቆልዓ ኣደቂሶሞ ።
+# ATT_id = x09-s10
+# sent_id = S-802
+መኪናውን አስወሰደ ።
+ነታ ማኪና አውሲዱዋ ።
+# ATT_id = x09-s11
+# sent_id = S-803
+ገንዘቡን አስመለሰ ።
+ነቲ ገንዘብ ኣምሊሱዎ ።
+# ATT_id = x09-s12
+# sent_id = S-804
+ውሃ አስሞቀ ።
+ማይ ኣውዕዩ ።
+# ATT_id = x09-s13
+# sent_id = S-805
+ልጁን እያስፈራሩ አስጠፉት ።
+ነቲ ቆልዓ እናኣፈራርሑ ኣጥፊኦሞ ።
+# ATT_id = x09-s14
+# sent_id = S-806
+በሽተኛውን ልጅ ወደ ሆስፒታል አስወሰደው ።
+ነቲ ሕሙም ቆልዓ ንሆስፒታል ኣውሲዱዎ ።
+# ATT_id = x09-s15
+# sent_id = S-807
+ጠላቱን አስገደለ ።
+ጸላእቱ ኣቕቲሉ ።
+# ATT_id = x09-s16
+# sent_id = S-808
+ልጁን ሥራውን አስጨርሰዋለሁ ።
+ነቲ ወዲ ነቲ ስራሕ ከወድኦ እየ ።
+# ATT_id = x09-s17
+# sent_id = S-809
+ልጆቹን ጠርተህ እህሉን እጎተራ አስገባ ።
+ነቶም ቆልዑ ጸዊዕካ ፡ ነቲ እኽሊ አብ ቆፎ ኣእትዎ ።
+# ATT_id = x09-s18
+# sent_id = S-810
+እህሉን አስሸከመ ።
+ነቲ እኽሊ ኣሸኪሙ ።
+# ATT_id = x09-s19
+# sent_id = S-811
+ልጁን ኮሶ አስጠጣሁት ።
+ነቲ ቆልዓ ሰኖ አስቲየዮ ።
+# ATT_id = x09-s20
+# sent_id = S-812
+ጠጅ አስቀመስኩት ።
+ሜስ አጥዒመዮ ።
+# ATT_id = x10-s1
+# sent_id = S-813
+ተማሪ ቤት አስኬድኩት ።
+ቤት ትምህርቲ ኣኺደዮ ።
+# ATT_id = x10-s2
+# sent_id = S-814
+ሸክሙን አሳርፉኝ ።
+ነቲ ጾር አውሩዱለይ ።
+# ATT_id = x10-s3
+# sent_id = S-815
+ሰው አያስወጣም ።
+ሰብ የምጽእ እዩ ።
+# ATT_id = x10-s4
+# sent_id = S-816
+ሥራዬን ለምን አታሰራኝም ?
+ስለምንታይ ስርሐይ ዘይተስርሓኒ ?
+# ATT_id = x10-s5
+# sent_id = S-817
+የደከሙት አይኖቹ ብዙ አያስነብቡትም ።
+ዝደኸማ ኣዒንተይ ብዙሕ ኣየንብባንን እየን ።
+# ATT_id = x10-s6
+# sent_id = S-818
+እህትና ወንድም ተደባደቡ ።
+ሓፍትን ሓውን ተሃራሪሞም ።
+# ATT_id = x10-s7
+# sent_id = S-819
+ወታደሮቹ ላገራቸው ተጋደሉ ።
+እቶም መተሃደራት ንሃገሮም ተቓሊሶም ።
+# ATT_id = x10-s8
+# sent_id = S-820
+የህግ አለመኖር ህዝቡን በጅምላ አጫረሰ ።
+ሕጊ ዘምህላው ንህዝቢ ብጃምላ ኣቃቲሉዎ ።
+# ATT_id = x10-s9
+# sent_id = S-821
+ከበደ ሁለቱን ጓደኞች አጋደላቸው ።
+ከበዶም ንኽሊቲኦም ዓዕሩኽቱ ኣቃቲሉዎም ።
+# ATT_id = x10-s10
+# sent_id = S-822
+ካሳ እራሱን ሰቀለ ።
+ካሕሳይ ንባዕሉ ሰቒሉ ።
+# ATT_id = x10-s11
+# sent_id = S-823
+አልማዝ ምሳዋን በልታ ተኛች ።
+ኣልማዝ ምስሓ በሊዓ ደቂሳ ።
+# ATT_id = x10-s12
+# sent_id = S-824
+አልማዝ ስጋ ገዝታ ፣ ቀቅላ በላች ።
+ኣልማዝ ስጋ ገዚኣ ፡ ቆልያ በሊዓ ።
+# ATT_id = x10-s13
+# sent_id = S-825
+ጎጃም ሄደው ፣ ሰርግ ላይ ተገኝተው ፣ ወደቤታቸው ተመለሱ ።
+ከረን ከይዶም ፡ መርዓ ውዒሎም ፡ ንገዝዞም ተመሊሶም ።
+# ATT_id = x10-s14
+# sent_id = S-826
+ከተያዘ በኋላ ታስሮ ፣ ተለቀቀ ።
+ድሕሪ ምትሓዙ ፡ ተኣሲሩ ፡ ተፈቲሑ ።
+# ATT_id = x10-s15
+# sent_id = S-827
+ካሳ በሬ ከገዛላት በኋላ አልማዝ አረደችው ።
+ካሕሳይ ብዕራይ ምስ ገዝኣላ ፡ አልማዝ ሓሪዳቶ ።
+# ATT_id = x10-s16
+# sent_id = S-828
+መሶብ ከፍቶ ዳቦ ይወስዳል ።
+መሶብ ከፊቱ ቅጫ ይወስድ ።
+# ATT_id = x10-s17
+# sent_id = S-829
+ስራ አጥቶ ተቸግሯል ።
+ስራሕ ስኢኑ ተሽጊሩ ።
+# ATT_id = x10-s18
+# sent_id = S-830
+በሩን ከፍቼ ስገባ ስልክ ተደወለ ።
+ማዕጾ ከፊተ ክአቱ ከለኹ ፡ ስልኪ ተደዊሉ ።
+# ATT_id = x10-s19
+# sent_id = S-831
+መጥቶ የሚሰራ ደሞዝ ይቀበላል ።
+መጺኡ ዝሰርሕ ፡ ገንዘብ ይቕበል ።
+# ATT_id = x10-s20
+# sent_id = S-832
+ልብሴን ሽጬ እዳዬን መክፈል ነበረብኝ ።
+ክዳነይ ሸይጠ ዕዳይ ክኸፍል ነይሩኒ ።
+# ATT_id = x11-s1
+# sent_id = S-833
+ዘንቦ ቀረን ።
+ማይ ሃሪሙ ተሪፍና ።
+# ATT_id = x11-s2
+# sent_id = S-834
+ልብሱን እኔ አጥቤ እሱ ተኮሰ ።
+ነቲ ክዳን ኣነ ሓጺበዮ ፡ ንሱ ከኣ ኣስታሪሩዎ ።
+# ATT_id = x11-s3
+# sent_id = S-835
+ከሆስፒታል ወስደው ሥላሴ ቤተክርስቲያን ቀበሩት ።
+ካብ  ሆስፒታል ወሲዶም ፡ አብ ቤተክርስትያን ስላሴ ቀቢሮሞ ።
+# ATT_id = x11-s4
+# sent_id = S-836
+አንስታው ሄደች ።
+ኣልዒላቶ ከይዳ ።
+# ATT_id = x11-s5
+# sent_id = S-837
+አስተናጋጁ ሻይ አመጣላቸውና ጠጡ ።
+እቲ አሳሳዪ ሻሂ ኣምጺኡሎም ፡ ሰትዮም ።
+# ATT_id = x11-s6
+# sent_id = S-838
+ሩጦ ሄደ ።
+ጐይዩ ከይዱ ።
+# ATT_id = x11-s7
+# sent_id = S-839
+ዘሎ ገባ ።
+ዘሊሉ ኣትዩ ።
+# ATT_id = x11-s8
+# sent_id = S-840
+ከሰዓት በኋላ አግዝሻለሁ በላት ።
+ድሕሪ ፋዱስ ክሕግዘኪ እየ ኢሉዋ ።
+# ATT_id = x11-s9
+# sent_id = S-841
+እነሳለሁ ሲል አደናቀፈው ።
+ክትስእ ክብል ዓንቂፉዎ ።
+# ATT_id = x11-s10
+# sent_id = S-842
+ከባዱን ሳጥን አነሣለሁ ብዬ እጄን ወለም አለኝ ።
+ነቲ ከቢድ ሳንዱቕ ከልዕሎ ክብል ፡ ኢደይ ረሸሽ ኢሉኒ ።
+# ATT_id = x11-s11
+# sent_id = S-843
+ወንድሜ ከኔ ጋር አልበላም አለ ።
+ሓወይ ምሳይ ምብላዕ አብዩ ።
+# ATT_id = x11-s12
+# sent_id = S-844
+ሰውዬው ሰዓቴ ተሰበረብኝ ይላል ።
+እቲ ሰብኣይ ስዓተይ ተሰቢሩኒ ይብል አሎ  ።
+# ATT_id = x11-s13
+# sent_id = S-845
+ተከሳሹ ጥፋተኛ አይደለሁም አለ ።
+እቲ ክሱስ ገበነኛ ኣይኮንኩን ኢሉ ።
+# ATT_id = x11-s14
+# sent_id = S-846
+አልረዳህም አለችኝ ።
+ኣይሕግዘካን እየ ኢላትኒ ።
+# ATT_id = x11-s15
+# sent_id = S-847
+ከጐኗ ተጣብቆ አልሄድም አለ ።
+አብ ጐንና ጠቢቑ ምኻድ ኣብዩ ።
+# ATT_id = x11-s16
+# sent_id = S-848
+ምክራችንን አልሰማ በማለቷ ባሏ ሌላ ሚስት አገባላት ።
+ምኽርና ኣይሰምዕን ስለ ዝበለት ፡ ሰብኣያ ካልእ ሰበይቲ ደሪቡላ ።
+# ATT_id = x11-s17
+# sent_id = S-849
+ፖሊሱ አላሳልፍም አለን ።
+ፖሊስ ኣይሕልፈኩም እየ ኢሉና ።
+# ATT_id = x11-s18
+# sent_id = S-850
+አልታዘዝ አለኝ ።
+ምእዛዝ አብዩኒ ።
+# ATT_id = x11-s19
+# sent_id = S-851
+መስኮቱ አልከፈትልኝ አለ ።
+እቲ መስኮት ምኽፋት ኣብዩኒ ።
+# ATT_id = x11-s20
+# sent_id = S-852
+ወንድምህ የት ነው ብዬ ብጠይቀው አላውቅም ብሎ መለሰልኝ ።
+ንሓውኻ አብይ አሎ ኢለ እንተሓተትኩዎ እንድዒ ኢሉኒ ።
+# ATT_id = x12-s1
+# sent_id = S-853
+ምን አምጣ እንዳለኝ አልሰማሁም ።
+እንታይ ኣምጽእ ከምዝበለኒ ኣሰማዕኩዎን ።
+# ATT_id = x12-s2
+# sent_id = S-854
+ውሰድ ያለኝን ብድር እምቢ አልኩ ።
+ነቲ ወሰዶ ዝበለኒ ለኻሕ እምቢ ኢለዮ  ።
+# ATT_id = x12-s3
+# sent_id = S-855
+ዘንድሮ እህል ውድ ነው ይላሉ ።
+ሎምዘመን እኽሊ ክቡር እዩ ይብሉ አለዉ ።
+# ATT_id = x12-s4
+# sent_id = S-856
+ፓስታ አመላላሹ በሰዓቱ ይደርሳል ብላ አስባ ነበር ።
+እታ ተለኣኣኺት ፖስጣ አብ ግዜኡ ክበጽሕ እዩ ኢላ ሓሲባ ነይራ ።
+# ATT_id = x12-s5
+# sent_id = S-857
+በሩ ላይ ቆሞ ልግባ አልግባ ሲል አቅማማ ።
+ኣብ ኣፍደገ ደው ኢሉ ፡ እእቶዶ ኣይእቶ ኢሉ ተወላዊሉ ።
+# ATT_id = x12-s6
+# sent_id = S-858
+ከሀብታም አጎቴ ገንዘብ አገኛለሁ ብሎ ተስፋ ያደርጋል ።
+ካብ ሃብታም ሓወቦይ ገንዘብ ክረክብ ኢየ ኢሉ ተስፋ ገይሩ አሎ ።
+# ATT_id = x12-s7
+# sent_id = S-859
+ሰነፍ ነህ ብለህ ልትወቅሰኝ አትችልም ።
+ሕማቕ ኢኻ ኢልካ ክትወቕሰኒ አይትኽእልን ኢኻ ።
+# ATT_id = x12-s8
+# sent_id = S-860
+አትግደለኝ ብሎ ቢለምነው ማረው ።
+ኣይትቕተለኒ ኢሉ ምስ ለመኖ  ምሒሩዎ ።
+# ATT_id = x12-s9
+# sent_id = S-861
+ድህነት ወንጀልን ያስከትላል ብዬ አምናለሁ ።
+ድኽነት ገበን የስዕብ እዩ ኢለ እኣምን ።
+# ATT_id = x12-s10
+# sent_id = S-862
+እኔን ይሰርቃል ብሎ መጠርጠር ቀልድ ነው ።
+ንዓይ እሰርቕ እዩ ኢልካ ምጥርጣር ጸወታ እዩ ።
+# ATT_id = x12-s11
+# sent_id = S-863
+ምን ይሆን የሚል ሐሳብ አሸበራት ።
+እንታይ ኮን ይኸው ዝብል ሓሳብ ረቢሹዋ ።
+# ATT_id = x12-s12
+# sent_id = S-864
+ሌባ ነህ ተብሎ የቀረበበትን ክስ ካደ ።
+ሰራቒ ኢኻ ተባሂሉ ንዝቐረበሉ ክሲ ክሒዱዎ ።
+# ATT_id = x12-s13
+# sent_id = S-865
+አንቀው ገደሉት ።
+ሓኒቖም ቀቲሎምዎ ።
+# ATT_id = x12-s14
+# sent_id = S-866
+ዳቦ በልተን ወተት ጠጥተን ጠግበን ተጓዝን ።
+ቅጫና በሊዕና ፡ ጸባና ሰቲና ፡ ጸጊብና ጉዕዞና ቀጺልና ።
+# ATT_id = x12-s15
+# sent_id = S-867
+ቤቱን ጠርገሽ ልብሱን አጥበሽ ወጥ ሥሪ ።
+ገዛ ኣጽሪኺ ፡ ክዳን ሓጺብኪ ጸብሒ ስርሒ ።
+# ATT_id = x12-s16
+# sent_id = S-868
+ወይዘሮ አስቴር ለአውደ ዓመት አንድ ጋን ጠላ ጠመቀች ።
+ወይዘሮ ኣስቴር ንዓውደ ዓመት ሓደ ገንኢ ሰዋ ጸሚቛ ።
+# ATT_id = x12-s17
+# sent_id = S-869
+ልጆቹ ባለጉ ።
+እቶም ቆልዑ ሰዲዶም ።
+# ATT_id = x12-s18
+# sent_id = S-870
+ልጆቹ ባለጌ ሆኑ ።
+እቶም ቆልዑ  ስድዳት ኮይኖም ።
+# ATT_id = x12-s19
+# sent_id = S-871
+ገንዘቡን ማን እንደሰጣት ንገረን ?
+ነቲ ገንዘብ መን ከምዝሃባ ንገረና ?
+# ATT_id = x12-s20
+# sent_id = S-872
+ይህንን ወንዝ እንዴት እንደምሻገር አላውቅም ።
+ነዚ ውሕጅ ከመይ ገይረ ከም ዝሳገሮ ኣይፈልጥን ።
+# ATT_id = x13-s1
+# sent_id = S-873
+አስቴር ወፈረች ።
+ኣስቴር ረጒዳ ።
+# ATT_id = x13-s2
+# sent_id = S-874
+አስቴር ወፍራም ሆነች ።
+ኣስቴር ረጓድ ኮይና ።
+# ATT_id = x13-s3
+# sent_id = S-875
+አስቴር ተጨነቀች ።
+ኣስቴር ተጨኒቓ ።
+# ATT_id = x13-s4
+# sent_id = S-876
+ካሳ ወደ ገበያ ሄደ ።
+ካሕሳይ ናብ ዕዳጋ ከይዱ ።
+# ATT_id = x13-s5
+# sent_id = S-877
+ልጆቹ ዛፍ ላይ ወጡ ።
+እቶም ቆልዑ አብ ገረብ ድዪቦም ።
+# ATT_id = x13-s6
+# sent_id = S-878
+አስቴር አልጋው ላይ ወደቀች ።
+ኣስቴር አብ ልዕሊ ዓራት ወዲቃ ።
+# ATT_id = x13-s7
+# sent_id = S-879
+ካሳ ከመቀመጫው ተነሳ ።
+ካሕሳይ ካብ ኮፍ መበሊኡ ሓፍ ኢሉ ።
+# ATT_id = x13-s8
+# sent_id = S-880
+አስቴር አልጋ ላይ ተኛች ።
+ኣስቴር አብ ዓራት ደቂሳ ።
+# ATT_id = x13-s9
+# sent_id = S-881
+አስቴር ሽልማት ተቀበለች ።
+ኣስቴር ብልጫ ተቐቢላ ።
+# ATT_id = x13-s10
+# sent_id = S-882
+ልጁ መኪና ተሰጠው ።
+እቲ ወዲ ማኪና ተዋሂቡ ።
+# ATT_id = x13-s11
+# sent_id = S-883
+ገበሬው ማሳውን አጥሮታል ።
+እቲ ሓረስታይ ንግራቱ ሓጺሩዎ ።
+# ATT_id = x13-s12
+# sent_id = S-884
+አስተማሪው ለተማሪዎች መፅሀፍ ሰጣቸው ።
+እቲ መምህር ነቶም ተመሃሮ መጽሓፍ ሂቡዎም ።
+# ATT_id = x13-s13
+# sent_id = S-885
+ካሳ ለወታደሮች ገንዘቡን ሰጣቸው ።
+ካሕሳይ ነቶም ወተሃደራት ገንዘብ ሂቡዎም ።
+# ATT_id = x13-s14
+# sent_id = S-886
+ልጆቹ ስህተታቸውን አውቀዋል ።
+እቶም ቆልዑ ጌጋኦም ፈሊጦም ።
+# ATT_id = x13-s15
+# sent_id = S-887
+ልጆቹ ወተት ይወዳሉ ።
+እቶም ቆልዑት ጸባ እፈትዉ እዮም ።
+# ATT_id = x13-s16
+# sent_id = S-888
+ካሳ ሰው ያከብራል ።
+ካሕሳይ ሰብ የኽብር እዩ ።
+# ATT_id = x13-s17
+# sent_id = S-889
+እግዜርን ይፈራሉ ።
+ንእግዚአብሔር ይፈርሑዎ እዮም ።
+# ATT_id = x13-s18
+# sent_id = S-890
+ምክርን ያደምጣሉ ።
+ምኽሪ ይሰምዑ እዮም ።
+# ATT_id = x13-s19
+# sent_id = S-891
+ጫካው ተመንጥሮአል ።
+እቲ ጫካ ተቖጥቊጡ ።
+# ATT_id = x13-s20
+# sent_id = S-892
+አገሩ ተወሮአል ።
+እቲ ሃገር ተውሪሩ ።
+# ATT_id = x13-s21
+# sent_id = S-893
+ስንቅ ይነጥቃሉ ።
+ስንቂ ይሕደጉ እዮም ።
+# ATT_id = x14-s1
+# sent_id = S-894
+ካሳ በግ አልገዛም ።
+ካሕሳይ በጊዕ ኣይገዝአን ።
+# ATT_id = x14-s2
+# sent_id = S-895
+በግ አትግዛ !
+በጊዕ ኣይትግዛእ !
+# ATT_id = x14-s3
+# sent_id = S-896
+ካሳ ቤት ውስጥ የለም ።
+ካሕሳይ አብ ገዛ የለን ።
+# ATT_id = x14-s4
+# sent_id = S-897
+አቶ ካሳ ምንም ችግኝ አልተከለም ።
+ኣቶ ካሕሳይ ዝኾነ ፈልሲ ኣይተኸለን ።
+# ATT_id = x14-s5
+# sent_id = S-898
+አስቴር ምንም ገንዘብ የላትም ።
+ኣስቴር ገንዘብ ዝብሃል የብላን ።
+# ATT_id = x14-s6
+# sent_id = S-899
+አስቴር ካሳ ከእናቱ ጋር ምሳ እንዳልበላ ታውቃለች ።
+ኣስቴር ካሕሳይ ምስ ኣዲኡ ምሳሕ ከም ዘይበልዐ ትፈልጥ እያ ።
+# ATT_id = x14-s7
+# sent_id = S-900
+ካሳ ምሳ የበላው ከእናቱ ጋር አይደለም ።
+ካሕሳይ ምሳሕ ዝበልዐ ምስ አዲኡ ኣይኮነን ።
+# ATT_id = x14-s8
+# sent_id = S-901
+ካሳ ከእናቱ ጋር ምሳ አልበላም ።
+ካሕሳይ ምስ አዲኡ ምሳሕ ኣይበልዐን ።
+# ATT_id = x14-s9
+# sent_id = S-902
+ብዙ ሰዎች ያለትዳር ይኖራሉ ።
+ብዙሓት ሰባብ ብዘይ ሓዳር ይነብሩ ።
+# ATT_id = x14-s10
+# sent_id = S-903
+ካሳ ያለገብስ ጠላ አይጠጣም ።
+ካሕሳይ ስገም እንተ ዘይኮይኑ ፡ ናይ ካልእ ስዋ ኣይሰትን እዩ ።
+# ATT_id = x14-s11
+# sent_id = S-904
+ልጆቹ መጥተው ቀሩ ።
+እቶም ቆልዑ መጺኦም ተሪፎም ። ።
+# ATT_id = x14-s12
+# sent_id = S-905
+ልጆቹ ወጥተው አልቀሩም ።
+እቶም ቆልዑ መጺኦም ኣይተቐመጡን ።
+# ATT_id = x14-s13
+# sent_id = S-906
+ደብዳቤው ሳይጠፋ አልቀረም ።
+እቲ ደብዳቤ ከይጠፍአ ኣይተርፍን እዩ ።
+# ATT_id = x14-s14
+# sent_id = S-907
+ይህ መርዝ ገድሎት ይሆናል ።
+እዚ መርዚ ቀቲሉዎ ይኸውን ።
+# ATT_id = x14-s15
+# sent_id = S-908
+ወደድክም ጠላህም እሷ እንደሆን መምጣቷ አይቅርም ።
+ፈቲኻ ጸሊእካ ንሳ እንተኾነ ምምጽኣ ኣይተርፍን እዩ ።
+# ATT_id = x14-s16
+# sent_id = S-909
+ልጁ ይምጣ አይምጣ አላውቅም ።
+እቲ ወዲ ይምጻእ ኣይምጻእ ኣይፈልጥን እየ ።
+# ATT_id = x14-s17
+# sent_id = S-910
+ማን ጫማ ገዛልህ ?
+መን ሳእኒ ገዚኡልካ ?
+# ATT_id = x14-s18
+# sent_id = S-911
+መቼ ትመጣለህ ?
+መዓስ ክትመጽእ ኢኻ ?
+# ATT_id = x14-s19
+# sent_id = S-912
+ደሞዝ አልወሰድክም እንዴ ?
+ደሞዝ ኣይወሰድካን ዲኻ ?
+# ATT_id = x14-s20
+# sent_id = S-913
+በግ ገዛህ ወይ ?
+በጊዕ ገዚእካ ዶ ?
+# ATT_id = x15-s1
+# sent_id = S-914
+ደሞዝ ወሰድክ ወይ ?
+ደሞዝ ተቐቢልካ ዶ ?
+# ATT_id = x15-s2
+# sent_id = S-915
+ማን ከማን ጋር ምሳ በላ ?
+መን ምስ መን ምሳሕ በሊዑ ?
+# ATT_id = x15-s3
+# sent_id = S-916
+ማን ከማን ጋር ምን አደረገ ?
+መን ምስመን እንታይ ገይሩ ?
+# ATT_id = x15-s4
+# sent_id = S-917
+ስንት መፅሐፍ ትፈልጋለህ ?
+ክንደይ መጽሓፍ ትደልይ ?
+# ATT_id = x15-s5
+# sent_id = S-918
+ነገሩ የሆነው ከስንት ጊዜ በፊት ነበር ?
+እቲ ነገር ቅድሚ ክንደይ ግዜ እዩ ኰይኑ ?
+# ATT_id = x15-s6
+# sent_id = S-919
+ኧረ ለመሆኑ ነጻነት ምን እንደሆነ ታውቃላችሁ ?
+ወረግ ንምዃኑ ነጻነት እንታይ ምዃኑ ትፈልጡ ዲኹም ?
+# ATT_id = x15-s7
+# sent_id = S-920
+ወጥ አውጪ !
+ጸብሒ ኣውጽኢ !
+# ATT_id = x15-s8
+# sent_id = S-921
+አስቴር ትምህርት ቤት ትሂድ !
+ኣስቴር ንቤት ትምህርቲ ትኺድ !
+# ATT_id = x15-s9
+# sent_id = S-922
+እነሱ ሳሩን ይጨዱ !
+ንሳቶም ነቲ ሳዕሪ ይዕጸዱዎ !
+# ATT_id = x15-s10
+# sent_id = S-923
+ልብሱን እጠብ !
+ነቲ ክዳን ሕጸቦ !
+# ATT_id = x15-s11
+# sent_id = S-924
+ብላ !
+ብላዕ !
+# ATT_id = x15-s12
+# sent_id = S-925
+በል ብላት !
+በል ብልዓያ !
+# ATT_id = x15-s13
+# sent_id = S-926
+እንጨት ትስበር !
+ዕንጨይቲ ትስበር !
+# ATT_id = x15-s14
+# sent_id = S-927
+በሩን ብትዘጋው !
+እቲ ማዕጾ እንተ ትዓጽዎ !
+# ATT_id = x15-s15
+# sent_id = S-928
+የምግቡን ዝርዝር ብትሰጠኝ ?
+ናይቲ ምግቢ ዝርዝር እንተትህበኒ ?
+# ATT_id = x15-s16
+# sent_id = S-929
+እስኪ መታወቂያ ወረቀትህን አሳየኝ ?
+እስኪ ናይ መንነት ወረቐትካ ኣርእየኒ ?
+# ATT_id = x15-s17
+# sent_id = S-930
+ወደ ታች ውረዱ !
+ንታሕቲ ውረዱ !
+# ATT_id = x15-s18
+# sent_id = S-931
+ከጨረስክ በኋላ እኔ ጋር እንድትመጣ !
+ምስ ወዳእካ ፡ ናባይ ምጻእ !
+# ATT_id = x15-s19
+# sent_id = S-932
+ተቀመጥ እንጂ !
+ኮፍ በል እምበር !
+# ATT_id = x15-s20
+# sent_id = S-933
+ካሳ የሸጠው የብራና መፅሀፍ ትልቅ ነው ።
+እቲ ካሕሳይ ዝሸጦ ናይ ብራና መጽሓፍ ዓብይ እዩ ።
+# ATT_id = x16-s1
+# sent_id = S-934
+ልጆቹ የሄዱበት ሀገር አልታወቀም ።
+እቶም ቆልዑ ዝኸዱዎ ሃገር ኣይተፈልጠን ።
+# ATT_id = x16-s2
+# sent_id = S-935
+አስቴር ፀጉርዋን የሰራቻት ልጅ ጥሩ ናት ።
+እታ ንኣስቴር ጸጕራ ዝሰርሓታ ጓል ጥዕይቲ እያ ።
+# ATT_id = x16-s3
+# sent_id = S-936
+ልጁ የሸጠው መጽሐፍ ትልቅ ነው ።
+እቲ ወዲ ዝሸጦ መጽሓፍ ዓብይ እዩ ።
+# ATT_id = x16-s4
+# sent_id = S-937
+ተማሪው ለአስቴር የሰጣት መጽሐፍ ጠፋ ።
+እቲ ተመሃራይ ንኣስቴር ዝሃባ መጽሓፍ ጠፊኡ ።
+# ATT_id = x16-s5
+# sent_id = S-938
+ካሳ የገዛው የሱፍ ኮት ውድ ነው ።
+እቲ ካሕሳይ ዝገዝኦ ናይ ሱፍ ጁባ ክቡር እዩ ።
+# ATT_id = x16-s6
+# sent_id = S-939
+ካሳ በግ ያረደበት ቢላዋ ትልቅ ነው ።
+እቲ ካሳ በጊዕ ዝሓረደሉ ካራ ዓብይ እዩ ።
+# ATT_id = x16-s7
+# sent_id = S-940
+ልጁ የገደለው እባብ ትልቅ ነው ።
+እቲ ወዲ ዝቐተሎ ተመን ዓብይ እዩ ።
+# ATT_id = x16-s8
+# sent_id = S-941
+አንበሳ የገደለው ልጅ ተሸለመ ።
+እቲ አንበሳ ዝቐተለ ቆልዓ ተሸሊሙ ።
+# ATT_id = x16-s9
+# sent_id = S-942
+እርኩስ መንፈስ የያዘው ሰው አስቸገረን ።
+ርኹስ መንፈስ ዝሓዞ ሰብ አሸጊሩና ።
+# ATT_id = x16-s10
+# sent_id = S-943
+በፊታችሁ ወዳለችው መንደር ሂዱ ።
+ናብታ አብ ቅድሜኹም ዘላ ዓዲ ኪዱ ።
+# ATT_id = x16-s11
+# sent_id = S-944
+ደብረዘይት ወደምትባል የእስራኤል ከተማ መጣ ።
+ደብረዘይቲ ናብ እትበሃል ናይ እስራኤል ከተማ መጺኡ ።
+# ATT_id = x16-s17
+# sent_id = S-945
+የበለጠ ብትጥር እንዲያውም የተሻለ ልታነብ ትችላለህ ።
+ኣብሊጽካ ምስትጽዕር ፡ እኳ ደኣ ዝሓሸ ከተንብብ ትኽእል ኢኻ ።
+# ATT_id = x16-s18
+# sent_id = S-946
+በይበልጥ እያወቃት ሲሄድ ጠላት ።
+ብዝበለጸ እናፈለጣ ምስ መጸ ጸሊኡዋ ።
+# ATT_id = x16-s19
+# sent_id = S-947
+ጠንክሮ ይማር እንደሆነ ወደ አሜሪካ እልከዋለሁ ።
+በርቲዑ ዝምሃር እንተ ኰይኑ ፡ ንኣሜሪካ ክልእኮ እየ ።
+# ATT_id = x17-s1
+# sent_id = S-948
+የሚያምህ እንደሆነ ወደ ሐኪም ሂድ ።
+ዝሕመካ እንተ ኰይኑ ፡ ናብ ሓኪም ኪድ ።
+# ATT_id = x17-s2
+# sent_id = S-949
+የምትሰጋ ከሆነ ልጅህን ወደዚያ ቦታ አትላክ ።
+ትሰግእ እንተ ኰይንካ ፡ ውላድካ ናብቲ ቦታ ኣይትልኣኽ ።
+# ATT_id = x17-s3
+# sent_id = S-950
+የበለጠ ችሮታ ለማድረግ የሚችልበትን ዘዴ ባገኝ ብሎ ተመኘ ።
+ዝበለጸ ረዲኤት ክህበሉ ዝኽእለሉ ሜላ እንተዝረክብ ኢሉ ተመንዩ ።
+# ATT_id = x17-s4
+# sent_id = S-951
+ተቀጥረህ ነዋ የምትሠራው ።
+ተቖጺርካ ኢኻ 'ኳ እትሰርሕ ።
+# ATT_id = x17-s5
+# sent_id = S-952
+ይህ መርዝ ይገድለው ይሆን ?
+እቲ ስሚ ይቐትሎ ዶ ይኸውን ?
+# ATT_id = x17-s6
+# sent_id = S-953
+ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።
+ናብ ኣዲስ አበባ ክኸይድ ደልየ ነይረ ።
+# ATT_id = x17-s7
+# sent_id = S-954
+አልሰማም ይሆን ?
+ዘይሰምዕ ዶ ይኸውን ?
+# ATT_id = x17-s8
+# sent_id = S-955
+ከካሳ የባሰ አጭር ነው ።
+ካብ ካሕሳይ ዝገደደ ሓጺር እዩ ።
+# ATT_id = x17-s9
+# sent_id = S-956
+ከበደ የናቱን ሞት ተረዳ ።
+ከበደ ናይ አዲኡ ሞት ተረዲኡ ።
+# ATT_id = x17-s10
+# sent_id = S-957
+መጽሐፉን ጻፊያ ።
+ነቲ መጽሓፍ ጽሓፍዮ 'ሞ ።
+# ATT_id = x17-s11
+# sent_id = S-958
+ከጋዜጣ በስተቀር ብዙም አያነብም ።
+ካብ ጋዜጣ ሓሊፉ ብዙሕ ኣየንብብን እዩ ።
+# ATT_id = x17-s12
+# sent_id = S-959
+ይበላልም ይጠጣልም ።
+ይበልዕን ይሰተን እዩ ።
+# ATT_id = x17-s13
+# sent_id = S-960
+ልጁ ርቦታልም ጠምቶታልም ።
+እቲ ወዲ ጠምዩዎን ጸሚኡዎን አሎ ።
+# ATT_id = x17-s14
+# sent_id = S-961
+ገንዘብም ምክርም ሰጠኝ ።
+ገንዘብን ምኽርን ሂቡኒ ።
+# ATT_id = x17-s15
+# sent_id = S-962
+እሱም የክበባችን አባል ነው ።
+ንሱ 'ውን ናይ ክለብና አባል እዩ ።
+# ATT_id = x17-s16
+# sent_id = S-963
+እኔ ልሠራው ከቻልኩ አንተም ትችላለህ ።
+ኣነ ክሰርሖ እንተኽኢለ ፡ ንስኻ 'ውን ትኽእል ኢኻ ።
+# ATT_id = x17-s17
+# sent_id = S-964
+ልጅቷም ቆንጆ ናት ።
+እታ ጓል 'ውን ጽብቕቲ እያ ።
+# ATT_id = x17-s18
+# sent_id = S-965
+መቶዎቹም በጎች ተሸጡ ።
+እተን ሚእቲ አባጊዕ 'ውን ተሸይጠን እየን ።
+# ATT_id = x17-s19
+# sent_id = S-966
+ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።
+ኣለም ይርስዕ እዩ ፡ ከምኡ 'ውን ተስፋይ ።
+# ATT_id = x17-s20
+# sent_id = S-967
+ሦስት ሰዎች መጡ እነሱም ታደሰ ፣ ኃይሉና ተፈራ ናቸው ።
+ሰለስተ ሰባት መጺኦም ፡ ንሳቶም ከአ ታደሰ፣ ሃይሉን ተፈሪን እዮም ።
+# ATT_id = x18-s1
+# sent_id = S-968
+ብርም ሆነ ወርቅ ሊገዛው አይችልም ።
+ብሩር ይኹን ወርቂ ክገዝኦ ኣይኽእልን እዩ ።
+# ATT_id = x18-s2
+# sent_id = S-969
+እሱም እኔም ልንሠራው አንችልም ።
+ንሱ ይኹን ኣነ ክንሰርሖ ኣይንኽእልን ኢና ።
+# ATT_id = x18-s3
+# sent_id = S-970
+ዓለሙ ካልሄደ ተስፋዬም አይሄድም ።
+ኣለም እንተ ዘይከይዱ ፡ ተስፋይ 'ውን ኣይከይድን እዩ ።
+# ATT_id = x18-s4
+# sent_id = S-971
+አይዘፍንምም አይደንስምም ።
+ኣይደርፍ ኣይስዕስዕ ።
+# ATT_id = x18-s5
+# sent_id = S-972
+ምሳዬን አልበላሁም ቁርሴንም ቢሆን እንዲሁ ።
+ምስሐይ ኣይበላዕኩን ፡ ቁርሰይ 'ውን እንተኾነ ከምኡ ።
+# ATT_id = x18-s6
+# sent_id = S-973
+በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደልም ይደረሳል ።
+ኣብ 'ዚ እዋን እዚ ፡ ገንዘብ ንምርካብ ተባሂሉ ክሳብ ምቕታል እዩ ዝብጻሕ ።
+# ATT_id = x18-s7
+# sent_id = S-974
+ባይደርቅም ልብሱን አግቢው ።
+ወላ ኣይንቀጽ ፡ ነቲ ክዳን ኣእትውዮ ።
+# ATT_id = x18-s8
+# sent_id = S-975
+እኔማ ሥራ በዝቶብኛል ።
+ኣነ 'ኳ ስራሕ በዚሑኒ አሎ ።
+# ATT_id = x18-s9
+# sent_id = S-976
+እንግዲያውማ ሁሉም ነገር ተፈርሟል ።
+ደጊም እኳ ኩሉ ነገር ተፈሪሙ እዩ ።
+# ATT_id = x18-s10
+# sent_id = S-977
+በምግብስ በኩል ምግቡ መጥፎ አይደለም ።
+ብምግቢ እውን እንተኾነ ፡ እቲ ምግቢ ሕማቕ ኣይኮነን ።
+# ATT_id = x18-s11
+# sent_id = S-978
+ምን ይደረግ መቼስ ?
+እንታይ ይገብር መቸም ?
+# ATT_id = x18-s12
+# sent_id = S-979
+እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?
+ንሱ እንተኾነ 'ኸ ከመይ ኢሉ ንገንዘብ ክብል ንዓርኩ ይኽሕድ ?
+# ATT_id = x18-s13
+# sent_id = S-980
+ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?
+ንእሽቶይ ገዛ እውን እንተዀነት ፡ ንኹላትና ኣይትኣክልን ?
+# ATT_id = x18-s14
+# sent_id = S-981
+እስከ ነገ ብትቆይስ ?
+ክሳብ ጽባሕ እንተጸናሕካ ኸ ?
+# ATT_id = x18-s15
+# sent_id = S-982
+ቢያዳምጣትስ ኖሮ ።
+እንተዝሰምዓስ ነይሩ ።
+# ATT_id = x18-s16
+# sent_id = S-983
+ዛሬሳ ምንም ምግብ አትቀምስም ?
+ሎምኸ ዝኾነ ምግቢ ኣይትጥዕምን ኢኻ ?
+# ATT_id = x18-s17
+# sent_id = S-984
+ዛሬ ወደ ተማሪ ቤት ለመሄድ አልተሰናዳህምሳ ?
+ሎሚ ናብ ቤት ትምህርቲ ክትከይደ ዘይተዳለኻ ደኣ ?
+# ATT_id = x18-s18
+# sent_id = S-985
+መስኮቱን ዝጋ !
+ነቲ መስኮት ዕጸዎ !
+# ATT_id = x18-s19
+# sent_id = S-986
+እሳቱን ከሰል ጨምርበት !
+ነቲ ሓዊ ፍሓም ወስኸሉ !
+# ATT_id = x18-s20
+# sent_id = S-987
+ጤናዎንስ እንደምን ነዎት ?
+ጥዕናኹም 'ከ ከመይ አለኹም ?
+# ATT_id = x19-s1
+# sent_id = S-988
+ወተቱን ምን ያደርጉታል ?
+ነቲ ጸባ እንታይ ክትገብሩዎ ኢኹም ?
+# ATT_id = x19-s2
+# sent_id = S-989
+እኔን ይሰረቃል ብሎ መጠርጠር ዘበት ነው ።
+ንዓይ ይሰርቕ እዩ ኢልካ ምጥርጣር ዘበት እዩ ።
+# ATT_id = x19-s4
+# sent_id = S-990
+ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።
+ርእሱ ካብ ዝህረም ኣትሒዙ ፡ ምዝካር ኣብዩዎ ።
+# ATT_id = x19-s5
+# sent_id = S-991
+ለልጁ ቤቱን አሳየው ።
+ነቲ ወዲ ነቲ ገዛ ኣርእይዎ ።
+# ATT_id = x19-s6
+# sent_id = S-992
+መሬት ፀሐይን ትዞራለች ።
+መሬት ንጸሓይ ትዞራ ።
+# ATT_id = x19-s7
+# sent_id = S-993
+ሀምሌትን ሆኖ የሚጫወተው ማነው ?
+ከም ሃምሌት ኮይኑ ዝዋሳእ መን እዩ ?
+# ATT_id = x19-s8
+# sent_id = S-994
+ረኃብ ካዋቂ ይልቅ ልጅን ነው የሚርብ ።
+ጠምየት ካብ ዓብይ ንላዕሊ ንቆልዓ እዩ ዘጥምይ ።
+# ATT_id = x19-s9
+# sent_id = S-995
+ውሸታቸውን ነው ።
+ሓስዮም እዮም ።
+# ATT_id = x19-s10
+# sent_id = S-996
+ፈረሱ ሌጣውን ጋለበ ።
+ነቲ ፈረስ ጥርሑ ጋሊቡዎ ።
+# ATT_id = x19-s11
+# sent_id = S-997
+ጦማቸውን ዋሉ ።
+ብጾሞም ውዒሎም ።
+# ATT_id = x19-s12
+# sent_id = S-998
+መንገድ ሲያቋርጡ ልጁን እጁን ያዘችው ።
+መንገዲ ክሳገሩ እንከለዉ ፡ ነቲ ቆልዓ ብኢዱ ሒዛቶ ።
+# ATT_id = x19-s13
+# sent_id = S-999
+ቀኑን ሙሉ ተኝቶ ነበር ።
+ምሉእ ምዓልቲ ደቂሱ ነይሩ ።
+# ATT_id = x19-s14
+# sent_id = S-1000
+እግዚአብሔርን ! እውነት ነው ።
+ብኡነት ! ሓቂ እዩ ።
+# ATT_id = x19-s15
+# sent_id = S-1001
+ምን እባክህ ዝናብ እምቢ ብሎ አዝመራው አልተሳካም ።
+እንታይ በጃኻ ኢለካ ፡ ማይ ምህራም ኣብዩ ፡ ኣዝመራ ኣይተዓወተን ።
+# ATT_id = x19-s16
+# sent_id = S-1002
+እርሳሱን እንሆ !
+እቲ ርሳስ እንሆለ ?
+# ATT_id = x19-s17
+# sent_id = S-1003
+ብድር ነው እንዴ የሚፈልጉት ?
+ለቕሕ ዲኹም ድኣ ትደልዩ ዘለኹም ?
+# ATT_id = x19-s18
+# sent_id = S-1004
+ይመጣል እንዴ ?
+ክመጽእ ድዩ ደኣ ?
+# ATT_id = x19-s19
+# sent_id = S-1005
+ይህ ልጅ መዳኑን እንጃ ?
+እዚ ቆልዓ ምድሓኑ እንድዒ ?
+# ATT_id = x19-s20
+# sent_id = S-1006
+የዘንድሮን ነገር እንጃልኝ ።
+ናይ ሎምዘመን ነገርስ ፡ እንድዕለይ ።
+# ATT_id = x20-s1
+# sent_id = S-1007
+እኔ እኮ ይህ ፈረስ ያንተ መስሎኝ ነበር ።
+ኣነ ደኣ እዚ ፈረስ ናትካ መሲሉኒ ነይሩ ።
+# ATT_id = x20-s2
+# sent_id = S-1008
+አዪ እሱ እዚህ ቢሆን ኖሮ ።
+ርኣዩ ንሱ አብዚ እንተዝነብር ነይሩ ።
+# ATT_id = x20-s3
+# sent_id = S-1009
+ኤዲያ ! ተመልከት ምን እንዳደረግህ ።
+ኤድያ ! እንታይ ከምዝገብርካ ርአ ።
+# ATT_id = x20-s4
+# sent_id = S-1010
+ፈረሱ ቶሎ ቶሎ ሂያጅ ነው ።
+እቲ ፈረስ ቀልጢፉ ዝኸይድ እዩ ።
+# ATT_id = x20-s5
+# sent_id = S-1011
+ለሚያስፈልገኝ ነገር ሁሉ ደጋፊዬ እሱ ነው ።
+ኣብ ዘድልየኒ ዘበለ ኩሉ ደጋፊየይ ንሱ እዩ ።
+# ATT_id = x20-s6
+# sent_id = S-1012
+ገንዘብ ፈላጊ ነኝ ።
+ደላዪ ገንዘብ እዩ ።
+# ATT_id = x20-s7
+# sent_id = S-1013
+ይህ ቤት ፈራሽ ነው ።
+እዚ ገዛ ፈራሲ እዩ ።
+# ATT_id = x20-s8
+# sent_id = S-1014
+አባቷ ዛሬ ደራሽ ነው ።
+ኣቦኣ ሎሚ ክመጽእ እዩ ።
+# ATT_id = x20-s9
+# sent_id = S-1015
+ሰው ሟች ነው ።
+ሰብ መዋቲ እዩ ።
+# ATT_id = x20-s10
+# sent_id = S-1016
+ሰው ተሰባሪ ነው ።
+ሰብ ተሰባሪ እዩ ።
+# ATT_id = x20-s11
+# sent_id = S-1017
+ጦርነቱ ካልቆመ ሁላችንም ተሰዳጅ ነን ።
+እቲ ውግእ ደው እንተ ዘይኢሉ ፡ ኩልና ክንስደድ ኢና ።
+# ATT_id = x20-s12
+# sent_id = S-1018
+ዓለሚቱ ተወዳጅ ጠባይ አላት ።
+ኣለም ተፈታዊ ጠባይ አለዋ ።
+# ATT_id = x20-s13
+# sent_id = S-1019
+ከብታችንን በመስረቁ ምክንያት ታሰረ ።
+ከብትና ስለዝሰረቐ ተኣሲሩ ።
+# ATT_id = x20-s14
+# sent_id = S-1020
+መግደል ኃጢያት ነው ።
+ምቕታል ሓጢያት እዩ ።
+# ATT_id = x20-s15
+# sent_id = S-1021
+የልጃቸው መፈታት ሲሰማ ቤታቸው ውስጥ ደስታ ሆነ ።
+ናይ ውሉዶም ምፍታሕ ምስተሰምዐ ፡ አብ ገዝኦም ሓጐስ ኮነ ።
+# ATT_id = x20-s16
+# sent_id = S-1022
+ያለ ፓስፖርት ወደ ውጭ አገር መጓዝ አይቻልም ።
+ብዘይ ፓስፖርት ናብ ወጻኢ ሃገር ምጋሽ ኣይከኣልን እዩ ።
+# ATT_id = x20-s17
+# sent_id = S-1023
+ምንም ጐበዝ ቢሆን መሸነፉ አይቀርም ።
+ዋላ 'ኳ ንፉዕ እንተኾነ ፡ ምሽናፉ ኣይተርፎን እዩ ።
+# ATT_id = x20-s18
+# sent_id = S-1024
+ፍየል ከመድረሷ ቅጠል መበጠሷ ።
+ጤልስ ቅድሚ ምርካባ ፡ ቆጽሊ ትቕንጥብ ።
+# ATT_id = x20-s19
+# sent_id = S-1025
+እናቲቱ የልጇን ፈተና መውደቅ ሰማች ።
+እታ አደ ናይ ወዳ ፈተና ምትራፍ ሰሚዓ ።
+# ATT_id = x20-s20
+# sent_id = S-1026
+አዳዲስ ልብስ መልበስ ይወዳል ።
+ሕድሽ ዝበለ ክዳን ምኽዳን ይፈቱ ።
