@@ -136,7 +136,7 @@
 # sent_id = am-ref-14
 1-3	ራሴን	_	_	_	_	_	_	_	Translit=rasen
 1	ራስ	ራስ	NOUN	NOUN	Number=Sing	4	iobj	_	_
-2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	1	det:poss	_	Possessive=Yes
 3	ን	ን	ADP	ADP	Case=Obj	1	case	_	_
 4-6	አመመኝ	_	_	_	_	_	_	_	Translit=ʼaməməň
 4	ኣመም	አመመ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=እምም:A
@@ -196,7 +196,7 @@
 # sent_id = am-ref-19
 1-2	አባቴ	_	_	_	_	_	_	_	Translit=ʼabate
 1	አባት	አባት	NOUN	NOUN	Number=Sing	0	root	_	_
-2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	1	det:poss	_	Possessive=Yes
 3	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	1	cop	_	Translit=nəw
 4	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
@@ -213,7 +213,7 @@
 1	ጨዋታ	ጨዋታ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def	1	det	_	_
 3	ቀላል	ቀላል	ADJ	ADJ	Number=Sing	0	root	_	Translit=k'əlal
-4	አይደለም	_	VERB	AUX	Polarity=Neg|Gender=Masc|Number=Sing|Person=3	3	cop	_	Translit=ʼaydələm
+4	አይደለም	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Neg	3	cop	_	Translit=ʼaydələm
 5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = ምግቡ ጥሩ ነው ።
@@ -383,9 +383,8 @@
 1	በ	በ	ADP	ADP	Case=Obl	2	case	_	_
 2	ታክሲ	ታክሲ	NOUN	NOUN	Number=Sing	6	obl	_	_
 3	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wədə
-4-5	ትምህርት ቤት	_	_	_	_	_	_	_	Translit=tmhrt bet
-4	ትምህርት	ትምህርት	NOUN	NOUN	_	5	compound	_	_
-5	ቤት	ቤት	NOUN	NOUN	Number=Sing	6	obl	_	_
+4	ትምህርት	ትምህርት	NOUN	NOUN	_	5	compound	_	Translit=tmhrt
+5	ቤት	ቤት	NOUN	NOUN	Number=Sing	6	obl	_	Translit=bet
 6-7	መጣች	_	_	_	_	_	_	_	Translit=mət'ač
 6	መጣ	መጣ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ምጥእ:A
 7	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	6	nsubj:aff	_	_
@@ -405,7 +404,7 @@
 1	ቤት	ቤት	NOUN	NOUN	Number=Sing	3	obl	_	Translit=bet
 2-5	የደረሰው	_	_	_	_	_	_	_	Translit=yədərəsəw
 2	የ	የ	SCONJ	SCONJ	_	3	mark	_	_
-3	ደረስ	ደረሰ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl	6	csubj	_	Aimad=DERAGI|Root=ድርስ:A
+3	ደረስ	ደረሰ	VERB	VSTEM	Aspect=Perf	6	csubj	_	Aimad=DERAGI|ClauseType=ACl|Root=ድርስ:A
 4	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj:aff	_	_
 5	ው	ው	DET	DET	Definite=Def	3	det	_	_
 6	ማታ	ማታ	NOUN	NOUN	Number=Sing	0	root	_	Translit=mata
@@ -419,7 +418,7 @@
 3	ቤት	ቤት	NOUN	NOUN	Number=Sing	5	obl	_	Translit=bet
 4-7	የደረሰው	_	_	_	_	_	_	_	Translit=yədərəsəw
 4	የ	የ	SCONJ	SCONJ	_	5	mark	_	_
-5	ደረስ	ደረሰ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl	1	csubj:cleft	_	Aimad=DERAGI|Root=ድርስ:A
+5	ደረስ	ደረሰ	VERB	VSTEM	Aspect=Perf	1	csubj:cleft	_	Aimad=DERAGI|ClauseType=ACl|Root=ድርስ:A
 6	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj:aff	_	_
 7	ው	ው	DET	DET	Definite=Def	5	det	_	_
 8	።	።	PUNCT	PUNCT	_	1	punct	_	_
@@ -436,7 +435,7 @@
 
 # text = አስቴር ካሌብን በተደጋጋሚ ጠራችው ።
 # sent_id = am-ref-42
-1	አስቴር	አስቴር	PROPN	PROPN		6	nsubj	_	Translit=aster
+1	አስቴር	አስቴር	PROPN	PROPN	_	6	nsubj	_	Translit=aster
 2-3	ካሌብን	_	_	_	_	_	_	_	Translit=kalebn
 2	ካሌብ	ካሌብ	PROPN	PROPN	_	6	obj	_	_
 3	ን	ን	ADP	ADP	Case=Obj	2	case:aff	_	_
@@ -455,7 +454,7 @@
 2-4	ወደሚባል	_	_	_	_	_	_	_	Translit=wədəmibal
 2	ወደም	ወደም	ADP	ADP	Case=Obl	4	mark	_	_
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj:aff	_	_
-4	ባል	ተባለ	VERB	VSTEM	Aspect=Imp|ClauseType=ACl|Voice=Pass	5	acl	_	Aimad=OBL|Root=ብእል:A
+4	ባል	ተባለ	VERB	VSTEM	Aspect=Imp|Voice=Pass	5	acl	_	Aimad=OBL|ClauseType=ACl|Root=ብእል:A
 5	ከተማ	ከተማ	NOUN	NOUN	Number=Sing	6	obl	_	Translit=kətəma
 6-7	ሄድኩ	_	_	_	_	_	_	_	Translit=hedku
 6	ሄድ	ሄደ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ህይድ:A
@@ -539,7 +538,7 @@
 14	የ	የ	PART	RLP	Case=Obj	17	mark	_	_
 15	ም	ም	PART	IRLP	_	17	mark	_	_
 16	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj:aff	_	_
-17	ንኳኳ	ተንኳኳ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	20	acl	_	Aimad=TEDERAGI|Root=ንኩእኩእ:G
+17	ንኳኳ	ተንኳኳ	VERB	VSTEM	Aspect=Imp	20	acl	_	Aimad=TEDERAGI|ClauseType=Subord|Root=ንኩእኩእ:G
 18	አው	አው	DET	DET	Definite=Def	17	det:aff	_	_
 19	ን	ን	ADP	ADP	_	17	case:aff	_	_
 20	በር	በር	NOUN	NOUN	Number=Sing	22	obj	_	Translit=bər
@@ -619,7 +618,7 @@
 7	፣	፣	PUNCT	PUNCT	_	8	punct	_	_
 8-9	እህቷ	_	_	_	_	_	_	_	Translit=ʼhtwa
 8	እህት	እህት	NOUN	NOUN	Number=Sing	5	conj	_	_
-9	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	8	det:poss	_	_
+9	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	det:poss	_	Possessive=Yes
 10	ደግሞ	ደግሞ	ADV	ADV	_	8	orphan	_	Translit=dəgmo
 11	ጅማ	ጅማ	PROPN	PROPN	Number=Sing	8	orphan	_	Translit=ǰma
 12	።	።	PUNCT	PUNCT	_	5	punct	_	_
@@ -628,7 +627,7 @@
 # sent_id = am-ref-55
 1-4	ያቀድነው	_	_	_	_	_	_	_	Translit=yak'ədnəw
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ኣቀድ	አቀደ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl	5	acl	_	Aimad=DERAGI|Root=እቅድ:B
+2	ኣቀድ	አቀደ	VERB	VSTEM	Aspect=Perf	5	acl	_	Aimad=DERAGI|ClauseType=ACl|Root=እቅድ:B
 3	ን	ን	PRON	SUBJC	Number=Plur|Person=1	2	nsubj:aff	_	_
 4	አው	አው	DET	DET	Definite=Def	2	det	_	_
 5	ነገር	ነገር	NOUN	NOUN	Number=Sing	7	nsubj	_	Translit=nəgər
@@ -644,7 +643,7 @@
 # sent_id = am-ref-56
 1-4	ያቀድነው	_	_	_	_	_	_	_	Translit=yak'ədnəw
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ኣቀድ	አቀደ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl	6	csubj	_	Aimad=DERAGI|Root=እቅድ:B
+2	ኣቀድ	አቀደ	VERB	VSTEM	Aspect=Perf	6	csubj	_	Aimad=DERAGI|ClauseType=ACl|Root=እቅድ:B
 3	ን	ን	PRON	SUBJC	Number=Plur|Person=1	2	nsubj:aff	_	_
 4	አው	አው	DET	DET	Definite=Def	2	det	_	_
 5-9	አልተሳካልንም	_	_	_	_	_	_	_	Translit=ʼaltəsakalnm
@@ -659,7 +658,7 @@
 # sent_id = am-ref-57
 1-4	የተናገረችው	_	_	_	_	_	_	_	Translit=yətənagərəčw
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ተናገር	ተናገረ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Rcp1	6	csubj	_	Aimad=TEDARAGI|Root=ንግር:A
+2	ተናገር	ተናገረ	VERB	VSTEM	Aspect=Perf|Voice=Rcp1	6	csubj	_	Aimad=TEDARAGI|ClauseType=ACl|Root=ንግር:A
 3	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	2	nsubj:aff	_	_
 4	ው	ው	DET	DET	Definite=Def	2	det	_	_
 5-9	አልገባኝም	_	_	_	_	_	_	_	Translit=ʼalgəbaňm
@@ -675,7 +674,7 @@
 1	ጡረታ	ጡረታ	NOUN	NOUN	Number=Sing	3	obl	_	Translit=t'urəta
 2-5	የወጣው	_	_	_	_	_	_	_	Translit=yəwət'aw
 2	የ	የ	SCONJ	SCONJ	_	3	mark	_	_
-3	ወጣ	ወጣ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl	8	csubj	_	Aimad=DERAGI|Root=ውጥእ:A
+3	ወጣ	ወጣ	VERB	VSTEM	Aspect=Perf	8	csubj	_	Aimad=DERAGI|ClauseType=ACl|Root=ውጥእ:A
 4	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj:aff	_	_
 5	ው	ው	DET	DET	Definite=Def	3	det	_	_
 6-9	አያስተምርም	_	_	_	_	_	_	_	Translit=ʼayastəmrm
@@ -692,7 +691,7 @@
 2	ኋላ	ኋላ	NOUN	NOUN	Number=Sing	4	obl	_	_
 3-7	የተሰለፈውን	_	_	_	_	_	_	_	Translit=yətəsələfəwn
 3	የ	የ	PART	RLP	Case=Obj	4	mark	_	_
-4	ተሰለፍ	ተሰለፈ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	8	acl	_	Aimad=TEDERAGI|Root=ስልፍ:B
+4	ተሰለፍ	ተሰለፈ	VERB	VSTEM	Aspect=Perf	8	acl	_	Aimad=TEDERAGI|ClauseType=Subord|Root=ስልፍ:B
 5	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:aff	_	_
 6	ው	ው	DET	DET	Definite=Def	4	det:aff	_	_
 7	ን	ን	ADP	ADP	_	4	case:aff	_	_
@@ -709,7 +708,7 @@
 2	ኋላ	ኋላ	NOUN	NOUN	Number=Sing	4	obl	_	_
 3-7	የተሰለፈውን	_	_	_	_	_	_	_	Translit=yətəsələfəwn
 3	የ	የ	PART	RLP	Case=Obj	4	mark	_	_
-4	ተሰለፍ	ተሰለፈ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	8	ccomp	_	Aimad=TEDERAGI|Root=ስልፍ:B
+4	ተሰለፍ	ተሰለፈ	VERB	VSTEM	Aspect=Perf	8	ccomp	_	Aimad=TEDERAGI|ClauseType=Subord|Root=ስልፍ:B
 5	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:aff	_	_
 6	ው	ው	DET	DET	Definite=Def	4	det:aff	_	_
 7	ን	ን	ADP	ADP	_	4	case:aff	_	_
@@ -732,7 +731,7 @@
 1-3	የትምህርቱ	_	_	_	_	_	_	_	Translit=yətmhrtu
 1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
 2	ትምህርት	ትምህርት	NOUN	NOUN	Number=Sing	4	nmod	_	_
-3	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	2	det:poss	_	_
+3	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det:poss	_	Possessive=Yes
 4	ማለቅ	ማለቅ	NOUN	NOUN	Number=Sing|VerbForm=Inf	5	csubj	_	Translit=malək'
 5	መልካም	መልካም	ADJ	ADJ	Number=Sing	0	root	_	Translit=məlkam
 6	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	5	cop	_	Translit=nəw
@@ -743,7 +742,7 @@
 1	ሃብታም	ሀብታም	ADJ	ADJ	Number=Sing	4	nsubj	_	Translit=habtam
 2-3	መሆናቸው	_	_	_	_	_	_	_	Translit=məhonačəw
 2	መሆን	መሆን	NOUN	NOUN	Number=Sing|VerbForm=Inf	1	cop	_	_
-3	ኣቸው	እኑሱ	PRON	POSM	Number=Plur|Person=3|Possessive=Yes|PronType=Prs	2	det:poss	_	_
+3	ኣቸው	እኑሱ	PRON	POSM	Number=Plur|Person=3|PronType=Prs	2	det:poss	_	Possessive=Yes
 4-6	አስገረመን	_	_	_	_	_	_	_	Translit=ʼasgərəmən
 4	ኣስገረም	አስገረመ	VERB	VSTEM	Aspect=Perf|Voice=Cau	0	root	_	Aimad=ASDERAGI|Root=ግርም:A
 5	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj:aff	_	_
@@ -755,7 +754,7 @@
 1	ሃብታም	ሀብታም	PROPN	PROPN	Number=Sing	4	nsubj	_	Translit=habtam
 2-3	መሆኗ	_	_	_	_	_	_	_	Translit=məhonwa
 2	መሆን	መሆን	NOUN	NOUN	Number=Sing|VerbForm=Inf	1	cop	_	_
-3	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	2	det:poss	_	_
+3	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	det:poss	_	Possessive=Yes
 4-5	ታወቀ	_	_	_	_	_	_	_	Translit=tawək'ə
 4	ታወቅ	ታወቀ	VERB	VSTEM	Aspect=Perf|Voice=Pass	0	root	_	Aimad=TEDERAGI|Root=እውቅ:A
 5	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj:aff	_	_
@@ -766,12 +765,12 @@
 1	ወደ	ወደ	ADP	ADP	_	2	case	_	Translit=wədə
 2-3	ቤቷ	_	_	_	_	_	_	_	Translit=betwa
 2	ቤት	ቤት	NOUN	NOUN	Number=Sing	7	obl	_	_
-3	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	2	det:poss	_	_
+3	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	det:poss	_	Possessive=Yes
 4-7	እንደምትመለስ	_	_	_	_	_	_	_	Translit='ndəmtmələs
 4	እንደ	እንደ	SCONJ	SCONJ	_	7	mark	_	_
 5	ም	ም	PART	IRLP	_	7	mark	_	_
 6	ት	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj:aff	_	_
-7	መለስ	ተመለሰ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord|Voice=Pass	9	ccomp	_	Aimad=TEDERAGI|Root=ምልስ:B
+7	መለስ	ተመለሰ	VERB	VSTEM	Aspect=Imp|Voice=Pass	9	ccomp	_	Aimad=TEDERAGI|ClauseType=Subord|Root=ምልስ:B
 8-9	አውቅ	_	_	_	_	_	_	_	Translit=awk'
 8	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	9	nsubj:aff	_	_
 9	ኣውቅ	አወቀ	VERB	VSTEM	Aspect=Imp	0	root	_	Aimad=DERAGI|Root=እውቅ:A
@@ -797,12 +796,12 @@
 2-6	ባትመጣም	_	_	_	_	_	_	_	Translit=batmət'am
 2	ብ	ብ	SCONJ	SCONJ	_	5	mark	_	_
 3	ኣ	ኣ	ADV	NEG	Polarity=Neg	5	advmod:aff	_	_
-4	ት	እሱ	PRON	SUBJC	Gender=Fem|Person=3|Number=Sing	5	nsubj:aff	_	_
-5	መጣ	መጣ	VERB	VSTEM	Aspect=Imp|ClauseType=AdvCl	9	advcl	_	_
+4	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	5	nsubj:aff	_	_
+5	መጣ	መጣ	VERB	VSTEM	Aspect=Imp	9	advcl	_	ClauseType=AdvCl
 6	ም	ም	CCONJ	CCONJ	_	5	cc	_	_
 7-8	መሄዳችን	_	_	_	_	_	_	_	Translit=məhedačn
 7	መሄድ	መሄድ	NOUN	NOUN	Number=Sing|VerbForm=Inf	9	csubj	_	_
-8	ኣችን	እኛ	PRON	POSM	Number=Plur|Person=1|Possessive=Yes|PronType=Prs	7	det:poss	_	_
+8	ኣችን	እኛ	PRON	POSM	Number=Plur|Person=1|PronType=Prs	7	det:poss	_	Possessive=Yes
 9	ግድ	ግድ	NOUN	NOUN	Number=Sing	0	root	_	Translit=gd
 10	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	9	cop	_	Translit=nəw
 11	።	።	PUNCT	PUNCT	_	9	punct	_	_
@@ -813,7 +812,7 @@
 2	ሰው	ሰው	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	Translit=səw
 3-4	ጉዳዬ	_	_	_	_	_	_	_	Translit=gudaye
 3	ጉዳይ	ጉዳይ	NOUN	NOUN	Number=Sing	5	ccomp	_	_
-4	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	3	det:poss	_	_
+4	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	3	det:poss	_	Possessive=Yes
 5-6	ብሎ	_	_	_	_	_	_	_	Translit=blo
 5	ብል	አለ	VERB	VSTEM	VerbForm=Conv	11	advcl	_	Aimad=DERAGI|Root=ብእል:A
 6	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj:aff	_	_
@@ -824,7 +823,7 @@
 10	አትኩሮት	አትኩሮት	NOUN	NOUN	Number=Sing	11	obj	_	Translit=ʼatkurot
 11-12	አለመስጠቱ	_	_	_	_	_	_	_	Translit=ʼaləməst'ətu
 11	ኣለመስጠት	መስጠት	NOUN	NOUN	Number=Sing|Polarity=Neg|VerbForm=Inf	13	csubj	_	_
-12	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	11	det:poss	_	_
+12	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det:poss	_	Possessive=Yes
 13-16	አሳዝኗታል	_	_	_	_	_	_	_	Translit=ʼasaznwatal
 13	ኣሳዝን	አሳዘነ	VERB	VSTEM	Voice=Cau	0	root	_	Aimad=ASDERAGI|Root=እዝን:A
 14	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	nsubj:aff	_	_
@@ -871,10 +870,10 @@
 # sent_id = am-ref-71
 1-2	ልጇ	_	_	_	_	_	_	_	Translit=lǰwa
 1	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	10	nsubj	_	_
-2	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	det:poss	_	Possessive=Yes
 3-5	ትምህርቱን	_	_	_	_	_	_	_	Translit=tmhrtun
 3	ትምህርት	ትምህርት	NOUN	NOUN	Number=Sing	10	obj	_	_
-4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	3	det:poss	_	_
+4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det:poss	_	Possessive=Yes
 5	ን	ን	ADP	ADP	Case=Obj	3	case	_	_
 6-7	ጠንክሮ	_	_	_	_	_	_	_	Translit=t'ənkro
 6	ጠንክር	ጠነከረ	VERB	VSTEM	VerbForm=Conv	10	advcl	_	Aimad=DERAGI|Root=ጥንክር:E
@@ -882,7 +881,7 @@
 8-10	እንዲማር	_	_	_	_	_	_	_	Translit=ʼndimar
 8	እንድ	እንድ	SCONJ	SCONJ	_	10	mark	_	_
 9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	_
-10	ማር	ተማረ	VERB	VSTEM	Aspect=Imp|ClauseType=AdvCl|Voice=Pass	11	advcl	_	Aimad=SUBORD|Root=ምእር:A
+10	ማር	ተማረ	VERB	VSTEM	Aspect=Imp|Voice=Pass	11	advcl	_	Aimad=SUBORD|ClauseType=AdvCl|Root=ምእር:A
 11-13	መከረችው	_	_	_	_	_	_	_	Translit=məkərəčw
 11	መከር	መከረ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ምክር:A
 12	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	11	nsubj:aff	_	_
@@ -893,10 +892,10 @@
 # sent_id = am-ref-72
 1-2	ልጇ	_	_	_	_	_	_	_	Translit=lǰwa
 1	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	10	nsubj	_	_
-2	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	det:poss	_	Possessive=Yes
 3-5	ትምህርቱን	_	_	_	_	_	_	_	Translit=tmhrtun
 3	ትምህርት	ትምህርት	NOUN	NOUN	Number=Sing	10	obj	_	_
-4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	3	det:poss	_	_
+4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det:poss	_	Possessive=Yes
 5	ን	ን	ADP	ADP	Case=Obj	3	case	_	_
 6-7	ጠንክሮ	_	_	_	_	_	_	_	Translit=t'ənkro
 6	ጠንክር	ጠነከረ	VERB	VSTEM	VerbForm=Conv	10	advcl	_	Aimad=DERAGI|Root=ጥንክር:E
@@ -904,7 +903,7 @@
 8-10	እንዲማር	_	_	_	_	_	_	_	Translit=ʼndimar
 8	እንድ	እንድ	SCONJ	SCONJ	_	10	mark	_	_
 9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	_
-10	ማር	ተማረ	VERB	VSTEM	Aspect=Imp|ClauseType=AdvCl|Voice=Pass	11	advcl	_	Aimad=SUBORD|Root=ምእር:A
+10	ማር	ተማረ	VERB	VSTEM	Aspect=Imp|Voice=Pass	11	advcl	_	Aimad=SUBORD|ClauseType=AdvCl|Root=ምእር:A
 11	መምከር	መምከር	NOUN	NOUN	Number=Sing|VerbForm=Inf	13	xcomp	_	Translit=məmkər
 12-15	አላቆመችም	_	_	_	_	_	_	_	Translit=ʼalak'oməčm
 12	ኣል	ኣል	ADV	NEG	Polarity=Neg	13	advmod:aff	_	_
@@ -926,15 +925,15 @@
 1-2	ፀሃይዋ	_	_	_	_	_	_	_	Translit=s'ehaywa
 1	ጸሀይ	ጸሀይ	NOUN	NOUN	Number=Sing	19	nsubj	_	_
 2	ዋ	ዋ	DET	DET	Definite=Def	1	det	_	_
-3-6	ቀስ እያለች	_	_	_	_	_	_	_	Translit=k'əs ʼyaləč
-3	ቀስ	ቀስ	PART	PART	_	5	compound:lvc	_	_
+3	ቀስ	ቀስ	PART	PART	_	5	compound:lvc	_	Translit=k'əs
+4-6	እያለች	_	_	_	_	_	_	_	Translit=ʼyaləč
 4	እየ	እየ	SCONJ	SCONJ	_	5	mark	_	_
-5	ኣል	ቀስ አለ	VERB	VSTEM	Aspect=Perf|ClauseType=AdvCl	9	advcl	_	_
+5	ኣል	ቀስ አለ	VERB	VSTEM	Aspect=Perf	9	advcl	_	ClauseType=AdvCl
 6	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	5	nsubj:aff	_	_
 7-9	ስትጠልቅ	_	_	_	_	_	_	_	Translit=stt'əlk'
 7	ስ	ስ	SCONJ	SCONJ	_	9	mark	_	_
-8	ት	እሱ	PRON	SUBJC	Gender=Fem|Person=3|Number=Sing	9	nsubj:aff	_	_
-9	ጠልቅ	ጠለቀ	VERB	VSTEM	Aspect=Imp|ClauseType=AdvCl	19	advcl	_	Aimad=DERAGI|Root=ጥልቅ:A
+8	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	9	nsubj:aff	_	_
+9	ጠልቅ	ጠለቀ	VERB	VSTEM	Aspect=Imp	19	advcl	_	Aimad=DERAGI|ClauseType=AdvCl|Root=ጥልቅ:A
 10-11	ከሰው	_	_	_	_	_	_	_	Translit=kəsəw
 10	ከ	ከ	ADP	ADP	Case=Obl	11	case	_	_
 11	ሰው	ሰው	NOUN	NOUN	Number=Sing	12	nmod	_	_
@@ -943,7 +942,7 @@
 13	የ	የ	PART	RLP	_	16	mark	_	_
 14	ም	ም	PART	IRLP	_	16	mark	_	_
 15	ት	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj:aff	_	_
-16	ሸሽ	ሸሸ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	_	_	_	Aimad=DERAGI|Root=ሽሽይ:A
+16	ሸሽ	ሸሸ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|ClauseType=Subord|Root=ሽሽይ:A
 17	አፋራም	አፋራም	ADJ	ADJ	Number=Sing	18	amod	_	Translit=afaram
 18	ልጃገረድ	ልጃገረድ	NOUN	NOUN	Gender=Fem|Number=Sing	19	xcomp	_	Translit=lǰagərəd
 19-20	መሰለች	_	_	_	_	_	_	_	Translit=məsələč
@@ -955,11 +954,11 @@
 # sent_id = am-ref-75
 1-3	እየመሸ	_	_	_	_	_	_	_	Translit=ʼyəməšə
 1	እየ	እየ	SCONJ	SCONJ	_	2	mark	_	_
-2	መሸ	መሸ	VERB	VSTEM	Aspect=Perf|ClauseType=AdvCl	8	advcl	_	Aimad=DERAGI|Root=ምሽይ:A
+2	መሸ	መሸ	VERB	VSTEM	Aspect=Perf	8	advcl	_	Aimad=DERAGI|ClauseType=AdvCl|Root=ምሽይ:A
 3	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	_
 4-5	ስለነበር	_	_	_	_	_	_	_	Translit=slənəbər
 4	ስለ	ስለ	ADP	ADP	_	5	mark	_	_
-5	ነበር	ነበረ	VERB	VSTEM	Aspect=Perf|ClauseType=AdvCl	2	aux	_	Aimad=DERAGI|Root=ንብር:A
+5	ነበር	ነበረ	VERB	VSTEM	Aspect=Perf	2	aux	_	Aimad=DERAGI|ClauseType=AdvCl|Root=ንብር:A
 6-7	ቸኩለን	_	_	_	_	_	_	_	Translit=čəkulən
 6	ቸኩል	ቸኰለ	VERB	VSTEM	VerbForm=Conv	8	advcl	_	Aimad=DERAGI|Root=ችኩል:B
 7	አን	አን	PRON	SUBJC	Number=Plur|Person=1	6	nsubj:aff	_	_
@@ -970,13 +969,13 @@
 
 # text = ከትምህርት ቤት ልጄን ለማምጣት እሄዳለሁ ።
 # sent_id = am-ref-76
-1-3	ከትምህርት ቤት	_	_	_	_	_	_	_	Translit=kətmhrt bet
-1	ከ	ከ	ADP	ADP	Case=Obl	3	case	_	_
+1-2	ከትምህርት	_	_	_	_	_	_	_	Translit=kətmhrt
+1	ከ	ከ	ADP	ADP	Case=Obl	2	case	_	_
 2	ትምህርት	ትምህርት	NOUN	NOUN	_	3	compound	_	_
-3	ቤት	ቤት	NOUN	NOUN	Number=Sing	8	obl	_	_
+3	ቤት	ቤት	NOUN	NOUN	Number=Sing	8	obl	_	Translit=bet
 4-6	ልጄን	_	_	_	_	_	_	_	Translit=lǰen
 4	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	8	obj	_	_
-5	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	4	det:poss	_	_
+5	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	4	det:poss	_	Possessive=Yes
 6	ን	ን	ADP	ADP	Case=Obj	4	case	_	_
 7-8	ለማምጣት	_	_	_	_	_	_	_	Translit=ləmamt'at
 7	ለ	ለ	ADP	ADP	Case=Obl	8	case	_	_
@@ -993,13 +992,12 @@
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	Number=Sing	10	nsubj	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def	1	det	_	_
 3	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wədə
-4-5	ትምህርት ቤት	_	_	_	_	_	_	_	Translit=tmhrt bet
-4	ትምህርት	ትምህርት	NOUN	NOUN	_	5	compound	_	_
-5	ቤት	ቤት	NOUN	NOUN	Number=Sing	8	obl	_	_
+4	ትምህርት	ትምህርት	NOUN	NOUN	_	5	compound	_	Translit=tmhrt
+5	ቤት	ቤት	NOUN	NOUN	Number=Sing	8	obl	_	Translit=bet
 6-9	እንዲመጡ	_	_	_	_	_	_	_	Translit=ʼndimət'u
 6	እንድ	እንድ	SCONJ	SCONJ	_	8	mark	_	_
 7	ይ	እሱ	PRON	SUBJC	Number=Plur|Person=3	8	nsubj:aff	_	_
-8	መጣ	መጣ	VERB	VSTEM	Aspect=Imp|ClauseType=AdvCl	10	xcomp	_	Aimad=DERAGI|Root=ምጥእ:A
+8	መጣ	መጣ	VERB	VSTEM	Aspect=Imp	10	xcomp	_	Aimad=DERAGI|ClauseType=AdvCl|Root=ምጥእ:A
 9	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	8	nsubj:aff	_	_
 10-12	አዘዛቸው	_	_	_	_	_	_	_	Translit=ʼazəzačəw
 10	ኣዘዝ	አዘዘ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=እዝዝ:A
@@ -1012,7 +1010,7 @@
 1-3	ሲነጋ	_	_	_	_	_	_	_	Translit=sinəga
 1	ስ	ስ	SCONJ	SCONJ	_	3	mark	_	_
 2	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
-3	ነጋ	ነጋ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	9	advcl	_	Aimad=DERAGI|Root=ንግእ:A
+3	ነጋ	ነጋ	VERB	VSTEM	Aspect=Imp	9	advcl	_	Aimad=DERAGI|ClauseType=Subord|Root=ንግእ:A
 4-5	በጠዋት	_	_	_	_	_	_	_	Translit=bət'əwat
 4	በ	በ	ADP	ADP	Case=Obl	5	case:aff	_	_
 5	ጠዋት	ጠዋት	NOUN	NOUN	Number=Sing	9	obl	_	_
@@ -1031,11 +1029,11 @@
 1	የ	የ	PART	RLP	_	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
 3	ይ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	nsubj:aff	_	_
-4	መጣ	መጣ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	9	advcl	_	Aimad=DERAGI|Root=ምጥእ:A
+4	መጣ	መጣ	VERB	VSTEM	Aspect=Imp	9	advcl	_	Aimad=DERAGI|ClauseType=Subord|Root=ምጥእ:A
 5	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	nsubj:aff	_	_
 6-8	ከሆነ	_	_	_	_	_	_	_	Translit=kəhonə
 6	ከ	ከ	SCONJ	SCONJ	_	7	mark	_	_
-7	ሆን	ሆነ	AUX	VSTEM	Aspect=Perf|ClauseType=Subord	4	aux	_	Aimad=DERAGI|Root=ህውን:A
+7	ሆን	ሆነ	AUX	VSTEM	Aspect=Perf	4	aux	_	Aimad=DERAGI|ClauseType=Subord|Root=ህውን:A
 8	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:aff	_	_
 9-10	አሳውቀው	_	_	_	_	_	_	_	Translit=asawk'əw
 9	ኣሳውቅ	አሳወቀ	VERB	VSTEM	Gender=Masc|Mood=Imp|Number=Sing|Person=2|Voice=Cau	0	root	_	Aimad=ASDERAGI|Root=እውቅ:A
@@ -1052,18 +1050,18 @@
 4	እንደ	እንደ	SCONJ	SCONJ	_	7	mark	_	_
 5	ም	ም	PART	IRLP	_	7	mark	_	_
 6	ይ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	7	nsubj:aff	_	_
-7	መጣ	መጣ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	10	ccomp	_	Aimad=DERAGI|Root=ምጥእ:A
+7	መጣ	መጣ	VERB	VSTEM	Aspect=Imp	10	ccomp	_	Aimad=DERAGI|ClauseType=Subord|Root=ምጥእ:A
 8	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	7	nsubj:aff	_	_
 9-11	ካወቅን	_	_	_	_	_	_	_	Translit=kawək'n
 9	ከ	ከ	SCONJ	SCONJ	_	10	mark	_	_
-10	ኣወቅ	አወቀ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	20	advcl	_	Aimad=DERAGI|Root=እውቅ:A
+10	ኣወቅ	አወቀ	VERB	VSTEM	Aspect=Perf	20	advcl	_	Aimad=DERAGI|ClauseType=Subord|Root=እውቅ:A
 11	ን	እኛ	PRON	SUBJC	Number=Plur|Person=1|PronType=Prs	10	nsubj:aff	_	_
 12	በኋላ	በኋላ	SCONJ	SCONJ	_	10	mark	_	Translit=bəhwala
 13-17	የሚረዳን	_	_	_	_	_	_	_	Translit=yəmirədan
 13	የ	የ	PART	RLP	_	16	mark	_	_
 14	ም	ም	PART	IRLP	_	16	mark	_	_
 15	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj:aff	_	_
-16	ረዳ	ረዳ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	18	acl	_	Aimad=DERAGI|Root=ርድእ:A
+16	ረዳ	ረዳ	VERB	VSTEM	Aspect=Imp	18	acl	_	Aimad=DERAGI|ClauseType=Subord|Root=ርድእ:A
 17	አን	እኛ	PRON	OBJC	Number=Plur|Person=1|PronType=Prs	16	obj:aff	_	_
 18	አስተርጓሚ	አስተርጓሚ	NOUN	NOUN	Number=Sing|Voice=Cau	20	obj	_	Translit=astərgwami
 19-21	እንፈልጋለን	_	_	_	_	_	_	_	Translit='nfəlgalən
@@ -1078,15 +1076,15 @@
 1	የ	የ	PART	RLP	_	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
 3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj:aff	_	_
-4	በላ	በላ	VERB	VSTEM	Aspect=Imp|ClauseType=ACl	8	obj	_	Aimad=DERAGI|Root=ብልእ:A
+4	በላ	በላ	VERB	VSTEM	Aspect=Imp	8	obj	_	Aimad=DERAGI|ClauseType=ACl|Root=ብልእ:A
 5	አው	አው	DET	DET	Definite=Def	4	det	_	_
 6-8	ሳጣ	_	_	_	_	_	_	_	Translit=sat'a
 6	ስ	ስ	SCONJ	SCONJ	_	8	mark	_	_
 7	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj:aff	_	_
-8	ኣጣ	አጣ	VERB	VSTEM	Aspect=Imp|ClauseType=AdvCl	12	advcl	_	Aimad=DERAGI|Root=እጥእ:A
+8	ኣጣ	አጣ	VERB	VSTEM	Aspect=Imp	12	advcl	_	Aimad=DERAGI|ClauseType=AdvCl|Root=እጥእ:A
 9-10	ልጄ	_	_	_	_	_	_	_	Translit=lǰe
 9	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	12	nsubj	_	_
-10	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	9	det:poss	_	_
+10	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	9	det:poss	_	Possessive=Yes
 11	ጥርስ	ጥርስ	NOUN	NOUN	Number=Sing	12	obj	_	Translit=t'rs
 12-13	አወጣ	_	_	_	_	_	_	_	Translit=ʼawət'a
 12	ኣወጣ	አወጣ	VERB	VSTEM	Aspect=Perf|Voice=Trans	0	root	_	Aimad=ADRAGI|Root=ውጥእ:A
@@ -1095,8 +1093,8 @@
 
 # text = መጣ ብሎ ሄደ ።
 # sent_id = am-ref-82
-1-3	መጣ ብሎ	_	_	_	_	_	_	_	Translit=mət'a blo
-1	መጣ	መጣ	PART	PART	_	2	compound:lvc	_	_
+1	መጣ	መጣ	PART	PART	_	2	compound:lvc	_	Translit=mət'a
+2-3	ብሎ	_	_	_	_	_	_	_	Translit=blo
 2	ብል	መጣ አለ	VERB	VSTEM	VerbForm=Conv	4	advcl	_	_
 3	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	_
 4-5	ሄደ	_	_	_	_	_	_	_	Translit=hedə
@@ -1108,11 +1106,11 @@
 # sent_id = am-ref-83
 1-3	ስራዬን	_	_	_	_	_	_	_	Translit=srayen
 1	ስራ	ስራ	NOUN	NOUN	Number=Sing	5	obj	_	_
-2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	1	det:poss	_	Possessive=Yes
 3	ን	ን	ADP	ADP	Case=Obj	1	case	_	_
 4-6	እንደጨረስኩ	_	_	_	_	_	_	_	Translit=ʼndəč'ərəsku
 4	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	_
-5	ጨረስ	ጨረሰ	VERB	VSTEM	ClauseType=AdvCl|Aspect=Perf	8	advcl	_	Aimad=CCOMP|Root=ጭርስ:B
+5	ጨረስ	ጨረሰ	VERB	VSTEM	Aspect=Perf	8	advcl	_	Aimad=CCOMP|ClauseType=AdvCl|Root=ጭርስ:B
 6	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	5	nsubj:aff	_	_
 7-9	እመጣለሁ	_	_	_	_	_	_	_	Translit=ʼmət'aləhu
 7	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj:aff	_	_
@@ -1124,7 +1122,7 @@
 # sent_id = am-ref-84
 1-3	ስራዬን	_	_	_	_	_	_	_	Translit=srayen
 1	ስራ	ስራ	NOUN	NOUN	Number=Sing	4	obj	_	_
-2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	1	det:poss	_	Possessive=Yes
 3	ን	ን	ADP	ADP	Case=Obj	1	case	_	_
 4-5	ጨርሼ	_	_	_	_	_	_	_	Translit=č'ərše
 4	ጨርስ	ጨረሰ	VERB	VSTEM	VerbForm=Conv	7	advcl	_	Aimad=DERAGI|Root=ጭርስ:B
@@ -1139,11 +1137,11 @@
 # sent_id = am-ref-85
 1-3	ስራዬን	_	_	_	_	_	_	_	Translit=srayen
 1	ስራ	ስራ	NOUN	NOUN	Number=Sing	5	obj	_	_
-2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	1	det:poss	_	Possessive=Yes
 3	ን	ን	ADP	ADP	Case=Obj	1	case	_	_
 4-6	ከጨረስኩ	_	_	_	_	_	_	_	Translit=kəč'ərəsku
 4	ከ	ከ	SCONJ	SCONJ	_	5	mark	_	_
-5	ጨረስ	ጨረሰ	VERB	VSTEM	Aspect=Perf|ClauseType=AdvCl	8	advcl	_	Aimad=DERAGI|Root=ጭርስ:B
+5	ጨረስ	ጨረሰ	VERB	VSTEM	Aspect=Perf	8	advcl	_	Aimad=DERAGI|ClauseType=AdvCl|Root=ጭርስ:B
 6	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	5	nsubj:aff	_	_
 7-9	እመጣለሁ	_	_	_	_	_	_	_	Translit=ʼmət'aləhu
 7	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj:aff	_	_
@@ -1155,7 +1153,7 @@
 # sent_id = am-ref-86
 1-3	ስራዬን	_	_	_	_	_	_	_	Translit=srayen
 1	ስራ	ስራ	NOUN	NOUN	Number=Sing	5	obj	_	_
-2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	1	det:poss	_	Possessive=Yes
 3	ን	ን	ADP	ADP	Case=Obj	1	case	_	_
 4	ጭርስ	ጭርስ	PART	PART	_	5	compound:lvc	_	Translit=č'rs
 5-6	አድርጌ	_	_	_	_	_	_	_	Translit=ʼadrge
@@ -1171,14 +1169,14 @@
 # sent_id = am-ref-87
 1-3	አባቱን	_	_	_	_	_	_	_	Translit=ʼabatun
 1	አባት	አባት	NOUN	NOUN	Number=Sing	5	obj	_	_
-2	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det:poss	_	Possessive=Yes
 3	ን	ን	ADP	ADP	Case=Obj	1	case	_	_
 4-5	በመንከባከብ	_	_	_	_	_	_	_	Translit=bəmənkəbakəb
 4	በ	በ	ADP	ADP	Case=Obl	5	case	_	_
 5	መንከባከብ	መንከባከብ	NOUN	NOUN	Number=Sing|VerbForm=Inf	10	advcl	_	_
 6-8	ጊዜውን	_	_	_	_	_	_	_	Translit=gizewn
 6	ጊዜ	ጊዜ	NOUN	NOUN	Number=Sing	10	obj	_	_
-7	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	6	det:poss	_	_
+7	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det:poss	_	Possessive=Yes
 8	ን	ን	ADP	ADP	Case=Obj	6	case	_	_
 9-11	ያሳልፋል	_	_	_	_	_	_	_	Translit=yasalfal
 9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	_
@@ -1191,12 +1189,12 @@
 1	ደሞዝ	ደሞዝ	NOUN	NOUN	Number=Sing	3	nsubj:pass	_	Translit=dəmoz
 2-5	እንደተከፈለኝ	_	_	_	_	_	_	_	Translit=ʼndətəkəfələň
 2	እንደ	እንደ	SCONJ	SCONJ	_	3	mark	_	_
-3	ተከፈል	ተከፈለ	VERB	VSTEM	ClauseType=AdvCl|Aspect=Perf|Voice=Pass	10	advcl	_	Aimad=CCOMP|Root=ክፍል:A
+3	ተከፈል	ተከፈለ	VERB	VSTEM	Aspect=Perf|Voice=Pass	10	advcl	_	Aimad=CCOMP|ClauseType=AdvCl|Root=ክፍል:A
 4	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj:aff	_	_
 5	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1	3	obj:aff	_	_
 6-8	ብድሬን	_	_	_	_	_	_	_	Translit=bdren
 6	ብድር	ብድር	NOUN	NOUN	Number=Sing	10	obj	_	_
-7	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	6	det:poss	_	_
+7	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	6	det:poss	_	Possessive=Yes
 8	ን	ን	ADP	ADP	Case=Obj	6	case	_	_
 9-11	እመልሳለሁ	_	_	_	_	_	_	_	Translit=ʼməlsaləhu
 9	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1	10	nsubj:aff	_	_
@@ -1213,13 +1211,12 @@
 4-6	ብሳተፍ	_	_	_	_	_	_	_	Translit=bsatəf
 4	ብ	ብ	SCONJ	SCONJ	_	6	mark	_	_
 5	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1	6	nsubj:aff	_	_
-6	ሳተፍ	ተሳተፈ	VERB	VSTEM	Aspect=Imp|ClauseType=AdvCl|Voice=Pass	9	advcl	_	Aimad=SUBORD|Root=ስትፍ:C
-7-10	ደስ ይለኝ	_	_	_	_	_	_	_	Translit=dəs yləň
-7	ደስ	ደስ	PART	PART	_	9	compound:lvc	_	_
+6	ሳተፍ	ተሳተፈ	VERB	VSTEM	Aspect=Imp|Voice=Pass	9	advcl	_	Aimad=SUBORD|ClauseType=AdvCl|Root=ስትፍ:C
+7	ደስ	ደስ	PART	PART	_	9	compound:lvc	_	Translit=dəs
+8-10	ይለኝ	_	_	_	_	_	_	_	Translit=yləň
 8	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj:aff	_	_
 9	ል	ደስ አለ	VERB	VSTEM	Aspect=Imp	0	root	_	_
 10	አኝ	እኔ	PRON	OBJC	Number=Sing|Person=1	9	obj:aff	_	_
-11	ነበር	ነበር	AUX	AUX	_	9	aux	_	Translit=nəbər
 12	።	።	PUNCT	PUNCT	_	9	punct	_	_
 
 # text = ብሳተፍ ደስ ይለኝ ነበር ።
@@ -1227,20 +1224,18 @@
 1-3	ብሳተፍ	_	_	_	_	_	_	_	Translit=bsatəf
 1	ብ	ብ	SCONJ	SCONJ	_	3	mark	_	_
 2	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1	3	nsubj:aff	_	_
-3	ሳተፍ	ተሳተፈ	VERB	VSTEM	Aspect=Imp|ClauseType=AdvCl|Voice=Pass	6	advcl	_	Aimad=SUBORD|Root=ስትፍ:C
-4-7	ደስ ይለኝ	_	_	_	_	_	_	_	Translit=dəs yləň
-4	ደስ	ደስ	PART	PART	_	6	compound:lvc	_	_
+3	ሳተፍ	ተሳተፈ	VERB	VSTEM	Aspect=Imp|Voice=Pass	6	advcl	_	Aimad=SUBORD|ClauseType=AdvCl|Root=ስትፍ:C
+4	ደስ	ደስ	PART	PART	_	6	compound:lvc	_	Translit=dəs
+5-7	ይለኝ	_	_	_	_	_	_	_	Translit=yləň
 5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj:aff	_	_
 6	ል	ደስ አለ	VERB	VSTEM	Aspect=Imp	0	root	_	_
 7	አኝ	አኝ	PRON	OBJC	Number=Sing|Person=1	6	obj:aff	_	_
-8	ነበር	ነበር	AUX	AUX	_	6	aux	_	Translit=nəbər
 9	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
 # text = ብልጣ ብልጥ በመሆን የሚገኝ ትርፍ ደስ አይለኝም ።
 # sent_id = am-ref-91
-1-2	ብልጣ ብልጥ	_	_	_	_	_	_	_	Translit=blt'a blt'
-1	ብልጣ	ብልጣ	NOUN	NOUN	_	2	compound	_	_
-2	ብልጥ	ብልጥ	ADJ	ADJ	Number=Sing	8	advcl	_	_
+1	ብልጣ	ብልጣ	NOUN	NOUN	_	2	compound	_	Translit=blt'a
+2	ብልጥ	ብልጥ	ADJ	ADJ	Number=Sing	8	advcl	_	Translit=blt'
 3-4	በመሆን	_	_	_	_	_	_	_	Translit=bəməhon
 3	በ	በ	ADP	ADP	Case=Obl	4	case:aff	_	_
 4	መሆን	መሆን	NOUN	NOUN	Number=Sing|VerbForm=Inf	2	cop	_	_
@@ -1248,22 +1243,21 @@
 5	የ	የ	PART	RLP	_	8	mark	_	_
 6	ም	ም	PART	IRLP	_	8	mark	_	_
 7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:aff	_	_
-8	ገኝ	ተገኘ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord|Voice=Pass	9	acl	_	Aimad=TEDERAGI|Root=ግኝይ:A
+8	ገኝ	ተገኘ	VERB	VSTEM	Aspect=Imp|Voice=Pass	9	acl	_	Aimad=TEDERAGI|ClauseType=Subord|Root=ግኝይ:A
 9	ትርፍ	ትርፍ	NOUN	NOUN	Number=Sing	13	nsubj	_	Translit=trf
-10-15	ደስ አይለኝም	_	_	_	_	_	_	_	Translit=dəs ayləňm
-10	ደስ	ደስ	PART	PART	_	13	compound	_	_
-11	ኣ	ኣ	ADV	NEG	Polarity=Neg	13	advmod:aff	_	_
+10	ደስ	ደስ	PART	PART	_	13	compound	_	Translit=dəs
+11	ኣ	ኣ	ADV	NEG	Polarity=Neg	13	advmod:aff	_	Translit=ayləňm
+12-14	አይለኝም	_	_	_	_	_	_	_	Translit=ayləňm
 12	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj:aff	_	_
 13	ል	አለ	VERB	VSTEM	Aspect=Imp	0	root	_	Aimad=DERAGI|Root=ብእል:A
 14	አኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	13	obj:aff	_	_
-15	ም	ም	ADV	ADV	Polarity=Neg	13	advmod:aff	_	_
-16	።	።	PUNCT	PUNCT	_	13	punct	_	_
+15	ም	ም	ADV	ADV	Polarity=Neg	13	advmod:aff	_	Translit=ayləňm
 
 # text = ባገኘኋቸው መረጃዎች ተጠቅሜ የተሻለ ውጤት አመጣለሁ ።
 # sent_id = am-ref-92
 1-4	ባገኘኋቸው	_	_	_	_	_	_	_	Translit=bagəňəhwačəw
 1	በ	በ	ADP	ADP	Case=Obl	2	mark	_	_
-2	ኣገኘ	አገኘ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Trans	5	acl	_	Aimad=ADRAGI|Root=ግኝይ:A
+2	ኣገኘ	አገኘ	VERB	VSTEM	Aspect=Perf|Voice=Trans	5	acl	_	Aimad=ADRAGI|ClauseType=ACl|Root=ግኝይ:A
 3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj:aff	_	_
 4	ኣቸው	እኑሱ	PRON	OBJC	Number=Plur|Person=3	2	obj:aff	_	_
 5-6	መረጃዎች	_	_	_	_	_	_	_	Translit=mərəǰawoč
@@ -1274,7 +1268,7 @@
 8	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1	7	nsubj:aff	_	_
 9-11	የተሻለ	_	_	_	_	_	_	_	Translit=yətəšalə
 9	የ	የ	SCONJ	SCONJ	_	10	mark	_	_
-10	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Pass	12	acl	_	Aimad=TEDERAGI|Root=ሽእል:A
+10	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|Voice=Pass	12	acl	_	Aimad=TEDERAGI|ClauseType=ACl|Root=ሽእል:A
 11	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	_
 12	ውጤት	ውጤት	NOUN	NOUN	Number=Sing	14	obj	_	Translit=wt'et
 13-15	አመጣለሁ	_	_	_	_	_	_	_	Translit=ʼamət'aləhu
@@ -1301,18 +1295,17 @@
 10	ጭራሽ	ጭራሽ	ADJ	ADJ	Number=Sing	11	obl	_	_
 11-12	አለመስማቱ	_	_	_	_	_	_	_	Translit=aləməsmatu
 11	ኣለመስማት	መስማት	NOUN	NOUN	Number=Sing|Polarity=Neg|VerbForm=Inf	0	root	_	_
-12	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	11	det:poss	_	_
+12	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det:poss	_	Possessive=Yes
 13	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	11	cop	_	Translit=nəw
 14	።	።	PUNCT	PUNCT	_	11	punct	_	_
 
 # text = ዝም ማለት የተሻለ ነው ።
 # sent_id = am-ref-94
-1-2	ዝም ማለት	_	_	_	_	_	_	_	Translit=zm malət
-1	ዝም	ዝም	PART	PART	_	2	compound:lvc	_	_
-2	ማለት	ማለት	NOUN	NOUN	Number=Sing|VerbForm=Inf	4	csubj	_	_
+1	ዝም	ዝም	NOUN	PART	_	2	compound:lvc	_	Translit=zm
+2	ማለት	ማለት	NOUN	NOUN	Number=Sing|VerbForm=Inf	4	csubj	_	Translit=malət
 3-5	የተሻለ	_	_	_	_	_	_	_	Translit=yətəšalə
 3	የ	የ	SCONJ	SCONJ	_	4	mark	_	_
-4	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Pass	0	root	_	Aimad=TEDERAGI|Root=ሽእል:A
+4	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|Voice=Pass	0	root	_	Aimad=TEDERAGI|ClauseType=ACl|Root=ሽእል:A
 5	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj:aff	_	_
 6	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	4	cop	_	Translit=nəw
 7	።	።	PUNCT	PUNCT	_	4	punct	_	_
@@ -1321,14 +1314,14 @@
 # sent_id = am-ref-95
 1-4	የተሻለው	_	_	_	_	_	_	_	Translit=yətəšaləw
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Pass	5	acl	_	Aimad=TEDERAGI|Root=ሽእል:A
+2	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|Voice=Pass	5	acl	_	Aimad=TEDERAGI|ClauseType=ACl|Root=ሽእል:A
 3	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	_
 4	ው	ው	DET	DET	Definite=Def	2	det	_	_
 5	ነገር	ነገር	NOUN	NOUN	Number=Sing	10	nsubj:outer	_	Translit=nəgər
 6-9	እንዳላዩ	_	_	_	_	_	_	_	Translit=ʼndalayu
 6	እንደ	እንደ	SCONJ	SCONJ	_	8	mark	_	_
 7	ኣል	ኣል	ADV	NEG	Polarity=Neg	8	advmod:aff	_	_
-8	ኣየ	አየ	VERB	VSTEM	ClauseType=AdvCl|Aspect=Perf	10	advcl	_	Aimad=ADARAGI|Root=ልይይ:B
+8	ኣየ	አየ	VERB	VSTEM	Aspect=Perf	10	advcl	_	Aimad=ADARAGI|ClauseType=AdvCl|Root=ልይይ:B
 9	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	8	nsubj:aff	_	_
 10	ማለፍ	ማለፍ	NOUN	NOUN	Number=Sing|VerbForm=Inf	0	root	_	Translit=maləf
 11	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	10	cop	_	Translit=nəw
@@ -1340,12 +1333,12 @@
 1	የ	የ	PART	RLP	_	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:aff	_	_
-4	ሻል	ተሻለ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	10	csubj:outer	_	Aimad=TEDERAGI|Root=ሽእል:A
+4	ሻል	ተሻለ	VERB	VSTEM	Aspect=Imp	10	csubj:outer	_	Aimad=TEDERAGI|ClauseType=Subord|Root=ሽእል:A
 5	አው	አው	DET	DET	Definite=Def	4	det:aff	_	_
 6-9	እንዳላዩ	_	_	_	_	_	_	_	Translit='ndalayu
 6	እንደ	እንደ	ADP	ADP	Case=Obl	8	case:aff	_	_
 7	ኣል	ኣል	ADV	NEG	Polarity=Neg	8	advmod:aff	_	_
-8	ኣየ	አየ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	10	advcl	_	Aimad=DERAGI|Root=እይይ:A
+8	ኣየ	አየ	VERB	VSTEM	Aspect=Perf	10	advcl	_	Aimad=DERAGI|ClauseType=Subord|Root=እይይ:A
 9	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	nsubj:aff	_	_
 10	ማለፍ	ማለፍ	NOUN	NOUN	Number=Sing|VerbForm=Inf	0	root	_	Translit=maləf
 11	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	10	cop	_	Translit=nəw
@@ -1355,15 +1348,14 @@
 # sent_id = am-ref-97
 1-4	የተሻለው	_	_	_	_	_	_	_	Translit=yətəšaləw
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Pass	5	acl	_	Aimad=TEDERAGI|Root=ሽእል:A
+2	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|Voice=Pass	5	acl	_	Aimad=TEDERAGI|ClauseType=ACl|Root=ሽእል:A
 3	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	_
 4	ው	ው	DET	DET	Definite=Def	2	det	_	_
 5	ነገር	ነገር	NOUN	NOUN	Number=Sing	9	nsubj:outer	_	Translit=nəgər
-6-8	ረጋ ብሎ	_	_	_	_	_	_	_	Translit=rəga blo
-6	ረጋ	ረጋ	PART	PART	_	7	compound:lvc	_	_
+6	ረጋ	ረጋ	PART	PART	_	7	compound:lvc	_	Translit=rəga
+7-8	ብሎ	_	_	_	_	_	_	_	Translit=blo
 7	ብል	ረጋ አለ	VERB	VSTEM	VerbForm=Conv	9	advcl	_	_
 8	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	_
-9	መጠበቅ	መጠበቅ	NOUN	NOUN	Number=Sing|VerbForm=Inf	0	root	_	Translit=mət'əbək'
 10	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	9	cop	_	Translit=nəw
 11	።	።	PUNCT	PUNCT	_	9	punct	_	_
 
@@ -1371,7 +1363,7 @@
 # sent_id = am-ref-98
 1-4	የተሻለው	_	_	_	_	_	_	_	Translit=yətəšaləw
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Pass	5	acl	_	Aimad=TEDERAGI|Root=ሽእል:A
+2	ተሻል	ተሻለ	VERB	VSTEM	Aspect=Perf|Voice=Pass	5	acl	_	Aimad=TEDERAGI|ClauseType=ACl|Root=ሽእል:A
 3	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	_
 4	ው	ው	DET	DET	Definite=Def	2	det	_	_
 5	ነገር	ነገር	NOUN	NOUN	Number=Sing	6	nsubj:outer	_	Translit=nəgər
@@ -1404,7 +1396,7 @@
 4	ርዕስ	ርእስ	NOUN	NOUN	Number=Sing	8	nsubj:outer	_	Translit=rʼs
 5-7	የተሰበሩ	_	_	_	_	_	_	_	Translit=yətəsəbəru
 5	የ	የ	SCONJ	SCONJ	_	6	mark	_	_
-6	ተሰበር	ተሰበረ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Pass	8	acl	_	Aimad=TEDERAGI|Root=ስብር:A
+6	ተሰበር	ተሰበረ	VERB	VSTEM	Aspect=Perf|Voice=Pass	8	acl	_	Aimad=TEDERAGI|ClauseType=ACl|Root=ስብር:A
 7	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	6	nsubj:aff	_	_
 8-9	ልቦች	_	_	_	_	_	_	_	Translit=lboč
 8	ልብ	ልብ	NOUN	NOUN	_	0	root	_	_
@@ -1418,9 +1410,9 @@
 2	ውስጥ	ውስጥ	ADP	ADP	_	1	case	_	Translit=wst'
 3	መንሸራሸር	መንሸራሸር	NOUN	NOUN	Number=Sing|VerbForm=Inf	10	csubj:outer	_	Translit=mənšərašər
 4-6	የተፈጥሮን	_	_	_	_	_	_	_	Translit=yətəfət'ron
-4	የ	የ	ADP	ADP	Case[inner]=Gen|Case[outer]=Obj	5	case	_	_
+4	የ	የ	ADP	ADP	_	5	case	_	Case[inner]=Gen|Case[outer]=Obj
 5	ተፈጥሮ	ተፈጥሮ	NOUN	NOUN	Number=Sing	7	nmod	_	_
-6	ን	ን	ADP	ADP	Case[inner]=Gen|Case[outer]=Obj	5	case	_	_
+6	ን	ን	ADP	ADP	_	5	case	_	Case[inner]=Gen|Case[outer]=Obj
 7	ውበት	ውበት	NOUN	NOUN	Number=Sing	10	obj	_	Translit=wbət
 8-9	በገሃድ	_	_	_	_	_	_	_	Translit=bəgəhad
 8	በ	በ	ADP	ADP	Case=Obl	9	case:aff	_	_
@@ -1435,7 +1427,7 @@
 1	የ	የ	PART	RLP	_	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
 3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj:aff	_	_
-4	ኣስታውስ	አስታወሰ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	11	csubj:outer	_	Aimad=ASTEDERAGI|Root=እውስ:A
+4	ኣስታውስ	አስታወሰ	VERB	VSTEM	Aspect=Imp	11	csubj:outer	_	Aimad=ASTEDERAGI|ClauseType=Subord|Root=እውስ:A
 5	አው	አው	DET	DET	Definite=Def	4	det:aff	_	_
 6-7	ድርጊቱ	_	_	_	_	_	_	_	Translit=drgitu
 6	ድርጊት	ድርጊት	NOUN	NOUN	Gender=Masc|Number=Sing	11	nsubj	_	_
@@ -1446,7 +1438,7 @@
 10	ተገቢ	ተገቢ	ADJ	ADJ	Number=Sing	0	root	_	Translit=təgəbi
 11-13	አለመሆኑን	_	_	_	_	_	_	_	Translit=aləməhonun
 11	ኣለመሆን	መሆን	NOUN	NOUN	Number=Sing|Polarity=Neg|VerbForm=Inf	10	cop	_	_
-12	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	11	det:poss	_	_
+12	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det:poss	_	Possessive=Yes
 13	ን	ን	ADP	ADP	Case=Obj	11	case:aff	_	_
 14	ብቻ	ብቻ	ADV	ADV	_	10	advmod	_	Translit=bča
 15	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	10	cop	_	Translit=nəw
@@ -1456,7 +1448,7 @@
 # sent_id = am-ref-103
 1-4	ያስተዋልኩት	_	_	_	_	_	_	_	Translit=yastəwalkut
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Trans	12	csubj:outer	_	Aimad=ASTEDERAGI|Root=ውእል:A
+2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|Voice=Trans	12	csubj:outer	_	Aimad=ASTEDERAGI|ClauseType=ACl|Root=ውእል:A
 3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj:aff	_	_
 4	ት	ት	DET	DET	Definite=Def	2	det	_	_
 5	፣	፣	PUNCT	PUNCT	_	2	punct	_	_
@@ -1466,14 +1458,14 @@
 8	አስቴር	አስቴር	PROPN	PROPN	Number=Sing	12	nsubj	_	Translit=ʼaster
 9-11	ልጇን	_	_	_	_	_	_	_	Translit=lǰwan
 9	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	12	obj	_	_
-10	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	9	det:poss	_	_
+10	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	det:poss	_	Possessive=Yes
 11	ን	ን	ADP	ADP	Case=Obj	9	case	_	_
 12-13	መደበቋ	_	_	_	_	_	_	_	Translit=mədəbək'wa
 12	መደበቅ	መደበቅ	NOUN	NOUN	Number=Sing|VerbForm=Inf	0	root	_	_
-13	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	12	det:poss	_	_
+13	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	det:poss	_	Possessive=Yes
 14-16	እንደሆነ	_	_	_	_	_	_	_	Translit=ʼndəhonə
 14	እንደ	እንደ	SCONJ	SCONJ	_	15	mark	_	_
-15	ሆን	ሆነ	VERB	VSTEM	ClauseType=CComp|Aspect=Perf	12	cop	_	Aimad=CCOMP|Root=ህውን:A
+15	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf	12	cop	_	Aimad=CCOMP|ClauseType=CComp|Root=ህውን:A
 16	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	15	nsubj:aff	_	_
 17	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	12	cop	_	Translit=nəw
 18	።	።	PUNCT	PUNCT	_	12	punct	_	_
@@ -1482,7 +1474,7 @@
 # sent_id = am-ref-104
 1-4	ያስተዋልኩት	_	_	_	_	_	_	_	Translit=yastəwalkut
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Trans	7	csubj:outer	_	Aimad=ASTEDERAGI|Root=ውእል:A
+2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|Voice=Trans	7	csubj:outer	_	Aimad=ASTEDERAGI|ClauseType=ACl|Root=ውእል:A
 3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj:aff	_	_
 4	ት	ት	DET	DET	Definite=Def	2	det	_	_
 5-6	ችግሩ	_	_	_	_	_	_	_	Translit=čgru
@@ -1491,7 +1483,7 @@
 7	ይህ	ይህ	DET	DET	Gender=Masc|Number=Sing	0	root	_	Translit=yh
 8-10	እንደሆነ	_	_	_	_	_	_	_	Translit=ʼndəhonə
 8	እንደ	እንደ	SCONJ	SCONJ	_	9	mark	_	_
-9	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf|ClauseType=AdvCl	7	cop	_	Aimad=CCOMP|Root=ህውን:A
+9	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf	7	cop	_	Aimad=CCOMP|ClauseType=AdvCl|Root=ህውን:A
 10	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj:aff	_	_
 11	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	7	cop	_	Translit=nəw
 12	።	።	PUNCT	PUNCT	_	7	punct	_	_
@@ -1500,7 +1492,7 @@
 # sent_id = am-ref-105a
 1-4	ያስተዋልኩት	_	_	_	_	_	_	_	Translit=yastəwalkut
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Trans	8	csubj:outer	_	Aimad=ASTEDERAGI|Root=ውእል:A
+2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|Voice=Trans	8	csubj:outer	_	Aimad=ASTEDERAGI|ClauseType=ACl|Root=ውእል:A
 3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj:aff	_	_
 4	ት	ት	DET	DET	Definite=Def	2	det	_	_
 5-7	ሰዎቹ	_	_	_	_	_	_	_	Translit=səwoču
@@ -1511,7 +1503,7 @@
 9-12	እንዳልሆኑ	_	_	_	_	_	_	_	Translit=ʼndalhonu
 9	እንደ	እንደ	SCONJ	SCONJ	_	11	mark	_	_
 10	ኣል	ኣል	ADV	NEG	Polarity=Neg	11	advmod:aff	_	_
-11	ሆን	ሆነ	VERB	VSTEM	ClauseType=CComp|Aspect=Perf	8	cop	_	Aimad=CCOMP|Root=ህውን:A
+11	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf	8	cop	_	Aimad=CCOMP|ClauseType=CComp|Root=ህውን:A
 12	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	11	nsubj:aff	_	_
 13	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	8	cop	_	Translit=nəw
 14	።	።	PUNCT	PUNCT	_	8	punct	_	_
@@ -1520,7 +1512,7 @@
 # sent_id = am-ref-105b
 1-4	ያስተዋልኩት	_	_	_	_	_	_	_	Translit=yastəwalkut
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Trans	8	csubj:outer	_	Aimad=ASTEDERAGI|Root=ውእል:A
+2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|Voice=Trans	8	csubj:outer	_	Aimad=ASTEDERAGI|ClauseType=ACl|Root=ውእል:A
 3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj:aff	_	_
 4	ት	ት	DET	DET	Definite=Def	2	det	_	_
 5-7	ሰዎቹ	_	_	_	_	_	_	_	Translit=səwoču
@@ -1530,7 +1522,7 @@
 8	ደስተኛ	ደስተኛ	ADJ	ADJ	Number=Sing	0	root	_	Translit=dəstəňa
 9-11	እንደሆኑ	_	_	_	_	_	_	_	Translit=ʼndəhonu
 9	እንደ	እንደ	SCONJ	SCONJ	_	10	mark	_	_
-10	ሆን	ሆነ	VERB	VSTEM	ClauseType=CComp|Aspect=Perf	8	cop	_	Aimad=CCOMP|Root=ህውን:A
+10	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf	8	cop	_	Aimad=CCOMP|ClauseType=CComp|Root=ህውን:A
 11	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	10	nsubj:aff	_	_
 12	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	8	cop	_	Translit=nəw
 13	።	።	PUNCT	PUNCT	_	8	punct	_	_
@@ -1539,7 +1531,7 @@
 # sent_id = am-ref-106
 1-4	ያስተዋልኩት	_	_	_	_	_	_	_	Translit=yastəwalkut
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Trans	19	csubj:outer	_	Aimad=ASTEDERAGI|Root=ውእል:A
+2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|Voice=Trans	19	csubj:outer	_	Aimad=ASTEDERAGI|ClauseType=ACl|Root=ውእል:A
 3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj:aff	_	_
 4	ት	ት	DET	DET	Definite=Def	2	det	_	_
 5-8	ሰዎቹን	_	_	_	_	_	_	_	Translit=səwočun
@@ -1551,18 +1543,18 @@
 10-14	ያላደረጋቸው	_	_	_	_	_	_	_	Translit=yaladərəgačəw
 10	የ	የ	SCONJ	SCONJ	_	12	mark	_	_
 11	ኣል	ኣል	ADV	NEG	Polarity=Neg	12	advmod:aff	_	_
-12	ኣደረግ	አደረገ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Trans	19	csubj	_	Aimad=ADRAGI|Root=ድርግ:A
+12	ኣደረግ	አደረገ	VERB	VSTEM	Aspect=Perf|Voice=Trans	19	csubj	_	Aimad=ADRAGI|ClauseType=ACl|Root=ድርግ:A
 13	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	nsubj:aff	_	_
 14	ኣቸው	እኑሱ	PRON	OBJC	Number=Plur|Person=3	12	obj:aff	_	_
 15-18	የቀረበው	_	_	_	_	_	_	_	Translit=yək'ərəbəw
 15	የ	የ	SCONJ	SCONJ	_	16	mark	_	_
-16	ቀረብ	ቀረበ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl	19	acl	_	Aimad=DERAGI|Root=ቅርብ:A
+16	ቀረብ	ቀረበ	VERB	VSTEM	Aspect=Perf	19	acl	_	Aimad=DERAGI|ClauseType=ACl|Root=ቅርብ:A
 17	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	16	nsubj:aff	_	_
 18	ው	ው	DET	DET	Definite=Def	16	det	_	_
 19	ትምህርት	ትምህርት	NOUN	NOUN	Number=Sing	0	root	_	Translit=tmhrt
 20-22	እንደሆነ	_	_	_	_	_	_	_	Translit=ʼndəhonə
 20	እንደ	እንደ	SCONJ	SCONJ	_	21	mark	_	_
-21	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf|ClauseType=AdvCl	19	cop	_	Aimad=CCOMP|Root=ህውን:A
+21	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf	19	cop	_	Aimad=CCOMP|ClauseType=AdvCl|Root=ህውን:A
 22	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	21	nsubj:aff	_	_
 23	ነው	_	VERB	AUX	Gender=Masc|Number=Sing|Person=3	19	cop	_	Translit=nəw
 24	።	።	PUNCT	PUNCT	_	19	punct	_	_
@@ -1571,7 +1563,7 @@
 # sent_id = am-ref-107
 1-4	ያስተዋልኩት	_	_	_	_	_	_	_	Translit=yastəwalkut
 1	የ	የ	SCONJ	SCONJ	_	2	mark	_	_
-2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Trans	15	csubj:outer	_	Aimad=ASTEDERAGI|Root=ውእል:A
+2	ኣስተዋል	አስተዋለ	VERB	VSTEM	Aspect=Perf|Voice=Trans	15	csubj:outer	_	Aimad=ASTEDERAGI|ClauseType=ACl|Root=ውእል:A
 3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj:aff	_	_
 4	ት	ት	DET	DET	Definite=Def	2	det	_	_
 5	፣	፣	PUNCT	PUNCT	_	2	punct	_	_
@@ -1583,7 +1575,7 @@
 9	የ	የ	PART	RLP	_	12	mark	_	_
 10	ም	ም	PART	IRLP	_	12	mark	_	_
 11	ት	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj:aff	_	_
-12	ሄድ	ሄደ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	15	csubj	_	Aimad=DERAGI|Root=ህይድ:A
+12	ሄድ	ሄደ	VERB	VSTEM	Aspect=Imp	15	csubj	_	Aimad=DERAGI|ClauseType=Subord|Root=ህይድ:A
 13	አው	አው	DET	DET	Definite=Def	12	det:aff	_	_
 14-16	በቅርቡ	_	_	_	_	_	_	_	Translit=bək'rbu
 14	በ	በ	ADP	ADP	Case=Obl	15	case:aff	_	_
@@ -1591,10 +1583,10 @@
 16	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	15	det	_	_
 17-18	መሆኑ	_	_	_	_	_	_	_	Translit=məhonu
 17	መሆን	መሆን	NOUN	NOUN	Number=Sing|VerbForm=Inf	15	cop	_	_
-18	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	17	det:poss	_	_
+18	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det:poss	_	Possessive=Yes
 19-21	እንደሆነ	_	_	_	_	_	_	_	Translit='ndəhonə
 19	እንደ	እንደ	ADP	ADP	Case=Obl	20	case:aff	_	_
-20	ሆን	ሆነ	AUX	VSTEM	Aspect=Perf|ClauseType=Subord	15	cop	_	Aimad=DERAGI|Root=ህውን:A
+20	ሆን	ሆነ	AUX	VSTEM	Aspect=Perf	15	cop	_	Aimad=DERAGI|ClauseType=Subord|Root=ህውን:A
 21	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj:aff	_	_
 22	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	15	cop	_	Translit=nəw
 23	።	።	PUNCT	PUNCT	_	15	punct	_	_
@@ -1622,12 +1614,12 @@
 6	አስተዳዳሪ	አስተዳዳሪ	ADJ	ADJ	Number=Sing	1	appos	_	Translit=ʼastədadari
 7-10	እንደተናገረው	_	_	_	_	_	_	_	Translit=ʼndətənagərəw
 7	እንደ	እንደ	SCONJ	SCONJ	_	8	mark	_	_
-8	ተናገር	ተናገረ	VERB	VSTEM	Aspect=Perf|ClauseType=CComp|Voice=Rcp1	19	advcl	_	Aimad=CCOMP|Root=ንግር:A
+8	ተናገር	ተናገረ	VERB	VSTEM	Aspect=Perf|Voice=Rcp1	19	advcl	_	Aimad=CCOMP|ClauseType=CComp|Root=ንግር:A
 9	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj:aff	_	_
 10	ው	ው	DET	DET	Definite=Def	8	det	_	_
 11-13	ከሆነ	_	_	_	_	_	_	_	Translit=kəhonə
 11	ከ	ከ	SCONJ	SCONJ	_	12	mark	_	_
-12	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf|ClauseType=AdvCl	8	cop	_	Aimad=DERAGI|Root=ህውን:A
+12	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf	8	cop	_	Aimad=DERAGI|ClauseType=AdvCl|Root=ህውን:A
 13	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	nsubj:aff	_	_
 14-15	ምርቱ	_	_	_	_	_	_	_	Translit=mrtu
 14	ምርት	ምርት	NOUN	NOUN	Number=Sing	19	nsubj:pass	_	_
@@ -1646,7 +1638,7 @@
 1-3	ለልጄ	_	_	_	_	_	_	_	Translit=ləlǰe
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	9	obl	_	_
-3	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	2	det:poss	_	_
+3	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	2	det:poss	_	Possessive=Yes
 4	ዥንጉርጉር	ዥንጉርጉር	ADJ	ADJ	Number=Sing	5	amod	_	Translit=žngurgur
 5	ኳስ	ኳስ	NOUN	NOUN	Number=Sing	9	obj	_	Translit=kwas
 6-7	በመቶ	_	_	_	_	_	_	_	Translit=bəməto
@@ -1663,7 +1655,7 @@
 # sent_id = am-ref-111
 1-3	ልብሱን	_	_	_	_	_	_	_	Translit=lbsun
 1	ልብስ	ልብስ	NOUN	NOUN	_	7	obj	_	_
-2	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Possessive=Yes|PronType=Prs	1	det:poss	_	_
+2	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det:poss	_	Possessive=Yes
 3	ን	ን	ADP	ADP	Case=Obj	1	case	_	_
 4	አንድ	አንድ	NUM	NUM	_	5	nummod	_	Translit=ʼand
 5	ሺህ	ሺህ	NUM	NUM	_	6	nummod	_	Translit=ših
@@ -1682,7 +1674,7 @@
 3	ዓላማ	አላማ	NOUN	NOUN	Number=Sing	5	obl	_	Translit=ʼalama
 4-7	ያስቀመጠው	_	_	_	_	_	_	_	Translit=yask'əmət'əw
 4	የ	የ	SCONJ	SCONJ	_	5	mark	_	_
-5	ኣስቀመጥ	አስቀመጠ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl|Voice=Cau	8	acl	_	Aimad=ASDERAGI|Root=ቅምጥ:B
+5	ኣስቀመጥ	አስቀመጠ	VERB	VSTEM	Aspect=Perf|Voice=Cau	8	acl	_	Aimad=ASDERAGI|ClauseType=ACl|Root=ቅምጥ:B
 6	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj:aff	_	_
 7	ው	ው	DET	DET	Definite=Def	5	det	_	_
 8	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	9	nsubj	_	Translit=gənzəb
@@ -1699,7 +1691,7 @@
 1	የ	የ	PART	RLP	Case=Obj	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
 3	ይ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	nsubj:aff	_	_
-4	ከተል	ተከተለ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	8	acl	_	Aimad=TEDERAGI|Root=ክትል:B
+4	ከተል	ተከተለ	VERB	VSTEM	Aspect=Imp	8	acl	_	Aimad=TEDERAGI|ClauseType=Subord|Root=ክትል:B
 5	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	nsubj:aff	_	_
 6	ት	ት	DET	DET	Definite=Def	4	det:aff	_	_
 7	ን	ን	ADP	ADP	_	4	case:aff	_	_
@@ -1717,7 +1709,7 @@
 1	የ	የ	PART	RLP	_	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:aff	_	_
-4	ቀጥል	ቀጠለ	VERB	VSTEM	Aspect=Imp|ClauseType=Subord	6	acl	_	Aimad=DERAGI|Root=ቅጥል:B
+4	ቀጥል	ቀጠለ	VERB	VSTEM	Aspect=Imp	6	acl	_	Aimad=DERAGI|ClauseType=Subord|Root=ቅጥል:B
 5	አው	አው	DET	DET	Definite=Def	4	det:aff	_	_
 6	ቅዳሜ	ቅዳሜ	NOUN	NOUN	Number=Sing	8	obl	_	Translit=k'dame
 7-9	እመጣለሁ	_	_	_	_	_	_	_	Translit='mət'aləhu
@@ -1725,3 +1717,4 @@
 8	መጣ	መጣ	VERB	VSTEM	Aspect=Imp	0	root	_	Aimad=DERAGI|Root=ምጥእ:A
 9	ኣለሁ	ኣለሁ	AUX	AUX	Number=Sing|Person=1	8	aux:aff	_	_
 10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+

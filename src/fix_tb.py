@@ -1,8 +1,145 @@
 '''
 Modifying CoNNL-U files in various ways.
 '''
+import os
 
 from conllu import parse, TokenList, Token
+
+def all_fix_compound(dr):
+    files = os.listdir(dr)
+    for file in files:
+        if not file.endswith(".conllu"):
+            continue
+        print("Processing {}".format(os.path.join(dr, file)))
+        fix_compound(os.path.join(dr, file))
+
+def fix_compound(file):
+    output = []
+    def helper(comp_lines, comp_tokens, comp_ipa, comp1, comp2, comp_head, comp_head1):
+        if comp1:
+#            print("First word: {}".format(comp1))
+            output.append("{}-{}\t{}\t_\t_\t_\t_\t_\t_\t_\tTranslit={}".format(comp1[0], comp1[-1], comp_tokens[0], comp_ipa[0]))
+#        if len(comp2) > 1:
+#            print("Second word: {}".format(comp2))
+        wordn = 0
+        for l in comp_lines:
+            ls = l.split('\t')
+            id0 = int(ls[0])
+            if comp1 and id0 < comp1[-1] and comp_head1 > 0:
+                # This is a prefix on the first word
+#                print("Setting head for {} to {}".format(ls[1], comp_head1))
+                ls[6] = str(comp_head1)
+                l = "\t".join(ls)
+            if len(comp2) > 1 and id0 == comp2[0]:
+                output.append("{}-{}\t{}\t_\t_\t_\t_\t_\t_\t_\tTranslit={}".format(comp2[0], comp2[-1], comp_tokens[-1], comp_ipa[-1]))
+            elif len(comp2) == 1 and id0 == comp_head:
+                ls[-1] = "Translit={}".format(comp_ipa[-1])
+                l = "\t".join(ls)
+            output.append(l)
+        
+    with open(file) as f:
+        comp_tokens = []
+        comp_length = 0
+        comp_lines = []
+        comp_word = 0
+        comp_head = 0
+        comp1 = []
+        comp2 = []
+        comp_range = None
+        comp_groups = []
+        for line in f:
+            line = line.strip()
+            if not line or line[0] == '#':
+                output.append(line)
+            else:
+                items = line.split('\t')
+                id = items[0]
+                token = items[1]
+                if '-' in id:
+                    if ' ' in token:
+                        # New compound
+                        comp_range = id.split('-')
+                        comp_range = int(comp_range[0]), int(comp_range[1])
+                        comp_length = token.count(' ')
+                        comp_tokens = token.split(' ')
+                        comp_ipa = items[-1].split('=')[1].split()
+                        comp_lines = []
+                        comp_groups = []
+                        comp_word = 0
+                        comp_head = 0
+                        comp_head1 = -1
+                        comp1 = []
+                        comp2 = []
+#                        print("New compound; words {}, range {}".format(comp_tokens, comp_range))
+                    else:
+                        if comp_range:
+#                            print("End of compound {} at token {}".format(comp_tokens, token))
+                            helper(comp_lines, comp_tokens, comp_ipa, comp1, comp2, comp_head, comp_head1)
+                            comp_range = None
+                        output.append(line)
+                else:
+                    id = int(id)
+                    if comp_range and comp_range[0] <= id <= comp_range[1]:
+                        # Segment within a compound
+                        # Check whether it's the head of the compound
+                        head = items[6]
+                        pos = items[3]
+                        if head != '_' and comp_range[0] <= int(head) <= comp_range[1]:
+#                            print("  {} is not the head of {}, POS {}, head {}".format(token, comp_tokens, pos, head))
+                            if pos in ('NOUN', 'ADJ', 'ADV'):
+                                # stem of a word before or after the head
+                                if comp_word == 0:
+#                                    print("  {} is the head of the first word".format(token))
+                                    if comp1:
+#                                        print("  Setting head1 to {}".format(id))
+                                        comp_head1 = id
+                                        comp1.append(id)
+                                    else:
+                                        # No affixes; add the IPA
+                                        items[-1] = "Translit={}".format(comp_ipa[0])
+                                else:
+                                    items[-1] = "Translit={}".format(comp_ipa[-1])
+#                                else:
+#                                    print("  {} is the head of a word after the head".format(token))
+                                comp_word += 1
+                            elif pos == 'PART':
+#                                print("  {} is the next word (not the head)".format(token))
+                                items[-1] = "Translit={}".format(comp_ipa[comp_word])
+                                comp_word += 1
+                            elif comp_word == 0:
+                                # prefix on the first word
+#                                print("  {} is a prefix on the first word".format(token))
+                                comp1.append(id)
+                            else:
+                                # affix on the head word
+#                                print("  {} is an affix on the head word".format(token))
+                                comp2.append(id)
+                            comp_lines.append("\t".join(items))
+                        else:
+#                            print("  {} is the head of {}, POS {}, head {}".format(token, comp_tokens, pos, head))
+                            comp_head = id
+                            if comp_word == 0:
+#                                print("  (head is the first word), {}".format(comp1))
+                                if comp1:
+                                    comp1.append(id)
+                                else:
+                                    items[-1] = "Translit={}".format(comp_ipa[0])
+                                comp_word += 1
+                            else:
+                                comp2.append(id)
+                            comp_lines.append("\t".join(items))
+                    elif comp_range:
+                        # End of compound
+#                        print("End of compound {} at token {}".format(comp_tokens, token))
+                        helper(comp_lines, comp_tokens, comp_ipa, comp1, comp2, comp_head, comp_head1)
+                        comp_range = None
+                    else:
+                        output.append('\t'.join(items))
+    out = file.rpartition('.')[0] + "_fixed.conllu"
+    with open(out, 'w') as f:
+        for line in output:
+            print(line, file=f)
+    return output
 
 def fix_possessive(file):
     output = []

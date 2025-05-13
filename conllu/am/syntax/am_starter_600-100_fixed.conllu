@@ -119,12 +119,11 @@
 # ATT_id = third_apple_2-x29-s15
 # sent_id = am-S-609
 # text = ያዝ ለቀቅ አደረገ ።
-1-4	ያዝ ለቀቅ አደረገ	_	_	_	_	_	_	_	Translit=yaz lək'ək' adərəgə
-1	ያዝ	ያዝ	PART	PART	_	3	compound	_	_
-2	ለቀቅ	ለቀቅ	PART	PART	_	3	compound	_	_
+1	ያዝ	ያዝ	PART	PART	_	3	compound	_	Translit=yaz
+2	ለቀቅ	ለቀቅ	PART	PART	_	3	compound	_	Translit=lək'ək'
+3-4	አደረገ	_	_	_	_	_	_	_	Translit=adərəgə
 3	ኣደረግ	አደረገ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=ADRAGI|Root=ድርግ:A
 4	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
-5	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # ATT_id = third_apple_2-x29-s16
 # sent_id = am-S-610
@@ -141,11 +140,10 @@
 8-9	ታጋዮች	_	_	_	_	_	_	_	Translit=tagayoč
 8	ታጋይ	ታጋይ	NOUN	NOUN	Number=Plur	13	obl	_	_
 9	ኦች	ኦች	DET	DET	Number=Plur	8	det:pl	_	_
-10-12	ግምባር ቀደሙ	_	_	_	_	_	_	_	Translit=gmbar k'ədəmu
-10	ግምባር	ግምባር	NOUN	NOUN	_	11	compound	_	_
+10	ግምባር	ግምባር	NOUN	NOUN	_	11	compound	_	Translit=gmbar
+11-12	ቀደሙ	_	_	_	_	_	_	_	Translit=k'ədəmu
 11	ቀደም	ቀደም	NOUN	NOUN	Number=Sing	13	nsubj	_	_
 12	ኡ	ኡ	DET	DET	Definite=Def	11	det	_	_
-13	መለስ	መለስ	PROPN	PROPN	_	0	root	_	Translit=mələs
 14	ዜናዊ	ዜናዊ	PROPN	PROPN	_	13	flat	_	Translit=zenawi
 15	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	13	cop	_	Translit=nəw
 16	።	።	PUNCT	PUNCT	_	13	punct	_	_
@@ -707,10 +705,8 @@
 6	ወድ	ወደደ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=ውድድ:A
 7	አው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj:aff	_	_
 8	ኣለሁ	ኣለሁ	AUX	AUX	Number=Sing|Person=1	6	aux:aff	_	_
-9-10	ነገር ግን	_	_	_	_	_	_	_	Translit=nəgər gn
-9	ነገር	ነገር	ADV	ADV	_	12	advmod	_	_
-10	ግን	ግን	ADV	ADV	_	9	fixed	_	_
-11	ጊዜ	ጊዜ	NOUN	NOUN	Number=Sing	12	_	_	Translit=gize
+9	ነገር	ነገር	ADV	ADV	_	12	advmod	_	Translit=nəgər
+10	ግን	ግን	ADV	ADV	_	9	fixed	_	Translit=gn
 12-15	የለኝም	_	_	_	_	_	_	_	Translit=yələňm
 12	የለ	አለː	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ህልው:B
 13	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj:aff	_	_
@@ -779,10 +775,10 @@
 # ATT_id = x00-s14
 # sent_id = am-S-648
 # text = ወደቤተ መጻሕፍት የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
-1-3	ወደቤተ መጻሕፍት	_	_	_	_	_	_	_	Translit=wədəbetə məs'ahft
+1-2	ወደቤተ	_	_	_	_	_	_	_	Translit=wədəbetə
 1	ወደ	ወደ	ADP	ADP	Case=Obl	2	case	_	_
 2	ቤተ	ቤተ	NOUN	NOUN	_	7	obl	_	_
-3	መጻህፍት	መጻህፍት	NOUN	NOUN	Number=Sing	2	compound	_	_
+3	መጻህፍት	መጻህፍት	NOUN	NOUN	Number=Sing	2	compound	_	Translit=məs'ahft
 4-7	የምትሄድ	_	_	_	_	_	_	_	Translit=yəmthed
 4	የ	የ	PART	RLP	_	7	mark	_	_
 5	ም	ም	PART	IRLP	_	7	mark	_	_
@@ -1175,10 +1171,8 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	12	nsubj	_	Translit=kasa
 2	አስቴር	አስቴር	PROPN	PROPN	_	7	nsubj	_	Translit=aster
 3	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wədə
-4-5	ትምህርት ቤት	_	_	_	_	_	_	_	Translit=tmhrt bet
-4	ትምህርት	ትምህርት	NOUN	NOUN	_	5	compound	_	_
-5	ቤት	ቤት	NOUN	NOUN	Number=Sing	7	obl	_	_
-6	እንደ	እንደ	SCONJ	_	_	7	mark	_	Translit='ndə
+4	ትምህርት	ትምህርት	NOUN	NOUN	_	5	compound	_	Translit=tmhrt
+5	ቤት	ቤት	NOUN	NOUN	Number=Sing	7	obl	_	Translit=bet
 7-8	ሄደች	_	_	_	_	_	_	_	Translit=hedəč
 7	ሄድ	ሄደ	VERB	VSTEM	Aspect=Perf	12	advcl	_	Aimad=DERAGI|Root=ህይድ:A
 8	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj:aff	_	_
@@ -1384,9 +1378,8 @@
 # text = አስቴር ወደ ትምህርት ቤት የሄደች ይመስላል ።
 1	አስቴር	አስቴር	PROPN	PROPN	_	6	nsubj	_	Translit=aster
 2	ወደ	ወደ	ADP	ADP	_	4	case	_	Translit=wədə
-3-4	ትምህርት ቤት	_	_	_	_	_	_	_	Translit=tmhrt bet
-3	ትምህርት	ትምህርት	NOUN	NOUN	_	4	compound	_	_
-4	ቤት	ቤት	NOUN	NOUN	Number=Sing	6	obl	_	_
+3	ትምህርት	ትምህርት	NOUN	NOUN	_	4	compound	_	Translit=tmhrt
+4	ቤት	ቤት	NOUN	NOUN	Number=Sing	6	obl	_	Translit=bet
 5-7	የሄደች	_	_	_	_	_	_	_	Translit=yəhedəč
 5	የ	የ	PART	RLP	_	6	mark	_	_
 6	ሄድ	ሄደ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	9	ccomp	_	Aimad=DERAGI|Root=ህይድ:A
@@ -1400,9 +1393,8 @@
 # ATT_id = x02-s10
 # sent_id = am-S-683
 # text = ትምህርት ቤት በሄድኩ ቁጥር ኳስ እጫወታለሁ ።
-1-2	ትምህርት ቤት	_	_	_	_	_	_	_	Translit=tmhrt bet
-1	ትምህርት	ትምህርት	NOUN	NOUN	_	2	compound	_	_
-2	ቤት	ቤት	NOUN	NOUN	Number=Sing	4	obl	_	_
+1	ትምህርት	ትምህርት	NOUN	NOUN	_	2	compound	_	Translit=tmhrt
+2	ቤት	ቤት	NOUN	NOUN	Number=Sing	4	obl	_	Translit=bet
 3-5	በሄድኩ	_	_	_	_	_	_	_	Translit=bəhedku
 3	በ	በ	SCONJ	SCONJ	_	4	mark	_	_
 4	ሄድ	ሄደ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	9	advcl	_	Aimad=DERAGI|Root=ህይድ:A

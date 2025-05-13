@@ -167,9 +167,8 @@
 # ATT_id = x10-s1
 # sent_id = am-S-813
 # text = ተማሪ ቤት አስኬድኩት ።
-1-2	ተማሪ ቤት	_	_	_	_	_	_	_	Translit=təmari bet
-1	ተማሪ	ተማሪ	NOUN	NOUN	_	2	compound	_	_
-2	ቤት	ቤት	NOUN	NOUN	Number=Sing	3	_	_	_
+1	ተማሪ	ተማሪ	NOUN	NOUN	_	2	compound	_	Translit=təmari
+2	ቤት	ቤት	NOUN	NOUN	Number=Sing	3	_	_	Translit=bet
 3-5	አስኬድኩት	_	_	_	_	_	_	_	Translit=askedkut
 3	ኣስኬድ	አስኬደ	VERB	VSTEM	Aspect=Perf|Voice=Cau	0	root	_	Aimad=ASDERAGI|Root=ህይድ:A
 4	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	3	nsubj:aff	_	_
@@ -337,11 +336,11 @@
 # sent_id = am-S-824
 # text = አልማዝ ስጋ ገዝታ ፣ ቀቅላ በላች ።
 1	አልማዝ	አልማዝ	PROPN	PROPN	_	_	_	_	Translit=almaz
-2	ስጋ	ስጋ	NOUN	NOUN	Number=Sing	_	_	_	Translit=sga
+2	ስጋ	ስጋ	NOUN	NOUN	Number=Sing	3	obj	_	Translit=sga
 3-4	ገዝታ	_	_	_	_	_	_	_	Translit=gəzta
 3	ገዝት	ገዛ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=ግዝእ:A
 4	ኣ	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
-5	፣	፣	PUNCT	PUNCT	_	_	_	_	_
+5	፣	፣	PUNCT	PUNCT	_	3	punct	_	_
 6-7	ቀቅላ	_	_	_	_	_	_	_	Translit=k'ək'la
 6	ቀቅል	ቀቀለ	VERB	VSTEM	VerbForm=Conv	8	advcl	_	Aimad=DERAGI|Root=ቅቅል:B
 7	ኣ	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj:aff	_	_
@@ -643,12 +642,11 @@
 10	እጅ	እጅ	NOUN	NOUN	Number=Sing	14	_	_	_
 11	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	10	det:poss	_	Possessive=Yes
 12	ን	ን	ADP	ADP	Case=Obj	10	case	_	_
-13-16	ወለም አለኝ	_	_	_	_	_	_	_	Translit=wələm aləň
-13	ወለም	ወለም	PART	PART	_	14	compound_lvc	_	_
+13	ወለም	ወለም	PART	PART	_	14	compound_lvc	_	Translit=wələm
+14-16	አለኝ	_	_	_	_	_	_	_	Translit=aləň
 14	ኣል	አለ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ብእል:A
 15	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj:aff	_	_
 16	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	14	obj:aff	_	_
-17	።	።	PUNCT	PUNCT	_	14	punct	_	_
 
 # ATT_id = x11-s11
 # sent_id = am-S-843
@@ -870,11 +868,10 @@
 5	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	3	obj:aff	_	_
 6	ን	ን	ADP	ADP	Case=Obj	3	case	_	_
 7	ብድር	ብድር	NOUN	NOUN	Number=Sing	9	_	_	Translit=bdr
-8-10	እምቢ አልኩ	_	_	_	_	_	_	_	Translit='mbi alku
-8	እምቢ	እምቢ	PART	PART	_	9	compound_lvc	_	_
+8	እምቢ	እምቢ	PART	PART	_	9	compound_lvc	_	Translit='mbi
+9-10	አልኩ	_	_	_	_	_	_	_	Translit=alku
 9	ኣል	አለ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ብእል:A
 10	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	9	nsubj:aff	_	_
-11	።	።	PUNCT	PUNCT	_	9	punct	_	_
 
 # ATT_id = x12-s3
 # sent_id = am-S-855
@@ -1141,11 +1138,10 @@
 # text = ወይዘሮ አስቴር ለአውደ ዓመት አንድ ጋን ጠላ ጠመቀች ።
 1	ወይዘሮ	ወይዘሮ	PROPN	PROPN	_	9	_	_	Translit=wəyzəro
 2	አስቴር	አስቴር	PROPN	PROPN	_	_	_	_	Translit=aster
-3-5	ለአውደ ዓመት	_	_	_	_	_	_	_	Translit=ləawdə amət
-3	ለ	ለ	ADP	ADP	Case=Obl	5	case	_	_
+3-4	ለአውደ	_	_	_	_	_	_	_	Translit=ləawdə
+3	ለ	ለ	ADP	ADP	Case=Obl	4	case	_	_
 4	አውደ	አውደ	NOUN	NOUN	_	5	compound	_	_
-5	አመት	አመት	NOUN	NOUN	Number=Sing	_	_	_	_
-6	አንድ	አንድ	NUM	NUM	_	_	_	_	Translit=and
+5	አመት	አመት	NOUN	NOUN	Number=Sing	_	_	_	Translit=amət
 7	ጋን	ጋን	NOUN	NOUN	Number=Sing	6	amod	_	Translit=gan
 8	ጠላ	ጠላ	NOUN	NOUN	Number=Sing	9	_	_	Translit=t'əla
 9-10	ጠመቀች	_	_	_	_	_	_	_	Translit=t'əmək'əč

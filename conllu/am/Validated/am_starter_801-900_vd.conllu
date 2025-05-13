@@ -124,7 +124,7 @@
 9	ን	ን	ADP	ADP	Case=Obj	7	case	_	_
 10-11	እጎተራ	_	_	_	_	_	_	_	Translit='gotəra
 10	እ	እ	ADP	ADP	Case=Obl	11	case	_	_
-11	ጎተራ	ጎተራ	NOUN	NOUN	Number=Sing	12	_	_	_
+11	ጎተራ	ጎተራ	NOUN	NOUN	Number=Sing	12	obl	_	_
 12	አስገባ	አስገባ	VERB	VERB	Gender=Masc|Mood=Imp|Number=Sing|Person=2|Voice=Cau	0	root	_	Translit=asgəba
 13	።	።	PUNCT	PUNCT	_	12	punct	_	_
 
@@ -1055,7 +1055,7 @@
 5	ም	ም	PART	IRLP	_	7	mark	_	_
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:aff	_	_
 7	ል	አለ	VERB	VSTEM	Aspect=Imp	8	acl	_	Aimad=DERAGI|ClauseType=Subord|Root=ብእል:A
-8	ሐሳብ	ሀሳብ	NOUN	NOUN	Number=Sing	9	_	_	Translit=hasab
+8	ሐሳብ	ሀሳብ	NOUN	NOUN	Number=Sing	9	nsubj	_	Translit=hasab
 9-11	አሸበራት	_	_	_	_	_	_	_	Translit=ašəbərat
 9	ኣሸበር	አሸበረ	VERB	VSTEM	Aspect=Perf|Voice=Cau	0	root	_	Aimad=ASDERAGI|Root=ሽብር:B
 10	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj:aff	_	_
