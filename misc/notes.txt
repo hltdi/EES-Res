@@ -3,12 +3,42 @@ fixes in HM
 * combining feats: possessive suffixes, verb object suffixes
 * handling verb stems with no subject affix: መታው
 
+REDO
+* ወዲህ unsegmented, SCONJ
+S-990 ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።
+
 Apr-May, 2025
 TRANSLATION
 S-848 ምክራችንን አልሰማ በማለቷ ባሏ ሌላ ሚስት አገባላት ።
 S-918 ነገሩ የሆነው ከስንት ጊዜ በፊት ነበር ?
+S-942 እርኩስ መንፈስ የያዘው ሰው አስቸገረን ።
 
 OUTSTANDING QUESTIONS
+* advmod with agentive nouns
+S-1010 ፈረሱ ቶሎ ቶሎ ሂያጅ ነው ።
+* እኮ following nominal; ADV, PART, ADP?
+S-1007 እኔ እኮ ይህ ፈረስ ያንተ መስሎኝ ነበር ።
+* predicative nominative with ሆነ
+S-993 ሀምሌትን ሆኖ የሚጫወተው ማነው ?
+* non-projective cleft sentences?
+S-994 ረኃብ ካዋቂ ይልቅ ልጅን ነው የሚርብ ።
+* "do to" አደረገ with two objects; xcomp, obj ?
+S-988 ወተቱን ምን ያደርጉታል ?
+* በ _-ስ በኩል, like "as for" topics in English: obl in EWT
+S-977 በምግብስ በኩል ምግቡ መጥፎ አይደለም ።
+* parataxis, orphan
+S-966 ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።
+S-972 ምሳዬን አልበላሁም ቁርሴንም ቢሆን እንዲሁ ።
+* parataxes vs. conj; -ም as cc (or advmod)
+S-959 ይበላልም ይጠጣልም ።
+S-960 ገንዘብም ምክርም ሰጠኝ ።
+* comparatives generally; degree (የበለጠ የባሰ): advcl, standard: obl
+S-955 ከካሳ የባሰ አጭር ነው ።
+* interjections vs. adverbs
+S-932 ተቀመጥ እንጂ !
+S-957 መጽሓፉን ጻፊያ !
+* interjections and parataxis
+S-925 በል ብላት !
 * various
 S-909 ልጁ ይምጣ አይምጣ አላውቅም ።
 * direction of parataxis links
