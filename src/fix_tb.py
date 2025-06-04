@@ -133,6 +133,7 @@ def fix_compound(file):
 #                        print("End of compound {} at token {}".format(comp_tokens, token))
                         helper(comp_lines, comp_tokens, comp_ipa, comp1, comp2, comp_head, comp_head1)
                         comp_range = None
+                        output.append('\t'.join(items))
                     else:
                         output.append('\t'.join(items))
     out = file.rpartition('.')[0] + "_fixed.conllu"
