@@ -300,8 +300,9 @@
 # sent_id = am-S-921
 # text = አስቴር ትምህርት ቤት ትሂድ !
 1	አስቴር	አስቴር	PROPN	PROPN	_	_	_	_	Translit=aster
-2	ትምህርት	ትምህርት	NOUN	NOUN	_	3	compound	_	Translit=tmhrt
-3	ቤት	ቤት	NOUN	NOUN	Number=Sing	5	_	_	Translit=bet
+2-3	ትምህርት ቤት	_	_	_	_	_	_	_	Translit=tmhrt bet
+2	ትምህርት	ትምህርት	NOUN	NOUN	_	3	compound	_	_
+3	ቤት	ቤት	NOUN	NOUN	Number=Sing	5	_	_	_
 4-5	ትሂድ	_	_	_	_	_	_	_	Translit=thid
 4	ት	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
 5	ሂድ	ሄደ	VERB	VSTEM	Mood=Jus	0	root	_	Aimad=DERAGI|Root=ህይድ:A
@@ -391,8 +392,8 @@
 # sent_id = am-S-929
 # text = እስኪ መታወቂያ ወረቀትህን አሳየኝ ?
 1	እስኪ	እስኪ	INTJ	INTJ	_	_	_	_	Translit='ski
-2	መታወቂያ	መታወቂያ	NOUN	NOUN	_	3	compound	_	Translit=mətawək'iya
-3-5	ወረቀትህን	_	_	_	_	_	_	_	Translit=wərək'əthn
+2-5	መታወቂያ ወረቀትህን	_	_	_	_	_	_	_	Translit=mətawək'iya wərək'əthn
+2	መታወቂያ	መታወቂያ	NOUN	NOUN	_	3	compound	_	_
 3	ወረቀት	ወረቀት	NOUN	NOUN	Number=Sing	6	_	_	_
 4	ህ	አንተ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	det:poss	_	Possessive=Yes
 5	ን	ን	ADP	ADP	Case=Obj	3	case	_	_
@@ -818,7 +819,7 @@
 # sent_id = am-S-953
 # text = ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።
 1	ወደ	ወደ	ADP	ADP	_	3	case	_	Translit=wədə
-2-3	አዲስ	_	_	_	_	_	_	_	Translit=adis
+2-3	አዲስ አበባ	_	_	_	_	_	_	_	Translit=adis abəba
 2	አዲስ	አዲስ	_	_	_	3	compound	_	_
 3	አበባ	አበባ	PROPN	PROPN	_	_	_	_	_
 4-5	ለመሄድ	_	_	_	_	_	_	_	Translit=ləməhed
@@ -1349,8 +1350,9 @@
 # text = ዛሬ ወደ ተማሪ ቤት ለመሄድ አልተሰናዳህምሳ ?
 1	ዛሬ	ዛሬ	NOUN	NOUN	Number=Sing	_	_	_	Translit=zare
 2	ወደ	ወደ	ADP	ADP	_	4	case	_	Translit=wədə
-3	ተማሪ	ተማሪ	NOUN	NOUN	_	4	compound	_	Translit=təmari
-4	ቤት	ቤት	NOUN	NOUN	Number=Sing	_	_	_	Translit=bet
+3-4	ተማሪ ቤት	_	_	_	_	_	_	_	Translit=təmari bet
+3	ተማሪ	ተማሪ	NOUN	NOUN	_	4	compound	_	_
+4	ቤት	ቤት	NOUN	NOUN	Number=Sing	_	_	_	_
 5-6	ለመሄድ	_	_	_	_	_	_	_	Translit=ləməhed
 5	ለ	ለ	ADP	ADP	Case=Obl	6	case	_	_
 6	መሄድ	መሄድ	NOUN	NOUN	Number=Sing|VerbForm=Inf	8	_	_	_
@@ -1613,8 +1615,8 @@
 1	ምን	ምን	PRON	PRON	Number=Sing	_	_	_	Translit=mn
 2	እባክህ	እባክህ	INTJ	INTJ	_	_	_	_	Translit='bakh
 3	ዝናብ	ዝናብ	NOUN	NOUN	Number=Sing	_	_	_	Translit=znab
-4	እምቢ	እምቢ	PART	PART	_	5	compound_lvc	_	Translit='mbi
-5-6	ብሎ	_	_	_	_	_	_	_	Translit=blo
+4-6	እምቢ ብሎ	_	_	_	_	_	_	_	Translit='mbi blo
+4	እምቢ	እምቢ	PART	PART	_	5	compound_lvc	_	_
 5	ብል	አለ	VERB	VSTEM	VerbForm=Conv	10	advcl	_	Aimad=DERAGI|Root=ብእል:A
 6	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
 7-8	አዝመራው	_	_	_	_	_	_	_	Translit=azməraw
@@ -1736,7 +1738,8 @@
 1-2	ፈረሱ	_	_	_	_	_	_	_	Translit=fərəsu
 1	ፈረስ	ፈረስ	NOUN	NOUN	Number=Sing	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def	1	det	_	_
-3	ቶሎ	ቶሎ	ADV	ADV	_	_	_	_	Translit=tolo
+3-4	ቶሎ ቶሎ	_	_	_	_	_	_	_	Translit=tolo tolo
+3	ቶሎ	ቶሎ	ADV	ADV	_	_	_	_	_
 4	ቶሎ	ቶሎ	_	_	_	3	fixed	_	_
 5	ሂያጅ	ሂያጅ	NOUN	NOUN	Number=Sing	0	root	_	Translit=hiyaǰ
 6	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	5	cop	_	Translit=nəw
@@ -1888,8 +1891,9 @@
 1	ያለ	ያለ	ADP	ADP	_	2	case	_	Translit=yalə
 2	ፓስፖርት	ፓስፖርት	NOUN	NOUN	Number=Sing	_	_	_	Translit=pasport
 3	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wədə
-4	ውጭ	ውጭ	NOUN	NOUN	_	5	compound	_	Translit=wč'
-5	አገር	አገር	NOUN	NOUN	Number=Sing	_	_	_	Translit=agər
+4-5	ውጭ አገር	_	_	_	_	_	_	_	Translit=wč' agər
+4	ውጭ	ውጭ	NOUN	NOUN	_	5	compound	_	_
+5	አገር	አገር	NOUN	NOUN	Number=Sing	_	_	_	_
 6	መጓዝ	መጓዝ	NOUN	NOUN	Number=Sing|VerbForm=Inf	9	_	_	Translit=məgwaz
 7-10	አይቻልም	_	_	_	_	_	_	_	Translit=ayčalm
 7	ኣ	ኣ	ADV	NEG	Polarity=Neg	9	advmod:aff	_	_

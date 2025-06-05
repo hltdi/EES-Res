@@ -114,8 +114,9 @@
 4	በ	በ	ADP	ADP	Case=Obl	5	case	_	_
 5	መኪና	መኪና	NOUN	NOUN	Number=Sing	_	_	_	_
 6	ወደ	ወደ	ADP	ADP	_	8	case	_	Translit=wədə
-7	ትምህርት	ትምህርት	NOUN	NOUN	_	8	compound	_	Translit=tmhrt
-8	ቤት	ቤት	NOUN	NOUN	Number=Sing	11	_	_	Translit=bet
+7-8	ትምህርት ቤት	_	_	_	_	_	_	_	Translit=tmhrt bet
+7	ትምህርት	ትምህርት	NOUN	NOUN	_	8	compound	_	_
+8	ቤት	ቤት	NOUN	NOUN	Number=Sing	11	_	_	_
 9-12	አይሄድም	_	_	_	_	_	_	_	Translit=ayhedm
 9	ኣ	ኣ	ADV	NEG	Polarity=Neg	11	advmod:aff	_	_
 10	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj:aff	_	_
@@ -438,8 +439,8 @@
 # ATT_id = x05-s20
 # sent_id = am-S-732
 # text = ዝም አለች ።
-1	ዝም	ዝም	PART	PART	_	2	compound:lvc	_	Translit=zm
-2-3	አለች	_	_	_	_	_	_	_	Translit=aləč
+1-3	ዝም አለች	_	_	_	_	_	_	_	Translit=zm aləč
+1	ዝም	ዝም	PART	PART	_	2	compound:lvc	_	_
 2	ኣል	አለ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ብእል:A
 3	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj:aff	_	_
 4	።	።	PUNCT	PUNCT	_	2	punct	_	_
@@ -451,8 +452,8 @@
 1	ከ	ከ	ADP	ADP	Case=Obl	2	case	_	_
 2	ፊት	ፊት	NOUN	NOUN	Number=Sing	5	_	_	_
 3	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	2	det:poss	_	Possessive=Yes
-4	ጥፍት	ጥፍት	PART	PART	_	5	compound:lvc	_	Translit=t'ft
-5-6	አለች	_	_	_	_	_	_	_	Translit=aləč
+4-6	ጥፍት አለች	_	_	_	_	_	_	_	Translit=t'ft aləč
+4	ጥፍት	ጥፍት	PART	PART	_	5	compound:lvc	_	_
 5	ኣል	አለ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ብእል:A
 6	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
@@ -1179,8 +1180,8 @@
 # ATT_id = x08-s17
 # sent_id = am-S-789
 # text = መኖሪያ ቤቱ ታሸገበት ።
-1	መኖሪያ	መኖሪያ	NOUN	NOUN	_	2	compound	_	Translit=mənoriya
-2-3	ቤቱ	_	_	_	_	_	_	_	Translit=betu
+1-3	መኖሪያ ቤቱ	_	_	_	_	_	_	_	Translit=mənoriya betu
+1	መኖሪያ	መኖሪያ	NOUN	NOUN	_	2	compound	_	_
 2	ቤት	ቤት	NOUN	NOUN	Number=Sing	4	_	_	_
 3	ኡ	ኡ	DET	DET	_	2	det:hum	_	_
 4-6	ታሸገበት	_	_	_	_	_	_	_	Translit=tašəgəbət
