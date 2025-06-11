@@ -1,0 +1,34 @@
+# text = ኩባንያው እስካላባረረው ድረስ ይቆያል ።
+# sent_id = 1
+1-2	ኩባንያው	_	_	_	_	_	_	_	Translit=kubanyaw
+1	ኩባንያ	ኩባንያ	NOUN	NOUN	Gender=Masc|Number=Sing	_	_	_	_
+2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
+3-7	እስካላባረረው	_	_	_	_	_	_	_	Translit='skalabarərəw
+3	እስከ	እስከ	SCONJ	SCONJ	_	5	case	_	_
+4	ኣል	ኣል	ADV	NEG	Polarity=Neg	5	advmod:aff	_	_
+5	ኣባረር	አባረረ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord|Voice=Cau	_	_	_	Aimad=ADARAGI|Root=ብርር:A
+6	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
+7	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj:aff	_	_
+8	ድረስ	ድረስ	SCONJ	SCONJ	_	_	_	_	Translit=drəs
+9-11	ይቆያል	_	_	_	_	_	_	_	Translit=yk'oyal
+9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:aff	_	_
+10	ቆይ	ቈየ	VERB	VSTEM	Aspect=Imp	0	root	_	Aimad=DERAGI|Root=ቁይይ:B
+11	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	10	aux	_	_
+12	።	።	PUNCT	PUNCT	_	10	punct	_	_
+
+# text = ብዙ በመሮጤ እግሬን አመመኝ ።
+# sent_id = 2
+1	ብዙ	ብዙ	ADV	ADV	_	_	_	_	Translit=bzu
+2-4	በመሮጤ	_	_	_	_	_	_	_	Translit=bəmərot'e
+2	በ	በ	ADP	ADP	Case=Obl	3	case	_	_
+3	መሮጥ	መሮጥ	NOUN	NOUN	Number=Sing|VerbForm=Inf	_	_	_	_
+4	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	3	det:poss	_	_
+5-7	እግሬን	_	_	_	_	_	_	_	Translit='gren
+5	እግር	እግር	NOUN	NOUN	Number=Sing	8	_	_	_
+6	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Possessive=Yes|PronType=Prs	5	det:poss	_	_
+7	ን	ን	ADP	ADP	Case=Obj	5	case	_	_
+8-10	አመመኝ	_	_	_	_	_	_	_	Translit=aməməň
+8	ኣመም	አመመ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=እምም:A
+9	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:aff	_	_
+10	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	8	obj:aff	_	_
+11	።	።	PUNCT	PUNCT	_	8	punct	_	_

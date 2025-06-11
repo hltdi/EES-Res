@@ -109,7 +109,7 @@ def update_feats(feats, token, rel):
                 new_feats.append("ObjNum={}".format(v))
             elif f == 'Person':
                 new_feats.append("ObjPers={}".format(v))
-            elif f != 'PronType':
+            elif f not in ['PronType', 'Case']:
                 new_feats.append(feat)
         return new_feats
     elif rel == 'obl:aff':
@@ -125,7 +125,7 @@ def update_feats(feats, token, rel):
                 new_feats.append("{}Num={}".format(pre, v))
             elif f == 'Person':
                 new_feats.append("{}Pers={}".format(pre, v))
-            elif f != 'PronType':
+            elif f not in ['PronType', 'Case']:
                 new_feats.append(feat)
         return new_feats
     else:

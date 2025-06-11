@@ -194,7 +194,7 @@
 1	የ	የ	PART	RLP	_	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
 3	ይ	እሱ	PRON	SUBJC	_	4	nsubj:aff	_	_
-4	መጣ	መጣ	VERB	VSTEM	Aspect=Imp|Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3	8	ccomp	_	Aimad=DERAGI|ClauseType=Subord|Root=ምጥእ:A
+4	መጣ	መጣ	VERB	VSTEM	Aspect=Imp|Case=Obj|Definite=Def|Gender=Masc|Number=Sing|Person=3	8	ccomp	_	Aimad=DERAGI|ClauseType=Subord|Root=ምጥእ:A
 5	አው	አው	DET	DET	_	4	det	_	_
 6	ን	ን	ADP	ADP	_	4	case	_	_
 7-9	ታውቃለች	_	_	_	_	_	_	_	Translit=tawk'aləč

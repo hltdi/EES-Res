@@ -8190,7 +8190,7 @@
 # text = የተጣሉበትን ሳታውቅ ጣልቃ አትግባ ።
 1-5	የተጣሉበትን	_	_	_	_	_	_	_	Translit=yətət'alubətn
 1	የ	የ	PART	RLP	_	2	mark	_	_
-2	ተጣል	ተጣለ	VERB	VSTEM	Aspect=Perf|Case=MalIns|Number=Plur|Person=3|Voice=Pass	9	ccomp	_	Aimad=TEDERAGI|ClauseType=Subord|MalGen=Masc|MalNum=Sing|MalPers=3|Root=ጥእል:A
+2	ተጣል	ተጣለ	VERB	VSTEM	Aspect=Perf|Case=Obj|Number=Plur|Person=3|Voice=Pass	9	ccomp	_	Aimad=TEDERAGI|ClauseType=Subord|MalGen=Masc|MalNum=Sing|MalPers=3|Root=ጥእል:A
 3	ኡ	እነሱ	PRON	SUBJC	_	2	nsubj:aff	_	_
 4	በት	እሱ	PRON	OBJC	_	2	obl:aff	_	_
 5	ን	ን	ADP	ADP	_	2	case	_	_

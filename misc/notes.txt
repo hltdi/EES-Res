@@ -1,4 +1,9 @@
-﻿May 2025
+﻿June 2025
+??
+S-61: no grouping of morphemes into words
+S-352: not cf
+
+May 2025
 fixes in HM
 * combining feats: possessive suffixes, verb object suffixes
 * handling verb stems with no subject affix: መታው

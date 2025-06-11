@@ -1,0 +1,51 @@
+# ATT_id = x12-s15
+# sent_id = am-S-867
+# text = ቤቱን ጠርገሽ ልብሱን አጥበሽ ወጥ ሥሪ ።
+1-3	ቤቱን	_	_	_	_	_	_	_	Translit=betun
+1	ቤት	ቤት	NOUN	NOUN	Number=Sing	_	_	_	_
+2	ኡ	ኡ	DET	DET	Definite=Def	1	det	_	_
+3	ን	ን	ADP	ADP	Case=Obj	1	case	_	_
+4-5	ጠርገሽ	_	_	_	_	_	_	_	Translit=t'ərgəš
+4	ጠርግ	ጠረገ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=ጥርግ:A
+5	አሽ	አንቺ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	nsubj:aff	_	_
+6-8	ልብሱን	_	_	_	_	_	_	_	Translit=lbsun
+6	ልብስ	ልብስ	NOUN	NOUN	Number=Sing	_	_	_	_
+7	ኡ	ኡ	DET	DET	Definite=Def	6	det	_	_
+8	ን	ን	ADP	ADP	Case=Obj	6	case	_	_
+9-10	አጥበሽ	_	_	_	_	_	_	_	Translit=at'bəš
+9	ኣጥብ	አጠበ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=እጥብ:A
+10	አሽ	አንቺ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=2|PronType=Prs	9	nsubj:aff	_	_
+11	ወጥ	ወጥ	NOUN	NOUN	Number=Sing	12	_	_	Translit=wət'
+12-13	ሥሪ	_	_	_	_	_	_	_	Translit=sri
+12	ስራ	ሰራ	VERB	VSTEM	Mood=Imp	0	root	_	Aimad=DERAGI|Root=ስርእ:A
+13	ኢ	አንቺ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=2|PronType=Prs	12	nsubj:aff	_	_
+14	።	።	PUNCT	PUNCT	_	12	punct	_	_
+
+# ATT_id = x12-s16
+# sent_id = am-S-868
+# text = ወይዘሮ አስቴር ለአውደ ዓመት አንድ ጋን ጠላ ጠመቀች ።
+1	ወይዘሮ	ወይዘሮ	PROPN	PROPN	_	_	_	_	Translit=wəyzəro
+2	አስቴር	አስቴር	PROPN	PROPN	_	9	_	_	Translit=aster
+3-4	ለአውደ	_	_	_	_	_	_	_	Translit=ləawdə
+3	ለ	ለ	ADP	ADP	Case=Obl	4	case	_	_
+4	አውደ	አውደ	NOUN	NOUN	_	5	compound	_	_
+5	አመት	አመት	NOUN	NOUN	Number=Sing	_	_	_	Translit=amət
+6	አንድ	አንድ	NUM	NUM	_	_	_	_	Translit=and
+7	ጋን	ጋን	NOUN	NOUN	Number=Sing	_	_	_	Translit=gan
+8	ጠላ	ጠላ	NOUN	NOUN	Number=Sing	9	_	_	Translit=t'əla
+9-10	ጠመቀች	_	_	_	_	_	_	_	Translit=t'əmək'əč
+9	ጠመቅ	ጠመቀ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ጥምቅ:A
+10	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj:aff	_	_
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# ATT_id = x12-s17
+# sent_id = am-S-869
+# text = ልጆቹ ባለጉ ።
+1-3	ልጆቹ	_	_	_	_	_	_	_	Translit=lǰoču
+1	ልጅ	ልጅ	NOUN	NOUN	Number=Plur	4	_	_	_
+2	ኦች	ኦች	DET	DET	Number=Plur	1	det:pl	_	_
+3	ኡ	ኡ	DET	DET	Definite=Def	1	det	_	_
+4-5	ባለጉ	_	_	_	_	_	_	_	Translit=baləgu
+4	ባለግ	ባለገ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ብልግ:C
+5	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	nsubj:aff	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
