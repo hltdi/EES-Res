@@ -1,5 +1,34 @@
 ﻿June 2025
 
+CACO annotation
+56 ያላችሁት አለ፡
+57
+89
+ጅማ
+61 ይሄ
+69 plural twice; gender?
+83 ADVCCONJ
+98 NUM
+ዋ as possessive [psor]
+
+HM
+ሁሉ: possessive suffix
+አይደሉም: dependency
+
+HM: feature changes (morph_version 2)
+ObjPers -> Person[obj]
+ObjNum -> Number[obj]
+ObjGen -> Gender[obj]
+BenPers -> Person[ben]
+BenNum -> Number[ben]
+BenGen -> Gender[ben]
+MalPers -> Person[mal]
+MalNum -> Number[mal]
+MalGen -> Gender[mal]
+
+Gender=Masc|Number=Sing|Person=3|
+Number=Sing,Person=1|
+
 HM
 ሁሉ: repeated options
 አይደሉ: PNG

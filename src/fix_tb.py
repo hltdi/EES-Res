@@ -5,6 +5,62 @@ import os
 
 from conllu import parse, TokenList, Token
 
+def fix_clausetype(file):
+    '''
+    Fix errors where ClauseType feature appears in Misc slot.
+    '''
+    output = []
+    with open(file) as f:
+        for line in f:
+            line = line.strip()
+            if line and line[0] != '#':
+                lineS = line.split('\t')
+                misc = lineS[9]
+                feats = lineS[5]
+                if 'ClauseType' in misc:
+                    miscfeats = misc.split('|')
+                    mf = []
+                    cf = ''
+                    for m in miscfeats:
+                        if m.startswith('ClauseType'):
+                            cf = m
+                        else:
+                            mf.append(m)
+                    if not mf:
+                        misc = '_'
+                    else:
+                        misc = '|'.join(mf)
+                    lineS[9] = misc
+                    feats = feats.split('|')
+                    feats.append(cf)
+                    feats.sort()
+                    feats = "|".join(feats)
+                    lineS[5] = feats
+                    line = '\t'.join(lineS)
+            output.append(line)
+    with open(file.rpartition('.')[0] + "_CT.conllu", 'w') as f:
+        for line in output:
+            print(line, file=f)
+
+def alpha_features(file):
+    output = []
+    with open(file) as f:
+        for line in f:
+            line = line.strip()
+            if line and line[0] != '#':
+                lineS = line.split('\t')
+                feats = lineS[5]
+                if feats != '_':
+                    feats = feats.split('|')
+                    feats.sort()
+                    feats = '|'.join(feats)
+                    lineS[5] = feats
+                    line = '\t'.join(lineS)
+            output.append(line)
+    with open(file.rpartition('.')[0] + "_alpha.conllu", 'w') as f:
+        for line in output:
+            print(line, file=f)
+
 def all_fix_compound(dr):
     files = os.listdir(dr)
     for file in files:

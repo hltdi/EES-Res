@@ -1,0 +1,72 @@
+﻿OUTSTANDING QUESTIONS
+* passive?
+S-783 ሰልፉ ተቃለለ ።
+* advmod with agentive nouns
+S-1010 ፈረሱ ቶሎ ቶሎ ሂያጅ ነው ።
+* እኮ following nominal; ADV, PART, ADP?
+S-1007 እኔ እኮ ይህ ፈረስ ያንተ መስሎኝ ነበር ።
+* predicative nominative with ሆነ
+S-993 ሀምሌትን ሆኖ የሚጫወተው ማነው ?
+* non-projective cleft sentences?
+S-994 ረኃብ ካዋቂ ይልቅ ልጅን ነው የሚርብ ።
+* "do to" አደረገ with two objects; xcomp, obj ?
+S-988 ወተቱን ምን ያደርጉታል ?
+* በ _-ስ በኩል, like "as for" topics in English: obl in EWT
+S-977 በምግብስ በኩል ምግቡ መጥፎ አይደለም ።
+* parataxis, orphan
+S-966 ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።
+S-972 ምሳዬን አልበላሁም ቁርሴንም ቢሆን እንዲሁ ።
+* parataxes vs. conj; -ም as cc (or advmod)
+S-959 ይበላልም ይጠጣልም ።
+S-960 ገንዘብም ምክርም ሰጠኝ ።
+* comparatives generally; degree (የበለጠ የባሰ): advcl, standard: obl
+S-955 ከካሳ የባሰ አጭር ነው ።
+* interjections vs. adverbs
+S-932 ተቀመጥ እንጂ !
+S-957 መጽሓፉን ጻፊያ !
+* interjections and parataxis
+S-925 በል ብላት !
+* jussive affirmative+negative
+S-909 ልጁ ይምጣ አይምጣ አላውቅም ።
+* direction of parataxis links
+S-857 በሩ ላይ ቆሞ ልግባ አልግባ ሲል አቅማማ ።
+* hierarchy of chained converb clauses
+S-867 ቤቱን ጠርገሽ ልብሱን አጥበሽ ወጥ ሥሪ ።
+S-824 አልማዝ ስጋ ገዝታ ፣ ቀቅላ በላች ።
+* Another quirky subject
+S-935 አስቴር ፀጉርዋን የሰራቻት ልጅ ጥሩ ናት ።
+S-986 ጤናዎንስ እንደምን ነዎት ?
+S-1007 እኔ እኮ ይህ ፈረስ ያንተ መስሎኝ ነበር ።
+* N vs ADP (አጠገብ ውስጥ ውጭ ላይ, etc.)
+S-701 በወንዙ አጠገብ ሄዱ ።
+* more AUX (adjust constraint rules)
+S-709 ሄዶ ይሆናል
+* nmod and obl with infinitive?
+S-717 የካሳ በፈተና መውደቅ አልማዝን ገረማት nmod? obl?
+S-784 የመሄጃው ቀን ተቃረበ ።
+* መሰለ + እየ-V csubj?
+S-719 አልማዝ ልብስ እያጠበች መሰለኝ ።
+* መምጣት obl? advcl? it really behaves like a noun
+S-722 እናቴን ስለ ወንድሟ መምጣት ጠየኳት ።
+* When is ሆነ a cop vs. a real verb?
+S-745 ጉዞ በጠዋት መሆን አለበት ።
+* syntactic ambiguity
+S-746 የገዛሁት ቤት ነው ።
+* morphology: explain accusative in these pseudo-cleft cases
+S-748 የገዛሁት ያንን ቤት ነው ።
+S-752 የምወደው ሥራ መሥራትን ነው ።
+S 753 የምጠላው ጠላ መጠጣቷን ነው ።
+* cognate object: ሥራ መሥራት
+S-752 የምወደው ሥራ መሥራትን ነው ።
+* obj:exper even if it has the accusative marker
+S-763 አልማዝን አመማት ።
+* experiencer, grooming locus: iobj?; ተሰረቀ
+S-766 ራሴን አመመኝ ።
+S-774 እጇን ታጠበች ።
+S-777 ሻንጣዬን ተሰረቅሁ ።
+S-842 እጄን ወለም አለኝ ።
+* subject of object experiencer verbs
+S-767 ብርድ ይሰማኛል ።
+* Extending obj:exper
+S-705 አልማዝ እንቅልፍ ወሰዳት ።
+
