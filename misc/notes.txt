@@ -1,4 +1,64 @@
-﻿June 2025
+﻿July 2025
+
+"determiners"
+either modify a noun (like an adjective, without የ-) or exist independently as a pronoun
+how are they different from adjectives?
+why not ስንት or ብዙ? 
+
+*demonstratives: ይህ ያ ይህኛ(ው) ያኛ(ው)
+*interrogatives: የቱ የትኛ(ው)
+*indefinites: ማንኛ(ው)(ም) ምንም ማንም ማናቸው(ም)
+ሁሉ
+አንዱ ሁለቱ ...
+አንዳንድ
+አንድም አንዱም
+
+quantifiers: ሁሉ አንዳንድ? አንድም? ስንት? ስንተኛ? ሙሉ? ሁለቱም?
+
+ambiguous:
+DET/PRON or DET/ADV ምን የት
+
+other:
+ADJ ብዙ ጥቂት ስንት?
+
+** lexicalization of "determiners"
+የት የትም የቱ የትኛው
+ማን ማናቸው(ም) ማንም ማንያው(ም)
+ምን ምንም ምኑ
+ይህ ይህኛው
+ያ ያኛው
+አንድ አንድም አንዱም አንዳንድ(ም)
+ሁለት ሁለቱ(ም), etc.
+
+Q for AS
+should we skip the dependency constraint rules and just let the parser figure out the relations?
+
+HM
+ነበርና
+ያለሽ / ያለ
+many duplicates, e.g., መቀየስ አስፈላጊ
+መጀመሪያ
+አስተዳደር
+የለም
+እንበል
+
+June 2025
+
+CACO validation
+4 ወይ ጉድ ! አልኩ ።
+7 ብርድ nsubj or obj?
+9 ተሳዳቢው ህዝብ
+10 ውሃ ይቦርቦራሉ
+14 parataxis INTJ discourse
+22 በመረዳዳት ባህላቸው
+24 እነሆ
+**38 rel of ትኩረት (I don't understand the sentence.)
+43 እርስ በርስ
+@@47 wrong; redo
+**56 don't understand
+**89
+94 ባዘዘው መሰረት advcl; SCONJ
+97 dislocated with አለብን
 
 CACO annotation
 56 ያላችሁት አለ፡
