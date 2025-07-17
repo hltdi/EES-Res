@@ -1,5 +1,13 @@
 ﻿July 2025
 
+fixes to earlier TBs
+NOUN	NOUN	Number=Sing
+ADJ	ADJ	Number=Sing
+NOUN	NOUN	Gender=Masc|Number=Sing
+PronType=
+Possessive=Yes
+Gender=Masc|Gender[psor]=Masc
+
 "determiners"
 either modify a noun (like an adjective, without የ-) or exist independently as a pronoun
 how are they different from adjectives?

@@ -1,0 +1,21 @@
+# text = ስለዚህ በትኩረት ከችግሮች ለመውጣት እንላለን ።
+# sent_id = 1
+1-2	ስለዚህ	_	_	_	_	_	_	_	Translit=sləzih
+1	ስለ	ስለ	ADP	ADP	Case=Obl	2	case	_	_
+2	ይህ	ይህ	DET	DET	Number=Sing	9	obl	_	_
+3-4	በትኩረት	_	_	_	_	_	_	_	Translit=bətkurət
+3	በ	በ	ADP	ADP	Case=Obl	4	case	_	_
+4	ትኩረት	ትኩረት	NOUN	NOUN	_	9	obl	_	_
+5-7	ከችግሮች	_	_	_	_	_	_	_	Translit=kəčgroč
+5	ከ	ከ	ADP	ADP	Case=Obl	6	case	_	_
+6	ችግር	ችግር	NOUN	NOUN	_	9	obl	_	_
+7	ኦች	ኦች	DET	DET	Number=Plur	6	det:pl	_	_
+8-9	ለመውጣት	_	_	_	_	_	_	_	Translit=ləməwt'at
+8	ለ	ለ	ADP	ADP	Case=Obl	9	case	_	_
+9	መውጣት	መውጣት	NOUN	NOUN	VerbForm=Inf	11	advcl	_	_
+10-12	እንላለን	_	_	_	_	_	_	_	Translit='nlalən
+10	እን	እኛ	PRON	SUBJC	Number=Plur|Person=1	11	nsubj:aff	_	_
+11	ል	አለ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=ብእል:A
+12	ኣለን	ኣለን	AUX	AUX	Number=Plur|Person=1	11	aux	_	_
+13	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
