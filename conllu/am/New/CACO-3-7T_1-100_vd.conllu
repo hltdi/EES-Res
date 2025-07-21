@@ -394,7 +394,7 @@
 6	ኣይት	አየ	VERB	VSTEM	Aspect=Prf	0	root	_	Aimad=DERAGI|Root=እይይ:A
 7	አን	እኛ	PRON	SUBJC	Number=Plur|Person=1	6	nsubj:aff	_	_
 8	አው	እሱ	PRON	OBJC	_	6	obj:aff	_	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3
-9	ኣል	ኣል	AUX	AUX	Number=Plur|Person=1	6	aux	_	_
+9	ኣል	ኣል	AUX	AUX	_	6	aux	_	_
 10	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
 # text = ምንም አልተለወጠም አልተሸረፈም ።
@@ -513,7 +513,7 @@
 7	ኣይት	አየ	VERB	VSTEM	Aspect=Prf	0	root	_	Aimad=DERAGI|Root=እይይ:A
 8	አን	እኛ	PRON	SUBJC	Number=Plur|Person=1	7	nsubj:aff	_	_
 9	አው	እሱ	PRON	OBJC	_	7	obj:aff	_	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3
-10	ኣል	ኣል	AUX	AUX	Number=Plur|Person=1	7	aux	_	_
+10	ኣል	ኣል	AUX	AUX	_	7	aux	_	_
 11	።	።	PUNCT	PUNCT	_	7	punct	_	_
 
 # text = የተከሰቱትም ተጋልጠዋል ።
@@ -527,7 +527,7 @@
 6-8	ተጋልጠዋል	_	_	_	_	_	_	_	Translit=təgalt'əwal
 6	ተጋልጥ	ተጋለጠ	VERB	VSTEM	Aspect=Prf	0	root	_	Aimad=TEDARAGI|Root=ግልጥ:A
 7	አው	እነሱ	PRON	SUBJC	Number=Plur|Person=3	6	nsubj:aff	_	_
-8	ኣል	ኣል	AUX	AUX	Number=Plur|Person=3	6	aux	_	_
+8	ኣል	ኣል	AUX	AUX	_	6	aux	_	_
 9	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
 # text = እንደገናም ሄዶ ያንኑ ቃል ጸለየ ።
@@ -690,7 +690,7 @@
 3	ገብት	ገባ	VERB	VSTEM	Aspect=Prf	0	root	_	Aimad=DERAGI|Root=ግብእ:A
 4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj:aff	_	_
 5	ኣት	እሷ	PRON	OBJC	_	3	obj:aff	_	Gender[obj]=Fem|Number[obj]=Sing|Person[obj]=3
-6	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	3	aux	_	_
+6	ኣል	ኣል	AUX	AUX	_	3	aux	_	_
 7	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # text = የከብት ዕድሜና ጤና ይጨምራል ።
@@ -836,7 +836,7 @@
 5	ኣስቀምጥ	አስቀመጠ	VERB	VSTEM	Aspect=Prf|Voice=Cau	0	root	_	Aimad=ASDERAGI|Root=ቅምጥ:B
 6	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj:aff	_	_
 7	ት	እሱ	PRON	OBJC	_	5	obj:aff	_	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3
-8	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	5	aux	_	_
+8	ኣል	ኣል	AUX	AUX	_	5	aux	_	_
 9	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # text = መልእክቱ እንዲህ የሚል ነው ።
@@ -893,7 +893,7 @@
 12-14	ብለናል	_	_	_	_	_	_	_	Translit=blənal
 12	ብል	አለ	VERB	VSTEM	Aspect=Prf	0	root	_	Aimad=DERAGI|Root=ብእል:A
 13	አን	እኛ	PRON	SUBJC	Number=Plur|Person=1	12	nsubj:aff	_	_
-14	ኣል	ኣል	AUX	AUX	Number=Plur|Person=1	12	aux	_	_
+14	ኣል	ኣል	AUX	AUX	_	12	aux	_	_
 15	።	።	PUNCT	PUNCT	_	12	punct	_	_
 
 # text = ሁለቱ ማስተርሳቸውን እየሰሩ ነው ያሉት ።
@@ -1530,6 +1530,6 @@
 11-13	ተገልጿል	_	_	_	_	_	_	_	Translit=təgəls'wal
 11	ተገልጽ	ተገለጸ	VERB	VSTEM	Aspect=Prf|Voice=Pass	0	root	_	Aimad=TEDERAGI|Root=ግልፅ:A
 12	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	nsubj:aff	_	_
-13	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	11	aux	_	_
+13	ኣል	ኣል	AUX	AUX	_	11	aux	_	_
 14	።	።	PUNCT	PUNCT	_	11	punct	_	_
 

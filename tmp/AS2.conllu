@@ -1,0 +1,21 @@
+# sent_id = 1
+# text = የኔ ቢጤው ስ ይ ለማምን ውሎ ቤተ ክርስቲያን ይ ኣድር ኣል ።
+1-2	የኔ	_	_	_	_	_	_	_	Translit=yəne
+1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
+2	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1	3	compound	_	_
+3-4	ቢጤው	_	_	_	_	_	_	_	Translit=bit'ew
+3	ቢጤ	ቢጤ	NOUN	NOUN	_	13	nsubj	_	_
+4	ኡ	ኡ	DET	DET	Definite=Def	3	det	_	_
+5	ስ	ስ	SCONJ	SCONJ	ClauseType=Subord	7	mark	_	_
+6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	_
+7	ለማምን	ለማመነ	VERB	VSTEM	Aspect=Iter|ClauseType=Subord	13	advcl	_	Aimad=DERARAGI|Root=ልምን:B
+8-9	ውሎ	_	_	_	_	_	_	_	Translit=wlo
+8	ውል	ዋለ	VERB	VSTEM	VerbForm=Conv	13	advcl	_	Aimad=DERAGI|Root=ውእል:A
+9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj:aff	_	_
+10	ቤተ	ቤተ	NOUN	NOUN	_	13	obl	_	_
+11	ክርስቲያን	ክርስቲያን	NOUN	NOUN	_	10	compound	_	Translit=krstiyan
+12	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	nsubj:aff	_	_
+13	ኣድር	አደረ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=እድር:A
+14	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	13	aux	_	_
+15	።	።	PUNCT	PUNCT	_	13	punct	_	_
+

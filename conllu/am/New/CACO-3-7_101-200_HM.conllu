@@ -199,7 +199,7 @@
 8-10	ሆኗል	_	_	_	_	_	_	_	Translit=honwal
 8	ሆን	ሆነ	VERB	VSTEM	Aspect=Prf	_	_	_	Aimad=DERAGI|Root=ህውን:A
 9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj:aff	_	_
-10	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	8	aux	_	_
+10	ኣል	ኣል	AUX	AUX	_	8	aux	_	_
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = አገር ቤት ያለሽ ነው የሚመስልሽ ።
@@ -323,7 +323,7 @@
 11-13	ተቀምጠዋል	_	_	_	_	_	_	_	Translit=tək'əmt'əwal
 11	ተቀምጥ	ተቀመጠ	VERB	VSTEM	Aspect=Prf	_	_	_	Aimad=TEDERAGI|Root=ቅምጥ:B
 12	አው	እነሱ	PRON	SUBJC	Number=Plur|Person=3	11	nsubj:aff	_	_
-13	ኣል	ኣል	AUX	AUX	Number=Plur|Person=3	11	aux	_	_
+13	ኣል	ኣል	AUX	AUX	_	11	aux	_	_
 14	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ከሆነ ደስተኛ ያደረገህ ምንድን ነው ?
@@ -406,7 +406,7 @@
 9	ሆን	ሆነ	VERB	VSTEM	Aspect=Prf	_	_	_	Aimad=DERAGI|Root=ህውን:A
 10	አው	እነሱ	PRON	SUBJC	Number=Plur|Person=3	9	nsubj:aff	_	_
 11	ለት	እሱ	PRON	OBJC	Gender[ben]=Masc|Number[ben]=Sing|Person[ben]=3	9	obl:aff	_	_
-12	ኣል	ኣል	AUX	AUX	Number=Plur|Person=3	9	aux	_	_
+12	ኣል	ኣል	AUX	AUX	_	9	aux	_	_
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ይህ ካልሆነስ ?
@@ -818,7 +818,7 @@
 12	ኣድርግ	አደረገ	VERB	VSTEM	Aspect=Prf	_	_	_	Aimad=ADRAGI|Root=ድርግ:A
 13	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	nsubj:aff	_	_
 14	ት	እሱ	PRON	OBJC	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	12	obj:aff	_	_
-15	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	12	aux	_	_
+15	ኣል	ኣል	AUX	AUX	_	12	aux	_	_
 16	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እሳቱ ጫፋቸውን እንኳን አልነካቸውም ።
@@ -1056,7 +1056,7 @@
 9-11	ጀምረናል	_	_	_	_	_	_	_	Translit=ǰəmrənal
 9	ጀምር	ጀመረ	VERB	VSTEM	Aspect=Prf	_	_	_	Aimad=DERAGI|Root=ጅምር:B
 10	አን	እኛ	PRON	SUBJC	Number=Plur|Person=1	9	nsubj:aff	_	_
-11	ኣል	ኣል	AUX	AUX	Number=Plur|Person=1	9	aux	_	_
+11	ኣል	ኣል	AUX	AUX	_	9	aux	_	_
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የስብሃት የመጨረሻ ቀናት እንዴት ነበሩ ?
@@ -1197,7 +1197,7 @@
 3-5	ሞልቷል	_	_	_	_	_	_	_	Translit=moltwal
 3	ሞልት	ሞላ	VERB	VSTEM	Aspect=Prf	_	_	_	Aimad=DERAGI|Root=ሙልእ:A
 4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj:aff	_	_
-5	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	3	aux	_	_
+5	ኣል	ኣል	AUX	AUX	_	3	aux	_	_
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = በኢትዮጵያ ሃይማኖት የግል ምርጫ ነው ።
@@ -1279,7 +1279,7 @@
 12-14	ቀንሰዋል	_	_	_	_	_	_	_	Translit=k'ənsəwal
 12	ቀንስ	ቀነሰ	VERB	VSTEM	Aspect=Prf	_	_	_	Aimad=DERAGI|Root=ቅንስ:B
 13	አው	እነሱ	PRON	SUBJC	Number=Plur|Person=3	12	nsubj:aff	_	_
-14	ኣል	ኣል	AUX	AUX	Number=Plur|Person=3	12	aux	_	_
+14	ኣል	ኣል	AUX	AUX	_	12	aux	_	_
 15	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሁሉስ ሰው አይደለ በቁመናውማ ?
@@ -1604,7 +1604,7 @@
 8-10	አገልግሏል	_	_	_	_	_	_	_	Translit=agəlglwal
 8	ኣገልግል	አገለገለ	VERB	VSTEM	Aspect=Prf	_	_	_	Aimad=ADRAGI|Root=ግልግል:E
 9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj:aff	_	_
-10	ኣል	ኣል	AUX	AUX	Gender=Masc|Number=Sing|Person=3	8	aux	_	_
+10	ኣል	ኣል	AUX	AUX	_	8	aux	_	_
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = መሀመድ በንዴት ተንተከተከ ።

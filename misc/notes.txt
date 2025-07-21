@@ -1,5 +1,11 @@
 ﻿July 2025
 
+HM fix
+* prevent features for PRF AUX -ኣል (but not -ኣለሁ and -ኣለች)
+
+584
+ የኔ ቢጤው ሲለማምን ውሎ ቤተ ክርስቲያን ያድራል ።
+ 
 fixes to earlier TBs
 NOUN	NOUN	Number=Sing
 ADJ	ADJ	Number=Sing
