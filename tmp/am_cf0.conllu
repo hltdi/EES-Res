@@ -1,5 +1,5 @@
-# text = ኩባንያው እስካላባረረው ድረስ ይቆያል ።
 # sent_id = 1
+# text = ኩባንያው እስካላባረረው ድረስ ይቆያል ።
 1-2	ኩባንያው	_	_	_	_	_	_	_	Translit=kubanyaw
 1	ኩባንያ	ኩባንያ	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	_
 2	ኡ	ኡ	DET	DET	_	1	det	_	_
@@ -16,8 +16,8 @@
 11	ኣል	ኣል	AUX	AUX	_	10	aux	_	_
 12	።	።	PUNCT	PUNCT	_	10	punct	_	_
 
-# text = ብዙ በመሮጤ እግሬን አመመኝ ።
 # sent_id = 2
+# text = ብዙ በመሮጤ እግሬን አመመኝ ።
 1	ብዙ	ብዙ	ADV	ADV	_	3	advmod	_	Translit=bzu
 2-4	በመሮጤ	_	_	_	_	_	_	_	Translit=bəmərot'e
 2	በ	በ	ADP	ADP	_	3	case	_	_
