@@ -1,5 +1,15 @@
 ﻿July 2025
 
+reparse
+29
+እነዚህ
+አለ
+42 አለማት
+43 እንደሌለ
+48 በስተጀርባ
+can't go back in disambiguator
+
+
 HM fix
 * prevent features for PRF AUX -ኣል (but not -ኣለሁ and -ኣለች)
 

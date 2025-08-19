@@ -1,0 +1,15 @@
+# text = ማንም ወደከተማ ነው መሄድ ያለበት ።
+# sent_id = 1
+1	ማንም	ማንም	PRON	PRON	_	3	nsubj	_	Translit=manm
+2-3	ወደከተማ	_	_	_	_	_	_	_	Translit=wədəkətəma
+2	ወደ	ወደ	ADP	ADP	Case=Obl	3	case	_	_
+3	ከተማ	ከተማ	NOUN	NOUN	_	0	root	_	_
+4	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	3	cop	_	Translit=nəw
+5	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Inf	7	csubj	_	Translit=məhed
+6-9	ያለበት	_	_	_	_	_	_	_	Translit=yaləbət
+6	የ	የ	PART	RLP	ClauseType=Subord	7	mark	_	_
+7	ኣለ	አለː	VERB	VSTEM	Aspect=Perf	3	csubj:cleft	_	Aimad=DERAGI|Root=ህልው:B
+8	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	_
+9	በት	እሱ	PRON	OBJC	_	7	obl:aff	_	Gender[mal]=Masc|Number[mal]=Sing|Person[mal]=3
+10	።	።	PUNCT	PUNCT	_	3	punct	_	_
+

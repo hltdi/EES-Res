@@ -1,0 +1,1544 @@
+=====================================================================================================================================
+***************************REMARK ON MEANING OF EACH LINE IN THE RESULT REPORT*******************************************************
+
+First line shows the sentence that was processed.
+Second and third lines = list the available options for the ambiguous word.
+Fourth line = Whether what the model chooses is correct or not.
+Fifth line = what the model chooses out of the options.
+Sixth line = the correct analysis based on the disambiguation data.
+
+=====================================================================================================================================
+
+
+****************************************** RESULTS **********************************************************************************
+
+
+=====================================================================================================================================
+እነሱ ሳሩን ይጨዱ !  is processed
+AVAILABLE OPTIONS: 
+እነሱ<[['እነሱ', 'አነሰ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Person': '2'}], ['እነሱ', 'እነሱ', 'PRON', {'Number': 'Plur', 'Person': '3'}], ['እነሱ', 'ነሳ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Number': 'Plur', 'Person': '3'}]]>
+CORRECT
+['እነሱ', 'እነሱ', 'PRON', {'Number': 'Plur', 'Person': '3'}]>
+['እነሱ', 'እነሱ', 'PRON', {'Number': 'Plur', 'Person': '3'}]>
+=====================================================================================================================================
+እነሱ ሳሩን ይጨዱ !  is processed
+AVAILABLE OPTIONS: 
+ሳሩን<[['ሳሩን', 'ሳር', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ሳሩን', 'ሳር', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['ሳሩን', 'ሳር', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ሳሩን', 'ሳር', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ልብሱን እጠብ !  is processed
+AVAILABLE OPTIONS: 
+ልብሱን<[['ልብሱን', 'ልብስ', 'ADJ', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ልብሱን', 'ልብስ', 'ADJ', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['ልብሱን', 'ልብስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['ልብሱን', 'ልብስ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ልብሱን', 'ልብስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ልብሱን', 'ልብስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ልብሱን እጠብ !  is processed
+AVAILABLE OPTIONS: 
+እጠብ<[['እጠብ', 'አጠበ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['እጠብ', 'ጠበበ', 'VERB', {'Aspect': 'Imp', 'Number': 'Sing', 'Person': '1'}], ['እጠብ', 'ጠብ', 'NOUN', {'Case': 'Obl'}]]>
+INCORRECT (Lemma confusion)
+['እጠብ', 'ጠብ', 'NOUN', {'Case': 'Obl'}]>
+['እጠብ', 'አጠበ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+ብላ !  is processed
+AVAILABLE OPTIONS: 
+ብላ<[['ብላ', 'አለ', 'VERB', {'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Conv'}], ['ብላ', 'በላ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['ብላ', 'በላ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}]>
+['ብላ', 'በላ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+በል ብላት !  is processed
+AVAILABLE OPTIONS: 
+ብላት<[['ብላት', 'አለ', 'VERB', {'Gender': 'Fem', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3', 'VerbForm': 'Conv'}], ['ብላት', 'በላ', 'VERB', {'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}], ['ብላት', 'አለ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3'}]]>
+INCORRECT (Lemma confusion)
+['ብላት', 'በላ', 'VERB', {'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}]>
+['ብላት', 'አለ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3'}]>
+=====================================================================================================================================
+በሩን ብትዘጋው !  is processed
+AVAILABLE OPTIONS: 
+በሩን<[['በሩን', 'በራ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}], ['በሩን', 'በር', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['በሩን', 'በር', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['በሩን', 'በራ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '1'}]]>
+CORRECT
+['በሩን', 'በር', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['በሩን', 'በር', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+በሩን ብትዘጋው !  is processed
+AVAILABLE OPTIONS: 
+ብትዘጋው<[['ብትዘጋው', 'ተዘጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3', 'Voice': 'Pass'}], ['ብትዘጋው', 'ዘጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}], ['ብትዘጋው', 'ተዘጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3', 'Voice': 'Pass'}], ['ብትዘጋው', 'ዘጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]]>
+CORRECT
+['ብትዘጋው', 'ዘጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}]>
+['ብትዘጋው', 'ዘጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}]>
+=====================================================================================================================================
+የምግቡን ዝርዝር ብትሰጠኝ ?  is processed
+AVAILABLE OPTIONS: 
+የምግቡን<[['የምግቡን', 'ምግብ', 'NOUN', {'Case[inner]': 'Gen', 'Case[outer]': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['የምግቡን', 'ምግብ', 'NOUN', {'Case[inner]': 'Gen', 'Case[outer]': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['የምግቡን', 'ምግብ', 'NOUN', {'Case[inner]': 'Gen', 'Case[outer]': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['የምግቡን', 'ምግብ', 'NOUN', {'Case[inner]': 'Gen', 'Case[outer]': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+የምግቡን ዝርዝር ብትሰጠኝ ?  is processed
+AVAILABLE OPTIONS: 
+ብትሰጠኝ<[['ብትሰጠኝ', 'ተሰጠ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '1', 'Voice': 'Pass'}], ['ብትሰጠኝ', 'ሰጠ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '1'}], ['ብትሰጠኝ', 'ተሰጠ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '1', 'Voice': 'Pass'}], ['ብትሰጠኝ', 'ሰጠ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '1'}]]>
+CORRECT
+['ብትሰጠኝ', 'ሰጠ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '1'}]>
+['ብትሰጠኝ', 'ሰጠ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '1'}]>
+=====================================================================================================================================
+እስኪ መታወቂያ ወረቀትህን አሳየኝ ?  is processed
+AVAILABLE OPTIONS: 
+መታወቂያ<[['መታወቂያ', 'መታወቂያ', 'NOUN', {}], ['መታወቂያ', 'መታወቂያ', 'NOUN', {}]]>
+CORRECT
+['መታወቂያ', 'መታወቂያ', 'NOUN', {}]>
+['መታወቂያ', 'መታወቂያ', 'NOUN', {}]>
+=====================================================================================================================================
+እስኪ መታወቂያ ወረቀትህን አሳየኝ ?  is processed
+AVAILABLE OPTIONS: 
+አሳየኝ<[['አሳየኝ', 'አሳየ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '1', 'Voice': 'Cau'}], ['አሳየኝ', 'አሳየ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '1', 'Voice': 'Cau'}], ['አሳየኝ', 'አሳየ', 'VERB', {'Aspect': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '1', 'Voice': 'Cau'}]]>
+CORRECT
+['አሳየኝ', 'አሳየ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '1', 'Voice': 'Cau'}]>
+['አሳየኝ', 'አሳየ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '1', 'Voice': 'Cau'}]>
+=====================================================================================================================================
+ወደ ታች ውረዱ !  is processed
+AVAILABLE OPTIONS: 
+ታች<[['ታች', 'ታታ', 'VERB', {'Gender': 'Fem', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ታች', 'ታች', 'ADP', {}], ['ታች', 'ታች', 'NOUN', {}], ['ታች', 'ታች', 'ADJ', {}]]>
+INCORRECT (POS confusion => Chose Adj over Noun)
+['ታች', 'ታች', 'ADJ', {}]>
+['ታች', 'ታች', 'NOUN', {}]>
+=====================================================================================================================================
+ከጨረስክ በኋላ እኔ ጋር እንድትመጣ !  is processed
+AVAILABLE OPTIONS: 
+ከጨረስክ<[['ከጨረስክ', 'ጨረሰ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['ከጨረስክ', 'ጨረሰ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['ከጨረስክ', 'ጨረሰ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+['ከጨረስክ', 'ጨረሰ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+ከጨረስክ በኋላ እኔ ጋር እንድትመጣ !  is processed
+AVAILABLE OPTIONS: 
+በኋላ<[['በኋላ', 'በኋላ', 'SCONJ', {}], ['በኋላ', 'በኋላ', 'ADP', {}], ['በኋላ', 'ኋላ', 'NOUN', {'Case': 'Obl'}]]>
+INCORRECT (POS confusion => Chose ADP over SCONJ)
+['በኋላ', 'በኋላ', 'ADP', {}]>
+['በኋላ', 'በኋላ', 'SCONJ', {}]>
+=====================================================================================================================================
+ከጨረስክ በኋላ እኔ ጋር እንድትመጣ !  is processed
+AVAILABLE OPTIONS: 
+ጋር<[['ጋር', 'ጋር', 'ADP', {}], ['ጋር', 'ጋረ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['ጋር', 'ጋር', 'ADP', {}]>
+['ጋር', 'ጋር', 'ADP', {}]>
+=====================================================================================================================================
+ከጨረስክ በኋላ እኔ ጋር እንድትመጣ !  is processed
+AVAILABLE OPTIONS: 
+እንድትመጣ<[['እንድትመጣ', 'ተመጣ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['እንድትመጣ', 'መጣ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['እንድትመጣ', 'መጣ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['እንድትመጣ', 'ተመጣ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}]]>
+CORRECT
+['እንድትመጣ', 'መጣ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+['እንድትመጣ', 'መጣ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+ካሳ የሸጠው የብራና መፅሀፍ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ካሳ<[['ካሳ', 'ካሰ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ካሳ', 'ካሰ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ካሳ', 'ካሳ', 'PROPN', {}], ['ካሳ', 'ካሳ', 'NOUN', {}]]>
+CORRECT
+['ካሳ', 'ካሳ', 'PROPN', {}]>
+['ካሳ', 'ካሳ', 'PROPN', {}]>
+=====================================================================================================================================
+ካሳ የሸጠው የብራና መፅሀፍ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+የሸጠው<[['የሸጠው', 'ሸጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['የሸጠው', 'ሸጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]]>
+CORRECT
+['የሸጠው', 'ሸጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['የሸጠው', 'ሸጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ካሳ የሸጠው የብራና መፅሀፍ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+የብራና<[['የብራና', 'ብራ', 'NOUN', {'Case': 'Gen'}], ['የብራና', 'ብራና', 'NOUN', {'Case': 'Gen'}]]>
+CORRECT
+['የብራና', 'ብራና', 'NOUN', {'Case': 'Gen'}]>
+['የብራና', 'ብራና', 'NOUN', {'Case': 'Gen'}]>
+=====================================================================================================================================
+ካሳ የሸጠው የብራና መፅሀፍ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ትልቅ<[['ትልቅ', 'ትልቅ', 'ADJ', {}], ['ትልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['ትልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['ትልቅ', 'ትልቅ', 'ADJ', {}]>
+['ትልቅ', 'ትልቅ', 'ADJ', {}]>
+=====================================================================================================================================
+ልጆቹ የሄዱበት ሀገር አልታወቀም ።  is processed
+AVAILABLE OPTIONS: 
+ልጆቹ<[['ልጆቹ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Plur'}], ['ልጆቹ', 'ልጅ', 'NOUN', {'Gender[psor]': 'Masc', 'Number': 'Plur', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ልጆቹ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Plur'}]>
+['ልጆቹ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Plur'}]>
+=====================================================================================================================================
+አስቴር ፀጉርዋን የሰራቻት ልጅ ጥሩ ናት ።  is processed
+AVAILABLE OPTIONS: 
+ፀጉርዋን<[['ፀጉርዋን', 'ጸጉር', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ፀጉርዋን', 'ጸጉር', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Fem'}]]>
+CORRECT
+['ፀጉርዋን', 'ጸጉር', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+['ፀጉርዋን', 'ጸጉር', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+=====================================================================================================================================
+አስቴር ፀጉርዋን የሰራቻት ልጅ ጥሩ ናት ።  is processed
+AVAILABLE OPTIONS: 
+ጥሩ<[['ጥሩ', 'ጥሩ', 'ADJ', {}], ['ጥሩ', 'ጠራ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Person': '2'}]]>
+CORRECT
+['ጥሩ', 'ጥሩ', 'ADJ', {}]>
+['ጥሩ', 'ጥሩ', 'ADJ', {}]>
+=====================================================================================================================================
+ልጁ የሸጠው መጽሐፍ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ልጁ<[['ልጁ', 'ልጅ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ልጁ የሸጠው መጽሐፍ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+የሸጠው<[['የሸጠው', 'ሸጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['የሸጠው', 'ሸጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['የሸጠው', 'ሸጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['የሸጠው', 'ሸጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ልጁ የሸጠው መጽሐፍ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ትልቅ<[['ትልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['ትልቅ', 'ትልቅ', 'ADJ', {}], ['ትልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['ትልቅ', 'ትልቅ', 'ADJ', {}]>
+['ትልቅ', 'ትልቅ', 'ADJ', {}]>
+=====================================================================================================================================
+ተማሪው ለአስቴር የሰጣት መጽሐፍ ጠፋ ።  is processed
+AVAILABLE OPTIONS: 
+ተማሪው<[['ተማሪው', 'ተማሪ', 'ADJ', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ተማሪው', 'ተማሪ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ተማሪው', 'ተማሪ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['ተማሪው', 'ተማሪ', 'ADJ', {'Definite': 'Def', 'Gender': 'Masc'}], ['ተማሪው', 'ተማረ', 'VERB', {'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3', 'Voice': 'Pass'}], ['ተማሪው', 'ተማረ', 'VERB', {'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}], ['ተማሪው', 'ተማራ', 'VERB', {'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}]]>
+CORRECT
+['ተማሪው', 'ተማሪ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['ተማሪው', 'ተማሪ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ተማሪው ለአስቴር የሰጣት መጽሐፍ ጠፋ ።  is processed
+AVAILABLE OPTIONS: 
+ጠፋ<[['ጠፋ', 'ጠፋ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ጠፋ', 'ጠፈፈ', 'VERB', {'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Conv'}]]>
+CORRECT
+['ጠፋ', 'ጠፋ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ጠፋ', 'ጠፋ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ካሳ የገዛው የሱፍ ኮት ውድ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ካሳ<[['ካሳ', 'ካሰ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ካሳ', 'ካሳ', 'NOUN', {}], ['ካሳ', 'ካሳ', 'PROPN', {}], ['ካሳ', 'ካሰ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ካሳ', 'ካሳ', 'PROPN', {}]>
+['ካሳ', 'ካሳ', 'PROPN', {}]>
+=====================================================================================================================================
+ካሳ የገዛው የሱፍ ኮት ውድ ነው ።  is processed
+AVAILABLE OPTIONS: 
+የገዛው<[['የገዛው', 'የገዛ', 'ADJ', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['የገዛው', 'እገዛ', 'NOUN', {'Case': 'Gen', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['የገዛው', 'ገዛ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['የገዛው', 'የገዛ', 'ADJ', {'Definite': 'Def', 'Gender': 'Masc'}], ['የገዛው', 'እገዛ', 'NOUN', {'Case': 'Gen', 'Definite': 'Def', 'Gender': 'Masc'}], ['የገዛው', 'ገዛ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+INCORRECT (POS confusion, Adj and Verb)
+['የገዛው', 'የገዛ', 'ADJ', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['የገዛው', 'ገዛ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ካሳ የገዛው የሱፍ ኮት ውድ ነው ።  is processed
+AVAILABLE OPTIONS: 
+የሱፍ<[['የሱፍ', 'ሱፍ', 'NOUN', {'Case': 'Gen'}], ['የሱፍ', 'የሱፍ', 'PROPN', {}]]>
+INCORRECT 
+['የሱፍ', 'የሱፍ', 'NOUN', {}]>
+['የሱፍ', 'ሱፍ', 'NOUN', {'Case': 'Gen'}]>
+=====================================================================================================================================
+ካሳ በግ ያረደበት ቢላዋ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ካሳ<[['ካሳ', 'ካሳ', 'PROPN', {}], ['ካሳ', 'ካሰ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ካሳ', 'ካሰ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ካሳ', 'ካሳ', 'NOUN', {}]]>
+CORRECT
+['ካሳ', 'ካሳ', 'PROPN', {}]>
+['ካሳ', 'ካሳ', 'PROPN', {}]>
+=====================================================================================================================================
+ካሳ በግ ያረደበት ቢላዋ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ቢላዋ<[['ቢላዋ', 'ቢላ', 'NOUN', {'Definite': 'Def', 'Gender': 'Fem'}], ['ቢላዋ', 'ቢላ', 'NOUN', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ቢላዋ', 'ቢላዋ', 'NOUN', {}]]>
+INCORRECT (Chose Definite)
+['ቢላዋ', 'ቢላ', 'NOUN', {'Definite': 'Def', 'Gender': 'Fem'}]>
+['ቢላዋ', 'ቢላዋ', 'NOUN', {}]>
+=====================================================================================================================================
+ካሳ በግ ያረደበት ቢላዋ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ትልቅ<[['ትልቅ', 'ትልቅ', 'ADJ', {}], ['ትልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['ትልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['ትልቅ', 'ትልቅ', 'ADJ', {}]>
+['ትልቅ', 'ትልቅ', 'ADJ', {}]>
+=====================================================================================================================================
+ልጁ የገደለው እባብ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ልጁ<[['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['ልጁ', 'ልጅ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ልጁ የገደለው እባብ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+የገደለው<[['የገደለው', 'ገደለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['የገደለው', 'ገደለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]]>
+CORRECT
+['የገደለው', 'ገደለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['የገደለው', 'ገደለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ልጁ የገደለው እባብ ትልቅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ትልቅ<[['ትልቅ', 'ትልቅ', 'ADJ', {}], ['ትልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['ትልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['ትልቅ', 'ትልቅ', 'ADJ', {}]>
+['ትልቅ', 'ትልቅ', 'ADJ', {}]>
+=====================================================================================================================================
+አንበሳ የገደለው ልጅ ተሸለመ ።  is processed
+AVAILABLE OPTIONS: 
+አንበሳ<[['አንበሳ', 'ተበሳ', 'VERB', {'Mood': 'Jus', 'Number': 'Plur', 'Person': '1', 'Polarity': 'Neg', 'Voice': 'Pass'}], ['አንበሳ', 'አንበሳ', 'PROPN', {}], ['አንበሳ', 'በሳ', 'VERB', {'Aspect': 'Imp', 'Number': 'Plur', 'Person': '1', 'Polarity': 'Neg'}], ['አንበሳ', 'አንበሳ', 'NOUN', {}], ['አንበሳ', 'ተበሳ', 'VERB', {'Aspect': 'Imp', 'Number': 'Plur', 'Person': '1', 'Polarity': 'Neg', 'Voice': 'Pass'}]]>
+CORRECT
+['አንበሳ', 'አንበሳ', 'NOUN', {}]>
+['አንበሳ', 'አንበሳ', 'NOUN', {}]>
+=====================================================================================================================================
+አንበሳ የገደለው ልጅ ተሸለመ ።  is processed
+AVAILABLE OPTIONS: 
+የገደለው<[['የገደለው', 'ገደለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['የገደለው', 'ገደለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]]>
+INCORRECT (The model is good to identify Definites, but it is confused here)
+['የገደለው', 'ገደለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+['የገደለው', 'ገደለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+እርኩስ መንፈስ የያዘው ሰው አስቸገረን ።  is processed
+AVAILABLE OPTIONS: 
+እርኩስ<[['እርኩስ', 'ረካ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Person': '2'}], ['እርኩስ', 'ርኩስ', 'ADJ', {}]]>
+CORRECT
+['እርኩስ', 'ርኩስ', 'ADJ', {}]>
+['እርኩስ', 'ርኩስ', 'ADJ', {}]>
+=====================================================================================================================================
+እርኩስ መንፈስ የያዘው ሰው አስቸገረን ።  is processed
+AVAILABLE OPTIONS: 
+መንፈስ<[['መንፈስ', 'መንፈስ', 'NOUN', {'VerbForm': 'Inf'}], ['መንፈስ', 'መንፈስ', 'NOUN', {}]]>
+CORRECT
+['መንፈስ', 'መንፈስ', 'NOUN', {}]>
+['መንፈስ', 'መንፈስ', 'NOUN', {}]>
+=====================================================================================================================================
+እርኩስ መንፈስ የያዘው ሰው አስቸገረን ።  is processed
+AVAILABLE OPTIONS: 
+የያዘው<[['የያዘው', 'ያዘ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['የያዘው', 'ያዘ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['የያዘው', 'ያዘው', 'PROPN', {'Case': 'Gen'}]]>
+CORRECT
+['የያዘው', 'ያዘ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['የያዘው', 'ያዘ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+እርኩስ መንፈስ የያዘው ሰው አስቸገረን ።  is processed
+AVAILABLE OPTIONS: 
+አስቸገረን<[['አስቸገረን', 'አስቸገረ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '1', 'Voice': 'Cau'}], ['አስቸገረን', 'አስቸገረ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Cau'}]]>
+CORRECT
+['አስቸገረን', 'አስቸገረ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '1', 'Voice': 'Cau'}]>
+['አስቸገረን', 'አስቸገረ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '1', 'Voice': 'Cau'}]>
+=====================================================================================================================================
+በፊታችሁ ወዳለችው መንደር ሂዱ ።  is processed
+AVAILABLE OPTIONS: 
+ወዳለችው<[['ወዳለችው', 'አለ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['ወዳለችው', 'አለ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['ወዳለችው', 'አለː', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['ወዳለችው', 'አለː', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]]>
+INCORRECT (Lemma confusion)
+['ወዳለችው', 'አለ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]>
+['ወዳለችው', 'አለː', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ደብረዘይት ወደምትባል የእስራኤል ከተማ መጣ ።  is processed
+AVAILABLE OPTIONS: 
+ወደምትባል<[['ወደምትባል', 'ተባለ', 'VERB', {'Aspect': 'Imp', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}], ['ወደምትባል', 'ተባለ', 'VERB', {'Aspect': 'Imp', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+INCORRECT (Person confusion, between 2 and 3)
+['ወደምትባል', 'ተባለ', 'VERB', {'Aspect': 'Imp', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}]>
+['ወደምትባል', 'ተባለ', 'VERB', {'Aspect': 'Imp', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+=====================================================================================================================================
+ደብረዘይት ወደምትባል የእስራኤል ከተማ መጣ ።  is processed
+AVAILABLE OPTIONS: 
+ከተማ<[['ከተማ', 'ከተመ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ከተማ', 'ከተማ', 'NOUN', {}], ['ከተማ', 'ከተማ', 'PROPN', {}]]>
+CORRECT
+['ከተማ', 'ከተማ', 'NOUN', {}]>
+['ከተማ', 'ከተማ', 'NOUN', {}]>
+=====================================================================================================================================
+ደብረዘይት ወደምትባል የእስራኤል ከተማ መጣ ።  is processed
+AVAILABLE OPTIONS: 
+መጣ<[['መጣ', 'መጣ', 'PART', {}], ['መጣ', 'መጣ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['መጣ', 'መጠጠ', 'VERB', {'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Conv'}]]>
+CORRECT
+['መጣ', 'መጣ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['መጣ', 'መጣ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+የበለጠ ብትጥር እንዲያውም የተሻለ ልታነብ ትችላለህ ።  is processed
+AVAILABLE OPTIONS: 
+የበለጠ<[['የበለጠ', 'በለጠ', 'PROPN', {'Case': 'Gen'}], ['የበለጠ', 'በለጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['የበለጠ', 'በለጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['የበለጠ', 'በለጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+የበለጠ ብትጥር እንዲያውም የተሻለ ልታነብ ትችላለህ ።  is processed
+AVAILABLE OPTIONS: 
+ብትጥር<[['ብትጥር', 'ጣረ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['ብትጥር', 'ጣረ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['ብትጥር', 'ጣረ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+['ብትጥር', 'ጣረ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+የበለጠ ብትጥር እንዲያውም የተሻለ ልታነብ ትችላለህ ።  is processed
+AVAILABLE OPTIONS: 
+የተሻለ<[['የተሻለ', 'ተሻለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['የተሻለ', 'ተሻለ', 'PROPN', {'Case': 'Gen'}]]>
+CORRECT
+['የተሻለ', 'ተሻለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['የተሻለ', 'ተሻለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+የበለጠ ብትጥር እንዲያውም የተሻለ ልታነብ ትችላለህ ።  is processed
+AVAILABLE OPTIONS: 
+ልታነብ<[['ልታነብ', 'አነበበ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Voice': 'Cau'}], ['ልታነብ', 'አነበበ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Voice': 'Cau'}]]>
+INCORRECT (Person confusion between 2 and 3)
+['ልታነብ', 'አነበበ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Voice': 'Cau'}]>
+['ልታነብ', 'አነበበ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Voice': 'Cau'}]>
+=====================================================================================================================================
+በይበልጥ እያወቃት ሲሄድ ጠላት ።  is processed
+AVAILABLE OPTIONS: 
+እያወቃት<[['እያወቃት', 'አወቀ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['እያወቃት', 'አወቃ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3', 'Voice': 'Cau'}]]>
+CORRECT
+['እያወቃት', 'አወቀ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+['እያወቃት', 'አወቀ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+=====================================================================================================================================
+በይበልጥ እያወቃት ሲሄድ ጠላት ።  is processed
+AVAILABLE OPTIONS: 
+ጠላት<[['ጠላት', 'ጠላት', 'NOUN', {}], ['ጠላት', 'ጠላ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]]>
+INCORRECT (POS confusion, Noun Vs Verb)
+['ጠላት', 'ጠላት', 'NOUN', {}]>
+['ጠላት', 'ጠላ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+=====================================================================================================================================
+ጠንክሮ ይማር እንደሆነ ወደ አሜሪካ እልከዋለሁ ።  is processed
+AVAILABLE OPTIONS: 
+ይማር<[['ይማር', 'ተማረ', 'VERB', {'Gender': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3'}], ['ይማር', 'ማረ', 'VERB', {'Gender': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3'}], ['ይማር', 'ተማረ', 'VERB', {'Gender': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ይማር', 'ተማረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ይማር', 'ተማረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+INCORRECT
+['ይማር', 'ተማረ', 'VERB', {'Gender': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+['ይማር', 'ተማረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ጠንክሮ ይማር እንደሆነ ወደ አሜሪካ እልከዋለሁ ።  is processed
+AVAILABLE OPTIONS: 
+እንደሆነ<[['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+INCORRECT (POS confusion, Aux and Verb)
+['እንደሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+የሚያምህ እንደሆነ ወደ ሐኪም ሂድ ።  is processed
+AVAILABLE OPTIONS: 
+እንደሆነ<[['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['እንደሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+የምትሰጋ ከሆነ ልጅህን ወደዚያ ቦታ አትላክ ።  is processed
+AVAILABLE OPTIONS: 
+የምትሰጋ<[['የምትሰጋ', 'ሰጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['የምትሰጋ', 'ሰጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['የምትሰጋ', 'ተሰጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}], ['የምትሰጋ', 'ተሰጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+CORRECT
+['የምትሰጋ', 'ሰጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+['የምትሰጋ', 'ሰጋ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+የምትሰጋ ከሆነ ልጅህን ወደዚያ ቦታ አትላክ ።  is processed
+AVAILABLE OPTIONS: 
+ከሆነ<[['ከሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ከሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ከሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ከሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ከሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ከሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+የምትሰጋ ከሆነ ልጅህን ወደዚያ ቦታ አትላክ ።  is processed
+AVAILABLE OPTIONS: 
+አትላክ<[['አትላክ', 'ተላከ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg', 'Voice': 'Pass'}], ['አትላክ', 'ላከ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}], ['አትላክ', 'ተላከ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'Voice': 'Pass'}], ['አትላክ', 'ተላከ', 'VERB', {'Gender': 'Fem', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'Voice': 'Pass'}], ['አትላክ', 'ተላከ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg', 'Voice': 'Pass'}], ['አትላክ', 'ላከ', 'VERB', {'Gender': 'Fem', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]]>
+INCORRECT (Lemma confusion)
+['አትላክ', 'ተላከ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg', 'Voice': 'Pass'}]>
+['አትላክ', 'ላከ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+የበለጠ ችሮታ ለማድረግ የሚችልበትን ዘዴ ባገኝ ብሎ ተመኘ ።  is processed
+AVAILABLE OPTIONS: 
+የበለጠ<[['የበለጠ', 'በለጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['የበለጠ', 'በለጠ', 'PROPN', {'Case': 'Gen'}]]>
+CORRECT
+['የበለጠ', 'በለጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['የበለጠ', 'በለጠ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+የበለጠ ችሮታ ለማድረግ የሚችልበትን ዘዴ ባገኝ ብሎ ተመኘ ።  is processed
+AVAILABLE OPTIONS: 
+ባገኝ<[['ባገኝ', 'አገኘ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}], ['ባገኝ', 'አገገ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '1'}]]>
+CORRECT
+['ባገኝ', 'አገኘ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}]>
+['ባገኝ', 'አገኘ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}]>
+=====================================================================================================================================
+ተቀጥረህ ነዋ የምትሠራው ።  is processed
+AVAILABLE OPTIONS: 
+የምትሠራው<[['የምትሠራው', 'ተሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3', 'Voice': 'Pass'}], ['የምትሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['የምትሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['የምትሠራው', 'ተሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3', 'Voice': 'Pass'}], ['የምትሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['የምትሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}], ['የምትሠራው', 'ተሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}], ['የምትሠራው', 'ተሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+INCORRECT (Person Confusion between 2 and 3)
+['የምትሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]>
+['የምትሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+ይህ መርዝ ይገድለው ይሆን ?  is processed
+AVAILABLE OPTIONS: 
+መርዝ<[['መርዝ', 'መርዝ', 'NOUN', {}], ['መርዝ', 'መረዘ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['መርዝ', 'መርዝ', 'NOUN', {}]>
+['መርዝ', 'መርዝ', 'NOUN', {}]>
+=====================================================================================================================================
+ይህ መርዝ ይገድለው ይሆን ?  is processed
+AVAILABLE OPTIONS: 
+ይሆን<[['ይሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ይሆን', 'ሆነ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ይሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ይሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።  is processed
+AVAILABLE OPTIONS: 
+አዲስ<[['አዲስ', 'አዲስ', 'ADJ', {}], ['አዲስ', 'አዲ', 'PROPN', {}], ['አዲስ', 'አዲስ', 'PROPN', {}]]>
+CORRECT
+['አዲስ', 'አዲስ', 'ADJ', {}]>
+['አዲስ', 'አዲስ', 'ADJ', {}]>
+=====================================================================================================================================
+ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።  is processed
+AVAILABLE OPTIONS: 
+አበባ<[['አበባ', 'አበባ', 'NOUN', {}], ['አበባ', 'አበባ', 'PROPN', {}], ['አበባ', 'አበበ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['አበባ', 'አበባ', 'NOUN', {}]>
+['አበባ', 'አበባ', 'NOUN', {}]>
+=====================================================================================================================================
+ወደ አዲስ አበባ ለመሄድ ፈልጌ ነበር ።  is processed
+AVAILABLE OPTIONS: 
+ነበር<[['ነበር', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}], ['ነበር', 'አለː', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}]>
+['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}]>
+=====================================================================================================================================
+አልሰማም ይሆን ?  is processed
+AVAILABLE OPTIONS: 
+አልሰማም<[['አልሰማም', 'ተሰማ', 'VERB', {'Aspect': 'Imp', 'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg', 'Voice': 'Pass'}], ['አልሰማም', 'ሰማ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}], ['አልሰማም', 'ሰማ', 'VERB', {'Aspect': 'Imp', 'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg'}]]>
+CORRECT
+['አልሰማም', 'ሰማ', 'VERB', {'Aspect': 'Imp', 'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg'}]>
+['አልሰማም', 'ሰማ', 'VERB', {'Aspect': 'Imp', 'Number': 'Sing', 'Person': '1', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+አልሰማም ይሆን ?  is processed
+AVAILABLE OPTIONS: 
+ይሆን<[['ይሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ይሆን', 'ሆነ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ይሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ይሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ከካሳ የባሰ አጭር ነው ።  is processed
+AVAILABLE OPTIONS: 
+ከካሳ<[['ከካሳ', 'ከካ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ከካሳ', 'ከካ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ከካሳ', 'ካሳ', 'NOUN', {'Case': 'Obl'}], ['ከካሳ', 'ካሳ', 'PROPN', {'Case': 'Obl'}]]>
+CORRECT
+['ከካሳ', 'ካሳ', 'PROPN', {'Case': 'Obl'}]>
+['ከካሳ', 'ካሳ', 'PROPN', {'Case': 'Obl'}]>
+=====================================================================================================================================
+ከካሳ የባሰ አጭር ነው ።  is processed
+AVAILABLE OPTIONS: 
+አጭር<[['አጭር', 'አጫረ', 'VERB', {'Aspect': 'Imp', 'Number': 'Sing', 'Person': '1', 'Voice': 'Cau'}], ['አጭር', 'አጭር', 'ADJ', {}]]>
+CORRECT
+['አጭር', 'አጭር', 'ADJ', {}]>
+['አጭር', 'አጭር', 'ADJ', {}]>
+=====================================================================================================================================
+ከበደ የናቱን ሞት ተረዳ ።  is processed
+AVAILABLE OPTIONS: 
+ከበደ<[['ከበደ', 'ከበደ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ከበደ', 'ከበደ', 'PROPN', {}]]>
+CORRECT
+['ከበደ', 'ከበደ', 'PROPN', {}]>
+['ከበደ', 'ከበደ', 'PROPN', {}]>
+=====================================================================================================================================
+ከበደ የናቱን ሞት ተረዳ ።  is processed
+AVAILABLE OPTIONS: 
+ተረዳ<[['ተረዳ', 'ተረዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ተረዳ', 'ተረዳ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}]]>
+CORRECT
+['ተረዳ', 'ተረዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+['ተረዳ', 'ተረዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+=====================================================================================================================================
+መጽሐፉን ጻፊያ ።  is processed
+AVAILABLE OPTIONS: 
+መጽሐፉን<[['መጽሐፉን', 'መጽሀፍ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['መጽሐፉን', 'መጽሀፍ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['መጽሐፉን', 'መጽሀፍ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['መጽሐፉን', 'መጽሀፍ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ከጋዜጣ በስተቀር ብዙም አያነብም ።  is processed
+AVAILABLE OPTIONS: 
+ብዙም<[['ብዙም', 'ብዙ', 'ADJ', {}], ['ብዙም', 'በዛ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Person': '2'}], ['ብዙም', 'ብዙ', 'ADJ', {}]]>
+CORRECT
+['ብዙም', 'ብዙ', 'ADJ', {}]>
+['ብዙም', 'ብዙ', 'ADJ', {}]>
+=====================================================================================================================================
+ይበላልም ይጠጣልም ።  is processed
+AVAILABLE OPTIONS: 
+ይበላልም<[['ይበላልም', 'በላ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ይበላልም', 'ተበላ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+CORRECT
+['ይበላልም', 'በላ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ይበላልም', 'በላ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ይበላልም ይጠጣልም ።  is processed
+AVAILABLE OPTIONS: 
+ይጠጣልም<[['ይጠጣልም', 'ተጠጣ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ይጠጣልም', 'ጠጣ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ይጠጣልም', 'ጠጣ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ይጠጣልም', 'ጠጣ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ልጁ ርቦታልም ጠምቶታልም ።  is processed
+AVAILABLE OPTIONS: 
+ልጁ<[['ልጁ', 'ልጅ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['ልጁ', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ገንዘብም ምክርም ሰጠኝ ።  is processed
+AVAILABLE OPTIONS: 
+ገንዘብም<[['ገንዘብም', 'ገንዘብ', 'NOUN', {}], ['ገንዘብም', 'ገንዘብ', 'NOUN', {}]]>
+CORRECT
+['ገንዘብም', 'ገንዘብ', 'NOUN', {}]>
+['ገንዘብም', 'ገንዘብ', 'NOUN', {}]>
+=====================================================================================================================================
+ገንዘብም ምክርም ሰጠኝ ።  is processed
+AVAILABLE OPTIONS: 
+ምክርም<[['ምክርም', 'ምክር', 'NOUN', {}], ['ምክርም', 'ምክር', 'NOUN', {}]]>
+CORRECT
+['ምክርም', 'ምክር', 'NOUN', {}]>
+['ምክርም', 'ምክር', 'NOUN', {}]>
+=====================================================================================================================================
+ገንዘብም ምክርም ሰጠኝ ።  is processed
+AVAILABLE OPTIONS: 
+ሰጠኝ<[['ሰጠኝ', 'ሰጠኝ', 'PROPN', {}], ['ሰጠኝ', 'ሰጠ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '1'}]]>
+CORRECT
+['ሰጠኝ', 'ሰጠ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '1'}]>
+['ሰጠኝ', 'ሰጠ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '1'}]>
+=====================================================================================================================================
+እሱም የክበባችን አባል ነው ።  is processed
+AVAILABLE OPTIONS: 
+እሱም<[['እሱም', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እሱም', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['እሱም', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['እሱም', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+እኔ ልሠራው ከቻልኩ አንተም ትችላለህ ።  is processed
+AVAILABLE OPTIONS: 
+ልሠራው<[['ልሠራው', 'ተሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3', 'Voice': 'Pass'}], ['ልሠራው', 'ተሰራ', 'VERB', {'Gender[obj]': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3', 'Voice': 'Pass'}], ['ልሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3'}]]>
+INCORRECT (Isn't ሰራ the correct Lemma?)
+['ልሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3'}]>
+['ልሠራው', 'ተሰራ', 'VERB', {'Gender[obj]': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3', 'Voice': 'Pass'}]>
+=====================================================================================================================================
+እኔ ልሠራው ከቻልኩ አንተም ትችላለህ ።  is processed
+AVAILABLE OPTIONS: 
+ከቻልኩ<[['ከቻልኩ', 'ቻለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}], ['ከቻልኩ', 'ቻለ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}]]>
+CORRECT
+['ከቻልኩ', 'ቻለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}]>
+['ከቻልኩ', 'ቻለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}]>
+=====================================================================================================================================
+እኔ ልሠራው ከቻልኩ አንተም ትችላለህ ።  is processed
+AVAILABLE OPTIONS: 
+አንተም<[['አንተም', 'አንተ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['አንተም', 'አንተ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['አንተም', 'አንተ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+['አንተም', 'አንተ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+ልጅቷም ቆንጆ ናት ።  is processed
+AVAILABLE OPTIONS: 
+ልጅቷም<[['ልጅቷም', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Fem'}], ['ልጅቷም', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Fem'}]]>
+CORRECT
+['ልጅቷም', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Fem'}]>
+['ልጅቷም', 'ልጅ', 'NOUN', {'Definite': 'Def', 'Gender': 'Fem'}]>
+=====================================================================================================================================
+መቶዎቹም በጎች ተሸጡ ።  is processed
+AVAILABLE OPTIONS: 
+በጎች<[['በጎች', 'በጋ', 'NOUN', {'Number': 'Plur'}], ['በጎች', 'በግ', 'NOUN', {'Number': 'Plur'}]]>
+CORRECT
+['በጎች', 'በግ', 'NOUN', {'Number': 'Plur'}]>
+['በጎች', 'በግ', 'NOUN', {'Number': 'Plur'}]>
+=====================================================================================================================================
+ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።  is processed
+AVAILABLE OPTIONS: 
+ዓለሙ<[['ዓለሙ', 'አለመ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}], ['ዓለሙ', 'አለሙ', 'PROPN', {}], ['ዓለሙ', 'አለም', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['ዓለሙ', 'አለማ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3', 'Voice': 'Cau'}], ['ዓለሙ', 'አለም', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ዓለሙ', 'አለሙ', 'PROPN', {}]>
+['ዓለሙ', 'አለሙ', 'PROPN', {}]>
+=====================================================================================================================================
+ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።  is processed
+AVAILABLE OPTIONS: 
+ይረሳል<[['ይረሳል', 'ተረሳ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ይረሳል', 'ረሳ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ይረሳል', 'ረሳ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ይረሳል', 'ረሳ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።  is processed
+AVAILABLE OPTIONS: 
+ተስፋዬም<[['ተስፋዬም', 'ተስፋ', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ተስፋዬም', 'ተስፋዬ', 'PROPN', {}], ['ተስፋዬም', 'ተስፋ', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ተስፋዬም', 'ተስፋዬ', 'PROPN', {}]]>
+CORRECT
+['ተስፋዬም', 'ተስፋዬ', 'PROPN', {}]>
+['ተስፋዬም', 'ተስፋዬ', 'PROPN', {}]>
+=====================================================================================================================================
+ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።  is processed
+AVAILABLE OPTIONS: 
+እንዲሁ<[['እንዲሁ', 'እንዲሁ', 'ADV', {}], ['እንዲሁ', 'ይህ', 'DET', {'Case': 'Obl', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing'}]]>
+CORRECT
+['እንዲሁ', 'እንዲሁ', 'ADV', {}]>
+['እንዲሁ', 'እንዲሁ', 'ADV', {}]>
+=====================================================================================================================================
+ሦስት ሰዎች መጡ እነሱም ታደሰ ፣ ኃይሉና ተፈራ ናቸው ።  is processed
+AVAILABLE OPTIONS: 
+እነሱም<[['እነሱም', 'እነሱ', 'PRON', {'Number': 'Plur', 'Person': '3'}], ['እነሱም', 'እነሱ', 'PRON', {'Number': 'Plur', 'Person': '3'}], ['እነሱም', 'አነሰ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Person': '2'}], ['እነሱም', 'ነሳ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Number': 'Plur', 'Person': '3'}]]>
+CORRECT
+['እነሱም', 'እነሱ', 'PRON', {'Number': 'Plur', 'Person': '3'}]>
+['እነሱም', 'እነሱ', 'PRON', {'Number': 'Plur', 'Person': '3'}]>
+=====================================================================================================================================
+ሦስት ሰዎች መጡ እነሱም ታደሰ ፣ ኃይሉና ተፈራ ናቸው ።  is processed
+AVAILABLE OPTIONS: 
+ታደሰ<[['ታደሰ', 'ታደሰ', 'PROPN', {}], ['ታደሰ', 'ታደሰ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+INCORRECT (Proper noun confusion)
+['ታደሰ', 'ታደሰ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+['ታደሰ', 'ታደሰ', 'PROPN', {}]>
+=====================================================================================================================================
+ሦስት ሰዎች መጡ እነሱም ታደሰ ፣ ኃይሉና ተፈራ ናቸው ።  is processed
+AVAILABLE OPTIONS: 
+ኃይሉና<[['ኃይሉና', 'ሀይል', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ኃይሉና', 'ሀይል', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['ኃይሉና', 'ሀይሉ', 'PROPN', {}]]>
+INCORRECT (Proper noun confusion)
+['ኃይሉና', 'ሀይል', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+['ኃይሉና', 'ሀይሉ', 'PROPN', {}]>
+=====================================================================================================================================
+ሦስት ሰዎች መጡ እነሱም ታደሰ ፣ ኃይሉና ተፈራ ናቸው ።  is processed
+AVAILABLE OPTIONS: 
+ተፈራ<[['ተፈራ', 'ተፈራ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ተፈራ', 'ተፈራ', 'PROPN', {}], ['ተፈራ', 'ተፈራ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}]]>
+INCORRECT (Proper noun confusion)
+['ተፈራ', 'ተፈራ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+['ተፈራ', 'ተፈራ', 'PROPN', {}]>
+=====================================================================================================================================
+ብርም ሆነ ወርቅ ሊገዛው አይችልም ።  is processed
+AVAILABLE OPTIONS: 
+ብርም<[['ብርም', 'ብር', 'NOUN', {}], ['ብርም', 'ብር', 'NOUN', {}]]>
+CORRECT
+['ብርም', 'ብር', 'NOUN', {}]>
+['ብርም', 'ብር', 'NOUN', {}]>
+=====================================================================================================================================
+ብርም ሆነ ወርቅ ሊገዛው አይችልም ።  is processed
+AVAILABLE OPTIONS: 
+ሆነ<[['ሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+INCORRECT (POS confusion, Aux and Verb)
+['ሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ብርም ሆነ ወርቅ ሊገዛው አይችልም ።  is processed
+AVAILABLE OPTIONS: 
+ወርቅ<[['ወርቅ', 'ወርቅ', 'NOUN', {}], ['ወርቅ', 'ወርቅ', 'PROPN', {}]]>
+CORRECT
+['ወርቅ', 'ወርቅ', 'NOUN', {}]>
+['ወርቅ', 'ወርቅ', 'NOUN', {}]>
+=====================================================================================================================================
+ብርም ሆነ ወርቅ ሊገዛው አይችልም ።  is processed
+AVAILABLE OPTIONS: 
+ሊገዛው<[['ሊገዛው', 'ገዛ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['ሊገዛው', 'ተገዛ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3', 'Voice': 'Pass'}]]>
+CORRECT
+['ሊገዛው', 'ገዛ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+['ሊገዛው', 'ገዛ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+=====================================================================================================================================
+እሱም እኔም ልንሠራው አንችልም ።  is processed
+AVAILABLE OPTIONS: 
+እሱም<[['እሱም', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['እሱም', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['እሱም', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['እሱም', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+እሱም እኔም ልንሠራው አንችልም ።  is processed
+AVAILABLE OPTIONS: 
+እኔም<[['እኔም', 'እኔ', 'PRON', {'Number': 'Sing', 'Person': '1'}], ['እኔም', 'እኔ', 'PRON', {'Number': 'Sing', 'Person': '1'}]]>
+CORRECT
+['እኔም', 'እኔ', 'PRON', {'Number': 'Sing', 'Person': '1'}]>
+['እኔም', 'እኔ', 'PRON', {'Number': 'Sing', 'Person': '1'}]>
+=====================================================================================================================================
+እሱም እኔም ልንሠራው አንችልም ።  is processed
+AVAILABLE OPTIONS: 
+ልንሠራው<[['ልንሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Masc', 'Number': 'Plur', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3'}], ['ልንሠራው', 'ተሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Masc', 'Number': 'Plur', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3', 'Voice': 'Pass'}]]>
+INCORRECT (Lemma confusion)
+['ልንሠራው', 'ተሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Masc', 'Number': 'Plur', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3', 'Voice': 'Pass'}]>
+['ልንሠራው', 'ሰራ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Masc', 'Number': 'Plur', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3'}]>
+=====================================================================================================================================
+ዓለሙ ካልሄደ ተስፋዬም አይሄድም ።  is processed
+AVAILABLE OPTIONS: 
+ዓለሙ<[['ዓለሙ', 'አለም', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['ዓለሙ', 'አለም', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ዓለሙ', 'አለሙ', 'PROPN', {}], ['ዓለሙ', 'አለመ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}], ['ዓለሙ', 'አለማ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3', 'Voice': 'Cau'}]]>
+CORRECT
+['ዓለሙ', 'አለሙ', 'PROPN', {}]>
+['ዓለሙ', 'አለሙ', 'PROPN', {}]>
+=====================================================================================================================================
+ዓለሙ ካልሄደ ተስፋዬም አይሄድም ።  is processed
+AVAILABLE OPTIONS: 
+ካልሄደ<[['ካልሄደ', 'ሄደ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}], ['ካልሄደ', 'ሄደ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]]>
+CORRECT
+['ካልሄደ', 'ሄደ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+['ካልሄደ', 'ሄደ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+ዓለሙ ካልሄደ ተስፋዬም አይሄድም ።  is processed
+AVAILABLE OPTIONS: 
+ተስፋዬም<[['ተስፋዬም', 'ተስፋዬ', 'PROPN', {}], ['ተስፋዬም', 'ተስፋ', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ተስፋዬም', 'ተስፋዬ', 'PROPN', {}], ['ተስፋዬም', 'ተስፋ', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}]]>
+CORRECT
+['ተስፋዬም', 'ተስፋዬ', 'PROPN', {}]>
+['ተስፋዬም', 'ተስፋዬ', 'PROPN', {}]>
+=====================================================================================================================================
+አይዘፍንምም አይደንስምም ።  is processed
+AVAILABLE OPTIONS: 
+አይዘፍንምም<[['አይዘፍንምም', 'ዘፈነ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}], ['አይዘፍንምም', 'ዘፈነ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]]>
+CORRECT
+['አይዘፍንምም', 'ዘፈነ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+['አይዘፍንምም', 'ዘፈነ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+አይዘፍንምም አይደንስምም ።  is processed
+AVAILABLE OPTIONS: 
+አይደንስምም<[['አይደንስምም', 'ደነሰ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}], ['አይደንስምም', 'ደነሰ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]]>
+CORRECT
+['አይደንስምም', 'ደነሰ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+['አይደንስምም', 'ደነሰ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+ምሳዬን አልበላሁም ቁርሴንም ቢሆን እንዲሁ ።  is processed
+AVAILABLE OPTIONS: 
+ቁርሴንም<[['ቁርሴንም', 'ቁርስ', 'NOUN', {'Case': 'Obj', 'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ቁርሴንም', 'ቁርስ', 'NOUN', {'Case': 'Obj', 'Number[psor]': 'Sing', 'Person[psor]': '1'}]]>
+CORRECT
+['ቁርሴንም', 'ቁርስ', 'NOUN', {'Case': 'Obj', 'Number[psor]': 'Sing', 'Person[psor]': '1'}]>
+['ቁርሴንም', 'ቁርስ', 'NOUN', {'Case': 'Obj', 'Number[psor]': 'Sing', 'Person[psor]': '1'}]>
+=====================================================================================================================================
+ምሳዬን አልበላሁም ቁርሴንም ቢሆን እንዲሁ ።  is processed
+AVAILABLE OPTIONS: 
+ቢሆን<[['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ቢሆን', 'ሆነ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ምሳዬን አልበላሁም ቁርሴንም ቢሆን እንዲሁ ።  is processed
+AVAILABLE OPTIONS: 
+እንዲሁ<[['እንዲሁ', 'እንዲሁ', 'ADV', {}], ['እንዲሁ', 'ይህ', 'DET', {'Case': 'Obl', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing'}]]>
+CORRECT
+['እንዲሁ', 'እንዲሁ', 'ADV', {}]>
+['እንዲሁ', 'እንዲሁ', 'ADV', {}]>
+=====================================================================================================================================
+በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደልም ይደረሳል ።  is processed
+AVAILABLE OPTIONS: 
+በዛሬ<[['በዛሬ', 'ዛር', 'NOUN', {'Case': 'Obl', 'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['በዛሬ', 'ዛሬ', 'NOUN', {'Case': 'Obl'}]]>
+CORRECT
+['በዛሬ', 'ዛሬ', 'NOUN', {'Case': 'Obl'}]>
+['በዛሬ', 'ዛሬ', 'NOUN', {'Case': 'Obl'}]>
+=====================================================================================================================================
+በዛሬ ጊዜ ገንዘብ ለማግኘት ሲባል እስከ መግደልም ይደረሳል ።  is processed
+AVAILABLE OPTIONS: 
+መግደልም<[['መግደልም', 'መግደል', 'NOUN', {'VerbForm': 'Inf'}], ['መግደልም', 'መግደል', 'NOUN', {'VerbForm': 'Inf'}]]>
+CORRECT
+['መግደልም', 'መግደል', 'NOUN', {'VerbForm': 'Inf'}]>
+['መግደልም', 'መግደል', 'NOUN', {'VerbForm': 'Inf'}]>
+=====================================================================================================================================
+ባይደርቅም ልብሱን አግቢው ።  is processed
+AVAILABLE OPTIONS: 
+ባይደርቅም<[['ባይደርቅም', 'ደረቀ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}], ['ባይደርቅም', 'ደረቀ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]]>
+CORRECT
+['ባይደርቅም', 'ደረቀ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+['ባይደርቅም', 'ደረቀ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+ባይደርቅም ልብሱን አግቢው ።  is processed
+AVAILABLE OPTIONS: 
+ልብሱን<[['ልብሱን', 'ልብስ', 'ADJ', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['ልብሱን', 'ልብስ', 'ADJ', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ልብሱን', 'ልብስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['ልብሱን', 'ልብስ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ልብሱን', 'ልብስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ልብሱን', 'ልብስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ባይደርቅም ልብሱን አግቢው ።  is processed
+AVAILABLE OPTIONS: 
+አግቢው<[['አግቢው', 'አግቢ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['አግቢው', 'አግቢ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['አግቢው', 'አግቢ', 'ADJ', {'Definite': 'Def', 'Gender': 'Masc'}], ['አግቢው', 'አገባ', 'VERB', {'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3', 'Voice': 'Cau'}], ['አግቢው', 'አግቢ', 'ADJ', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+INCORRECT (Chose Definite)
+['አግቢው', 'አግቢ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['አግቢው', 'አገባ', 'VERB', {'Gender': 'Fem', 'Gender[obj]': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3', 'Voice': 'Cau'}]>
+=====================================================================================================================================
+እኔማ ሥራ በዝቶብኛል ።  is processed
+AVAILABLE OPTIONS: 
+ሥራ<[['ሥራ', 'ሰራ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ሥራ', 'ስራ', 'NOUN', {}]]>
+CORRECT
+['ሥራ', 'ስራ', 'NOUN', {}]>
+['ሥራ', 'ስራ', 'NOUN', {}]>
+=====================================================================================================================================
+በምግብስ በኩል ምግቡ መጥፎ አይደለም ።  is processed
+AVAILABLE OPTIONS: 
+በኩል<[['በኩል', 'ኩል', 'NOUN', {'Case': 'Obl'}], ['በኩል', 'በኩል', 'ADP', {}], ['በኩል', 'እኩል', 'ADJ', {'Case': 'Obl'}]]>
+CORRECT
+['በኩል', 'በኩል', 'ADP', {}]>
+['በኩል', 'በኩል', 'ADP', {}]>
+=====================================================================================================================================
+በምግብስ በኩል ምግቡ መጥፎ አይደለም ።  is processed
+AVAILABLE OPTIONS: 
+ምግቡ<[['ምግቡ', 'ምግብ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ምግቡ', 'ምግብ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['ምግቡ', 'ምግብ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['ምግቡ', 'ምግብ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ምን ይደረግ መቼስ ?  is processed
+AVAILABLE OPTIONS: 
+ምን<[['ምን', 'ምን', 'DET', {}], ['ምን', 'ምን', 'PRON', {}]]>
+CORRECT
+['ምን', 'ምን', 'PRON', {}]>
+['ምን', 'ምን', 'PRON', {}]>
+=====================================================================================================================================
+ምን ይደረግ መቼስ ?  is processed
+AVAILABLE OPTIONS: 
+ይደረግ<[['ይደረግ', 'ተደረገ', 'VERB', {'Gender': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ይደረግ', 'ተደረገ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+CORRECT
+['ይደረግ', 'ተደረገ', 'VERB', {'Gender': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+['ይደረግ', 'ተደረገ', 'VERB', {'Gender': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+=====================================================================================================================================
+ምን ይደረግ መቼስ ?  is processed
+AVAILABLE OPTIONS: 
+መቼስ<[['መቼስ', 'መች', 'ADJ', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['መቼስ', 'መቼስ', 'ADV', {}], ['መቼስ', 'መች', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}]]>
+CORRECT
+['መቼስ', 'መቼስ', 'ADV', {}]>
+['መቼስ', 'መቼስ', 'ADV', {}]>
+=====================================================================================================================================
+እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?  is processed
+AVAILABLE OPTIONS: 
+እሱስ<[['እሱስ', 'ሱስ', 'NOUN', {'Case': 'Obl'}], ['እሱስ', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['እሱስ', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['እሱስ', 'እሱ', 'PRON', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?  is processed
+AVAILABLE OPTIONS: 
+ቢሆን<[['ቢሆን', 'ሆነ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?  is processed
+AVAILABLE OPTIONS: 
+እንዴት<[['እንዴት', 'እንዴት', 'ADV', {}], ['እንዴት', 'ንዴት', 'NOUN', {'Case': 'Obl'}]]>
+CORRECT
+['እንዴት', 'እንዴት', 'ADV', {}]>
+['እንዴት', 'እንዴት', 'ADV', {}]>
+=====================================================================================================================================
+እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?  is processed
+AVAILABLE OPTIONS: 
+ሲል<[['ሲል', 'ሲል', 'PART', {}], ['ሲል', 'አለ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ሲል', 'አለ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ሲል', 'አለ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?  is processed
+AVAILABLE OPTIONS: 
+ጓደኛውን<[['ጓደኛውን', 'ጓደኛ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ጓደኛውን', 'ጓደኛ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+INCORRECT (Chose Definite)
+['ጓደኛውን', 'ጓደኛ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ጓደኛውን', 'ጓደኛ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+=====================================================================================================================================
+ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?  is processed
+AVAILABLE OPTIONS: 
+ትንሿ<[['ትንሿ', 'ትንሽ', 'ADJ', {'Definite': 'Def', 'Gender': 'Fem'}], ['ትንሿ', 'ትንሽ', 'ADJ', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ትንሿ', 'ትንሽ', 'ADJ', {'Definite': 'Def', 'Gender': 'Fem'}]>
+['ትንሿ', 'ትንሽ', 'ADJ', {'Definite': 'Def', 'Gender': 'Fem'}]>
+=====================================================================================================================================
+ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?  is processed
+AVAILABLE OPTIONS: 
+ብትሆን<[['ብትሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['ብትሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}], ['ብትሆን', 'ሆነ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['ብትሆን', 'ሆነ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]]>
+INCORRECT (Person Confusion, between 2 and 3)
+['ብትሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+['ብትሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?  is processed
+AVAILABLE OPTIONS: 
+ለሁላችንም<[['ለሁላችንም', 'ሁሉ', 'DET', {'Case': 'Obl', 'Number[psor]': 'Plur', 'Person[psor]': '1'}], ['ለሁላችንም', 'ሁሉ', 'DET', {'Case': 'Obl', 'Number[psor]': 'Plur', 'Person[psor]': '1'}]]>
+CORRECT
+['ለሁላችንም', 'ሁሉ', 'DET', {'Case': 'Obl', 'Number[psor]': 'Plur', 'Person[psor]': '1'}]>
+['ለሁላችንም', 'ሁሉ', 'DET', {'Case': 'Obl', 'Number[psor]': 'Plur', 'Person[psor]': '1'}]>
+=====================================================================================================================================
+ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?  is processed
+AVAILABLE OPTIONS: 
+አትበቃም<[['አትበቃም', 'ተበቃ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'Voice': 'Pass'}], ['አትበቃም', 'በቃ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}], ['አትበቃም', 'በቃ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}], ['አትበቃም', 'ተበቃ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg', 'Voice': 'Pass'}]]>
+CORRECT
+['አትበቃም', 'በቃ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+['አትበቃም', 'በቃ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+እስከ ነገ ብትቆይስ ?  is processed
+AVAILABLE OPTIONS: 
+ብትቆይስ<[['ብትቆይስ', 'ቈየ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['ብትቆይስ', 'ቈየ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '2'}], ['ብትቆይስ', 'ቈየ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ብትቆይስ', 'ቈየ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+['ብትቆይስ', 'ቈየ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+ቢያዳምጣትስ ኖሮ ።  is processed
+AVAILABLE OPTIONS: 
+ኖሮ<[['ኖሮ', 'ኖሮ', 'AUX', {}], ['ኖሮ', 'ኖረ', 'VERB', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Conv'}]]>
+CORRECT
+['ኖሮ', 'ኖሮ', 'AUX', {}]>
+['ኖሮ', 'ኖሮ', 'AUX', {}]>
+=====================================================================================================================================
+ዛሬሳ ምንም ምግብ አትቀምስም ?  is processed
+AVAILABLE OPTIONS: 
+ዛሬሳ<[['ዛሬሳ', 'ዛር', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ዛሬሳ', 'ዛሬ', 'NOUN', {}]]>
+CORRECT
+['ዛሬሳ', 'ዛሬ', 'NOUN', {}]>
+['ዛሬሳ', 'ዛሬ', 'NOUN', {}]>
+=====================================================================================================================================
+ዛሬሳ ምንም ምግብ አትቀምስም ?  is processed
+AVAILABLE OPTIONS: 
+ምንም<[['ምንም', 'ምንም', 'DET', {}], ['ምንም', 'ምንም', 'PRON', {}], ['ምንም', 'ምንም', 'ADV', {}]]>
+CORRECT
+['ምንም', 'ምንም', 'DET', {}]>
+['ምንም', 'ምንም', 'DET', {}]>
+=====================================================================================================================================
+ዛሬሳ ምንም ምግብ አትቀምስም ?  is processed
+AVAILABLE OPTIONS: 
+አትቀምስም<[['አትቀምስም', 'ቀመሰ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}], ['አትቀምስም', 'ቀመሰ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]]>
+CORRECT
+['አትቀምስም', 'ቀመሰ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}]>
+['አትቀምስም', 'ቀመሰ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+ዛሬ ወደ ተማሪ ቤት ለመሄድ አልተሰናዳህምሳ ?  is processed
+AVAILABLE OPTIONS: 
+ዛሬ<[['ዛሬ', 'ዛር', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ዛሬ', 'ዛሬ', 'NOUN', {}]]>
+CORRECT
+['ዛሬ', 'ዛሬ', 'NOUN', {}]>
+['ዛሬ', 'ዛሬ', 'NOUN', {}]>
+=====================================================================================================================================
+ዛሬ ወደ ተማሪ ቤት ለመሄድ አልተሰናዳህምሳ ?  is processed
+AVAILABLE OPTIONS: 
+ተማሪ<[['ተማሪ', 'ተማሪ', 'NOUN', {}], ['ተማሪ', 'ተማራ', 'VERB', {'Gender': 'Fem', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ተማሪ', 'ተማሪ', 'ADJ', {}], ['ተማሪ', 'ተማረ', 'VERB', {'Gender': 'Fem', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ተማሪ', 'ተማረ', 'VERB', {'Gender': 'Fem', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}]]>
+CORRECT
+['ተማሪ', 'ተማሪ', 'NOUN', {}]>
+['ተማሪ', 'ተማሪ', 'NOUN', {}]>
+=====================================================================================================================================
+ዛሬ ወደ ተማሪ ቤት ለመሄድ አልተሰናዳህምሳ ?  is processed
+AVAILABLE OPTIONS: 
+አልተሰናዳህምሳ<[['አልተሰናዳህምሳ', 'ተሰናዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}], ['አልተሰናዳህምሳ', 'ተሰናዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '2', 'Polarity': 'Neg'}]]>
+CORRECT
+['አልተሰናዳህምሳ', 'ተሰናዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}]>
+['አልተሰናዳህምሳ', 'ተሰናዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+መስኮቱን ዝጋ !  is processed
+AVAILABLE OPTIONS: 
+መስኮቱን<[['መስኮቱን', 'መስኮት', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['መስኮቱን', 'መስኮት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['መስኮቱን', 'መስኮት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['መስኮቱን', 'መስኮት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+መስኮቱን ዝጋ !  is processed
+AVAILABLE OPTIONS: 
+ዝጋ<[['ዝጋ', 'ዘጋ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ዝጋ', 'ዛገ', 'VERB', {'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Conv'}]]>
+CORRECT
+['ዝጋ', 'ዘጋ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}]>
+['ዝጋ', 'ዘጋ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+እሳቱን ከሰል ጨምርበት !  is processed
+AVAILABLE OPTIONS: 
+እሳቱን<[['እሳቱን', 'ሳተ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Number': 'Plur', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '1'}], ['እሳቱን', 'እሳት', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['እሳቱን', 'እሳቱ', 'PROPN', {'Case': 'Obj'}], ['እሳቱን', 'እሳት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['እሳቱን', 'እሳት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['እሳቱን', 'እሳት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ጤናዎንስ እንደምን ነዎት ?  is processed
+AVAILABLE OPTIONS: 
+ጤናዎንስ<[['ጤናዎንስ', 'ጤና', 'NOUN', {'Case': 'Obj', 'Number[psor]': 'Sing', 'Person[psor]': '2', 'Polite[psor]': 'Form'}], ['ጤናዎንስ', 'ጤና', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '2', 'Polite[psor]': 'Form'}]]>
+INCORRECT (Error in generation)
+['ጤናዎንስ', 'ጤና', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '2', 'Polinite[psor]': 'Form'}]>
+['ጤናዎንስ', 'ጤና', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '2', 'Polite[psor]': 'Form'}]>
+=====================================================================================================================================
+ጤናዎንስ እንደምን ነዎት ?  is processed
+AVAILABLE OPTIONS: 
+እንደምን<[['እንደምን', 'ምን', 'DET', {'Case': 'Obl'}], ['እንደምን', 'ምን', 'PRON', {'Case': 'Obl'}]]>
+CORRECT
+['እንደምን', 'ምን', 'PRON', {'Case': 'Obl'}]>
+['እንደምን', 'ምን', 'PRON', {'Case': 'Obl'}]>
+=====================================================================================================================================
+ወተቱን ምን ያደርጉታል ?  is processed
+AVAILABLE OPTIONS: 
+ወተቱን<[['ወተቱን', 'ወተት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['ወተቱን', 'ወተት', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ወተቱን', 'ወተት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ወተቱን', 'ወተት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ወተቱን ምን ያደርጉታል ?  is processed
+AVAILABLE OPTIONS: 
+ምን<[['ምን', 'ምን', 'PRON', {}], ['ምን', 'ምን', 'DET', {}]]>
+INCORRECT (POS confusion, Det and Pron)
+['ምን', 'ምን', 'DET', {}]>
+['ምን', 'ምን', 'PRON', {}]>
+=====================================================================================================================================
+እኔን ይሰረቃል ብሎ መጠርጠር ዘበት ነው ።  is processed
+AVAILABLE OPTIONS: 
+መጠርጠር<[['መጠርጠር', 'መጠርጠር', 'NOUN', {'VerbForm': 'Inf'}], ['መጠርጠር', 'መጠርጠር', 'NOUN', {'VerbForm': 'Inf'}]]>
+CORRECT
+['መጠርጠር', 'መጠርጠር', 'NOUN', {'VerbForm': 'Inf'}]>
+['መጠርጠር', 'መጠርጠር', 'NOUN', {'VerbForm': 'Inf'}]>
+=====================================================================================================================================
+እኔን ይሰረቃል ብሎ መጠርጠር ዘበት ነው ።  is processed
+AVAILABLE OPTIONS: 
+ዘበት<[['ዘበት', 'ዘበት', 'NOUN', {}], ['ዘበት', 'ዘበት', 'PROPN', {}]]>
+CORRECT
+['ዘበት', 'ዘበት', 'NOUN', {}]>
+['ዘበት', 'ዘበት', 'NOUN', {}]>
+=====================================================================================================================================
+ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።  is processed
+AVAILABLE OPTIONS: 
+ራሱን<[['ራሱን', 'ራሰ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Number[obj]': 'Plur', 'Person': '2', 'Person[obj]': '1'}], ['ራሱን', 'ራስ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ራሱን', 'ራሰ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}], ['ራሱን', 'ራስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['ራሱን', 'ራሰ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '1'}]]>
+CORRECT
+['ራሱን', 'ራስ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+['ራሱን', 'ራስ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+=====================================================================================================================================
+ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።  is processed
+AVAILABLE OPTIONS: 
+ከተመታ<[['ከተመታ', 'ተመታ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ከተመታ', 'ተመታ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+CORRECT
+['ከተመታ', 'ተመታ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+['ከተመታ', 'ተመታ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+=====================================================================================================================================
+ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።  is processed
+AVAILABLE OPTIONS: 
+ወዲህ<[['ወዲህ', 'ይህ', 'DET', {'Case': 'Obl', 'Gender': 'Masc', 'Number': 'Sing'}], ['ወዲህ', 'ወዲህ', 'ADP', {}], ['ወዲህ', 'ወዲህ', 'SCONJ', {}]]>
+INCORRECT (POS confusion, Det and Sconj)
+['ወዲህ', 'ይህ', 'DET', {'Case': 'Obl', 'Gender': 'Masc', 'Number': 'Sing'}]>
+['ወዲህ', 'ወዲህ', 'SCONJ', {}]>
+=====================================================================================================================================
+ራሱን ከተመታ ወዲህ ማስታወስ አቃተው ።  is processed
+AVAILABLE OPTIONS: 
+አቃተው<[['አቃተው', 'አቃተ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['አቃተው', 'አቃተ', 'VERB', {'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3'}], ['አቃተው', 'አቃጣ', 'VERB', {'Number': 'Plur', 'Person': '3', 'VerbForm': 'Conv', 'Voice': 'Cau'}]]>
+CORRECT
+['አቃተው', 'አቃተ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+['አቃተው', 'አቃተ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+=====================================================================================================================================
+ለልጁ ቤቱን አሳየው ።  is processed
+AVAILABLE OPTIONS: 
+ለልጁ<[['ለልጁ', 'ልጅ', 'NOUN', {'Case': 'Obl', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ለልጁ', 'ልጅ', 'NOUN', {'Case': 'Obl', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+INCORRECT (Error in generation)
+['ለለልጁ', 'ልጅ', 'NOUN', {'Case': 'Obl', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ለልጁ', 'ልጅ', 'NOUN', {'Case': 'Obl', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ለልጁ ቤቱን አሳየው ።  is processed
+AVAILABLE OPTIONS: 
+ቤቱን<[['ቤቱን', 'ቤት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['ቤቱን', 'ቤት', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ቤቱን', 'ቤት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ቤቱን', 'ቤት', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ለልጁ ቤቱን አሳየው ።  is processed
+AVAILABLE OPTIONS: 
+አሳየው<[['አሳየው', 'አሳየ', 'VERB', {'Aspect': 'Imp', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '1', 'Person[obj]': '3', 'Voice': 'Cau'}], ['አሳየው', 'አሳየ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3', 'Voice': 'Cau'}], ['አሳየው', 'አሳየ', 'VERB', {'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3', 'Voice': 'Cau'}]]>
+INCORRECT (Person Confusion, between 2 and 3)
+['አሳየው', 'አሳየ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3', 'Voice': 'Cau'}]>
+['አሳየው', 'አሳየ', 'VERB', {'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '2', 'Person[obj]': '3', 'Voice': 'Cau'}]>
+=====================================================================================================================================
+መሬት ፀሐይን ትዞራለች ።  is processed
+AVAILABLE OPTIONS: 
+ፀሐይን<[['ፀሐይን', 'ጸሀይ', 'PROPN', {'Case': 'Obj'}], ['ፀሐይን', 'ጸሀይ', 'NOUN', {'Case': 'Obj'}]]>
+CORRECT
+['ፀሐይን', 'ጸሀይ', 'NOUN', {'Case': 'Obj'}]>
+['ፀሐይን', 'ጸሀይ', 'NOUN', {'Case': 'Obj'}]>
+=====================================================================================================================================
+መሬት ፀሐይን ትዞራለች ።  is processed
+AVAILABLE OPTIONS: 
+ትዞራለች<[['ትዞራለች', 'ተዞረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ትዞራለች', 'ዞረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ትዞራለች', 'ዞረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]>
+['ትዞራለች', 'ዞረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ሀምሌትን ሆኖ የሚጫወተው ማነው ?  is processed
+AVAILABLE OPTIONS: 
+የሚጫወተው<[['የሚጫወተው', 'ተጫወተ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['የሚጫወተው', 'ተጫወተ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['የሚጫወተው', 'ተጫወተ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['የሚጫወተው', 'ተጫወተ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ረኃብ ካዋቂ ይልቅ ልጅን ነው የሚርብ ።  is processed
+AVAILABLE OPTIONS: 
+ካዋቂ<[['ካዋቂ', 'አዋቂ', 'NOUN', {'Case': 'Obl'}], ['ካዋቂ', 'አዋቂ', 'ADJ', {'Case': 'Obl'}]]>
+CORRECT
+['ካዋቂ', 'አዋቂ', 'NOUN', {'Case': 'Obl'}]>
+['ካዋቂ', 'አዋቂ', 'NOUN', {'Case': 'Obl'}]>
+=====================================================================================================================================
+ረኃብ ካዋቂ ይልቅ ልጅን ነው የሚርብ ።  is processed
+AVAILABLE OPTIONS: 
+ይልቅ<[['ይልቅ', 'ላቀ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ይልቅ', 'ይልቅ', 'ADP', {}], ['ይልቅ', 'ይልቅ', 'ADV', {}]]>
+INCORRECT (POS confusion, Adv and Adp)
+['ይልቅ', 'ይልቅ', 'ADV', {}]>
+['ይልቅ', 'ይልቅ', 'ADP', {}]>
+=====================================================================================================================================
+ፈረሱ ሌጣውን ጋለበ ።  is processed
+AVAILABLE OPTIONS: 
+ፈረሱ<[['ፈረሱ', 'ፈረሰ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}], ['ፈረሱ', 'ፈረስ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ፈረሱ', 'ፈረስ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['ፈረሱ', 'ፈረስ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['ፈረሱ', 'ፈረስ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ፈረሱ ሌጣውን ጋለበ ።  is processed
+AVAILABLE OPTIONS: 
+ሌጣውን<[['ሌጣውን', 'ሌጣ', 'ADJ', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ሌጣውን', 'ሌጣ', 'ADJ', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+INCORRECT (Chose Definite)
+['ሌጣውን', 'ሌጣ', 'ADJ', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ሌጣውን', 'ሌጣ', 'ADJ', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+=====================================================================================================================================
+ጦማቸውን ዋሉ ።  is processed
+AVAILABLE OPTIONS: 
+ጦማቸውን<[['ጦማቸውን', 'ጾም', 'NOUN', {'Case': 'Obj', 'Number[psor]': 'Plur', 'Person[psor]': '3'}], ['ጦማቸውን', 'ጦመ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '3'}]]>
+INCORRECT
+['ጦማቸውን', 'ጦመ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '3'}]>
+['ጦማቸውን', 'ጾም', 'NOUN', {'Case': 'Obj', 'Number[psor]': 'Plur', 'Person[psor]': '3'}]>
+=====================================================================================================================================
+ጦማቸውን ዋሉ ።  is processed
+AVAILABLE OPTIONS: 
+ዋሉ<[['ዋሉ', 'ዋሉ', 'PROPN', {}], ['ዋሉ', 'ዋለ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}], ['ዋሉ', 'ዋለ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Person': '2'}]]>
+INCORRECT (Is ዋሉ PROPN? Why HM adds it as an option?)
+['ዋሉ', 'ዋሉ', 'PROPN', {}]>
+['ዋሉ', 'ዋለ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}]>
+=====================================================================================================================================
+መንገድ ሲያቋርጡ ልጁን እጁን ያዘችው ።  is processed
+AVAILABLE OPTIONS: 
+ልጁን<[['ልጁን', 'ልጅ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ልጁን', 'ልጅ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['ልጁን', 'ልጅ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ልጁን', 'ልጅ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+መንገድ ሲያቋርጡ ልጁን እጁን ያዘችው ።  is processed
+AVAILABLE OPTIONS: 
+እጁን<[['እጁን', 'እጅ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['እጁን', 'እጅ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['እጁን', 'እጅ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+['እጁን', 'እጅ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+=====================================================================================================================================
+ቀኑን ሙሉ ተኝቶ ነበር ።  is processed
+AVAILABLE OPTIONS: 
+ቀኑን<[['ቀኑን', 'ቀን', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ቀኑን', 'ቀን', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}], ['ቀኑን', 'ቀና', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Number[obj]': 'Plur', 'Person': '3', 'Person[obj]': '1'}], ['ቀኑን', 'ቀና', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}]]>
+CORRECT
+['ቀኑን', 'ቀን', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['ቀኑን', 'ቀን', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ቀኑን ሙሉ ተኝቶ ነበር ።  is processed
+AVAILABLE OPTIONS: 
+ሙሉ<[['ሙሉ', 'ሙሉ', 'ADJ', {}], ['ሙሉ', 'ሞላ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Person': '2'}], ['ሙሉ', 'ሙሉ', 'PROPN', {}]]>
+CORRECT
+['ሙሉ', 'ሙሉ', 'ADJ', {}]>
+['ሙሉ', 'ሙሉ', 'ADJ', {}]>
+=====================================================================================================================================
+ቀኑን ሙሉ ተኝቶ ነበር ።  is processed
+AVAILABLE OPTIONS: 
+ነበር<[['ነበር', 'አለː', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}], ['ነበር', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}]>
+['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}]>
+=====================================================================================================================================
+እግዚአብሔርን ! እውነት ነው ።  is processed
+AVAILABLE OPTIONS: 
+እውነት<[['እውነት', 'ውነት', 'NOUN', {'Case': 'Obl'}], ['እውነት', 'እውነት', 'NOUN', {}], ['እውነት', 'እውነት', 'PROPN', {}]]>
+CORRECT
+['እውነት', 'እውነት', 'NOUN', {}]>
+['እውነት', 'እውነት', 'NOUN', {}]>
+=====================================================================================================================================
+ምን እባክህ ዝናብ እምቢ ብሎ አዝመራው አልተሳካም ።  is processed
+AVAILABLE OPTIONS: 
+ምን<[['ምን', 'ምን', 'DET', {}], ['ምን', 'ምን', 'PRON', {}]]>
+CORRECT
+['ምን', 'ምን', 'PRON', {}]>
+['ምን', 'ምን', 'PRON', {}]>
+=====================================================================================================================================
+ምን እባክህ ዝናብ እምቢ ብሎ አዝመራው አልተሳካም ።  is processed
+AVAILABLE OPTIONS: 
+አዝመራው<[['አዝመራው', 'አዝመራ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['አዝመራው', 'አዝመራ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['አዝመራው', 'አዝመራ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['አዝመራው', 'አዝመራ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+እርሳሱን እንሆ !  is processed
+AVAILABLE OPTIONS: 
+እርሳሱን<[['እርሳሱን', 'እርሳስ', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['እርሳሱን', 'እርሳስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]]>
+CORRECT
+['እርሳሱን', 'እርሳስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+['እርሳሱን', 'እርሳስ', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ብድር ነው እንዴ የሚፈልጉት ?  is processed
+AVAILABLE OPTIONS: 
+ብድር<[['ብድር', 'ብድር', 'PROPN', {}], ['ብድር', 'ብድር', 'NOUN', {}], ['ብድር', 'ዳረ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}]]>
+CORRECT
+['ብድር', 'ብድር', 'NOUN', {}]>
+['ብድር', 'ብድር', 'NOUN', {}]>
+=====================================================================================================================================
+ብድር ነው እንዴ የሚፈልጉት ?  is processed
+AVAILABLE OPTIONS: 
+የሚፈልጉት<[['የሚፈልጉት', 'ፈለገ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Number': 'Plur', 'Person': '3'}], ['የሚፈልጉት', 'ፈለገ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender[obj]': 'Masc', 'Number': 'Plur', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]]>
+CORRECT
+['የሚፈልጉት', 'ፈለገ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Number': 'Plur', 'Person': '3'}]>
+['የሚፈልጉት', 'ፈለገ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Definite': 'Def', 'Number': 'Plur', 'Person': '3'}]>
+=====================================================================================================================================
+ይመጣል እንዴ ?  is processed
+AVAILABLE OPTIONS: 
+ይመጣል<[['ይመጣል', 'ተመጣ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}], ['ይመጣል', 'መጣ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ይመጣል', 'መጠጠ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ይመጣል', 'መጣ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ይመጣል', 'መጣ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ይህ ልጅ መዳኑን እንጃ ?  is processed
+AVAILABLE OPTIONS: 
+መዳኑን<[['መዳኑን', 'መዳን', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}], ['መዳኑን', 'መዳን', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}], ['መዳኑን', 'መዳን', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc', 'VerbForm': 'Inf'}], ['መዳኑን', 'መዳን', 'NOUN', {'Case': 'Obj', 'Definite': 'Def', 'Gender': 'Masc', 'VerbForm': 'Inf'}]]>
+CORRECT
+['መዳኑን', 'መዳን', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]>
+['መዳኑን', 'መዳን', 'NOUN', {'Case': 'Obj', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]>
+=====================================================================================================================================
+እኔ እኮ ይህ ፈረስ ያንተ መስሎኝ ነበር ።  is processed
+AVAILABLE OPTIONS: 
+ነበር<[['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}], ['ነበር', 'አለː', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ነበር', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}]>
+['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}]>
+=====================================================================================================================================
+አዪ እሱ እዚህ ቢሆን ኖሮ ።  is processed
+AVAILABLE OPTIONS: 
+አዪ<[['አዪ', 'አይ', 'NOUN', {}], ['አዪ', 'አይ', 'ADJ', {}], ['አዪ', 'አዪ', 'INTJ', {}]]>
+INCORRECT (POS confusion, Noun and Intj))
+['አዪ', 'አይ', 'NOUN', {}]>
+['አዪ', 'አዪ', 'INTJ', {}]>
+=====================================================================================================================================
+አዪ እሱ እዚህ ቢሆን ኖሮ ።  is processed
+AVAILABLE OPTIONS: 
+ቢሆን<[['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ቢሆን', 'ሆነ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+አዪ እሱ እዚህ ቢሆን ኖሮ ።  is processed
+AVAILABLE OPTIONS: 
+ኖሮ<[['ኖሮ', 'ኖረ', 'VERB', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Conv'}], ['ኖሮ', 'ኖሮ', 'AUX', {}]]>
+CORRECT
+['ኖሮ', 'ኖሮ', 'AUX', {}]>
+['ኖሮ', 'ኖሮ', 'AUX', {}]>
+=====================================================================================================================================
+ኤዲያ ! ተመልከት ምን እንዳደረግህ ።  is processed
+AVAILABLE OPTIONS: 
+ምን<[['ምን', 'ምን', 'PRON', {}], ['ምን', 'ምን', 'DET', {}]]>
+CORRECT
+['ምን', 'ምን', 'PRON', {}]>
+['ምን', 'ምን', 'PRON', {}]>
+=====================================================================================================================================
+ኤዲያ ! ተመልከት ምን እንዳደረግህ ።  is processed
+AVAILABLE OPTIONS: 
+እንዳደረግህ<[['እንዳደረግህ', 'አደረገ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['እንዳደረግህ', 'አደረገ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}], ['እንዳደረግህ', 'አደረገ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]]>
+CORRECT
+['እንዳደረግህ', 'አደረገ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+['እንዳደረግህ', 'አደረገ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '2'}]>
+=====================================================================================================================================
+ፈረሱ ቶሎ ቶሎ ሂያጅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ፈረሱ<[['ፈረሱ', 'ፈረስ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ፈረሱ', 'ፈረስ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['ፈረሱ', 'ፈረሰ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3'}]]>
+CORRECT
+['ፈረሱ', 'ፈረስ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['ፈረሱ', 'ፈረስ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ፈረሱ ቶሎ ቶሎ ሂያጅ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ሂያጅ<[['ሂያጅ', 'ሂያጅ', 'ADJ', {}], ['ሂያጅ', 'ሂያጅ', 'NOUN', {}]]>
+INCORRECT (POS confusion, Adj and Noun)
+['ሂያጅ', 'ሂያጅ', 'ADJ', {}]>
+['ሂያጅ', 'ሂያጅ', 'NOUN', {}]>
+=====================================================================================================================================
+ለሚያስፈልገኝ ነገር ሁሉ ደጋፊዬ እሱ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ደጋፊዬ<[['ደጋፊዬ', 'ደጋፊ', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ደጋፊዬ', 'ደጋፊ', 'ADJ', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ደጋፊዬ', 'ደጋፊ', 'NOUN', {}]]>
+CORRECT
+['ደጋፊዬ', 'ደጋፊ', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}]>
+['ደጋፊዬ', 'ደጋፊ', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}]>
+=====================================================================================================================================
+ገንዘብ ፈላጊ ነኝ ።  is processed
+AVAILABLE OPTIONS: 
+ፈላጊ<[['ፈላጊ', 'ፈላጊ', 'ADJ', {}], ['ፈላጊ', 'ፈላጊ', 'NOUN', {}]]>
+CORRECT
+['ፈላጊ', 'ፈላጊ', 'NOUN', {}]>
+['ፈላጊ', 'ፈላጊ', 'NOUN', {}]>
+=====================================================================================================================================
+ይህ ቤት ፈራሽ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ፈራሽ<[['ፈራሽ', 'ፈራ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '2'}], ['ፈራሽ', 'ፈራሽ', 'ADJ', {}], ['ፈራሽ', 'ፈራ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '2'}], ['ፈራሽ', 'ፈራሽ', 'NOUN', {}]]>
+INCORRECT (POS confusion, Adj and Noun)
+['ፈራሽ', 'ፈራሽ', 'NOUN', {}]>
+['ፈራሽ', 'ፈራሽ', 'ADJ', {}]>
+=====================================================================================================================================
+አባቷ ዛሬ ደራሽ ነው ።  is processed
+AVAILABLE OPTIONS: 
+አባቷ<[['አባቷ', 'አባተ', 'VERB', {'Aspect': 'Perf', 'Number': 'Plur', 'Person': '3', 'Voice': 'Cau'}], ['አባቷ', 'አባተ', 'VERB', {'Mood': 'Imp', 'Number': 'Plur', 'Person': '2', 'Voice': 'Cau'}], ['አባቷ', 'አባት', 'NOUN', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['አባቷ', 'አባት', 'NOUN', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+['አባቷ', 'አባት', 'NOUN', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+=====================================================================================================================================
+አባቷ ዛሬ ደራሽ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ዛሬ<[['ዛሬ', 'ዛር', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ዛሬ', 'ዛሬ', 'NOUN', {}]]>
+CORRECT
+['ዛሬ', 'ዛሬ', 'NOUN', {}]>
+['ዛሬ', 'ዛሬ', 'NOUN', {}]>
+=====================================================================================================================================
+አባቷ ዛሬ ደራሽ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ደራሽ<[['ደራሽ', 'ደራ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '2'}], ['ደራሽ', 'ደራ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '2'}], ['ደራሽ', 'ደራሽ', 'NOUN', {}], ['ደራሽ', 'ደራሽ', 'ADJ', {}]]>
+INCORRECT (POS confusion, Adj and Noun)
+['ደራሽ', 'ደራሽ', 'ADJ', {}]>
+['ደራሽ', 'ደራሽ', 'NOUN', {}]>
+=====================================================================================================================================
+ሰው ሟች ነው ።  is processed
+AVAILABLE OPTIONS: 
+ሟች<[['ሟች', 'ሟች', 'ADJ', {}], ['ሟች', 'ሟች', 'NOUN', {}]]>
+INCORRECT (Error in generation)
+['�ች', 'ሟች', 'NOUN', {}]>
+['ሟች', 'ሟች', 'NOUN', {}]>
+=====================================================================================================================================
+ሰው ተሰባሪ ነው ።  is processed
+AVAILABLE OPTIONS: 
+ተሰባሪ<[['ተሰባሪ', 'ተሰባሪ', 'ADJ', {}], ['ተሰባሪ', 'ተሰባሪ', 'NOUN', {}]]>
+CORRECT
+['ተሰባሪ', 'ተሰባሪ', 'ADJ', {}]>
+['ተሰባሪ', 'ተሰባሪ', 'ADJ', {}]>
+=====================================================================================================================================
+ጦርነቱ ካልቆመ ሁላችንም ተሰዳጅ ነን ።  is processed
+AVAILABLE OPTIONS: 
+ጦርነቱ<[['ጦርነቱ', 'ጦርነት', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['ጦርነቱ', 'ጦርነት', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]]>
+CORRECT
+['ጦርነቱ', 'ጦርነት', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+['ጦርነቱ', 'ጦርነት', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]>
+=====================================================================================================================================
+ጦርነቱ ካልቆመ ሁላችንም ተሰዳጅ ነን ።  is processed
+AVAILABLE OPTIONS: 
+ካልቆመ<[['ካልቆመ', 'ቈመ', 'VERB', {'Aspect': 'Perf', 'Case': 'Obl', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}], ['ካልቆመ', 'ቈመ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]]>
+CORRECT
+['ካልቆመ', 'ቈመ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+['ካልቆመ', 'ቈመ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+ጦርነቱ ካልቆመ ሁላችንም ተሰዳጅ ነን ።  is processed
+AVAILABLE OPTIONS: 
+ሁላችንም<[['ሁላችንም', 'ሁሉ', 'DET', {'Number[psor]': 'Plur', 'Person[psor]': '1'}], ['ሁላችንም', 'ሁሉ', 'DET', {'Number[psor]': 'Plur', 'Person[psor]': '1'}]]>
+INCORRECT (Error in generation)
+['ለሁላችንም', 'ሁሉ', 'DET', {'Number[psor]': 'Plur', 'Person[psor]': '1'}]>
+['ሁላችንም', 'ሁሉ', 'DET', {'Number[psor]': 'Plur', 'Person[psor]': '1'}]>
+=====================================================================================================================================
+ጦርነቱ ካልቆመ ሁላችንም ተሰዳጅ ነን ።  is processed
+AVAILABLE OPTIONS: 
+ተሰዳጅ<[['ተሰዳጅ', 'ተሰዳጅ', 'ADJ', {}], ['ተሰዳጅ', 'ተሰዳጅ', 'NOUN', {}]]>
+INCORRECT
+['ተሰዳጅ', 'ተሰዳጅ', 'ADJ', {}]>
+['ተሰዳጅ', 'ተሰዳጅ', 'NOUN', {}]>
+=====================================================================================================================================
+ዓለሚቱ ተወዳጅ ጠባይ አላት ።  is processed
+AVAILABLE OPTIONS: 
+ዓለሚቱ<[['ዓለሚቱ', 'አለሚቱ', 'PROPN', {}], ['ዓለሚቱ', 'አለም', 'NOUN', {'Definite': 'Def', 'Gender': 'Fem'}]]>
+CORRECT
+['ዓለሚቱ', 'አለሚቱ', 'PROPN', {}]>
+['ዓለሚቱ', 'አለሚቱ', 'PROPN', {}]>
+=====================================================================================================================================
+ዓለሚቱ ተወዳጅ ጠባይ አላት ።  is processed
+AVAILABLE OPTIONS: 
+ተወዳጅ<[['ተወዳጅ', 'ተወዳጅ', 'ADJ', {}], ['ተወዳጅ', 'ተወዳጀ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}], ['ተወዳጅ', 'ተወዳጀ', 'VERB', {'Gender': 'Fem', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Voice': 'Pass'}], ['ተወዳጅ', 'ተወዳጅ', 'NOUN', {}]]>
+CORRECT
+['ተወዳጅ', 'ተወዳጅ', 'ADJ', {}]>
+['ተወዳጅ', 'ተወዳጅ', 'ADJ', {}]>
+=====================================================================================================================================
+ዓለሚቱ ተወዳጅ ጠባይ አላት ።  is processed
+AVAILABLE OPTIONS: 
+አላት<[['አላት', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['አላት', 'አለ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['አላት', 'አለː', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}], ['አላት', 'አለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]]>
+CORRECT
+['አላት', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+['አላት', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3'}]>
+=====================================================================================================================================
+ከብታችንን በመስረቁ ምክንያት ታሰረ ።  is processed
+AVAILABLE OPTIONS: 
+በመስረቁ<[['በመስረቁ', 'መስረቅ', 'NOUN', {'Case': 'Obl', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}], ['በመስረቁ', 'መስረቅ', 'NOUN', {'Case': 'Obl', 'Definite': 'Def', 'Gender': 'Masc', 'VerbForm': 'Inf'}]]>
+CORRECT
+['በመስረቁ', 'መስረቅ', 'NOUN', {'Case': 'Obl', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]>
+['በመስረቁ', 'መስረቅ', 'NOUN', {'Case': 'Obl', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]>
+=====================================================================================================================================
+ከብታችንን በመስረቁ ምክንያት ታሰረ ።  is processed
+AVAILABLE OPTIONS: 
+ምክንያት<[['ምክንያት', 'ምክንያት', 'ADP', {}], ['ምክንያት', 'ምክንያት', 'NOUN', {}]]>
+CORRECT
+['ምክንያት', 'ምክንያት', 'ADP', {}]>
+['ምክንያት', 'ምክንያት', 'ADP', {}]>
+=====================================================================================================================================
+የልጃቸው መፈታት ሲሰማ ቤታቸው ውስጥ ደስታ ሆነ ።  is processed
+AVAILABLE OPTIONS: 
+ሲሰማ<[['ሲሰማ', 'ሰማ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ሲሰማ', 'ተሰማ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]]>
+CORRECT
+['ሲሰማ', 'ተሰማ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+['ሲሰማ', 'ተሰማ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Pass'}]>
+=====================================================================================================================================
+የልጃቸው መፈታት ሲሰማ ቤታቸው ውስጥ ደስታ ሆነ ።  is processed
+AVAILABLE OPTIONS: 
+ውስጥ<[['ውስጥ', 'ውስጥ', 'NOUN', {}], ['ውስጥ', 'ውስጥ', 'ADP', {}]]>
+CORRECT
+['ውስጥ', 'ውስጥ', 'ADP', {}]>
+['ውስጥ', 'ውስጥ', 'ADP', {}]>
+=====================================================================================================================================
+የልጃቸው መፈታት ሲሰማ ቤታቸው ውስጥ ደስታ ሆነ ።  is processed
+AVAILABLE OPTIONS: 
+ደስታ<[['ደስታ', 'ደስታ', 'PROPN', {}], ['ደስታ', 'ደስታ', 'NOUN', {}]]>
+CORRECT
+['ደስታ', 'ደስታ', 'NOUN', {}]>
+['ደስታ', 'ደስታ', 'NOUN', {}]>
+=====================================================================================================================================
+የልጃቸው መፈታት ሲሰማ ቤታቸው ውስጥ ደስታ ሆነ ።  is processed
+AVAILABLE OPTIONS: 
+ሆነ<[['ሆነ', 'ሆነ', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ሆነ', 'ሆነ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ያለ ፓስፖርት ወደ ውጭ አገር መጓዝ አይቻልም ።  is processed
+AVAILABLE OPTIONS: 
+ያለ<[['ያለ', 'አለː', 'AUX', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ያለ', 'ያለ', 'ADP', {}], ['ያለ', 'አለ', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ያለ', 'አለː', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+INCORRECT (Lemma confusion)
+['ያለ', 'አለː', 'VERB', {'Aspect': 'Perf', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ያለ', 'ያለ', 'ADP', {}]>
+=====================================================================================================================================
+ያለ ፓስፖርት ወደ ውጭ አገር መጓዝ አይቻልም ።  is processed
+AVAILABLE OPTIONS: 
+ውጭ<[['ውጭ', 'ወጣ', 'VERB', {'Gender': 'Fem', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2'}], ['ውጭ', 'ውጭ', 'ADP', {}], ['ውጭ', 'ውጪ', 'NOUN', {}], ['ውጭ', 'ውጭ', 'NOUN', {}]]>
+INCORRECT (POS confusion, Adp and Noun)
+['ውጭ', 'ውጭ', 'ADP', {}]>
+['ውጭ', 'ውጭ', 'NOUN', {}]>
+=====================================================================================================================================
+ያለ ፓስፖርት ወደ ውጭ አገር መጓዝ አይቻልም ።  is processed
+AVAILABLE OPTIONS: 
+አገር<[['አገር', 'አገር', 'PROPN', {}], ['አገር', 'አገረረ', 'VERB', {'Aspect': 'Imp', 'Number': 'Sing', 'Person': '1', 'Voice': 'Cau'}], ['አገር', 'ሃገር', 'NOUN', {}]]>
+CORRECT
+['አገር', 'ሃገር', 'NOUN', {}]>
+['አገር', 'ሃገር', 'NOUN', {}]>
+=====================================================================================================================================
+ምንም ጐበዝ ቢሆን መሸነፉ አይቀርም ።  is processed
+AVAILABLE OPTIONS: 
+ምንም<[['ምንም', 'ምንም', 'PRON', {}], ['ምንም', 'ምንም', 'DET', {}], ['ምንም', 'ምንም', 'ADV', {}]]>
+INCORRECT (POS confusion, Det and Adv)
+['ምንም', 'ምንም', 'DET', {}]>
+['ምንም', 'ምንም', 'ADV', {}]>
+=====================================================================================================================================
+ምንም ጐበዝ ቢሆን መሸነፉ አይቀርም ።  is processed
+AVAILABLE OPTIONS: 
+ቢሆን<[['ቢሆን', 'ሆነ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+['ቢሆን', 'ሆነ', 'AUX', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]>
+=====================================================================================================================================
+ምንም ጐበዝ ቢሆን መሸነፉ አይቀርም ።  is processed
+AVAILABLE OPTIONS: 
+መሸነፉ<[['መሸነፉ', 'መሸነፍ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc', 'VerbForm': 'Inf'}], ['መሸነፉ', 'መሸነፍ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]]>
+CORRECT
+['መሸነፉ', 'መሸነፍ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]>
+['መሸነፉ', 'መሸነፍ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]>
+=====================================================================================================================================
+ምንም ጐበዝ ቢሆን መሸነፉ አይቀርም ።  is processed
+AVAILABLE OPTIONS: 
+አይቀርም<[['አይቀርም', 'ቀረረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}], ['አይቀርም', 'ተቀረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'Voice': 'Pass'}], ['አይቀርም', 'ቀረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]]>
+CORRECT
+['አይቀርም', 'ቀረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+['አይቀርም', 'ቀረ', 'VERB', {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg'}]>
+=====================================================================================================================================
+ፍየል ከመድረሷ ቅጠል መበጠሷ ።  is processed
+AVAILABLE OPTIONS: 
+መበጠሷ<[['መበጠሷ', 'መበጠስ', 'NOUN', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}], ['መበጠሷ', 'መበጠስ', 'NOUN', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]]>
+CORRECT
+['መበጠሷ', 'መበጠስ', 'NOUN', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]>
+['መበጠሷ', 'መበጠስ', 'NOUN', {'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3', 'VerbForm': 'Inf'}]>
+=====================================================================================================================================
+እናቲቱ የልጇን ፈተና መውደቅ ሰማች ።  is processed
+AVAILABLE OPTIONS: 
+የልጇን<[['የልጇን', 'ልጅ', 'NOUN', {'Case[inner]': 'Gen', 'Case[outer]': 'Obj', 'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['የልጇን', 'ልጅ', 'NOUN', {'Case[inner]': 'Gen', 'Case[outer]': 'Obj', 'Definite': 'Def', 'Gender': 'Fem'}]]>
+CORRECT
+['የልጇን', 'ልጅ', 'NOUN', {'Case[inner]': 'Gen', 'Case[outer]': 'Obj', 'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+['የልጇን', 'ልጅ', 'NOUN', {'Case[inner]': 'Gen', 'Case[outer]': 'Obj', 'Gender[psor]': 'Fem', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]>
+=====================================================================================================================================
+እናቲቱ የልጇን ፈተና መውደቅ ሰማች ።  is processed
+AVAILABLE OPTIONS: 
+ፈተና<[['ፈተና', 'ፈተና', 'NOUN', {}], ['ፈተና', 'ፈተነ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]]>
+CORRECT
+['ፈተና', 'ፈተና', 'NOUN', {}]>
+['ፈተና', 'ፈተና', 'NOUN', {}]>
+=====================================================================================================================================
+አዳዲስ ልብስ መልበስ ይወዳል ።  is processed
+AVAILABLE OPTIONS: 
+አዳዲስ<[['አዳዲስ', 'አዲስ', 'ADJ', {'Number': 'Plur'}], ['አዳዲስ', 'አዳዲ', 'PROPN', {}], ['አዳዲስ', 'አዳዲስ', 'ADJ', {}]]>
+INCORRECT
+['አዳዲስ', 'አዳዲስ', 'ADJ', {}]>
+['አዳዲስ', 'አዲስ', 'ADJ', {'Number': 'Plur'}]>
+=====================================================================================================================================
+አዳዲስ ልብስ መልበስ ይወዳል ።  is processed
+AVAILABLE OPTIONS: 
+ልብስ<[['ልብስ', 'ባሰ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}], ['ልብስ', 'ልብስ', 'NOUN', {}], ['ልብስ', 'ልብስ', 'ADJ', {}], ['ልብስ', 'ልብ', 'NOUN', {}]]>
+CORRECT
+['ልብስ', 'ልብስ', 'NOUN', {}]>
+['ልብስ', 'ልብስ', 'NOUN', {}]>
+
+
+Accuracy = 79.35779816513761

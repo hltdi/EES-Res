@@ -1,0 +1,23 @@
+# text = እዚህ ካላችሁ ዘንድ ይህንን ጉዳይ ብንነጋገርበት መልካም ነው ።
+# sent_id = 1
+1-2	እዚህ	_	_	_	_	_	_	_	Translit='zih
+1	እ	እ	ADP	ADP	Case=Obl	2	case	_	_
+2	ይህ	ይህ	DET	DET	Number=Sing	4	obl	_	_
+3-5	ካላችሁ	_	_	_	_	_	_	_	Translit=kalačhu
+3	ከ	ከ	SCONJ	SCONJ	ClauseType=Subord	4	mark	_	_
+4	ኣለ	አለː	AUX	VSTEM	Aspect=Perf	14	advcl	_	Aimad=DERAGI|Root=ህልው:B
+5	ኣችሁ	እናንተ	PRON	SUBJC	Number=Plur|Person=2	4	nsubj:aff	_	_
+6	ዘንድ	ዘንድ	SCONJ	SCONJ	_	4	mark	_	Translit=zənd
+7-8	ይህንን	_	_	_	_	_	_	_	Translit=yhnn
+7	ይህ	ይህ	DET	DET	_	9	det	_	_
+8	ን	ን	ADP	ADP	Case=Obj	7	case	_	_
+9	ጉዳይ	ጉዳይ	NOUN	NOUN	_	12	iobj	_	Translit=guday
+10-13	ብንነጋገርበት	_	_	_	_	_	_	_	Translit=bnnəgagərbət
+10	ብ	ብ	SCONJ	SCONJ	ClauseType=Subord	12	mark	_	_
+11	እን	እኛ	PRON	SUBJC	Number=Plur|Person=1	12	nsubj:aff	_	_
+12	ነጋገር	ተነጋገረ	VERB	VSTEM	Aspect=Imp|Voice=Rcp	14	advcl	_	Aimad=TEDERARAGI|Root=ንግር:A
+13	በት	እሱ	PRON	OBJC	_	12	obl:aff	_	Gender[mal]=Masc|Number[mal]=Sing|Person[mal]=3
+14	መልካም	መልካም	ADJ	ADJ	_	0	root	_	Translit=məlkam
+15	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	14	cop	_	Translit=nəw
+16	።	።	PUNCT	PUNCT	_	14	punct	_	_
+
