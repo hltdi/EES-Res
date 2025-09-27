@@ -1,0 +1,65 @@
+አቶ ተስፋዬ ፤ እኔም አመሰግናለሁ ።
+[(['አቶ', 'አቶ', 'PROPN', {}], ['አቶ', 'አጣ', 'VERB', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Conv'}], ['አቶ', 'አቶ', 'NOUN', {}]), (['ተስፋዬ', 'ተስፋዬ', 'PROPN', {}], ['ተስፋዬ', 'ተስፋ', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}]), ['፤', '፤', 'PUNCT', {}], ['እኔም', {'Number': 'Sing', 'Person': '1'}], ['አመሰግናለሁ', {'Number': 'Sing', 'Person': '1', 'Aspect': 'Imp'}], ['።', '።', 'PUNCT', {}]]
+
+ሌላኛው ጥግ ደግሞ ማብሰያ ነው ።
+[[['ሌላኛው', 'ሌላኛ', 'ADJ', {'Definite': 'Def', 'Gender': 'Masc'}], ['ሌላኛው', 'ሌላኛ', 'ADJ', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]], ['ጥግ', 'ጥግ', 'NOUN', {}], (['ደግሞ', 'ደግሞ', 'ADV', {}], ['ደግሞ', 'ደገመ', 'VERB', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'VerbForm': 'Conv'}]), ['ማብሰያ', 'ማብሰያ', 'NOUN', {}], ['ነው', 'ነው', 'AUX', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres'}], ['።', '።', 'PUNCT', {}]]
+
+መንክር ይርጋ የሚሚ የአክስት ልጅ ነው ።
+[['መንክር', 'መንክር', 'PROPN', {}], (['ይርጋ', 'ይርጋ', 'PROPN', {}], ['ይርጋ', 'ረጋ', 'VERB', {'Gender': 'Masc', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3'}]), ['የሚሚ', {'Case': 'Gen'}], ['የአክስት', {'Case': 'Gen'}], ['ልጅ', 'ልጅ', 'NOUN', {}], ['ነው', 'ነው', 'AUX', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres'}], ['።', '።', 'PUNCT', {}]]
+
+በሥዕሉ ላይ ምን ሌላ መጽሐፍ ታያለህ ?
+[[['በሥዕሉ', 'ስእል', 'NOUN', {'Case': 'Obl', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['በሥዕሉ', 'ስእል', 'NOUN', {'Case': 'Obl', 'Definite': 'Def', 'Gender': 'Masc'}]], (['ላይ', 'ላይ', 'ADP', {}], ['ላይ', 'አይ', 'ADJ', {'Case': 'Obl'}], ['ላይ', 'አይ', 'NOUN', {'Case': 'Obl'}]), (['ምን', 'ምን', 'DET', {}], ['ምን', 'ምን', 'PRON', {}]), ['ሌላ', 'ሌላ', 'ADJ', {}], ['መጽሐፍ', 'መጽሀፍ', 'NOUN', {}], ['ታያለህ', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '2', 'Aspect': 'Imp'}], ['?', '?', 'PUNCT', {}]]
+
+አሁንም በመደረግ ላይ ናቸው ።
+[[['አሁንም', 'አሁን', 'NOUN', {}], ['አሁንም', 'አሁን', 'NOUN', {}]], ['በመደረግ', {'Case': 'Obl', 'VerbForm': 'Inf'}], (['ላይ', 'ላይ', 'ADP', {}], ['ላይ', 'አይ', 'ADJ', {'Case': 'Obl'}]), ['ናቸው', 'ነው', 'AUX', {'Number': 'Plur', 'Person': '3', 'Tense': 'Pres'}], ['።', '።', 'PUNCT', {}]]
+
+ይሄ ጠረን ፈፅሞ ሰው አያስቀርብም ።
+[['ይሄ', 'ይህ', 'DET', {'Gender': 'Masc', 'Number': 'Sing'}], (['ጠረን', 'ጠረን', 'NOUN', {}], ['ጠረን', 'ጠረረ', 'VERB', {'Number': 'Plur', 'Person': '1', 'VerbForm': 'Conv'}]), ['ፈፅሞ', {'VerbForm': 'Conv', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ሰው', 'ሰው', 'NOUN', {}], ['አያስቀርብም', {'Polarity': 'Neg', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Aspect': 'Imp', 'Voice': 'Cau'}], ['።', '።', 'PUNCT', {}]]
+
+አማተር አራዳና ፕሮፌሽናል አራዳ ።
+[['አማተር', 'አማተር', 'NOUN', {}], [['አራዳና', 'አራዳ', 'NOUN', {}], ['አራዳና', 'አራዳ', 'PROPN', {}], ['አራዳና', 'አራዳ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Voice': 'Cau'}], ['አራዳና', 'አራዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Cau'}]], ['ፕሮፌሽናል', 'ፕሮፌሽናል', 'NOUN', {}], (['አራዳ', 'አራዳ', 'NOUN', {}], ['አራዳ', 'አራዳ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Voice': 'Cau'}], ['አራዳ', 'አራዳ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Cau'}], ['አራዳ', 'አራደ', 'VERB', {'Gender': 'Masc', 'Mood': 'Imp', 'Number': 'Sing', 'Person': '2', 'Voice': 'Cau'}], ['አራዳ', 'አራደ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Voice': 'Cau'}]), ['።', '።', 'PUNCT', {}]]
+
+እኔ ምንም ገንዘብ ይዤ አልወጣሁም ።
+[['እኔ', 'እኔ', 'PRON', {'Number': 'Sing', 'Person': '1'}], (['ምንም', 'ምንም', 'DET', {}], ['ምንም', 'ምንም', 'ADV', {}], ['ምንም', 'ምንም', 'PRON', {}]), ['ገንዘብ', 'ገንዘብ', 'NOUN', {}], ['ይዤ', {'VerbForm': 'Conv', 'Number': 'Sing', 'Person': '1'}], ['አልወጣሁም', {'Polarity': 'Neg', 'Aspect': 'Perf', 'Number': 'Sing', 'Person': '1'}], ['።', '።', 'PUNCT', {}]]
+
+ስለዚህም የትልቁ መኪና ስያሜ ቱፋ ነበር ።
+[[['ስለዚህም', 'ይህ', 'DET', {'Case': 'Obl', 'Gender': 'Masc', 'Number': 'Sing'}], ['ስለዚህም', 'ይህ', 'DET', {'Case': 'Obl', 'Gender': 'Masc', 'Number': 'Sing'}]], [['የትልቁ', 'ትልቅ', 'ADJ', {'Case': 'Gen', 'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['የትልቁ', 'ትልቅ', 'ADJ', {'Case': 'Gen', 'Definite': 'Def', 'Gender': 'Masc'}]], (['መኪና', 'መኪና', 'NOUN', {}], ['መኪና', 'መኪ', 'ADJ', {}], ['መኪና', 'መኪ', 'NOUN', {}]), ['ስያሜ', 'ስያሜ', 'NOUN', {}], ['ቱፋ', 'ቱፋ', 'PROPN', {}], (['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}], ['ነበር', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ነበር', 'አለː', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]), ['።', '።', 'PUNCT', {}]]
+
+አንዳንድ ፍንጮችም አግኝቼ ተመልሻለሁ ።
+[(['አንዳንድ', 'አንዳንድ', 'DET', {}], ['አንዳንድ', 'አንዳንድ', 'PRON', {}]), ['ፍንጮችም', {'Number': 'Plur'}], ['አግኝቼ', {'VerbForm': 'Conv', 'Number': 'Sing', 'Person': '1'}], ['ተመልሻለሁ', {'Aspect': 'Prf', 'Voice': 'Pass', 'Number': 'Sing', 'Person': '1'}], ['።', '።', 'PUNCT', {}]]
+
+ይሔ ትክክል አይደለም ።
+[['ይሔ', 'ይህ', 'DET', {'Gender': 'Masc', 'Number': 'Sing'}], (['ትክክል', 'ትክክል', 'ADJ', {}], ['ትክክል', 'ትክክል', 'NOUN', {}]), ['አይደለም', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Neg', 'Tense': 'Pres'}], ['።', '።', 'PUNCT', {}]]
+
+አዎ ፣ ለስሜ ታላቅ አክብሮት አሳየ ።
+[['አዎ', 'አዎ', 'INTJ', {}], ['፣', '፣', 'PUNCT', {}], [['ለስሜ', 'ስም', 'NOUN', {'Case': 'Obl', 'Number[psor]': 'Sing', 'Person[psor]': '1'}], ['ለስሜ', 'ስሜ', 'PROPN', {'Case': 'Obl'}]], (['ታላቅ', 'ታላቅ', 'ADJ', {}], ['ታላቅ', 'ታላቅ', 'NOUN', {}], ['ታላቅ', 'አላቀ', 'VERB', {'Gender': 'Fem', 'Mood': 'Jus', 'Number': 'Sing', 'Person': '3', 'Voice': 'Cau'}]), (['አክብሮት', 'አክብሮት', 'NOUN', {}], ['አክብሮት', 'አከበረ', 'VERB', {'Gender': 'Masc', 'Gender[obj]': 'Masc', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '3', 'VerbForm': 'Conv', 'Voice': 'Cau'}]), ['አሳየ', {'Aspect': 'Perf', 'Voice': 'Cau', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['።', '።', 'PUNCT', {}]]
+
+ይህ አሥረኛው መቅሰፍት ነበር ።
+[['ይህ', 'ይህ', 'DET', {'Gender': 'Masc', 'Number': 'Sing'}], [['አሥረኛው', 'አስረኛ', 'ADJ', {'Definite': 'Def', 'Gender': 'Masc'}], ['አሥረኛው', 'አስረኛ', 'ADJ', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]], ['መቅሰፍት', 'መቅሰፍት', 'NOUN', {}], (['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}], ['ነበር', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ነበር', 'አለː', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]), ['።', '።', 'PUNCT', {}]]
+
+ንጉሥ ዳዊት ይህን ተገንዝቦ ነበር ።
+[(['ንጉሥ', 'ንጉስ', 'PROPN', {}], ['ንጉሥ', 'ንጉስ', 'NOUN', {}], ['ንጉሥ', 'ንግ', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}], ['ንጉሥ', 'ንግ', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}]), (['ዳዊት', 'ዳዊት', 'PROPN', {}], ['ዳዊት', 'ዳዊት', 'NOUN', {}]), ['ይህን', {'Gender': 'Masc', 'Number': 'Sing', 'Case': 'Obj'}], ['ተገንዝቦ', {'VerbForm': 'Conv', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], (['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}], ['ነበር', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ነበር', 'አለː', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]), ['።', '።', 'PUNCT', {}]]
+
+ዛሬ አላለቀም ።
+[(['ዛሬ', 'ዛሬ', 'NOUN', {}], ['ዛሬ', 'ዛር', 'NOUN', {'Number[psor]': 'Sing', 'Person[psor]': '1'}]), ['አላለቀም', {'Polarity': 'Neg', 'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['።', '።', 'PUNCT', {}]]
+
+የሩጫ ልምድ ብዙ ኪሎሜትሮችን መሮጥ ነው ።
+[['የሩጫ', {'Case': 'Gen'}], ['ልምድ', 'ልምድ', 'NOUN', {}], (['ብዙ', 'ብዙ', 'ADJ', {}], ['ብዙ', 'ብዙ', 'ADV', {}]), ['ኪሎሜትሮችን', {'Number': 'Plur', 'Case': 'Obj'}], (['መሮጥ', 'መሮጥ', 'NOUN', {'VerbForm': 'Inf'}], ['መሮጥ', 'መሮጥ', 'NOUN', {'VerbForm': 'Inf'}]), ['ነው', 'ነው', 'AUX', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres'}], ['።', '።', 'PUNCT', {}]]
+
+በኦሮሚያም በከፍተኛ አመራር ደረጃ የሚወሰን ነው ።
+[[['በኦሮሚያም', 'ኦሮሚያ', 'PROPN', {'Case': 'Obl'}], ['በኦሮሚያም', 'ኦሮሚያ', 'PROPN', {'Case': 'Obl'}]], ['በከፍተኛ', {'Case': 'Obl'}], ['አመራር', 'አመራር', 'NOUN', {}], (['ደረጃ', 'ደረጃ', 'NOUN', {}], ['ደረጃ', 'ደረጃ', 'PROPN', {}]), ['የሚወሰን', {'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Aspect': 'Imp', 'Voice': 'Pass'}], ['ነው', 'ነው', 'AUX', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres'}], ['።', '።', 'PUNCT', {}]]
+
+መሠረተ ልማቱ መሬት ላይ የሚታይ ነው ።
+[(['መሠረተ', 'መሰረተ', 'NOUN', {}], ['መሠረተ', 'መሰረተ', 'PROPN', {}]), [['ልማቱ', 'ልማት', 'NOUN', {'Definite': 'Def', 'Gender': 'Masc'}], ['ልማቱ', 'ልማት', 'NOUN', {'Gender[psor]': 'Masc', 'Number[psor]': 'Sing', 'Person[psor]': '3'}]], ['መሬት', 'መሬት', 'NOUN', {}], (['ላይ', 'ላይ', 'ADP', {}], ['ላይ', 'አየ', 'VERB', {'Aspect': 'Imp', 'ClauseType': 'Subord', 'Number': 'Sing', 'Person': '1'}], ['ላይ', 'አይ', 'ADJ', {'Case': 'Obl'}]), ['የሚታይ', {'ClauseType': 'Subord', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Aspect': 'Imp', 'Voice': 'Pass'}], ['ነው', 'ነው', 'AUX', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres'}], ['።', '።', 'PUNCT', {}]]
+
+ብዙ ገንዘብ አገኝ ጀመር ።
+[(['ብዙ', 'ብዙ', 'ADJ', {}], ['ብዙ', 'ብዙ', 'ADV', {}]), ['ገንዘብ', 'ገንዘብ', 'NOUN', {}], ['አገኝ', {'Number': 'Sing', 'Person': '1', 'Aspect': 'Imp'}], ['ጀመር', 'ጀመረ', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['።', '።', 'PUNCT', {}]]
+
+አቅኚዎች ምን ይጠበቅባቸዋል ?
+[[['አቅኚዎች', 'አቅኝ', 'NOUN', {'Number': 'Plur'}], ['አቅኚዎች', 'አቅኝ', 'ADJ', {'Number': 'Plur'}], ['አቅኚዎች', 'አቅኚ', 'NOUN', {'Number': 'Plur'}], ['አቅኚዎች', 'አቅኚ', 'ADJ', {'Number': 'Plur'}]], (['ምን', 'ምን', 'PRON', {}], ['ምን', 'ምን', 'DET', {}]), ['ይጠበቅባቸዋል', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Aspect': 'Imp', 'Voice': 'Pass', 'Number[mal]': 'Plur', 'Person[mal]': '3'}], ['?', '?', 'PUNCT', {}]]
+
+ይህስ ስለ ፈጣሪ ምን ያስተምረናል ?
+[['ይህስ', {'Gender': 'Masc', 'Number': 'Sing'}], ['ስለ', 'ስለ', 'ADP', {}], (['ፈጣሪ', 'ፈጣሪ', 'NOUN', {}], ['ፈጣሪ', 'ፈጣሪ', 'ADJ', {}]), (['ምን', 'ምን', 'PRON', {}], ['ምን', 'ምን', 'DET', {}]), ['ያስተምረናል', {'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Aspect': 'Imp', 'Voice': 'Cau', 'Number[obj]': 'Plur', 'Person[obj]': '1'}], ['?', '?', 'PUNCT', {}]]
+
+እጅግ ታጋሽና ቻይ አምላክ ነበር ።
+[(['እጅግ', 'እጅግ', 'ADV', {}], ['እጅግ', 'ጂግ', 'NOUN', {'Case': 'Obl'}]), [['ታጋሽና', 'ታገገ', 'VERB', {'Gender': 'Fem', 'Gender[obj]': 'Fem', 'Number': 'Sing', 'Number[obj]': 'Sing', 'Person': '3', 'Person[obj]': '2', 'VerbForm': 'Conv', 'Voice': 'Pass'}], ['ታጋሽና', 'ታጋሽ', 'NOUN', {}], ['ታጋሽና', 'ታጋሽ', 'ADJ', {}]], (['ቻይ', 'ቻይ', 'ADJ', {}], ['ቻይ', 'ቻይ', 'NOUN', {}]), ['አምላክ', 'አምላክ', 'NOUN', {}], (['ነበር', 'ነው', 'AUX', {'Tense': 'Past'}], ['ነበር', 'አለː', 'VERB', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}], ['ነበር', 'አለː', 'AUX', {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3'}]), ['።', '።', 'PUNCT', {}]]

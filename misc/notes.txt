@@ -1,4 +1,22 @@
-﻿July 2025
+Sept 2025
+ሻቢያ
+
+
+Aug 2025
+
+how to deal with passive infinitives?
+
+CACO 301-400
+infinitives and ADP vs. SCONJ and obl vs. advcl
+301: እስከመጠየቅ ሊደርሱ ይችላሉ ።
+304: አቶ: nmod
+306: ሁሉም: nsubj or obj:oblig
+
+
+322: Something wrong: POS ADVCCONJ not in any reading in cohort >> ግን : [> "ግን" ADVCCONJ <] <<
+335: impossible to disambiguate አትናገርም
+
+July 2025
 
 reparse
 29

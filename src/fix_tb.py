@@ -5,6 +5,48 @@ import os
 
 from conllu import parse, TokenList, Token
 
+def fix_prontype(infile, outfile):
+    '''
+    Add PronType feature to all tokens with POS PRON.
+    '''
+    intpron = ['ምን', 'ማን', 'እነማን', 'ምንድን']
+    indpron = ['ማንም', 'ምንም']
+    output = []
+    prons = set()
+    with open(infile) as f:
+        for line in f:
+            line = line.strip()
+            if line and line[0] != '#':
+                lineS = line.split('\t')
+                token = lineS[1]
+                misc = lineS[9]
+                feats = lineS[5]
+                pos = lineS[3]
+                xpos = lineS[4]
+                if pos == 'PRON':
+                    prontype = 'PronType=Prs'
+                    if xpos == 'PRON':
+                        if token in intpron:
+                            prontype = 'PronType=Int'
+                        elif token in indpron:
+                            prontype = 'PronType=Ind'
+                        else:
+                            prons.add(token)
+                    if feats == '_':
+                        feats = prontype
+                    else:
+                        feats = feats.split('|')
+                        feats.append(prontype)
+                        feats.sort()
+                        feats = '|'.join(feats)
+                    lineS[5] = feats
+                    line = '\t'.join(lineS)
+            output.append(line)
+    with open(outfile, 'w') as f:
+        for line in output:
+            print(line, file=f)
+    return output, prons
+
 def fix_clausetype(file):
     '''
     Fix errors where ClauseType feature appears in Misc slot.

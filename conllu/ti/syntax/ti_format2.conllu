@@ -1,0 +1,79 @@
+# text = ምስ መሰየ ፡ ክመጽእ እዩ ።
+# sent_id = 1a
+1	ምስ	ምስ	SCONJ	SCONJ	_	_	_	_	Translit=ms
+2	መሰየ	መሰየ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	Translit=məsəyə
+3	፡	፡	PUNCT	PUNCT	_	_	_	_	_
+4	ክመጽእ	መጽኤ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	Translit=kməs'ʔ
+5	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=ʔyu
+6	።	።	PUNCT	PUNCT	_	_	_	_	_
+
+# text = ምስ መሰየ ፡ ክመጽእ እዩ ።
+# sent_id = 1b
+1	ምስ	ምስ	SCONJ	SCONJ	_	_	_	_	Translit=ms
+2	መሰየ	መሰየ	VERB	VERB	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	_	_	_	Translit=məsəyə
+3	፡	፡	PUNCT	PUNCT	_	_	_	_	_
+4-5	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+4	ክ	ክ	SCONJ	SCONJ	_	_	_	_	_
+5	ይመጽእ	መጽኤ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	Aimad=SERAHI|Root=ምጽእ:A
+6	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=ʔyu
+7	።	።	PUNCT	PUNCT	_	_	_	_	_
+
+# text = ምስ መሰየ ፡ ክመጽእ እዩ ።
+# sent_id = 1c
+1	ምስ	ምስ	SCONJ	SCONJ	_	2	mark	_	Translit=ms
+2-3	መሰየ	_	_	_	_	_	_	_	Translit=məsəyə
+2	መሰይ	መሰየ	VERB	VSTEM	Aspect=Perf	7	advcl	_	Aimad=SERAHI|Root=ምስይ:A
+3	አ	አ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	2	nsubj:aff	_	_
+4	፡	፡	PUNCT	PUNCT	_	2	punct	_	_
+5-7	ክመጽእ	_	_	_	_	_	_	_	Translit=kməs'ʔ
+5	ክ	ክ	SCONJ	SCONJ	_	7	mark	_	_
+6	ይ	ይ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	7	nsubj:aff	_	_
+7	መጽእ	መጽኤ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=SERAHI|Root=ምጽእ:A
+8	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	7	aux	_	Translit=ʔyu
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# text = ነቶም ኣብኡ ዝተማዕቆቡ ድማ ይፈልጦም እዩ ።
+# sent_id = 2a
+1	ነቶም	እቶም	DET	DET	Case=Obj|Gender=Masc|Number=Plur	_	_	_	Translit=nətom
+2	ኣብኡ	ንሱ	PRON	PRON	Case=Obl|Gender=Masc|Number=Sing	_	_	_	Translit=ʔabʔu
+3	ዝተማዕቆቡ	ተማዕቈበ	VERB	VERB	Aspect=Perf|ClauseType=ACl|Gender=Masc|Number=Plur|Person=3	_	_	_	Translit=ztəmaʕk'obu
+4	ድማ	ድማ	ADV	ADV	_	_	_	_	Translit=dma
+5	ይፈልጦም	ፈለጠ	VERB	VERB	Aspect=Imp|Gender=Masc|Gender[obj]=Masc|Number=Sing|Number[obj]=Plur|Person=3|Person[obj]=3	_	_	_	Translit=yfəlt'om
+6	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=ʔyu
+7	።	።	PUNCT	PUNCT	_	_	_	_	_
+
+# text = ነቶም ኣብኡ ዝተማዕቆቡ ድማ ይፈልጦም እዩ ።
+# sent_id = 2b
+1-2	ነቶም	_	_	_	_	_	_	_	Translit=nətom
+1	ን	ን	ADP	ADP	Case=Obj	_	_	_	_
+2	እቶም	እቶም	DET	DET	Gender=Masc|Number=Plur	_	_	_	_
+3	ኣብኡ	ንሱ	PRON	PRON	Case=Obl|Gender=Masc|Number=Sing	_	_	_	Translit=ʔabʔu
+4-5	ዝተማዕቆቡ	_	_	_	_	_	_	_	Translit=ztəmaʕk'obu
+4	ዝ	ዝ	SCONJ	SCONJ	_	_	_	_	_
+5	ተማዕቆቡ	ተማዕቈበ	VERB	VERB	Aspect=Perf|ClauseType=ACl|Gender=Masc|Number=Plur|Person=3	_	_	_	Aimad=TESERAHI|Root=ምዕቁብ:E
+6	ድማ	ድማ	ADV	ADV	_	_	_	_	Translit=dma
+7-8	ይፈልጦም	_	_	_	_	_	_	_	Translit=yfəlt'om
+7	ይፈልጥ	ፈለጠ	VERB	VERB	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+8	ኦም	ኦም	PRON	PRON	Gender[obj]=Masc|Number[obj]=Plur|Person[obj]=3	_	_	_	_
+9	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=ʔyu
+10	።	።	PUNCT	PUNCT	_	_	_	_	_
+
+# text = ነቶም ኣብኡ ዝተማዕቆቡ ድማ ይፈልጦም እዩ ።
+# sent_id = 2c
+1-2	ነቶም	_	_	_	_	_	_	_	Translit=nətom
+1	ን	ን	ADP	ADP	Case=Obj	2	case	_	_
+2	እቶም	እቶም	DET	DET	Gender=Masc|Number=Plur	6	det	_	_
+3-4	ኣብኡ	_	_	_	_	_	_	_	Translit=ʔabʔu
+3	ኣብ	ኣብ	ADP	ADP	_	4	case	_	_
+4	ኡ	ንሱ	PRON	PRON	Gender=Masc|Number=Sing	6	obl	_	_
+5-7	ዝተማዕቆቡ	_	_	_	_	_	_	_	Translit=ztəmaʕk'obu
+5	ዝ	ዝ	SCONJ	SCONJ	_	6	mark	_	_
+6	ተማዕቆብ	ተማዕቈበ	VERB	VSTEM	Aspect=Perf|ClauseType=ACl	10	ccomp	_	Aimad=TESERAHI|Root=ምዕቁብ:E
+7	ኡ	ኡ	PRON	PRON	Gender=Masc|Number=Plur|Person=3	6	nsubj:aff	_	_
+8	ድማ	ድማ	ADV	ADV	_	10	advmod	_	Translit=dma
+9-11	ይፈልጦም	_	_	_	_	_	_	_	Translit=yfəlt'om
+9	ይ	ይ	PRON	PRON	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	_
+10	ፈልጥ	ፈለጠ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=SERAHI|Root=ፍልጥ:A
+11	ኦም	ኦም	PRON	PRON	Gender[obj]=Masc|Number[obj]=Plur|Person[obj]=3	10	obj:aff	_	_
+12	እዩ	እዩ	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	10	aux	_	Translit=ʔyu
+13	።	።	PUNCT	PUNCT	_	10	punct	_	_
