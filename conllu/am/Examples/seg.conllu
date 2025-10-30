@@ -1,0 +1,56 @@
+# text = ልጇ ትምህርቱን ጠንክሮ እንዲማር መከረችው ።
+# sent_id = am-ref-71a
+1-2	ልጇ	_	_	_	_	_	_	_	Translit=lǰwa
+1	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	10	nsubj	_	_
+2	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	det:poss	_	_
+3-5	ትምህርቱን	_	_	_	_	_	_	_	Translit=tmhrtun
+3	ትምህርት	ትምህርት	NOUN	NOUN	Number=Sing	10	obj	_	_
+4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det:poss	_	_
+5	ን	ን	ADP	ADP	Case=Obj	3	case	_	_
+6-7	ጠንክሮ	_	_	_	_	_	_	_	Translit=t'ənkro
+6	ጠንክር	ጠነከረ	VERB	VSTEM	VerbForm=Conv	10	advcl	_	Aimad=DERAGI|Root=ጥንክር:E
+7	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj:aff	_	_
+8-10	እንዲማር	_	_	_	_	_	_	_	Translit=ʼndimar
+8	እንድ	እንድ	SCONJ	SCONJ	_	10	mark	_	_
+9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj:aff	_	_
+10	ማር	ተማረ	VERB	VSTEM	Aspect=Imp|Voice=Pass	11	advcl	_	Aimad=SUBORD|ClauseType=AdvCl|Root=ምእር:A
+11-13	መከረችው	_	_	_	_	_	_	_	Translit=məkərəčw
+11	መከር	መከረ	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ምክር:A
+12	አች	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	11	nsubj:aff	_	_
+13	ው	እሱ	PRON	OBJC	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	11	obj:aff	_	_
+14	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# text = ልጇ ትምህርቱን ጠንክሮ እንዲማር መከረችው ።
+# sent_id = am-ref-71b
+1-2	ልጇ	_	_	_	_	_	_	_	Translit=lǰwa
+1	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	8	nsubj	_	_
+2	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	det:poss	_	_
+3-5	ትምህርቱን	_	_	_	_	_	_	_	Translit=tmhrtun
+3	ትምህርት	ትምህርት	NOUN	NOUN	Number=Sing	8	obj	_	_
+4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det:poss	_	_
+5	ን	ን	ADP	ADP	Case=Obj	3	case	_	_
+6	ጠንክሮ	ጠነከረ	VERB	VERB	VerbForm=Conv|Gender=Masc|Number=Sing|Person=3	8	advcl	_	Aimad=DERAGI|Root=ጥንክር:E|Translit=t'ənkro
+7-8	እንዲማር	_	_	_	_	_	_	_	Translit=ʼndimar
+7	እንድ	እንድ	SCONJ	SCONJ	_	8	mark	_	_
+8	ይማር	ተማረ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	9	advcl	_	Aimad=SUBORD|ClauseType=AdvCl|Root=ምእር:A
+9	መከረችው	መከረ	VERB	VSTEM	Aspect=Perf|Gender=Fem|Gender[obj]=Masc|Number=Sing|Number[obj]=Sing|Person=3|Person[obj]=3	0	root	_	Aimad=DERAGI|Root=ምክር:A|Translit=məkərəčw
+10	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# text = ልጇ ትምህርቱን ጠንክሮ እንዲማር መከረችው ።
+# sent_id = am-ref-71c
+1-2	ልጇ	_	_	_	_	_	_	_	Translit=lǰwa
+1	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	8	nsubj	_	_
+2	ዋ	እሷ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	det:poss	_	_
+3-5	ትምህርቱን	_	_	_	_	_	_	_	Translit=tmhrtun
+3	ትምህርት	ትምህርት	NOUN	NOUN	Number=Sing	8	obj	_	_
+4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det:poss	_	_
+5	ን	ን	ADP	ADP	Case=Obj	3	case	_	_
+6	ጠንክሮ	ጠነከረ	VERB	VERB	VerbForm=Conv|Gender=Masc|Number=Sing|Person=3	8	advcl	_	Aimad=DERAGI|Root=ጥንክር:E|Translit=t'ənkro
+7-8	እንዲማር	_	_	_	_	_	_	_	Translit=ʼndimar
+7	እንድ	እንድ	SCONJ	SCONJ	_	8	mark	_	_
+8	ይማር	ተማረ	VERB	VSTEM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Voice=Pass	9	advcl	_	Aimad=SUBORD|ClauseType=AdvCl|Root=ምእር:A
+9-10	መከረችው	_	_	_	_	_	_	_	Translit=məkərəčw
+9	መከረች	መከረ	VERB	VSTEM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	0	root	_	Aimad=DERAGI|Root=ምክር:A
+10	ው	እሱ	PRON	OBJC	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	9	obj:aff	_	_
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
