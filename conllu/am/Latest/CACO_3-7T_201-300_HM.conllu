@@ -349,7 +349,7 @@
 
 # text = ምን ነበር የምንጫወተው ?
 # sent_id = CACO_3-7T_221
-1	ምን	ምን	PRON	PRON	|PronType=Int	_	_	_	Translit=mn
+1	ምን	ምን	PRON	PRON	PronType=Int	_	_	_	Translit=mn
 2	ነበር	ነው	AUX	VSTEM	Tense=Past	_	_	_	Translit=nəbər
 3-7	የምንጫወተው	_	_	_	_	_	_	_	Translit=yəmnč'awətəw
 3	የ	የ	PART	RLP	ClauseType=Subord	6	mark	_	_
@@ -577,7 +577,7 @@
 # sent_id = CACO_3-7T_236
 1	አሁን	አሁን	NOUN	NOUN		_	_	_	Translit=ahun
 2	ደሞ	ደሞ	ADV	ADV	_	_	_	_	Translit=dəmo
-3	ምን	ምን	PRON	PRON	|PronType=Int	_	_	_	Translit=mn
+3	ምን	ምን	PRON	PRON	PronType=Int	_	_	_	Translit=mn
 4	ትዝ	ትዝ	PART	PART	_	_	_	_	Translit=tz
 5-7	አለኝ	_	_	_	_	_	_	_	Translit=aləň
 5	ኣል	አለ	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ብእል:A
@@ -1411,7 +1411,7 @@
 5	ይ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	6	nsubj:aff	_	_
 6	ል	አለ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=ብእል:A
 7	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	6	nsubj:aff	_	_
-8	ምን	ምን	PRON	PRON	|PronType=Int	_	_	_	Translit=mn
+8	ምን	ምን	PRON	PRON	PronType=Int	_	_	_	Translit=mn
 9-10	ማለታቸው	_	_	_	_	_	_	_	Translit=malətačəw
 9	ማለት	ማለት	NOUN	NOUN	_	_	_	_	_
 10	ኣቸው	እነሱ	PRON	POSM	Number[psor]=Plur|Person[psor]=3|PronType=Prs	9	det:poss	_	_

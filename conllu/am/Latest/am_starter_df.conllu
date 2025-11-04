@@ -16635,7 +16635,7 @@
 5	አው	እሱ	PRON	OBJC	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|PronType=Prs	4	obj:aff	_	_
 6-8	ከቻልኩ	_	_	_	_	_	_	_	Translit=kəčalku
 6	ከ	ከ	SCONJ	SCONJ	ClauseType=Subord	7	mark	_	_
-7	ቻል	ቻለ	VERB	VSTEM	Aspect=Perf	11	advcl	_	Aimad=DERAGI|Root=ችእል:A
+7	ቻል	ቻለ	VERB	VSTEM	Aspect=Perf	12	advcl	_	Aimad=DERAGI|Root=ችእል:A
 8	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	7	nsubj:aff	_	_
 9-10	አንተም	_	_	_	_	_	_	_	Translit=antəm
 9	አንተ	አንተ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_

@@ -27,7 +27,7 @@
 7	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:aff	_	_
 8	ው	ው	DET	DET	Definite=Def	6	det	_	_
 9	ዓላማ	አላማ	NOUN	NOUN		_	_	_	Translit=alama
-10	ምንድን	ምንድን	PRON	PRON	|PronType=Int	_	_	_	Translit=mndn
+10	ምንድን	ምንድን	PRON	PRON	PronType=Int	_	_	_	Translit=mndn
 11	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 12	?	?	PUNCT	PUNCT	_	_	_	_	_
 
@@ -494,7 +494,7 @@
 
 # text = ምንም አትናገርም ።
 # sent_id = CACO_3-7T_335
-1	ምንም	ምንም	PRON	PRON	|PronType=Ind	_	_	_	Translit=mnm
+1	ምንም	ምንም	PRON	PRON	PronType=Ind	_	_	_	Translit=mnm
 2-5	አትናገርም	_	_	_	_	_	_	_	Translit=atnagərm
 2	ኣ	ኣ	ADV	NEG	Polarity=Neg	4	advmod:aff	_	_
 3	ት	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj:aff	_	_
@@ -1521,7 +1521,7 @@
 1-2	አቅኚዎች	_	_	_	_	_	_	_	Translit=ak'ňiwoč
 1	ኣቅኝ	አቅኝ	NOUN	NOUN	_	_	_	_	_
 2	ኦች	ኦች	DET	DET	Number=Plur	1	det:pl	_	_
-3	ምን	ምን	PRON	PRON	|PronType=Int	_	_	_	Translit=mn
+3	ምን	ምን	PRON	PRON	PronType=Int	_	_	_	Translit=mn
 4-7	ይጠበቅባቸዋል	_	_	_	_	_	_	_	Translit=yt'əbək'bačəwal
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
 5	ጠበቅ	ተጠበቀ	VERB	VSTEM	Aspect=Imp|Voice=Pass	_	_	_	Aimad=TEDERAGI|Root=ጥብቅ:B
@@ -1536,7 +1536,7 @@
 2	ስ	ስ	ADV	ADV	_	1	advmod	_	_
 3	ስለ	ስለ	ADP	ADP	_	_	_	_	Translit=slə
 4	ፈጣሪ	ፈጣሪ	NOUN	NOUN		_	_	_	Translit=fət'ari
-5	ምን	ምን	PRON	PRON	|PronType=Int	_	_	_	Translit=mn
+5	ምን	ምን	PRON	PRON	PronType=Int	_	_	_	Translit=mn
 6-9	ያስተምረናል	_	_	_	_	_	_	_	Translit=yastəmrənal
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:aff	_	_
 7	ኣስተምር	አስተማረ	VERB	VSTEM	Aspect=Imp|Voice=Cau	_	_	_	Aimad=ASTEDERAGI|Root=ምእር:A
