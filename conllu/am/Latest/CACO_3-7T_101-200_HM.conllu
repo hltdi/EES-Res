@@ -1,5 +1,5 @@
 # text = እነዚህ ድርጅቶች በዓለም ላይ ታዋቂ ናቸው ።
-# sent_id = 101
+# sent_id = CACO_3-7T_101
 1	እነዚህ	ይህ	DET	DET	Number=Plur	_	_	_	Translit='nəzih
 2-3	ድርጅቶች	_	_	_	_	_	_	_	Translit=drǰtoč
 2	ድርጅት	ድርጅት	NOUN	NOUN	_	_	_	_	_
@@ -13,7 +13,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = አሃ ! ለካ ጊዜ አለኝ ።
-# sent_id = 102
+# sent_id = CACO_3-7T_102
 1	አሃ	አሃ	INTJ	INTJ	_	_	_	_	Translit=aha
 2	!	!	PUNCT	PUNCT	_	_	_	_	_
 3	ለካ	ለካ	INTJ	INTJ	_	_	_	_	Translit=ləka
@@ -25,7 +25,7 @@
 8	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሁላችንን የምታሳዝኝን አንቺ ነሽ ።
-# sent_id = 103
+# sent_id = CACO_3-7T_103
 1-3	ሁላችንን	_	_	_	_	_	_	_	Translit=hulačnn
 1	ሁሉ	ሁሉ	DET	DET	_	_	_	_	_
 2	ኣችን	እኛ	PRON	POSM	Number[psor]=Plur|Person[psor]=1|PronType=Prs	1	det:poss	_	_
@@ -42,7 +42,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ለራሴ የሰነዘርኩት ጥያቄ ነበር ።
-# sent_id = 104
+# sent_id = CACO_3-7T_104
 1-3	ለራሴ	_	_	_	_	_	_	_	Translit=lərase
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	ራስ	ራስ	NOUN	NOUN	_	_	_	_	_
@@ -57,7 +57,7 @@
 10	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ደንበኞች ንብረታቸውን ያገኛሉ ።
-# sent_id = 105
+# sent_id = CACO_3-7T_105
 1-2	ደንበኞች	_	_	_	_	_	_	_	Translit=dənbəňoč
 1	ደንበኛ	ደንበኛ	NOUN	NOUN	_	_	_	_	_
 2	ኦች	ኦች	DET	DET	Number=Plur	1	det:pl	_	_
@@ -72,7 +72,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ቫሃንም ይህን ለማድረግ መረጠ ።
-# sent_id = 106
+# sent_id = CACO_3-7T_106
 1-2	ቫሃንም	_	_	_	_	_	_	_	Translit=vahanm
 1	ቫሃን	ቫሃን	PROPN	PROPN	_	_	_	_	_
 2	ም	ም	ADV	ADV	_	1	advmod	_	_
@@ -88,12 +88,12 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = በዚህ ጊዜ ምን ምርጫ ታደርጋላችሁ ?
-# sent_id = 107
+# sent_id = CACO_3-7T_107
 1-2	በዚህ	_	_	_	_	_	_	_	Translit=bəzih
 1	በ	በ	ADP	ADP	Case=Obl	2	case	_	_
 2	ይህ	ይህ	DET	DET	Gender=Masc|Person=Sing	_	_	_	_
 3	ጊዜ	ጊዜ	NOUN	NOUN	_	_	_	_	Translit=gize
-4	ምን	ምን	DET	DET		_	_	_	Translit=mn
+4	ምን	ምን	DET	DET	_	_	_	_	Translit=mn
 5	ምርጫ	ምርጫ	NOUN	NOUN	_	_	_	_	Translit=mrč'a
 6-8	ታደርጋላችሁ	_	_	_	_	_	_	_	Translit=tadərgalačhu
 6	ት	እናንተ	PRON	SUBJC	Number=Plur|Person=2|PronType=Prs	7	nsubj:aff	_	_
@@ -102,7 +102,7 @@
 9	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ወንድነቱ ጡንቻዎቹን እየወጣጠረው ከተቀመጠበት ተነሳ ።
-# sent_id = 108
+# sent_id = CACO_3-7T_108
 1-2	ወንድነቱ	_	_	_	_	_	_	_	Translit=wəndnətu
 1	ወንድነት	ወንድነት	NOUN	NOUN	_	_	_	_	_
 2	ኡ	እሱ	PRON	POSM	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|PronType=Prs	1	det:poss	_	_
@@ -127,7 +127,7 @@
 17	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = በጀርባው እንደተዘረረ ወደ አቅሉ ተመለሰ ።
-# sent_id = 109
+# sent_id = CACO_3-7T_109
 1-3	በጀርባው	_	_	_	_	_	_	_	Translit=bəǰərbaw
 1	በ	በ	ADP	ADP	Case=Obl	2	case	_	_
 2	ጀርባ	ጀርባ	NOUN	NOUN	_	_	_	_	_
@@ -146,7 +146,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሀዘኔታዋ ነበር የሚያስለቅሳት ።
-# sent_id = 110
+# sent_id = CACO_3-7T_110
 1-2	ሀዘኔታዋ	_	_	_	_	_	_	_	Translit=hazənetawa
 1	ሀዘኔታ	ሀዘኔታ	NOUN	NOUN	_	_	_	_	_
 2	ዋ	እሷ	PRON	POSM	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3|PronType=Prs	1	det:poss	_	_
@@ -160,7 +160,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ምን ያተርፋል ?
-# sent_id = 111
+# sent_id = CACO_3-7T_111
 1	ምን	ምን	PRON	PRON	PronType=Int	_	_	_	Translit=mn
 2-4	ያተርፋል	_	_	_	_	_	_	_	Translit=yatərfal
 2	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
@@ -169,7 +169,7 @@
 5	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ከኪሳራዋ ተምራ ቢዝነሱን ቀጠለች ።
-# sent_id = 112
+# sent_id = CACO_3-7T_112
 1-3	ከኪሳራዋ	_	_	_	_	_	_	_	Translit=kəkisarawa
 1	ከ	ከ	ADP	ADP	Case=Obl	2	case	_	_
 2	ኪሳራ	ኪሳራ	NOUN	NOUN	_	_	_	_	_
@@ -187,7 +187,7 @@
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የሚለውም አጠራጣሪ ሆኗል ።
-# sent_id = 113
+# sent_id = CACO_3-7T_113
 1-6	የሚለውም	_	_	_	_	_	_	_	Translit=yəmiləwm
 1	የ	የ	PART	RLP	ClauseType=Subord	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
@@ -203,7 +203,7 @@
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = አገር ቤት ያለሽ ነው የሚመስልሽ ።
-# sent_id = 114
+# sent_id = CACO_3-7T_114
 1	አገር	ሃገር	NOUN	NOUN	_	_	_	_	Translit=agər
 2	ቤት	ቤት	NOUN	NOUN	_	_	_	_	Translit=bet
 3-5	ያለሽ	_	_	_	_	_	_	_	Translit=yaləš
@@ -220,7 +220,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ለጥቂት ደቂቃዎች ?
-# sent_id = 115
+# sent_id = CACO_3-7T_115
 1-2	ለጥቂት	_	_	_	_	_	_	_	Translit=lət'k'it
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	ጥቂት	ጥቂት	ADJ	ADJ	_	_	_	_	_
@@ -230,7 +230,7 @@
 5	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ያጡት ነፃነታቸውንም ምቾታቸውንም ነበርና ።
-# sent_id = 116
+# sent_id = CACO_3-7T_116
 1-4	ያጡት	_	_	_	_	_	_	_	Translit=yat'ut
 1	የ	የ	PART	RLP	ClauseType=Subord	2	mark	_	_
 2	ኣጣ	አጣ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	_	_	_	Aimad=DERAGI|Root=እጥእ:A
@@ -252,14 +252,14 @@
 15	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ዮፍታሔ ማን ነው ?
-# sent_id = 117
-1	ዮፍታሔ	ዮፍታሄ	PROPN	PROPN		_	_	_	Translit=yoftahe
+# sent_id = CACO_3-7T_117
+1	ዮፍታሔ	ዮፍታሄ	PROPN	PROPN	_	_	_	_	Translit=yoftahe
 2	ማን	ማን	PRON	PRON	PronType=Int	_	_	_	Translit=man
 3	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 4	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = በመሆኑም ሌላ መንገድ መቀየስ አስፈላጊ ነው ።
-# sent_id = 118
+# sent_id = CACO_3-7T_118
 1-4	በመሆኑም	_	_	_	_	_	_	_	Translit=bəməhonum
 1	በ	በ	ADP	ADP	Case=Obl	2	case	_	_
 2	መሆን	መሆን	NOUN	NOUN	VerbForm=Inf	_	_	_	_
@@ -273,9 +273,9 @@
 10	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = አቶ ይርጋለም ፣ እኔም አመሰግናለሁ ።
-# sent_id = 119
-1	አቶ	አቶ	PROPN	PROPN		_	_	_	Translit=ato
-2	ይርጋለም	ይርጋለም	PROPN	PROPN		_	_	_	Translit=yrgaləm
+# sent_id = CACO_3-7T_119
+1	አቶ	አቶ	PROPN	PROPN	_	_	_	_	Translit=ato
+2	ይርጋለም	ይርጋለም	PROPN	PROPN	_	_	_	_	Translit=yrgaləm
 3	፣	፣	PUNCT	PUNCT	_	_	_	_	_
 4-5	እኔም	_	_	_	_	_	_	_	Translit='nem
 4	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -287,7 +287,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ከተባለ ውጤታማ ነው ብዬ አላስብም ።
-# sent_id = 120
+# sent_id = CACO_3-7T_120
 1-3	ከተባለ	_	_	_	_	_	_	_	Translit=kətəbalə
 1	ከ	ከ	SCONJ	SCONJ	ClauseType=Subord	2	mark	_	_
 2	ተባል	ተባለ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord|Voice=Pass	_	_	_	Aimad=TEDERAGI|Root=ብእል:A
@@ -305,7 +305,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ንጉሡን ጨምሮ ልዑላኑና መኳንንቱ ተቀምጠዋል ።
-# sent_id = 121
+# sent_id = CACO_3-7T_121
 1-3	ንጉሡን	_	_	_	_	_	_	_	Translit=ngusun
 1	ንጉስ	ንጉስ	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -327,7 +327,7 @@
 14	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ከሆነ ደስተኛ ያደረገህ ምንድን ነው ?
-# sent_id = 122
+# sent_id = CACO_3-7T_122
 1-3	ከሆነ	_	_	_	_	_	_	_	Translit=kəhonə
 1	ከ	ከ	SCONJ	SCONJ	ClauseType=Subord	2	mark	_	_
 2	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	_	_	_	Aimad=DERAGI|Root=ህውን:A
@@ -343,7 +343,7 @@
 11	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ማንም ጆሮ ያለው ካለ ይስማ ።
-# sent_id = 123
+# sent_id = CACO_3-7T_123
 1	ማንም	ማንም	DET	DET	_	_	_	_	Translit=manm
 2	ጆሮ	ጆሮ	NOUN	NOUN	_	_	_	_	Translit=ǰoro
 3-6	ያለው	_	_	_	_	_	_	_	Translit=yaləw
@@ -361,7 +361,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ተጋጣሚያቸውን በሰፊ የግብ ልዩነት የማያሸንፉ ናቸው ።
-# sent_id = 124
+# sent_id = CACO_3-7T_124
 1-3	ተጋጣሚያቸውን	_	_	_	_	_	_	_	Translit=təgat'amiyačəwn
 1	ተጋጣሚ	ተጋጣሚ	NOUN	NOUN	_	_	_	_	_
 2	ኣቸው	እነሱ	PRON	POSM	Number[psor]=Plur|Person[psor]=3|PronType=Prs	1	det:poss	_	_
@@ -384,14 +384,14 @@
 16	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እኛ ተከታይ ነን ።
-# sent_id = 125
+# sent_id = CACO_3-7T_125
 1	እኛ	እኛ	PRON	PRON	Number=Plur|Person=1|PronType=Prs	_	_	_	Translit='ňa
 2	ተከታይ	ተከታይ	NOUN	NOUN	_	_	_	_	Translit=təkətay
 3	ነን	ነው	AUX	AUX	Number=Plur|Person=1|Tense=Pres	_	_	_	Translit=nən
 4	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ኃጢአት የሚፈጽምባቸው መሠዊያዎች ሆነውለታል ።
-# sent_id = 126
+# sent_id = CACO_3-7T_126
 1	ኃጢአት	ሀጢአት	NOUN	NOUN	_	_	_	_	Translit=hat'iat
 2-6	የሚፈጽምባቸው	_	_	_	_	_	_	_	Translit=yəmifəs'mbačəw
 2	የ	የ	PART	RLP	ClauseType=Subord	5	mark	_	_
@@ -410,7 +410,7 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ይህ ካልሆነስ ?
-# sent_id = 127
+# sent_id = CACO_3-7T_127
 1	ይህ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	Translit=yh
 2-6	ካልሆነስ	_	_	_	_	_	_	_	Translit=kalhonəs
 2	ከ	ከ	SCONJ	SCONJ	ClauseType=Subord	4	mark	_	_
@@ -421,7 +421,7 @@
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ታዲያ መጀመሪያ ባለሙያውን ጠላነው ።
-# sent_id = 128
+# sent_id = CACO_3-7T_128
 1	ታዲያ	ታዲያ	ADV	ADV	_	_	_	_	Translit=tadiya
 2	መጀመሪያ	መጀመሪያ	NOUN	NOUN	_	_	_	_	Translit=məǰəməriya
 3-5	ባለሙያውን	_	_	_	_	_	_	_	Translit=baləmuyawn
@@ -435,7 +435,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ህዝቡም ለነፃነቱ ቀናኢ ነው ።
-# sent_id = 129
+# sent_id = CACO_3-7T_129
 1-3	ህዝቡም	_	_	_	_	_	_	_	Translit=hzbum
 1	ህዝብ	ህዝብ	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -449,7 +449,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = መነሻ ምክንያታቸውስ ?
-# sent_id = 130
+# sent_id = CACO_3-7T_130
 1	መነሻ	መነሻ	NOUN	NOUN	_	_	_	_	Translit=mənəša
 2-4	ምክንያታቸውስ	_	_	_	_	_	_	_	Translit=mknyatačəws
 2	ምክንያት	ምክንያት	NOUN	NOUN	_	_	_	_	_
@@ -458,7 +458,7 @@
 5	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ጨዋታው ቀላል አይደለም ።
-# sent_id = 131
+# sent_id = CACO_3-7T_131
 1-2	ጨዋታው	_	_	_	_	_	_	_	Translit=č'əwataw
 1	ጨዋታ	ጨዋታ	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -469,7 +469,7 @@
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሕዝብ ነው ተቆጣጣሪያቸው ።
-# sent_id = 132
+# sent_id = CACO_3-7T_132
 1	ሕዝብ	ህዝብ	NOUN	NOUN	_	_	_	_	Translit=hzb
 2	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 3-4	ተቆጣጣሪያቸው	_	_	_	_	_	_	_	Translit=tək'ot'at'ariyačəw
@@ -478,7 +478,7 @@
 5	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = አጠቃላይ የኢህአዴግን አከላለል መቃወም ይቻላል ።
-# sent_id = 133
+# sent_id = CACO_3-7T_133
 1	አጠቃላይ	አጠቃላይ	ADJ	ADJ	_	_	_	_	Translit=at'ək'alay
 2-4	የኢህአዴግን	_	_	_	_	_	_	_	Translit=yəihadegn
 2	የ	የ	ADP	ADP	Case[inner]=Gen	3	case	_	_
@@ -493,7 +493,7 @@
 10	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እንዲህ ቢደረግስ ?
-# sent_id = 134
+# sent_id = CACO_3-7T_134
 1	እንዲህ	እንዲህ	ADV	ADV	_	_	_	_	Translit='ndih
 2-5	ቢደረግስ	_	_	_	_	_	_	_	Translit=bidərəgs
 2	ብ	ብ	SCONJ	SCONJ	ClauseType=Subord	4	mark	_	_
@@ -503,7 +503,7 @@
 6	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = " ደረቀች " ማለትም ሊሆን ይችላል ።
-# sent_id = 135
+# sent_id = CACO_3-7T_135
 1	"	"	PUNCT	PUNCT	_	_	_	_	_
 2-3	ደረቀች	_	_	_	_	_	_	_	Translit=dərək'əč
 2	ደረቅ	ደረቀ	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ድርቅ:A
@@ -523,7 +523,7 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ችግሩ ግን በዚህ ብቻ የተወሰነ አይደለም ።
-# sent_id = 136
+# sent_id = CACO_3-7T_136
 1-2	ችግሩ	_	_	_	_	_	_	_	Translit=čgru
 1	ችግር	ችግር	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -542,7 +542,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = አይ ! የአባባ ተስፋዬ ደብተር ።
-# sent_id = 137
+# sent_id = CACO_3-7T_137
 1	አይ	አይ	INTJ	INTJ	_	_	_	_	Translit=ay
 2	!	!	PUNCT	PUNCT	_	_	_	_	_
 3-4	የአባባ	_	_	_	_	_	_	_	Translit=yəababa
@@ -555,7 +555,7 @@
 8	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = አውቃ ሊሆን ይችላል ።
-# sent_id = 138
+# sent_id = CACO_3-7T_138
 1-2	አውቃ	_	_	_	_	_	_	_	Translit=awk'a
 1	ኣውቅ	አወቀ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=እውቅ:A
 2	ኣ	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj:aff	_	_
@@ -570,7 +570,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ጉዳዩን መጀመር ስላልፈለገ አመንትቶ አቋረጠ ።
-# sent_id = 139
+# sent_id = CACO_3-7T_139
 1-3	ጉዳዩን	_	_	_	_	_	_	_	Translit=gudayun
 1	ጉዳይ	ጉዳይ	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -590,7 +590,7 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ቀኑ ይጻፋል ፣ ይጀመራልም ።
-# sent_id = 140
+# sent_id = CACO_3-7T_140
 1-2	ቀኑ	_	_	_	_	_	_	_	Translit=k'ənu
 1	ቀን	ቀን	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -607,7 +607,7 @@
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ቸግሮን ነው ።
-# sent_id = 141
+# sent_id = CACO_3-7T_141
 1-3	ቸግሮን	_	_	_	_	_	_	_	Translit=čəgron
 1	ቸግር	ቸገረ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=ችግር:B
 2	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj:aff	_	_
@@ -616,8 +616,8 @@
 5	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ኢየሩሳሌም በደረስን ጊዜ ወንድሞች በደስታ ተቀበሉን ።
-# sent_id = 142
-1	ኢየሩሳሌም	ኢየሩሳሌም	PROPN	PROPN		_	_	_	Translit=iyərusalem
+# sent_id = CACO_3-7T_142
+1	ኢየሩሳሌም	ኢየሩሳሌም	PROPN	PROPN	_	_	_	_	Translit=iyərusalem
 2-4	በደረስን	_	_	_	_	_	_	_	Translit=bədərəsn
 2	በ	በ	ADP	ADP	Case=Obl|ClauseType=Subord	3	case	_	_
 3	ደረስ	ደረሰ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	_	_	_	Aimad=DERAGI|Root=ድርስ:A
@@ -636,9 +636,9 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እንዴ ዳኒ የኔ ስም ነው እንዴ ?
-# sent_id = 143
+# sent_id = CACO_3-7T_143
 1	እንዴ	እንዴ	INTJ	INTJ	_	_	_	_	Translit='nde
-2	ዳኒ	ዳኒ	PROPN	PROPN		_	_	_	Translit=dani
+2	ዳኒ	ዳኒ	PROPN	PROPN	_	_	_	_	Translit=dani
 3-4	የኔ	_	_	_	_	_	_	_	Translit=yəne
 3	የ	የ	ADP	ADP	Case=Gen	4	case	_	_
 4	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -648,7 +648,7 @@
 8	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ለነገሩ እንዴት ሊሆን ይችላል ?
-# sent_id = 144
+# sent_id = CACO_3-7T_144
 1-3	ለነገሩ	_	_	_	_	_	_	_	Translit=lənəgəru
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	ነገር	ነገር	NOUN	NOUN	_	_	_	_	_
@@ -665,7 +665,7 @@
 11	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የእነሱ ድጋፍ ወደር የለሽ ነው ።
-# sent_id = 145
+# sent_id = CACO_3-7T_145
 1-2	የእነሱ	_	_	_	_	_	_	_	Translit=yə'nəsu
 1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
 2	እነሱ	እነሱ	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -676,7 +676,7 @@
 7	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ብርሃን የሚኖረው በየት አቅጣጫ ነው ?
-# sent_id = 146
+# sent_id = CACO_3-7T_146
 1	ብርሃን	ብርሀን	NOUN	NOUN	_	_	_	_	Translit=brhan
 2-6	የሚኖረው	_	_	_	_	_	_	_	Translit=yəminorəw
 2	የ	የ	PART	RLP	ClauseType=Subord	5	mark	_	_
@@ -692,7 +692,7 @@
 11	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እሺ ከዚያስ ?
-# sent_id = 147
+# sent_id = CACO_3-7T_147
 1	እሺ	እሺ	PART	PART	_	_	_	_	Translit='ši
 2-4	ከዚያስ	_	_	_	_	_	_	_	Translit=kəziyas
 2	ከ	ከ	ADP	ADP	Case=Obl	3	case	_	_
@@ -701,7 +701,7 @@
 5	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ግቡ መልካም አስተዳደርን ይሻል ።
-# sent_id = 148
+# sent_id = CACO_3-7T_148
 1-2	ግቡ	_	_	_	_	_	_	_	Translit=gbu
 1	ግብ	ግብ	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -716,7 +716,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = መንግሥትም ልዩ ትኩረት ሰጥቶ እየሠራ ይገኛል ።
-# sent_id = 149
+# sent_id = CACO_3-7T_149
 1-2	መንግሥትም	_	_	_	_	_	_	_	Translit=məngstm
 1	መንግስት	መንግስት	NOUN	NOUN	_	_	_	_	_
 2	ም	ም	ADV	ADV	_	1	advmod	_	_
@@ -736,7 +736,7 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እውነትም ውሸትም የሚባል ነገር የለም ።
-# sent_id = 150
+# sent_id = CACO_3-7T_150
 1-2	እውነትም	_	_	_	_	_	_	_	Translit='wnətm
 1	እውነት	እውነት	NOUN	NOUN	_	_	_	_	_
 2	ም	ም	ADV	ADV	_	1	advmod	_	_
@@ -756,7 +756,7 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እናንተ ከዳተኛ ልጆች ፣ ተመለሱ ።
-# sent_id = 151
+# sent_id = CACO_3-7T_151
 1	እናንተ	እናንተ	PRON	PRON	Number=Sing|Person=2|PronType=Prs	_	_	_	Translit='nantə
 2	ከዳተኛ	ከዳተኛ	ADJ	ADJ	_	_	_	_	Translit=kədatəňa
 3-4	ልጆች	_	_	_	_	_	_	_	Translit=lǰoč
@@ -769,7 +769,7 @@
 8	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ነፍስ ከሥጋ የተለየች ናት ?
-# sent_id = 152
+# sent_id = CACO_3-7T_152
 1	ነፍስ	ነፍስ	NOUN	NOUN	_	_	_	_	Translit=nəfs
 2-3	ከሥጋ	_	_	_	_	_	_	_	Translit=kəsga
 2	ከ	ከ	ADP	ADP	Case=Obl	3	case	_	_
@@ -782,7 +782,7 @@
 8	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ፓርቲውም እስከአሁን አላመለከተም ።
-# sent_id = 153
+# sent_id = CACO_3-7T_153
 1-3	ፓርቲውም	_	_	_	_	_	_	_	Translit=partiwm
 1	ፓርቲ	ፓርቲ	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -798,7 +798,7 @@
 10	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ይህም ጉዳዩን ይበልጥ አሳሳቢ እንዲሆን አድርጎታል ።
-# sent_id = 154
+# sent_id = CACO_3-7T_154
 1-2	ይህም	_	_	_	_	_	_	_	Translit=yhm
 1	ይህ	ይህ	DET	DET	Gender=Masc|Person=Sing	_	_	_	_
 2	ም	ም	ADV	ADV	_	1	advmod	_	_
@@ -822,7 +822,7 @@
 16	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እሳቱ ጫፋቸውን እንኳን አልነካቸውም ።
-# sent_id = 155
+# sent_id = CACO_3-7T_155
 1-2	እሳቱ	_	_	_	_	_	_	_	Translit='satu
 1	እሳት	እሳት	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -840,7 +840,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እነዚህ መፈክሮች ፣ አዲስ ፈጠራ አይደሉም ።
-# sent_id = 156
+# sent_id = CACO_3-7T_156
 1	እነዚህ	ይህ	DET	DET	Number=Plur	_	_	_	Translit='nəzih
 2-3	መፈክሮች	_	_	_	_	_	_	_	Translit=məfəkroč
 2	መፈክር	መፈክር	NOUN	NOUN	_	_	_	_	_
@@ -854,7 +854,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ኢትዮጵያም የዚህ አካል ነች ።
-# sent_id = 157
+# sent_id = CACO_3-7T_157
 1-2	ኢትዮጵያም	_	_	_	_	_	_	_	Translit=ityop'yam
 1	ኢትዮጵያ	ኢትዮጵያ	PROPN	PROPN	_	_	_	_	_
 2	ም	ም	ADV	ADV	_	1	advmod	_	_
@@ -866,7 +866,7 @@
 7	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ምክንያቱም የእያንዳንዳችን ሁኔታና ችሎታ ይለያያል ።
-# sent_id = 158
+# sent_id = CACO_3-7T_158
 1-3	ምክንያቱም	_	_	_	_	_	_	_	Translit=mknyatum
 1	ምክንያት	ምክንያት	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -887,7 +887,7 @@
 14	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ጊዜው ለሁሉም ነገር አመቺ አይመስለኝም ።
-# sent_id = 159
+# sent_id = CACO_3-7T_159
 1-2	ጊዜው	_	_	_	_	_	_	_	Translit=gizew
 1	ጊዜ	ጊዜ	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -906,7 +906,7 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እንዲህ ያለ ነገር ታይቶም ተሰምቶም አያውቅም ።
-# sent_id = 160
+# sent_id = CACO_3-7T_160
 1	እንዲህ	እንዲህ	ADV	ADV	_	_	_	_	Translit='ndih
 2-4	ያለ	_	_	_	_	_	_	_	Translit=yalə
 2	የ	የ	PART	RLP	ClauseType=Subord	3	mark	_	_
@@ -929,8 +929,8 @@
 16	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ኢዮብ ፣ አመሰግናለሁ ።
-# sent_id = 161
-1	ኢዮብ	ኢዮብ	PROPN	PROPN		_	_	_	Translit=iyob
+# sent_id = CACO_3-7T_161
+1	ኢዮብ	ኢዮብ	PROPN	PROPN	_	_	_	_	Translit=iyob
 2	፣	፣	PUNCT	PUNCT	_	_	_	_	_
 3-5	አመሰግናለሁ	_	_	_	_	_	_	_	Translit=aməsəgnaləhu
 3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj:aff	_	_
@@ -939,7 +939,7 @@
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ከዚያም ለ20 ደቂቃ አናግሮ ይሸኛል ።
-# sent_id = 162
+# sent_id = CACO_3-7T_162
 1-3	ከዚያም	_	_	_	_	_	_	_	Translit=kəziyam
 1	ከ	ከ	ADP	ADP	Case=Obl	2	case	_	_
 2	ያ	ያ	DET	DET	Gender=Masc|Number=Sing	_	_	_	_
@@ -956,10 +956,10 @@
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የምር ግን ኢራቅ እያበቃላት ይሆን ?
-# sent_id = 163
+# sent_id = CACO_3-7T_163
 1	የምር	የምር	ADJ	ADJ	_	_	_	_	Translit=yəmr
 2	ግን	ግን	ADV	ADV	_	_	_	_	Translit=gn
-3	ኢራቅ	ኢራቅ	PROPN	PROPN		_	_	_	Translit=irak'
+3	ኢራቅ	ኢራቅ	PROPN	PROPN	_	_	_	_	Translit=irak'
 4-7	እያበቃላት	_	_	_	_	_	_	_	Translit='yabək'alat
 4	እየ	እየ	SCONJ	SCONJ	ClauseType=Subord	5	mark	_	_
 5	ኣበቃ	አበቃ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord|Voice=Cau	_	_	_	Aimad=ADRAGI|Root=ብቅእ:A
@@ -971,7 +971,7 @@
 10	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ፅዳት ሲሆን ቦታ አጣ ።
-# sent_id = 164
+# sent_id = CACO_3-7T_164
 1	ፅዳት	ጽዳት	NOUN	NOUN	_	_	_	_	Translit=s'dat
 2-4	ሲሆን	_	_	_	_	_	_	_	Translit=sihon
 2	ስ	ስ	SCONJ	SCONJ	ClauseType=Subord	4	mark	_	_
@@ -984,7 +984,7 @@
 8	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ወንድሞቻችንን ስለምንወድ መልካም የሆነውን ነገር እንመኝላቸዋለን ።
-# sent_id = 165
+# sent_id = CACO_3-7T_165
 1-4	ወንድሞቻችንን	_	_	_	_	_	_	_	Translit=wəndmočačnn
 1	ወንድም	ወንድም	NOUN	NOUN	_	_	_	_	_
 2	ኦች	ኦች	DET	DET	Number=Plur	1	det:pl	_	_
@@ -1011,7 +1011,7 @@
 20	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ምሳ ዕቃው ትልቅ ነው ።
-# sent_id = 166
+# sent_id = CACO_3-7T_166
 1	ምሳ	ምሳ	NOUN	NOUN	_	_	_	_	Translit=msa
 2-3	ዕቃው	_	_	_	_	_	_	_	Translit='k'aw
 2	እቃ	እቃ	NOUN	NOUN	_	_	_	_	_
@@ -1021,7 +1021,7 @@
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ለኛም እንዲህ የሚያስብ መሪ አያሳጣን ።
-# sent_id = 167
+# sent_id = CACO_3-7T_167
 1-3	ለኛም	_	_	_	_	_	_	_	Translit=ləňam
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	እኛ	እኛ	PRON	PRON	Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -1041,7 +1041,7 @@
 14	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = በዚህ ዓመት እርሱን የማጥናት ሥራ ጀምረናል ።
-# sent_id = 168
+# sent_id = CACO_3-7T_168
 1-2	በዚህ	_	_	_	_	_	_	_	Translit=bəzih
 1	በ	በ	ADP	ADP	Case=Obl	2	case	_	_
 2	ይህ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	_
@@ -1060,7 +1060,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የስብሃት የመጨረሻ ቀናት እንዴት ነበሩ ?
-# sent_id = 169
+# sent_id = CACO_3-7T_169
 1-2	የስብሃት	_	_	_	_	_	_	_	Translit=yəsbhat
 1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
 2	ስብሀት	ስብሀት	NOUN	NOUN	_	_	_	_	_
@@ -1078,7 +1078,7 @@
 11	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሳናስበው ኪራይ ሰብሳቢ አደረግነው ማለትም አይደል ?
-# sent_id = 170
+# sent_id = CACO_3-7T_170
 1-5	ሳናስበው	_	_	_	_	_	_	_	Translit=sanasbəw
 1	ስ	ስ	SCONJ	SCONJ	ClauseType=Subord	4	mark	_	_
 2	ኣ	ኣ	ADV	NEG	Polarity=Neg	4	advmod:aff	_	_
@@ -1098,9 +1098,9 @@
 14	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ዶ/ር እሌኒ ጨፍሬ አላውቅም ።
-# sent_id = 171
+# sent_id = CACO_3-7T_171
 1	ዶ/ር	ዶ/ር	NOUN	ABBR	_	_	_	_	_
-2	እሌኒ	እሌኒ	PROPN	PROPN		_	_	_	Translit='leni
+2	እሌኒ	እሌኒ	PROPN	PROPN	_	_	_	_	Translit='leni
 3-4	ጨፍሬ	_	_	_	_	_	_	_	Translit=č'əfre
 3	ጨፍር	ጨፈረ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=ጭፍር:B
 4	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	3	nsubj:aff	_	_
@@ -1112,7 +1112,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የጥራትና የመሳሰሉት ችግሮች ይነሳሉ ።
-# sent_id = 172
+# sent_id = CACO_3-7T_172
 1-3	የጥራትና	_	_	_	_	_	_	_	Translit=yət'ratna
 1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
 2	ጥራት	ጥራት	NOUN	NOUN	_	_	_	_	_
@@ -1132,10 +1132,10 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ግን ፤ ሁለት ወዶ አይሆንም ።
-# sent_id = 173
+# sent_id = CACO_3-7T_173
 1	ግን	ግን	ADV	ADV	_	_	_	_	Translit=gn
 2	፤	፤	PUNCT	PUNCT	_	_	_	_	_
-3	ሁለት	ሁለት	NUM	NUM		_	_	_	Translit=hulət
+3	ሁለት	ሁለት	NUM	NUM	_	_	_	_	Translit=hulət
 4-5	ወዶ	_	_	_	_	_	_	_	Translit=wədo
 4	ወድ	ወደደ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=ውድድ:A
 5	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:aff	_	_
@@ -1147,7 +1147,7 @@
 10	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የኛዎቹ ደሞ የተፈጠረውን ያወድማሉ ።
-# sent_id = 174
+# sent_id = CACO_3-7T_174
 1-4	የኛዎቹ	_	_	_	_	_	_	_	Translit=yəňawoču
 1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
 2	እኛ	እኛ	PRON	PRON	Gender=Masc|Person=1|PronType=Prs	_	_	_	_
@@ -1167,7 +1167,7 @@
 14	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ወለዳቸውም ቢሆን ከአውሮፓውያን የላቀ አይደለም ።
-# sent_id = 175
+# sent_id = CACO_3-7T_175
 1-3	ወለዳቸውም	_	_	_	_	_	_	_	Translit=wələdačəwm
 1	ወለድ	ወለድ	NOUN	NOUN	_	_	_	_	_
 2	ኣቸው	እነሱ	PRON	POSM	Number[psor]=Plur|Person[psor]=3|PronType=Prs	1	det:poss	_	_
@@ -1190,7 +1190,7 @@
 15	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሞተርም ሞልቷል ።
-# sent_id = 176
+# sent_id = CACO_3-7T_176
 1-2	ሞተርም	_	_	_	_	_	_	_	Translit=motərm
 1	ሞተር	ሞተር	NOUN	NOUN	_	_	_	_	_
 2	ም	ም	ADV	ADV	_	1	advmod	_	_
@@ -1201,7 +1201,7 @@
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = በኢትዮጵያ ሃይማኖት የግል ምርጫ ነው ።
-# sent_id = 177
+# sent_id = CACO_3-7T_177
 1-2	በኢትዮጵያ	_	_	_	_	_	_	_	Translit=bəityop'ya
 1	በ	በ	ADP	ADP	Case=Obl	2	case	_	_
 2	ኢትዮጵያ	ኢትዮጵያ	PROPN	PROPN	_	_	_	_	_
@@ -1214,7 +1214,7 @@
 8	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ለሥራ መነሻ የሚሆናቸውን ገንዘብም ያሰባስባሉ ።
-# sent_id = 178
+# sent_id = CACO_3-7T_178
 1-2	ለሥራ	_	_	_	_	_	_	_	Translit=ləsra
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	ስራ	ስራ	NOUN	NOUN	_	_	_	_	_
@@ -1236,7 +1236,7 @@
 15	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ጎበዝ ተማሪ በመሆናቸው በመምህሮቻቸው የሚወደዱ ነበሩ ።
-# sent_id = 179
+# sent_id = CACO_3-7T_179
 1	ጎበዝ	ጎበዝ	ADJ	ADJ	_	_	_	_	Translit=gobəz
 2	ተማሪ	ተማሪ	NOUN	NOUN	_	_	_	_	Translit=təmari
 3-5	በመሆናቸው	_	_	_	_	_	_	_	Translit=bəməhonačəw
@@ -1260,7 +1260,7 @@
 17	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ኩባንያዎች የወርቅ ዋጋ ሲወርድ ምርታቸውን ቀንሰዋል ።
-# sent_id = 180
+# sent_id = CACO_3-7T_180
 1-2	ኩባንያዎች	_	_	_	_	_	_	_	Translit=kubanyawoč
 1	ኩባንያ	ኩባንያ	NOUN	NOUN	_	_	_	_	_
 2	ኦች	ኦች	DET	DET	Number=Plur	1	det:pl	_	_
@@ -1283,7 +1283,7 @@
 15	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሁሉስ ሰው አይደለ በቁመናውማ ?
-# sent_id = 181
+# sent_id = CACO_3-7T_181
 1-2	ሁሉስ	_	_	_	_	_	_	_	Translit=hulus
 1	ሁሉ	ሁሉ	DET	DET	_	_	_	_	_
 2	ስ	ስ	ADV	ADV	_	1	advmod	_	_
@@ -1297,7 +1297,7 @@
 9	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሌሎች አትሌቶች ካንተ የተማሩ ይመስልሃል ?
-# sent_id = 182
+# sent_id = CACO_3-7T_182
 1	ሌሎች	ሌላ	ADJ	ADJ	Number=Plur	_	_	_	Translit=leloč
 2-3	አትሌቶች	_	_	_	_	_	_	_	Translit=atletoč
 2	አትሌት	አትሌት	NOUN	NOUN	_	_	_	_	_
@@ -1317,8 +1317,8 @@
 13	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ኢየሱስ ግን መሞቱን ስላዩ እግሮቹን አልሰበሩም ።
-# sent_id = 183
-1	ኢየሱስ	ኢየሱስ	PROPN	PROPN		_	_	_	Translit=iyəsus
+# sent_id = CACO_3-7T_183
+1	ኢየሱስ	ኢየሱስ	PROPN	PROPN	_	_	_	_	Translit=iyəsus
 2	ግን	ግን	ADV	ADV	_	_	_	_	Translit=gn
 3-5	መሞቱን	_	_	_	_	_	_	_	Translit=məmotun
 3	መሞት	መሞት	NOUN	NOUN	VerbForm=Inf	_	_	_	_
@@ -1341,7 +1341,7 @@
 17	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ዘመዶችህ አንገላተውህ እንደሆነም ከኛ ጋር ትቀመጣለህ ።
-# sent_id = 184
+# sent_id = CACO_3-7T_184
 1-3	ዘመዶችህ	_	_	_	_	_	_	_	Translit=zəmədočh
 1	ዘመድ	ዘመድ	NOUN	NOUN	_	_	_	_	_
 2	ኦች	ኦች	DET	DET	Number=Plur	1	det:pl	_	_
@@ -1366,7 +1366,7 @@
 17	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እስቲ ለሁሉም ዛሬን ዋልና ምርመራ ላድርግልህ ።
-# sent_id = 185
+# sent_id = CACO_3-7T_185
 1	እስቲ	እስቲ	INTJ	INTJ	_	_	_	_	Translit='sti
 2-4	ለሁሉም	_	_	_	_	_	_	_	Translit=ləhulum
 2	ለ	ለ	ADP	ADP	Case=Obl	3	case	_	_
@@ -1386,7 +1386,7 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እንበልና የገና ስጦታ ቢቀርብልህ ምን ታደርጋለህ ?
-# sent_id = 186
+# sent_id = CACO_3-7T_186
 1-3	እንበልና	_	_	_	_	_	_	_	Translit='nbəlna
 1	እን	እኛ	PRON	SUBJC	Number=Plur|Person=1|PronType=Prs	2	nsubj:aff	_	_
 2	በል	አለ	VERB	VSTEM	Mood=Jus	_	_	_	Aimad=DERAGI|Root=ብእል:A
@@ -1408,7 +1408,7 @@
 15	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ይሄ ግን የሕዝብ በዓል ነው ።
-# sent_id = 187
+# sent_id = CACO_3-7T_187
 1	ይሄ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	Translit=yhe
 2	ግን	ግን	ADV	ADV	_	_	_	_	Translit=gn
 3-4	የሕዝብ	_	_	_	_	_	_	_	Translit=yəhzb
@@ -1419,7 +1419,7 @@
 7	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የሚለው ይወሰናል ።
-# sent_id = 188
+# sent_id = CACO_3-7T_188
 1-5	የሚለው	_	_	_	_	_	_	_	Translit=yəmiləw
 1	የ	የ	PART	RLP	ClauseType=Subord	4	mark	_	_
 2	ም	ም	PART	IRLP	_	4	mark	_	_
@@ -1433,7 +1433,7 @@
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ዓይን ዓይኗን እያየሽ በፈገግታ ቅረቢያት ።
-# sent_id = 189
+# sent_id = CACO_3-7T_189
 1	ዓይን	አይን	NOUN	NOUN	_	_	_	_	Translit=ayn
 2-4	ዓይኗን	_	_	_	_	_	_	_	Translit=aynwan
 2	አይን	አይን	NOUN	NOUN	_	_	_	_	_
@@ -1453,7 +1453,7 @@
 13	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እንደነገርኳችሁ እንደሱ ሞትን የሚፈራ ሰው አልተፈጠረም ።
-# sent_id = 190
+# sent_id = CACO_3-7T_190
 1-4	እንደነገርኳችሁ	_	_	_	_	_	_	_	Translit='ndənəgərkwačhu
 1	እንደ	እንደ	SCONJ	SCONJ	ClauseType=Subord	2	mark	_	_
 2	ነገር	ነገረ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	_	_	_	Aimad=DERAGI|Root=ንግር:A
@@ -1479,14 +1479,14 @@
 18	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = መልካም ቅዳሜ ! !
-# sent_id = 191
+# sent_id = CACO_3-7T_191
 1	መልካም	መልካም	ADJ	ADJ	_	_	_	_	Translit=məlkam
 2	ቅዳሜ	ቅዳሜ	NOUN	NOUN	_	_	_	_	Translit=k'dame
 3	!	!	PUNCT	PUNCT	_	_	_	_	_
 4	!	!	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እርግጥ ነው ወለዱ አነስተኛ ነው ።
-# sent_id = 192
+# sent_id = CACO_3-7T_192
 1	እርግጥ	እርግጥ	ADJ	ADJ	_	_	_	_	Translit='rgt'
 2	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 3-4	ወለዱ	_	_	_	_	_	_	_	Translit=wələdu
@@ -1497,7 +1497,7 @@
 7	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ጣልቃ ገብተው መንግስት እስከ ማስወገድ ይደርሳሉ ።
-# sent_id = 193
+# sent_id = CACO_3-7T_193
 1	ጣልቃ	ጣልቃ	NOUN	NOUN	_	_	_	_	Translit=t'alk'a
 2-3	ገብተው	_	_	_	_	_	_	_	Translit=gəbtəw
 2	ገብት	ገባ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=ግብእ:A
@@ -1512,7 +1512,7 @@
 10	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ከዚያም ልጁ የሞተ ያህል ሆነ ።
-# sent_id = 194
+# sent_id = CACO_3-7T_194
 1-3	ከዚያም	_	_	_	_	_	_	_	Translit=kəziyam
 1	ከ	ከ	ADP	ADP	Case=Obl	2	case	_	_
 2	ያ	ያ	DET	DET	Gender=Masc|Number=Sing	_	_	_	_
@@ -1531,7 +1531,7 @@
 12	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ምክንያቱም መፈልፈያው የሚፈለገው በቡና አቅራቢው ነውና ።
-# sent_id = 195
+# sent_id = CACO_3-7T_195
 1-3	ምክንያቱም	_	_	_	_	_	_	_	Translit=mknyatum
 1	ምክንያት	ምክንያት	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -1557,7 +1557,7 @@
 17	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የ2018 የዓመት ጥቅስ ምንድን ነው ?
-# sent_id = 196
+# sent_id = CACO_3-7T_196
 1	የ2018	2018	NOUN	NOUN	_	_	_	_	_
 2-3	የዓመት	_	_	_	_	_	_	_	Translit=yəamət
 2	የ	የ	ADP	ADP	Case=Gen	3	case	_	_
@@ -1568,7 +1568,7 @@
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ችግሩንም በጋራ መቅረፍ ይኖርብናል እላለሁ ።
-# sent_id = 197
+# sent_id = CACO_3-7T_197
 1-4	ችግሩንም	_	_	_	_	_	_	_	Translit=čgrunm
 1	ችግር	ችግር	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
@@ -1590,7 +1590,7 @@
 15	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = የኦፕሬሽን መምሪያ ኃላፊም በመሆን አገልግሏል ።
-# sent_id = 198
+# sent_id = CACO_3-7T_198
 1-2	የኦፕሬሽን	_	_	_	_	_	_	_	Translit=yəoprešn
 1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
 2	ኦፕሬሽን	ኦፕሬሽን	NOUN	NOUN	_	_	_	_	_
@@ -1608,8 +1608,8 @@
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = መሀመድ በንዴት ተንተከተከ ።
-# sent_id = 199
-1	መሀመድ	መሀመድ	PROPN	PROPN		_	_	_	Translit=məhaməd
+# sent_id = CACO_3-7T_199
+1	መሀመድ	መሀመድ	PROPN	PROPN	_	_	_	_	Translit=məhaməd
 2-3	በንዴት	_	_	_	_	_	_	_	Translit=bəndet
 2	በ	በ	ADP	ADP	Case=Obl	3	case	_	_
 3	ንዴት	ንዴት	NOUN	NOUN	_	_	_	_	_
@@ -1619,7 +1619,7 @@
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ትራንስፖርት ዘርፉ በአግባቡ መተዳደር አለበት ።
-# sent_id = 200
+# sent_id = CACO_3-7T_200
 1	ትራንስፖርት	ትራንስፖርት	NOUN	NOUN	_	_	_	_	Translit=transport
 2-3	ዘርፉ	_	_	_	_	_	_	_	Translit=zərfu
 2	ዘርፍ	ዘርፍ	NOUN	NOUN	_	_	_	_	_

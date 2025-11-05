@@ -16,7 +16,7 @@
 
 # text = አምላክ ለሰዎች ያለው ዓላማ ምንድን ነው ?
 # sent_id = CACO_3-7T_302
-1	አምላክ	አምላክ	NOUN	NOUN		_	_	_	Translit=amlak
+1	አምላክ	አምላክ	NOUN	NOUN	_	_	_	_	Translit=amlak
 2-4	ለሰዎች	_	_	_	_	_	_	_	Translit=ləsəwoč
 2	ለ	ለ	ADP	ADP	Case=Obl	3	case	_	_
 3	ሰው	ሰው	NOUN	NOUN	_	_	_	_	_
@@ -26,7 +26,7 @@
 6	ኣለ	አለː	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ህልው:B
 7	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:aff	_	_
 8	ው	ው	DET	DET	Definite=Def	6	det	_	_
-9	ዓላማ	አላማ	NOUN	NOUN		_	_	_	Translit=alama
+9	ዓላማ	አላማ	NOUN	NOUN	_	_	_	_	Translit=alama
 10	ምንድን	ምንድን	PRON	PRON	PronType=Int	_	_	_	Translit=mndn
 11	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 12	?	?	PUNCT	PUNCT	_	_	_	_	_
@@ -45,7 +45,7 @@
 7	ይ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	nsubj:aff	_	_
 8	ለወጥ	ተለወጠ	VERB	VSTEM	Aspect=Imp|Voice=Pass	_	_	_	Aimad=TEDERAGI|Root=ልውጥ:B
 9	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	nsubj:aff	_	_
-10	ጊዜ	ጊዜ	NOUN	NOUN		_	_	_	Translit=gize
+10	ጊዜ	ጊዜ	NOUN	NOUN	_	_	_	_	Translit=gize
 11-15	አልፈጀባቸውም	_	_	_	_	_	_	_	Translit=alfəǰəbačəwm
 11	ኣል	ኣል	ADV	NEG	Polarity=Neg	12	advmod:aff	_	_
 12	ፈጀ	ፈጀ	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ፍጅይ:A
@@ -56,8 +56,8 @@
 
 # text = አቶ ተስፋዬ ፤ እኔም አመሰግናለሁ ።
 # sent_id = CACO_3-7T_304
-1	አቶ	አቶ	PROPN	PROPN		_	_	_	Translit=ato
-2	ተስፋዬ	ተስፋዬ	PROPN	PROPN		_	_	_	Translit=təsfaye
+1	አቶ	አቶ	PROPN	PROPN	_	_	_	_	Translit=ato
+2	ተስፋዬ	ተስፋዬ	PROPN	PROPN	_	_	_	_	Translit=təsfaye
 3	፤	፤	PUNCT	PUNCT	_	_	_	_	_
 4-5	እኔም	_	_	_	_	_	_	_	Translit='nem
 4	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -93,7 +93,7 @@
 
 # text = ሙስና ይንሰራፋል ።
 # sent_id = CACO_3-7T_307
-1	ሙስና	ሙስና	NOUN	NOUN		_	_	_	Translit=musna
+1	ሙስና	ሙስና	NOUN	NOUN	_	_	_	_	Translit=musna
 2-4	ይንሰራፋል	_	_	_	_	_	_	_	Translit=ynsərafal
 2	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
 3	ንሰራፋ	ተንሰራፋ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=TEDERAGI|Root=ንስርፍእ:H
@@ -107,7 +107,7 @@
 2	የ	የ	ADP	ADP	Case[inner]=Gen	3	case	_	_
 3	እስልምና	እስልምና	NOUN	NOUN	_	_	_	_	_
 4	ን	ን	ADP	ADP	Case[outer]=Obj	3	case	_	_
-5	ሃይማኖት	ሀይማኖት	NOUN	NOUN		_	_	_	Translit=haymanot
+5	ሃይማኖት	ሀይማኖት	NOUN	NOUN	_	_	_	_	Translit=haymanot
 6-7	ለማጥፋት	_	_	_	_	_	_	_	Translit=ləmat'fat
 6	ለ	ለ	ADP	ADP	Case=Obl	7	case	_	_
 7	ማጥፋት	ማጥፋት	NOUN	NOUN	VerbForm=Inf	_	_	_	_
@@ -160,8 +160,8 @@
 2	ኦች	ኦች	DET	DET	Number=Plur	1	det:pl	_	_
 3	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
 4	ም	ም	ADV	ADV	_	1	advmod	_	_
-5	እስር	እስር	NOUN	NOUN		_	_	_	Translit='sr
-6	ቤት	ቤት	NOUN	NOUN		_	_	_	Translit=bet
+5	እስር	እስር	NOUN	NOUN	_	_	_	_	Translit='sr
+6	ቤት	ቤት	NOUN	NOUN	_	_	_	_	Translit=bet
 7	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 8-11	ያሉት	_	_	_	_	_	_	_	Translit=yalut
 8	የ	የ	PART	RLP	ClauseType=Subord	9	mark	_	_
@@ -186,9 +186,9 @@
 1-2	ሌላኛው	_	_	_	_	_	_	_	Translit=lelaňaw
 1	ሌላኛ	ሌላኛ	ADJ	ADJ	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
-3	ጥግ	ጥግ	NOUN	NOUN		_	_	_	Translit=t'g
+3	ጥግ	ጥግ	NOUN	NOUN	_	_	_	_	Translit=t'g
 4	ደግሞ	ደግሞ	ADV	ADV	_	_	_	_	Translit=dəgmo
-5	ማብሰያ	ማብሰያ	NOUN	NOUN		_	_	_	Translit=mabsəya
+5	ማብሰያ	ማብሰያ	NOUN	NOUN	_	_	_	_	Translit=mabsəya
 6	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 7	።	።	PUNCT	PUNCT	_	_	_	_	_
 
@@ -200,7 +200,7 @@
 3-4	ዜማው	_	_	_	_	_	_	_	Translit=zemaw
 3	ዜማ	ዜማ	NOUN	NOUN	_	_	_	_	_
 4	ኡ	እሱ	PRON	POSM	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|PronType=Prs	3	det:poss	_	_
-5	ቃሊቲ	ቃሊቲ	PROPN	PROPN		_	_	_	Translit=k'aliti
+5	ቃሊቲ	ቃሊቲ	PROPN	PROPN	_	_	_	_	Translit=k'aliti
 6	ውስጥ	ውስጥ	ADP	ADP	_	_	_	_	Translit=wst'
 7-9	የተሰራ	_	_	_	_	_	_	_	Translit=yətəsəra
 7	የ	የ	PART	RLP	ClauseType=Subord	8	mark	_	_
@@ -211,21 +211,21 @@
 
 # text = መንክር ይርጋ የሚሚ የአክስት ልጅ ነው ።
 # sent_id = CACO_3-7T_316
-1	መንክር	መንክር	PROPN	PROPN		_	_	_	Translit=mənkr
-2	ይርጋ	ይርጋ	PROPN	PROPN		_	_	_	Translit=yrga
+1	መንክር	መንክር	PROPN	PROPN	_	_	_	_	Translit=mənkr
+2	ይርጋ	ይርጋ	PROPN	PROPN	_	_	_	_	Translit=yrga
 3-4	የሚሚ	_	_	_	_	_	_	_	Translit=yəmimi
 3	የ	የ	ADP	ADP	Case=Gen	4	case	_	_
 4	ሚሚ	ሚሚ	PROPN	PROPN	_	_	_	_	_
 5-6	የአክስት	_	_	_	_	_	_	_	Translit=yəakst
 5	የ	የ	ADP	ADP	Case=Gen	6	case	_	_
 6	አክስት	አክስት	NOUN	NOUN	_	_	_	_	_
-7	ልጅ	ልጅ	NOUN	NOUN		_	_	_	Translit=lǰ
+7	ልጅ	ልጅ	NOUN	NOUN	_	_	_	_	Translit=lǰ
 8	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 9	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = አንድዬ በእውነትም ረስተኸናል ማለት ነው ።
 # sent_id = CACO_3-7T_317
-1	አንድዬ	አንድዬ	PROPN	PROPN		_	_	_	Translit=andye
+1	አንድዬ	አንድዬ	PROPN	PROPN	_	_	_	_	Translit=andye
 2-4	በእውነትም	_	_	_	_	_	_	_	Translit=bə'wnətm
 2	በ	በ	ADP	ADP	Case=Obl	3	case	_	_
 3	እውነት	እውነት	NOUN	NOUN	_	_	_	_	_
@@ -235,7 +235,7 @@
 6	አህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj:aff	_	_
 7	አን	እኛ	PRON	OBJC	Number[obj]=Plur|Person[obj]=1|PronType=Prs	5	obj:aff	_	_
 8	ኣል	ኣል	AUX	AUX	_	5	aux	_	_
-9	ማለት	ማለት	NOUN	NOUN		_	_	_	Translit=malət
+9	ማለት	ማለት	NOUN	NOUN	_	_	_	_	Translit=malət
 10	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
@@ -255,7 +255,7 @@
 9	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	nsubj:aff	_	_
 10	ት	ት	DET	DET	Definite=Def	8	det	_	_
 11	ን	ን	ADP	ADP	Case=Obj	8	case	_	_
-12	ትምህርት	ትምህርት	NOUN	NOUN		_	_	_	Translit=tmhrt
+12	ትምህርት	ትምህርት	NOUN	NOUN	_	_	_	_	Translit=tmhrt
 13-14	አገባደዱ	_	_	_	_	_	_	_	Translit=agəbadədu
 13	ኣገባደድ	አገባደደ	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=ADRAGI|Root=ግብድድ:F
 14	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	13	nsubj:aff	_	_
@@ -266,7 +266,7 @@
 1-2	የኢህአዴግ	_	_	_	_	_	_	_	Translit=yəihadeg
 1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
 2	ኢህአዴግ	ኢህአዴግ	PROPN	PROPN	_	_	_	_	_
-3	መንግስት	መንግስት	NOUN	NOUN		_	_	_	Translit=məngst
+3	መንግስት	መንግስት	NOUN	NOUN	_	_	_	_	Translit=məngst
 4-6	አላማችሁን	_	_	_	_	_	_	_	Translit=alamačhun
 4	አላማ	አላማ	NOUN	NOUN	_	_	_	_	_
 5	ኣችሁ	እናንተ	PRON	POSM	Number[psor]=Plur|Person[psor]=2|PronType=Prs	4	det:poss	_	_
@@ -281,7 +281,7 @@
 # text = እስኪ ግልፅ ያድርጉልኝ ።
 # sent_id = CACO_3-7T_320
 1	እስኪ	እስኪ	INTJ	INTJ	_	_	_	_	Translit='ski
-2	ግልፅ	ግልጽ	ADJ	ADJ		_	_	_	Translit=gls'
+2	ግልፅ	ግልጽ	ADJ	ADJ	_	_	_	_	Translit=gls'
 3-6	ያድርጉልኝ	_	_	_	_	_	_	_	Translit=yadrgulň
 3	ይ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	nsubj:aff	_	_
 4	ኣድርግ	አደረገ	VERB	VSTEM	Mood=Jus	_	_	_	Aimad=ADRAGI|Root=ድርግ:A
@@ -294,8 +294,8 @@
 1-2	ውቃቢዬ	_	_	_	_	_	_	_	Translit=wk'abiye
 1	ውቃቢ	ውቃቢ	NOUN	NOUN	_	_	_	_	_
 2	ኤ	እኔ	PRON	POSM	Number[psor]=Sing|Person[psor]=1|PronType=Prs	1	det:poss	_	_
-3	መግቢያ	መግቢያ	NOUN	NOUN		_	_	_	Translit=məgbiya
-4	ቀዳዳ	ቀዳዳ	NOUN	NOUN		_	_	_	Translit=k'ədada
+3	መግቢያ	መግቢያ	NOUN	NOUN	_	_	_	_	Translit=məgbiya
+4	ቀዳዳ	ቀዳዳ	NOUN	NOUN	_	_	_	_	Translit=k'ədada
 5-6	አጥታ	_	_	_	_	_	_	_	Translit=at'ta
 5	ኣጥት	አጣ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=እጥእ:A
 6	ኣ	እሷ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
@@ -316,7 +316,7 @@
 6	በልጥ	በለጠ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=ብልጥ:A
 7	አው	አው	DET	DET	Definite=Def	6	det	_	_
 8	ግን	ግን	ADV	ADV	_	_	_	_	Translit=gn
-9	ማን	ማን	PRON	PRON	|PronType=Int	_	_	_	Translit=man
+9	ማን	ማን	PRON	PRON	PronType=Int	_	_	_	Translit=man
 10	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 11	?	?	PUNCT	PUNCT	_	_	_	_	_
 
@@ -342,8 +342,8 @@
 
 # text = ምን ጥያቄ አለው ! ይቀጣል ።
 # sent_id = CACO_3-7T_324
-1	ምን	ምን	DET	DET		_	_	_	Translit=mn
-2	ጥያቄ	ጥያቄ	NOUN	NOUN		_	_	_	Translit=t'yak'e
+1	ምን	ምን	DET	DET	_	_	_	_	Translit=mn
+2	ጥያቄ	ጥያቄ	NOUN	NOUN	_	_	_	_	Translit=t'yak'e
 3-5	አለው	_	_	_	_	_	_	_	Translit=aləw
 3	ኣለ	አለː	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ህልው:B
 4	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
@@ -384,9 +384,9 @@
 2	ስእል	ስእል	NOUN	NOUN	_	_	_	_	_
 3	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	2	det	_	_
 4	ላይ	ላይ	ADP	ADP	_	_	_	_	Translit=lay
-5	ምን	ምን	DET	DET		_	_	_	Translit=mn
-6	ሌላ	ሌላ	ADJ	ADJ		_	_	_	Translit=lela
-7	መጽሐፍ	መጽሀፍ	NOUN	NOUN		_	_	_	Translit=məs'haf
+5	ምን	ምን	DET	DET	_	_	_	_	Translit=mn
+6	ሌላ	ሌላ	ADJ	ADJ	_	_	_	_	Translit=lela
+7	መጽሐፍ	መጽሀፍ	NOUN	NOUN	_	_	_	_	Translit=məs'haf
 8-10	ታያለህ	_	_	_	_	_	_	_	Translit=tayaləh
 8	ት	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj:aff	_	_
 9	ኣይ	አየ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=እይይ:A
@@ -422,19 +422,19 @@
 # sent_id = CACO_3-7T_329
 1	ይኼ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	Translit=yhe
 2	በጣም	በጣም	ADV	ADV	_	_	_	_	Translit=bət'am
-3	ጥሩ	ጥሩ	ADJ	ADJ		_	_	_	Translit=t'ru
-4	ጥያቄ	ጥያቄ	NOUN	NOUN		_	_	_	Translit=t'yak'e
+3	ጥሩ	ጥሩ	ADJ	ADJ	_	_	_	_	Translit=t'ru
+4	ጥያቄ	ጥያቄ	NOUN	NOUN	_	_	_	_	Translit=t'yak'e
 5	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ይሄ ጠረን ፈፅሞ ሰው አያስቀርብም ።
 # sent_id = CACO_3-7T_330
 1	ይሄ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	Translit=yhe
-2	ጠረን	ጠረን	NOUN	NOUN		_	_	_	Translit=t'ərən
+2	ጠረን	ጠረን	NOUN	NOUN	_	_	_	_	Translit=t'ərən
 3-4	ፈፅሞ	_	_	_	_	_	_	_	Translit=fəs'mo
 3	ፈጽም	ፈጸመ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=ፍፅም:B
 4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
-5	ሰው	ሰው	NOUN	NOUN		_	_	_	Translit=səw
+5	ሰው	ሰው	NOUN	NOUN	_	_	_	_	Translit=səw
 6-9	አያስቀርብም	_	_	_	_	_	_	_	Translit=ayask'ərbm
 6	ኣ	ኣ	ADV	NEG	Polarity=Neg	8	advmod:aff	_	_
 7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:aff	_	_
@@ -449,7 +449,7 @@
 2	ኣደግ	አደገ	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=እድግ:A
 3	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:aff	_	_
 4	ው	ው	DET	DET	Definite=Def	2	det	_	_
-5	ጎጃም	ጎጃም	PROPN	PROPN		_	_	_	Translit=goǰam
+5	ጎጃም	ጎጃም	PROPN	PROPN	_	_	_	_	Translit=goǰam
 6	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 7	።	።	PUNCT	PUNCT	_	_	_	_	_
 
@@ -458,7 +458,7 @@
 1-2	ዶሰኛው	_	_	_	_	_	_	_	Translit=dosəňaw
 1	ዶሰኛ	ዶሰኛ	NOUN	NOUN	_	_	_	_	_
 2	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	1	det	_	_
-3	አያት	አያት	NOUN	NOUN		_	_	_	Translit=ayat
+3	አያት	አያት	NOUN	NOUN	_	_	_	_	Translit=ayat
 4	፣	፣	PUNCT	PUNCT	_	_	_	_	_
 5-7	ቀልቡም	_	_	_	_	_	_	_	Translit=k'əlbum
 5	ቀልብ	ቀልብ	NOUN	NOUN	_	_	_	_	_
@@ -485,7 +485,7 @@
 1-2	ሙሉነትም	_	_	_	_	_	_	_	Translit=mulunətm
 1	ሙሉነት	ሙሉነት	NOUN	NOUN	_	_	_	_	_
 2	ም	ም	ADV	ADV	_	1	advmod	_	_
-3	ደረጃ	ደረጃ	NOUN	NOUN		_	_	_	Translit=dərəǰa
+3	ደረጃ	ደረጃ	NOUN	NOUN	_	_	_	_	Translit=dərəǰa
 4-6	አለው	_	_	_	_	_	_	_	Translit=aləw
 4	ኣለ	አለː	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ህልው:B
 5	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:aff	_	_
@@ -504,7 +504,7 @@
 
 # text = አሞራ ዋ ! ብሎ አሞራን ተጠጋው ።
 # sent_id = CACO_3-7T_336
-1	አሞራ	አሞራ	NOUN	NOUN		_	_	_	Translit=amora
+1	አሞራ	አሞራ	NOUN	NOUN	_	_	_	_	Translit=amora
 2	ዋ	ዋ	INTJ	INTJ	_	_	_	_	Translit=wa
 3	!	!	PUNCT	PUNCT	_	_	_	_	_
 4-5	ብሎ	_	_	_	_	_	_	_	Translit=blo
@@ -564,13 +564,13 @@
 12	በ	በ	ADP	ADP	Case=Obl	13	case	_	_
 13	ራስ	ራስ	NOUN	NOUN	_	_	_	_	_
 14	ኡ	እሱ	PRON	POSM	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|PronType=Prs	13	det:poss	_	_
-15	አምሳል	አምሳል	NOUN	NOUN		_	_	_	Translit=amsal
+15	አምሳል	አምሳል	NOUN	NOUN	_	_	_	_	Translit=amsal
 16	ነው	ነው	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	_	_	_	Translit=nəw
 17	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = እርስ በርሳችሁ በተቀደሰ መሳሳም ሰላምታ ተለዋወጡ ።
 # sent_id = CACO_3-7T_339
-1	እርስ	እርስ	NOUN	NOUN		_	_	_	Translit='rs
+1	እርስ	እርስ	NOUN	NOUN	_	_	_	_	Translit='rs
 2-4	በርሳችሁ	_	_	_	_	_	_	_	Translit=bərsačhu
 2	በ	በ	ADP	ADP	Case=Obl	3	case	_	_
 3	እርስ	እርስ	NOUN	NOUN	_	_	_	_	_
@@ -580,7 +580,7 @@
 6	ተቀደስ	ተቀደሰ	VERB	VSTEM	Aspect=Perf|Voice=Pass	_	_	_	Aimad=TEDERAGI|Root=ቅድስ:B
 7	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:aff	_	_
 8	መሳሳም	መሳሳም	NOUN	NOUN	VerbForm=Inf	_	_	_	Translit=məsasam
-9	ሰላምታ	ሰላምታ	NOUN	NOUN		_	_	_	Translit=səlamta
+9	ሰላምታ	ሰላምታ	NOUN	NOUN	_	_	_	_	Translit=səlamta
 10-11	ተለዋወጡ	_	_	_	_	_	_	_	Translit=tələwawət'u
 10	ተለዋወጥ	ተለዋወጠ	VERB	VSTEM	Mood=Imp|Voice=Rcp	_	_	_	Aimad=TEDERARAGI|Root=ልውጥ:B
 11	ኡ	እናንተ	PRON	SUBJC	Number=Plur|Person=2|PronType=Prs	10	nsubj:aff	_	_
@@ -592,7 +592,7 @@
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	ምንድን	ምንድን	PRON	PRON	PronType=Int	_	_	_	_
 3	ነው	ነው	AUX	COP	Tense=Pres	2	cop	_	_
-4	ሙስና	ሙስና	NOUN	NOUN		_	_	_	Translit=musna
+4	ሙስና	ሙስና	NOUN	NOUN	_	_	_	_	Translit=musna
 5-7	በሰፊው	_	_	_	_	_	_	_	Translit=bəsəfiw
 5	በ	በ	ADP	ADP	Case=Obl	6	case	_	_
 6	ሰፊ	ሰፊ	NOUN	NOUN	_	_	_	_	_
@@ -606,12 +606,12 @@
 
 # text = አማተር አራዳና ፕሮፌሽናል አራዳ ።
 # sent_id = CACO_3-7T_341
-1	አማተር	አማተር	NOUN	NOUN		_	_	_	Translit=amatər
+1	አማተር	አማተር	NOUN	NOUN	_	_	_	_	Translit=amatər
 2-3	አራዳና	_	_	_	_	_	_	_	Translit=aradana
 2	አራዳ	አራዳ	NOUN	NOUN	_	_	_	_	_
 3	ና	ና	CCONJ	CCONJ	_	2	cc	_	_
-4	ፕሮፌሽናል	ፕሮፌሽናል	NOUN	NOUN		_	_	_	Translit=profešnal
-5	አራዳ	አራዳ	NOUN	NOUN		_	_	_	Translit=arada
+4	ፕሮፌሽናል	ፕሮፌሽናል	NOUN	NOUN	_	_	_	_	Translit=profešnal
+5	አራዳ	አራዳ	NOUN	NOUN	_	_	_	_	Translit=arada
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ሰዎች ታሰሩ ።
@@ -627,8 +627,8 @@
 # text = እኔ ምንም ገንዘብ ይዤ አልወጣሁም ።
 # sent_id = CACO_3-7T_343
 1	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Translit='ne
-2	ምንም	ምንም	DET	DET		_	_	_	Translit=mnm
-3	ገንዘብ	ገንዘብ	NOUN	NOUN		_	_	_	Translit=gənzəb
+2	ምንም	ምንም	DET	DET	_	_	_	_	Translit=mnm
+3	ገንዘብ	ገንዘብ	NOUN	NOUN	_	_	_	_	Translit=gənzəb
 4-5	ይዤ	_	_	_	_	_	_	_	Translit=yže
 4	ይዝ	ያዘ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=ይእዝ:A
 5	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj:aff	_	_
@@ -652,7 +652,7 @@
 
 # text = ያህዌ ንጉሣችን ነው !
 # sent_id = CACO_3-7T_345
-1	ያህዌ	ያህዌ	PROPN	PROPN		_	_	_	Translit=yahwe
+1	ያህዌ	ያህዌ	PROPN	PROPN	_	_	_	_	Translit=yahwe
 2-3	ንጉሣችን	_	_	_	_	_	_	_	Translit=ngusačn
 2	ንጉስ	ንጉስ	NOUN	NOUN	_	_	_	_	_
 3	ኣችን	እኛ	PRON	POSM	Number[psor]=Plur|Person[psor]=1|PronType=Prs	2	det:poss	_	_
@@ -669,9 +669,9 @@
 4	የ	የ	ADP	ADP	Case=Gen	5	case	_	_
 5	ትልቅ	ትልቅ	ADJ	ADJ	_	_	_	_	_
 6	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	5	det	_	_
-7	መኪና	መኪና	NOUN	NOUN		_	_	_	Translit=məkina
-8	ስያሜ	ስያሜ	NOUN	NOUN		_	_	_	Translit=syame
-9	ቱፋ	ቱፋ	PROPN	PROPN		_	_	_	Translit=tufa
+7	መኪና	መኪና	NOUN	NOUN	_	_	_	_	Translit=məkina
+8	ስያሜ	ስያሜ	NOUN	NOUN	_	_	_	_	Translit=syame
+9	ቱፋ	ቱፋ	PROPN	PROPN	_	_	_	_	Translit=tufa
 10	ነበር	ነው	AUX	AUX	Tense=Past	_	_	_	Translit=nəbər
 11	።	።	PUNCT	PUNCT	_	_	_	_	_
 
@@ -682,8 +682,8 @@
 2	ከ	ከ	ADP	ADP	Case=Obl	3	case	_	_
 3	ይህ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	_
 4	በላይ	በላይ	ADP	ADP	_	_	_	_	Translit=bəlay
-5	ምን	ምን	DET	DET		_	_	_	Translit=mn
-6	ሞት	ሞት	NOUN	NOUN		_	_	_	Translit=mot
+5	ምን	ምን	DET	DET	_	_	_	_	Translit=mn
+6	ሞት	ሞት	NOUN	NOUN	_	_	_	_	Translit=mot
 7-8	አለ	_	_	_	_	_	_	_	Translit=alə
 7	ኣለ	አለː	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ህልው:B
 8	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:aff	_	_
@@ -691,7 +691,7 @@
 
 # text = አንዳንድ ፍንጮችም አግኝቼ ተመልሻለሁ ።
 # sent_id = CACO_3-7T_348
-1	አንዳንድ	አንዳንድ	DET	DET		_	_	_	Translit=andand
+1	አንዳንድ	አንዳንድ	DET	DET	_	_	_	_	Translit=andand
 2-4	ፍንጮችም	_	_	_	_	_	_	_	Translit=fnč'očm
 2	ፍንጭ	ፍንጭ	NOUN	NOUN	_	_	_	_	_
 3	ኦች	ኦች	DET	DET	Number=Plur	2	det:pl	_	_
@@ -763,7 +763,7 @@
 14	ፈለግ	ፈለገ	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ፍልግ:B
 15	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	14	nsubj:aff	_	_
 16	ት	ት	DET	DET	Definite=Def	14	det	_	_
-17	ነገር	ነገር	NOUN	NOUN		_	_	_	Translit=nəgər
+17	ነገር	ነገር	NOUN	NOUN	_	_	_	_	Translit=nəgər
 18-19	አለ	_	_	_	_	_	_	_	Translit=alə
 18	ኣለ	አለː	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ህልው:B
 19	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj:aff	_	_
@@ -806,7 +806,7 @@
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	ይህ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	_
 3	ም	ም	ADV	ADV	_	2	advmod	_	_
-4	መፍትሄ	መፍትሄ	NOUN	NOUN		_	_	_	Translit=məfthe
+4	መፍትሄ	መፍትሄ	NOUN	NOUN	_	_	_	_	Translit=məfthe
 5-8	እንደሚያስፈልግ	_	_	_	_	_	_	_	Translit='ndəmiyasfəlg
 5	እንደ	እንደ	SCONJ	SCONJ	ClauseType=Subord	8	mark	_	_
 6	ም	ም	PART	IRLP	_	8	mark	_	_
@@ -854,7 +854,7 @@
 5	ሆን	ሆነ	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ህውን:A
 6	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
 7	ም	ም	ADV	ADV	_	5	advmod	_	_
-8	ሰይፍ	ሰይፍ	NOUN	NOUN		_	_	_	Translit=səyf
+8	ሰይፍ	ሰይፍ	NOUN	NOUN	_	_	_	_	Translit=səyf
 9-12	ይበላዋል	_	_	_	_	_	_	_	Translit=ybəlawal
 9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:aff	_	_
 10	በላ	በላ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=ብልእ:A
@@ -896,7 +896,7 @@
 # text = ይሔ ትክክል አይደለም ።
 # sent_id = CACO_3-7T_359
 1	ይሔ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	Translit=yhe
-2	ትክክል	ትክክል	ADJ	ADJ		_	_	_	Translit=tkkl
+2	ትክክል	ትክክል	ADJ	ADJ	_	_	_	_	Translit=tkkl
 3-4	አይደለም	_	_	_	_	_	_	_	Translit=aydələm
 3	ኣይደለ	ነው	AUX	VSTEM	Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	_	_	_	_
 4	ም	ም	ADV	ADV	Polarity=Neg	3	advmod:aff	_	_
@@ -914,7 +914,7 @@
 
 # text = ተመሳሳይ ገጠመኞች በተቋሙ የተለመዱ ናቸው ።
 # sent_id = CACO_3-7T_361
-1	ተመሳሳይ	ተመሳሳይ	ADJ	ADJ		_	_	_	Translit=təməsasay
+1	ተመሳሳይ	ተመሳሳይ	ADJ	ADJ	_	_	_	_	Translit=təməsasay
 2-3	ገጠመኞች	_	_	_	_	_	_	_	Translit=gət'əməňoč
 2	ገጠመኝ	ገጠመኝ	NOUN	NOUN	_	_	_	_	_
 3	ኦች	ኦች	DET	DET	Number=Plur	2	det:pl	_	_
@@ -964,7 +964,7 @@
 1-2	ሀሰትና	_	_	_	_	_	_	_	Translit=hasətna
 1	ሀሰት	ሀሰት	NOUN	NOUN	_	_	_	_	_
 2	ና	ና	CCONJ	CCONJ	_	1	cc	_	_
-3	ተንኮል	ተንኮል	NOUN	NOUN		_	_	_	Translit=tənkol
+3	ተንኮል	ተንኮል	NOUN	NOUN	_	_	_	_	Translit=tənkol
 4-7	የተፈጠሩበት	_	_	_	_	_	_	_	Translit=yətəfət'ərubət
 4	የ	የ	PART	RLP	ClauseType=Subord	5	mark	_	_
 5	ተፈጠር	ተፈጠረ	VERB	VSTEM	Aspect=Perf|Voice=Pass	_	_	_	Aimad=TEDERAGI|Root=ፍጥር:A
@@ -1010,8 +1010,8 @@
 3	ለ	ለ	ADP	ADP	Case=Obl	4	case	_	_
 4	ስም	ስም	NOUN	NOUN	_	_	_	_	_
 5	ኤ	እኔ	PRON	POSM	Number[psor]=Sing|Person[psor]=1|PronType=Prs	4	det:poss	_	_
-6	ታላቅ	ታላቅ	ADJ	ADJ		_	_	_	Translit=talak'
-7	አክብሮት	አክብሮት	NOUN	NOUN		_	_	_	Translit=akbrot
+6	ታላቅ	ታላቅ	ADJ	ADJ	_	_	_	_	Translit=talak'
+7	አክብሮት	አክብሮት	NOUN	NOUN	_	_	_	_	Translit=akbrot
 8-9	አሳየ	_	_	_	_	_	_	_	Translit=asayə
 8	ኣሳየ	አሳየ	VERB	VSTEM	Aspect=Perf|Voice=Cau	_	_	_	Aimad=ASDERAGI|Root=እይይ:A
 9	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:aff	_	_
@@ -1026,7 +1026,7 @@
 3	በ	በ	ADP	ADP	Case=Obl	4	case	_	_
 4	ተገቢ	ተገቢ	ADJ	ADJ	_	_	_	_	_
 5	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	4	det	_	_
-6	መንገድ	መንገድ	NOUN	NOUN		_	_	_	Translit=məngəd
+6	መንገድ	መንገድ	NOUN	NOUN	_	_	_	_	Translit=məngəd
 7	ማስረዳት	ማስረዳት	NOUN	NOUN	VerbForm=Inf	_	_	_	Translit=masrədat
 8-10	አለባቸው	_	_	_	_	_	_	_	Translit=aləbačəw
 8	ኣለ	አለː	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ህልው:B
@@ -1036,7 +1036,7 @@
 
 # text = ጥያቄ አንስታችሁ ወጌን እንዳታሸብሩ ።
 # sent_id = CACO_3-7T_368
-1	ጥያቄ	ጥያቄ	NOUN	NOUN		_	_	_	Translit=t'yak'e
+1	ጥያቄ	ጥያቄ	NOUN	NOUN	_	_	_	_	Translit=t'yak'e
 2-3	አንስታችሁ	_	_	_	_	_	_	_	Translit=anstačhu
 2	ኣንስት	አነሳ	VERB	VSTEM	VerbForm=Conv|Voice=Cau	_	_	_	Aimad=ADRAGI|Root=ንስእ:A
 3	ኣችሁ	እናንተ	PRON	SUBJC	Number=Plur|Person=2|PronType=Prs	2	nsubj:aff	_	_
@@ -1058,14 +1058,14 @@
 2-3	አሥረኛው	_	_	_	_	_	_	_	Translit=asrəňaw
 2	አስረኛ	አስረኛ	ADJ	ADJ	_	_	_	_	_
 3	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	2	det	_	_
-4	መቅሰፍት	መቅሰፍት	NOUN	NOUN		_	_	_	Translit=mək'səft
+4	መቅሰፍት	መቅሰፍት	NOUN	NOUN	_	_	_	_	Translit=mək'səft
 5	ነበር	ነው	AUX	AUX	Tense=Past	_	_	_	Translit=nəbər
 6	።	።	PUNCT	PUNCT	_	_	_	_	_
 
 # text = ንጉሥ ዳዊት ይህን ተገንዝቦ ነበር ።
 # sent_id = CACO_3-7T_370
-1	ንጉሥ	ንጉስ	PROPN	PROPN		_	_	_	Translit=ngus
-2	ዳዊት	ዳዊት	PROPN	PROPN		_	_	_	Translit=dawit
+1	ንጉሥ	ንጉስ	PROPN	PROPN	_	_	_	_	Translit=ngus
+2	ዳዊት	ዳዊት	PROPN	PROPN	_	_	_	_	Translit=dawit
 3-4	ይህን	_	_	_	_	_	_	_	Translit=yhn
 3	ይህ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	_
 4	ን	ን	ADP	ADP	Case=Obj	3	case	_	_
@@ -1092,7 +1092,7 @@
 10-11	በመግለጽ	_	_	_	_	_	_	_	Translit=bəməgləs'
 10	በ	በ	ADP	ADP	Case=Obl	11	case	_	_
 11	መግለጽ	መግለጽ	NOUN	NOUN	VerbForm=Inf	_	_	_	_
-12	ተቃውሞ	ተቃውሞ	NOUN	NOUN		_	_	_	Translit=tək'awmo
+12	ተቃውሞ	ተቃውሞ	NOUN	NOUN	_	_	_	_	Translit=tək'awmo
 13-14	አሰሙ	_	_	_	_	_	_	_	Translit=asəmu
 13	ኣሰማ	አሰማ	VERB	VSTEM	Aspect=Perf|Voice=Cau	_	_	_	Aimad=ASDERAGI|Root=ስምእ:A
 14	ኡ	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	13	nsubj:aff	_	_
@@ -1100,8 +1100,8 @@
 
 # text = ሞት ጠላት መሆኑ የሚያጠራጥር ነገር አይደለም ።
 # sent_id = CACO_3-7T_372
-1	ሞት	ሞት	NOUN	NOUN		_	_	_	Translit=mot
-2	ጠላት	ጠላት	NOUN	NOUN		_	_	_	Translit=t'əlat
+1	ሞት	ሞት	NOUN	NOUN	_	_	_	_	Translit=mot
+2	ጠላት	ጠላት	NOUN	NOUN	_	_	_	_	Translit=t'əlat
 3-4	መሆኑ	_	_	_	_	_	_	_	Translit=məhonu
 3	መሆን	መሆን	NOUN	NOUN	VerbForm=Inf	_	_	_	_
 4	ኡ	እሱ	PRON	POSM	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|PronType=Prs	3	det:poss	_	_
@@ -1110,7 +1110,7 @@
 6	ም	ም	PART	IRLP	_	8	mark	_	_
 7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:aff	_	_
 8	ኣጠራጥር	አጠራጠረ	VERB	VSTEM	Aspect=Imp|Voice=Cau	_	_	_	Aimad=ADARAGI|Root=ጥርጥር:E
-9	ነገር	ነገር	NOUN	NOUN		_	_	_	Translit=nəgər
+9	ነገር	ነገር	NOUN	NOUN	_	_	_	_	Translit=nəgər
 10-11	አይደለም	_	_	_	_	_	_	_	Translit=aydələm
 10	ኣይደለ	ነው	AUX	VSTEM	Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	_	_	_	_
 11	ም	ም	ADV	ADV	Polarity=Neg	10	advmod:aff	_	_
@@ -1139,7 +1139,7 @@
 
 # text = ገንዘብ ተቀብለው የሚያስቀምጡና የሚያበድሩ ሰዎች አሉ ።
 # sent_id = CACO_3-7T_374
-1	ገንዘብ	ገንዘብ	NOUN	NOUN		_	_	_	Translit=gənzəb
+1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	_	_	_	Translit=gənzəb
 2-3	ተቀብለው	_	_	_	_	_	_	_	Translit=tək'əbləw
 2	ተቀብል	ተቀበለ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=TEDERAGI|Root=ቅብል:B
 3	አው	እነሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	2	nsubj:aff	_	_
@@ -1183,7 +1183,7 @@
 
 # text = ዛሬ አላለቀም ።
 # sent_id = CACO_3-7T_376
-1	ዛሬ	ዛሬ	NOUN	NOUN		_	_	_	Translit=zare
+1	ዛሬ	ዛሬ	NOUN	NOUN	_	_	_	_	Translit=zare
 2-5	አላለቀም	_	_	_	_	_	_	_	Translit=alalək'əm
 2	ኣል	ኣል	ADV	NEG	Polarity=Neg	3	advmod:aff	_	_
 3	ኣለቅ	አለቀ	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=እልቅ:A
@@ -1193,8 +1193,8 @@
 
 # text = አንድ ጊዜ አስታውሳለሁ ።
 # sent_id = CACO_3-7T_377
-1	አንድ	አንድ	NUM	NUM		_	_	_	Translit=and
-2	ጊዜ	ጊዜ	NOUN	NOUN		_	_	_	Translit=gize
+1	አንድ	አንድ	NUM	NUM	_	_	_	_	Translit=and
+2	ጊዜ	ጊዜ	NOUN	NOUN	_	_	_	_	Translit=gize
 3-5	አስታውሳለሁ	_	_	_	_	_	_	_	Translit=astawsaləhu
 3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj:aff	_	_
 4	ኣስታውስ	አስታወሰ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=ASTEDERAGI|Root=እውስ:A
@@ -1293,7 +1293,7 @@
 1	ለ	ለ	ADP	ADP	Case=Obl	2	case	_	_
 2	ሁሉ	ሁሉ	DET	DET	_	_	_	_	_
 3	ም	ም	ADV	ADV	_	2	advmod	_	_
-4	ጊዜ	ጊዜ	NOUN	NOUN		_	_	_	Translit=gize
+4	ጊዜ	ጊዜ	NOUN	NOUN	_	_	_	_	Translit=gize
 5-7	አለው	_	_	_	_	_	_	_	Translit=aləw
 5	ኣለ	አለː	VERB	VSTEM	Aspect=Perf	_	_	_	Aimad=DERAGI|Root=ህልው:B
 6	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
@@ -1305,8 +1305,8 @@
 1-2	የሩጫ	_	_	_	_	_	_	_	Translit=yəruč'a
 1	የ	የ	ADP	ADP	Case=Gen	2	case	_	_
 2	ሩጫ	ሩጫ	NOUN	NOUN	_	_	_	_	_
-3	ልምድ	ልምድ	NOUN	NOUN		_	_	_	Translit=lmd
-4	ብዙ	ብዙ	ADJ	ADJ		_	_	_	Translit=bzu
+3	ልምድ	ልምድ	NOUN	NOUN	_	_	_	_	Translit=lmd
+4	ብዙ	ብዙ	ADJ	ADJ	_	_	_	_	Translit=bzu
 5-7	ኪሎሜትሮችን	_	_	_	_	_	_	_	Translit=kilometročn
 5	ኪሎሜትር	ኪሎሜትር	NOUN	NOUN	_	_	_	_	_
 6	ኦች	ኦች	DET	DET	Number=Plur	5	det:pl	_	_
@@ -1323,7 +1323,7 @@
 3-4	አድጐ	_	_	_	_	_	_	_	Translit=adgwə
 3	ኣድግ	አደገ	VERB	VSTEM	VerbForm=Conv	_	_	_	Aimad=DERAGI|Root=እድግ:A
 4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
-5	አስም	አስም	NOUN	NOUN		_	_	_	Translit=asm
+5	አስም	አስም	NOUN	NOUN	_	_	_	_	Translit=asm
 6-8	ይሆናል	_	_	_	_	_	_	_	Translit=yhonal
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:aff	_	_
 7	ሆን	ሆነ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=ህውን:A
@@ -1357,7 +1357,7 @@
 
 # text = ቄሰ ገበዙም አጉረምርመው ይጸብሉና ጾሙን ይቀጥላሉ ።
 # sent_id = CACO_3-7T_387
-1	ቄሰ	ቄሰ	NOUN	NOUN		_	_	_	Translit=k'esə
+1	ቄሰ	ቄሰ	NOUN	NOUN	_	_	_	_	Translit=k'esə
 2-4	ገበዙም	_	_	_	_	_	_	_	Translit=gəbəzum
 2	ገበዝ	ገበዝ	NOUN	NOUN	_	_	_	_	_
 3	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	2	det	_	_
@@ -1389,8 +1389,8 @@
 4-5	በከፍተኛ	_	_	_	_	_	_	_	Translit=bəkəftəňa
 4	በ	በ	ADP	ADP	Case=Obl	5	case	_	_
 5	ከፍተኛ	ከፍተኛ	ADJ	ADJ	_	_	_	_	_
-6	አመራር	አመራር	NOUN	NOUN		_	_	_	Translit=amərar
-7	ደረጃ	ደረጃ	NOUN	NOUN		_	_	_	Translit=dərəǰa
+6	አመራር	አመራር	NOUN	NOUN	_	_	_	_	Translit=amərar
+7	ደረጃ	ደረጃ	NOUN	NOUN	_	_	_	_	Translit=dərəǰa
 8-11	የሚወሰን	_	_	_	_	_	_	_	Translit=yəmiwəsən
 8	የ	የ	PART	RLP	ClauseType=Subord	11	mark	_	_
 9	ም	ም	PART	IRLP	_	11	mark	_	_
@@ -1401,11 +1401,11 @@
 
 # text = መሠረተ ልማቱ መሬት ላይ የሚታይ ነው ።
 # sent_id = CACO_3-7T_389
-1	መሠረተ	መሰረተ	NOUN	NOUN		_	_	_	Translit=məsərətə
+1	መሠረተ	መሰረተ	NOUN	NOUN	_	_	_	_	Translit=məsərətə
 2-3	ልማቱ	_	_	_	_	_	_	_	Translit=lmatu
 2	ልማት	ልማት	NOUN	NOUN	_	_	_	_	_
 3	ኡ	ኡ	DET	DET	Definite=Def|Gender=Masc	2	det	_	_
-4	መሬት	መሬት	NOUN	NOUN		_	_	_	Translit=məret
+4	መሬት	መሬት	NOUN	NOUN	_	_	_	_	Translit=məret
 5	ላይ	ላይ	ADP	ADP	_	_	_	_	Translit=lay
 6-9	የሚታይ	_	_	_	_	_	_	_	Translit=yəmitay
 6	የ	የ	PART	RLP	ClauseType=Subord	9	mark	_	_
@@ -1417,8 +1417,8 @@
 
 # text = ብዙ ገንዘብ አገኝ ጀመር ።
 # sent_id = CACO_3-7T_390
-1	ብዙ	ብዙ	ADJ	ADJ		_	_	_	Translit=bzu
-2	ገንዘብ	ገንዘብ	NOUN	NOUN		_	_	_	Translit=gənzəb
+1	ብዙ	ብዙ	ADJ	ADJ	_	_	_	_	Translit=bzu
+2	ገንዘብ	ገንዘብ	NOUN	NOUN	_	_	_	_	Translit=gənzəb
 3-4	አገኝ	_	_	_	_	_	_	_	Translit=agəň
 3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj:aff	_	_
 4	ኣገኝ	አገኘ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=ADRAGI|Root=ግኝይ:A
@@ -1427,8 +1427,8 @@
 
 # text = ቆንጅት ትንሽ ወንድሟን ትወደዋለች ።
 # sent_id = CACO_3-7T_391
-1	ቆንጅት	ቆንጅት	PROPN	PROPN		_	_	_	Translit=k'onǰt
-2	ትንሽ	ትንሽ	ADJ	ADJ		_	_	_	Translit=tnš
+1	ቆንጅት	ቆንጅት	PROPN	PROPN	_	_	_	_	Translit=k'onǰt
+2	ትንሽ	ትንሽ	ADJ	ADJ	_	_	_	_	Translit=tnš
 3-5	ወንድሟን	_	_	_	_	_	_	_	Translit=wəndmwan
 3	ወንድም	ወንድም	NOUN	NOUN	_	_	_	_	_
 4	ዋ	እሷ	PRON	POSM	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3|PronType=Prs	3	det:poss	_	_
@@ -1442,13 +1442,13 @@
 
 # text = ትራፊክ መጣ ሲባል ሹፌር ይደነግጣል ።
 # sent_id = CACO_3-7T_392
-1	ትራፊክ	ትራፊክ	NOUN	NOUN		_	_	_	Translit=trafik
+1	ትራፊክ	ትራፊክ	NOUN	NOUN	_	_	_	_	Translit=trafik
 2	መጣ	መጣ	PART	PART	_	_	_	_	Translit=mət'a
 3-5	ሲባል	_	_	_	_	_	_	_	Translit=sibal
 3	ስ	ስ	SCONJ	SCONJ	ClauseType=Subord	5	mark	_	_
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:aff	_	_
 5	ባል	ተባለ	VERB	VSTEM	Aspect=Imp|Voice=Pass	_	_	_	Aimad=TEDERAGI|Root=ብእል:A
-6	ሹፌር	ሹፌር	NOUN	NOUN		_	_	_	Translit=šufer
+6	ሹፌር	ሹፌር	NOUN	NOUN	_	_	_	_	Translit=šufer
 7-9	ይደነግጣል	_	_	_	_	_	_	_	Translit=ydənəgt'al
 7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:aff	_	_
 8	ደነግጥ	ደነገጠ	VERB	VSTEM	Aspect=Imp	_	_	_	Aimad=DERAGI|Root=ድንግጥ:E
@@ -1460,9 +1460,9 @@
 1-2	ስሜ	_	_	_	_	_	_	_	Translit=sme
 1	ስም	ስም	NOUN	NOUN	_	_	_	_	_
 2	ኤ	እኔ	PRON	POSM	Number[psor]=Sing|Person[psor]=1|PronType=Prs	1	det:poss	_	_
-3	በላይነሽ	በላይነሽ	PROPN	PROPN		_	_	_	Translit=bəlaynəš
-4	ደምሰው	ደምሰው	PROPN	PROPN		_	_	_	Translit=dəmsəw
-5	ካሳ	ካሳ	PROPN	PROPN		_	_	_	Translit=kasa
+3	በላይነሽ	በላይነሽ	PROPN	PROPN	_	_	_	_	Translit=bəlaynəš
+4	ደምሰው	ደምሰው	PROPN	PROPN	_	_	_	_	Translit=dəmsəw
+5	ካሳ	ካሳ	PROPN	PROPN	_	_	_	_	Translit=kasa
 6-8	እባላለሁ	_	_	_	_	_	_	_	Translit='balaləhu
 6	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	7	nsubj:aff	_	_
 7	ባል	ተባለ	VERB	VSTEM	Aspect=Imp|Voice=Pass	_	_	_	Aimad=TEDERAGI|Root=ብእል:A
@@ -1535,7 +1535,7 @@
 1	ይህ	ይህ	DET	DET	Gender=Masc|Number=Sing	_	_	_	_
 2	ስ	ስ	ADV	ADV	_	1	advmod	_	_
 3	ስለ	ስለ	ADP	ADP	_	_	_	_	Translit=slə
-4	ፈጣሪ	ፈጣሪ	NOUN	NOUN		_	_	_	Translit=fət'ari
+4	ፈጣሪ	ፈጣሪ	NOUN	NOUN	_	_	_	_	Translit=fət'ari
 5	ምን	ምን	PRON	PRON	PronType=Int	_	_	_	Translit=mn
 6-9	ያስተምረናል	_	_	_	_	_	_	_	Translit=yastəmrənal
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:aff	_	_
@@ -1550,8 +1550,8 @@
 2-3	ታጋሽና	_	_	_	_	_	_	_	Translit=tagašna
 2	ታጋሽ	ታጋሽ	ADJ	ADJ	_	_	_	_	_
 3	ና	ና	CCONJ	CCONJ	_	2	cc	_	_
-4	ቻይ	ቻይ	ADJ	ADJ		_	_	_	Translit=čay
-5	አምላክ	አምላክ	NOUN	NOUN		_	_	_	Translit=amlak
+4	ቻይ	ቻይ	ADJ	ADJ	_	_	_	_	Translit=čay
+5	አምላክ	አምላክ	NOUN	NOUN	_	_	_	_	Translit=amlak
 6	ነበር	ነው	AUX	AUX	Tense=Past	_	_	_	Translit=nəbər
 7	።	።	PUNCT	PUNCT	_	_	_	_	_
 
