@@ -2970,7 +2970,7 @@
 2	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:aff	_	_
 3	ስጥ	ሰጠ	VERB	VSTEM	Mood=Jus	12	advcl	_	Aimad=DERAGI|Root=ስጥይ:A
 4	አኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	3	obj:aff	_	_
-5	እንጂ	እንጂ	SCONJ	SCONJ	_	3	mark	_	Translit='nǰi
+5	እንጂ	እንጂ	CCONJ	CCONJ	_	3	cc	_	Translit='nǰi
 6-10	የፈለገውን	_	_	_	_	_	_	_	Translit=yəfələgəwn
 6	የ	የ	PART	RLP	_	7	mark	_	_
 7	ፈለግ	ፈለገ	VERB	VSTEM	Aspect=Perf|ClauseType=Subord	12	obj	_	Aimad=DERAGI|Root=ፍልግ:B
@@ -16090,7 +16090,7 @@
 # sent_id = am-S-932
 # text = ተቀመጥ እንጂ !
 1	ተቀመጥ	ተቀመጠ	VERB	VERB	Gender=Masc|Mood=Imp|Number=Sing|Person=2	0	root	_	Translit=tək'əmət'
-2	እንጂ	እንጂ	ADV	CCONJ	_	1	advmod	_	Translit='nǰi
+2	እንጂ	እንጂ	ADV	ADV	_	1	advmod	_	Translit='nǰi
 3	!	!	PUNCT	PUNCT	_	1	punct	_	_
 
 # ATT_id = x15-s20
