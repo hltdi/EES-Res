@@ -2263,7 +2263,7 @@
 6	ድረስ	ድረስ	SCONJ	SCONJ	_	4	mark	_	Translit=drəs
 7	ግድ	ግድ	NOUN	NOUN	_	8	nsubj	_	Translit=gd
 8-11	የለኝም	_	_	_	_	_	_	_	Translit=yələňm
-8	የለ	አለːː	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ህልው:B
+8	የለ	አለː	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ህልው:B
 9	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:aff	_	_
 10	ኝ	እኔ	PRON	OBJC	Number[obj]=Sing|Person[obj]=1|PronType=Prs	8	obj:aff	_	_
 11	ም	ም	ADV	NEG	Polarity=Neg	8	advmod:aff	_	_
@@ -11844,7 +11844,7 @@
 7	አው	እሱ	PRON	OBJC	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|PronType=Prs	6	obj:aff	_	_
 8	ኣለሁ	ኣለሁ	AUX	AUX	Number=Sing|Person=1	6	aux:aff	_	_
 9	ነገር	ነገር	ADV	ADV	_	12	advmod	_	Translit=gn
-10	ግን	ግን	_	_	_	9	fixed	_	_
+10	ግን	ግን	CCONJ	CCONJ	_	9	fixed	_	_
 11	ጊዜ	ጊዜ	NOUN	NOUN	_	12	nsubj	_	Translit=gize
 12-15	የለኝም	_	_	_	_	_	_	_	Translit=yələňm
 12	የለ	አለː	VERB	VSTEM	Aspect=Perf	0	root	_	Aimad=DERAGI|Root=ህልው:B
