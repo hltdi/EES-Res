@@ -1,0 +1,54 @@
+120
+ከተባለ ውጤታማ ነው ብዬ አላስብም ።
+head of ከተባለ
+REDO without first word
+137
+REDO: ተስፋዬ is a PROPN
+162
+ከዚያም ለ20 ደቂቃ አናግሮ ይሸኛል ።
+REDO: ለ20
+169
+REDO: ቀናት
+የስብሃት የመጨረሻ ቀናት እንዴት ነበሩ ?
+196
+REDO num
+የ2018 የዓመት ጥቅስ ምንድን ነው ?
+
+119
+አቶ ይርጋለም ፣ እኔም አመሰግናለሁ ።
+አቶ ይርጋለም could be vocative or dislocated
+126
+ኃጢአት የሚፈጽምባቸው መሠዊያዎች ሆነውለታል ።
+need translation to figure roles of ኃጢአት and መሠዊያዎቻ
+*163
+የምር ግን ኢራቅ እያበቃላት ይሆን ?
+*166
+ምሳ ዕቃው ትልቅ ነው ።
+*186
+እንበልና የገና ስጦታ ቢቀርብልህ ምን ታደርጋለህ ?
+-ና: does it really conjoin two conjuncts?
+
+101
+ታዋቂ should probably be ADJ
+122
+ከሆነ ደስተኛ ያደረገህ ምንድን ነው ?
+head of ከሆነ
+145
+የእነሱ ድጋፍ ወደር የለሽ ነው ።
+relation between ወደር and የለሽ
+149
+መንግሥትም ልዩ ትኩረት ሰጥቶ እየሠራ ይገኛል ።
+attachment of እየሠራ and መንግሥት
+150
+-ም -ም wrongly disambiguated
+158
+ምክንያቱም: dislocated or discourse
+159
+-ም -ም wrongly disambiguated
+እንዲህ ያለ ነገር ታይቶም ተሰምቶም አያውቅም ።
+172
+የጥራትና የመሳሰሉት ችግሮች ይነሳሉ ።
+conjuncts not parallel
+
+
+
