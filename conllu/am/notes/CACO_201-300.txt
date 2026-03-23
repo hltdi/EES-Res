@@ -1,0 +1,59 @@
+213
+የሚልህን ስማ ፤ ቃሉንም ታዘዝ ።
+ስማ -> 2sm IMP
+219
+ከዚያም ሲመክሩህ ስማ ።
+ስማ -> 2sm IMP
+291
+ወይዘሮ ዘርፈሽዋል እንደ ዋዛ ጠየቁ ።
+ዘርፈሽዋል -> PROPN
+
+208
+ኢየሱስ በቃና ለየትኛው ዝግጅት አስተዋጽኦ አድርጓል ?
+በቃ: subject? and what's -ና
+227
+ምን ያህል ገበያተኛ እንደምታገኙ ማሰላሰላችሁ አይቀርም ።
+Is እንደ- "if" or "that"? How does it relate to ማሰላሰል?
+280
+ሉዓላዊ ፣ ሁሉን ቻይ ጌታ ነህ ።
+What's the rel for ሉዓላዊ?
+281
+በበሩ ሽንቁር አይኖቼን ላኩኝ ።
+What does this mean?
+
+224
+Mixed N and V properties for inf
+ተጠያቂነትን ያለማስፈን ችግር አለብን ።
+237
+እርግጥ የደስታ እንባ የምናነባበት ጊዜ አለ ።
+Should እርግጥ be an ADV (advmod) rather than ADJ (obl)?
+245
+" እባክዎን ትንሽ ይጠብቁ " አለችው ።
+ትንሽ should be an ADV
+248
+ይህን እየጠየቀች ከስኒው በስተጀርባ ተመልሳ ተሰየመች ።
+should ጀርባ be some sort of ADP?
+253
+አሁንም ቅሌታሟ እኔው ነኝ ።
+what's the root? how is this different from
+አሁንም እኔው ቅሌታሟ ነኝ ። ?
+265
+አንቺ አታውቂውም የእሱን ነገር ።
+obj or (right) dislocated?
+
+267
+ስምንት የሚሆኑ መርሆዎች አሉት ።
+የሚሆኑ cop or acl
+268
+ያም ሆኖ ጴጥሮስ መቅዘፉን ቀጥሏል ።
+same question for ሆኖ
+
+273
+እንዴትስ ሰላማዊ እንቅልፍ ይተኛል ?
+እንቅልፍ is obj or what?
+
+274
+የተዳረችው እርሷ ፣ ያገባችው ሌላዋ ።
+relation to rel verbs
+
+

@@ -8,8 +8,45 @@ Author: Michael Gasser
 import ntpath
 import os
 import re
+from conllu import parse, TokenList, Token
 
 MWE_RE = re.compile(r"(\w+)\s*[=:]\s*\(([\w\s]+)\)")
+
+def read_file(path):
+    file = open(path, 'r', encoding='utf8')
+    data = parse(file.read())
+    return data
+
+def count_pos(sentence, poss):
+    count = 0
+    for token in sentence:
+        p = token.get('upos')
+        if p in poss:
+            count += 1
+    return count
+
+def count_rels(sentence, rels):
+    '''
+    For each rel in rels, count how many occur in sentence
+    '''
+#    counts = dict([(r, 0) for r in rels])
+    count = 0
+    for token in sentence:
+        dep = token.get('deprel')
+        if dep in rels:
+            count += 1
+#            counts[dep] += 1
+#    return counts
+    return count
+
+def count_file_rels(file):
+    data = read_file(file)
+    counts = {0: 0, 1: 1, 2: 2, 3: 3}
+    for sentence in data:
+        if len(sentence) > 2:
+            count = count_rels(sentence, ['nsubj', 'csubj'])
+            counts[count] += 1
+    return counts
 
 def datafile2conllu(file, write2=None):
     '''Convert a file with sentence strings to a string of CoNLL-U representations.'''

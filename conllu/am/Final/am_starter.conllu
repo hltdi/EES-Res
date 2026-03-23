@@ -7238,7 +7238,7 @@
 3	ሄድ	ሄደ	VERB	VSTEM	Aspect=Perf	8	advcl	_	Aimad=DERAGI|ClauseType=Subord|Root=ህይድ:A
 4	አ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj:aff	_	_
 5-6	ተስፋዬም	_	_	_	_	_	_	_	Translit=təsfayem
-5	ተስፋዬ	ተስፋዬ	PROPN	PROPN	_	8	_	_	_
+5	ተስፋዬ	ተስፋዬ	PROPN	PROPN	_	8	nsubj	_	_
 6	ም	ም	ADV	ADV	_	5	advmod	_	_
 7-9	ይሄዳል	_	_	_	_	_	_	_	Translit=yhedal
 7	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj:aff	_	_
@@ -10530,7 +10530,7 @@
 4	መንቀጥቀጥ	መንቀጥቀጥ	NOUN	NOUN	Number=Sing|VerbForm=Inf	9	nsubj	_	Translit=mənk'ət'k'ət'
 5	ብዙ	ብዙ	ADJ	ADJ	_	6	amod	_	Translit=bzu
 6-8	ቋጥኞችን	_	_	_	_	_	_	_	Translit=k'wat'ňočn
-6	ቋጥኝ	ቋጥኝ	NOUN	NOUN	Number=Plur	9	_	_	_
+6	ቋጥኝ	ቋጥኝ	NOUN	NOUN	Number=Plur	9	obj	_	_
 7	ኦች	ኦች	DET	DET	Number=Plur	6	det:pl	_	_
 8	ን	ን	ADP	ADP	Case=Obj	6	case	_	_
 9-10	ፈነቃቀለ	_	_	_	_	_	_	_	Translit=fənək'ak'ələ
